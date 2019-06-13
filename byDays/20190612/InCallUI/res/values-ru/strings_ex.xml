@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (C) 2012 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="record_time">"время записи:"</string>
+    <string name="onscreenShowRecodText">"Записать  "</string>
+    <string name="recorderr">"не удалось сохранить файл записи!"</string>
+    <string name="audio_db_artist_name">" Ваши записи "</string>
+    <string name="audio_db_album_name">"Запись разговоров"</string>
+    <string name="audio_db_playlist_name">"Мои записи"</string>
+    <string name="app_name">"Мобильное приложение"</string>
+    <string name="error_mediadb_new_record">"Не удается сохранить записанное аудио"</string>
+    <string name="sdcard_access_error">"Нет доступа к SD-карте"</string>
+    <string name="no_sd_card">"SD-карты нет, либо она ИЗВЛЕЧЕНА"</string>
+    <string name="insert_sd_card">"Пожалуйста, вставьте SD-карту"</string>
+    <string name="storage_is_full">"Хранение полна "</string>
+    <string name="recording">"Запись "</string>
+    <string name="lockscreen_comments">"Протяните вниз, чтобы ответить или отклонить."</string>
+    <string name="lockscreen_comments_sms">"Отклонить SMS"</string>
+    <string name="sim_reference">"SIM%d"</string>
+    <string name="prompt_record_finish">"Файл записи был сохранен на "</string>
+
+    <string name="unknown_area">"Неизвестная область"</string>
+    <string name="unknown_contacts">"Неизвестные контакты "</string>
+
+    <string name="onscreenShowStopRecodText">Остановить Запись</string>
+     <string name="used_by_other_applications">записывающие устройства исползьуются другими программами. Пожалуйста, закройте программу.</string>
+     <string name="menu_add">"Добавить контакт"</string>
+     <string name="menu_edit">"Изменить контакт"</string>
+     <string name="menu_delete">"Удалить контакт"</string>
+     <string name="main_card_slot">"Основная карта"</string>
+     <string name="gsm_card_slot">"Дополнительная карта"</string>
+     <string name="bottom_button_separate">"Раздельный вызов"</string>
+     <string name="bottom_button_hangup">"Завершить разговор"</string>
+     <string name="onscreenSendSMSText">Отправить сообщение</string>
+     <string name="hangupcall_note_title">Внимание</string>
+     <string name="hangupcall_note_message">"Входящий звонок является третьим вызовом в очереди, в случае, если на него будет дан ответ, текущий активный вызов будет прерван."</string>
+     <string name="onscreenVideoCallText">"Изменить для видео вызова"</string>
+     <string name="onscreenChangeToVoiceText">"Изменить для голосового вызова"</string>
+     <string name="onscreenPauseVideoText">"Пауза"</string>
+     <string name="onscreenSwitchCameraText">Переключить камеру</string>
+     <string name="onscreenResumeVideoText">"Продолжение просмотра видео"</string>
+     <string name="onscreenHoldText_unselected">"Удерживать"</string>
+     <string name="onscreenHoldText_selected">резюме</string>
+     <string name="onscreenStopMuteText">Включить звук</string>
+     <string name="onscreenAnswerText">"Правильный вариант"</string>
+     <string name="onscreenRejectMessageText">"Отклонить сообщение"</string>
+     <string name="onscreenHangupText">"Завершить разговор"</string>
+     <string name="onscreenOptionText">Опции</string>
+     <string name="onscreenBackText">"Назад"</string>
+</resources>

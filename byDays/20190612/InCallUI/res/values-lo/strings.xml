@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ໂທລະສັບ"</string>
+<string name="onHold">"ຖື"</string>
+<string name="unknown">"ບໍ່ຮູ້ຈັກ"</string>
+<string name="private_num">"ເບີສ່ວນໂຕ"</string>
+<string name="payphone">"ໂທລະສັບສາທາລະນະ"</string>
+<string name="callFailed_userBusy">"ເສັ້ນ​ທາງບໍ່​ວ່າງ"</string>
+<string name="callFailed_congestion">"​ເຄືອ​ຂ່າຍບໍ່​ວ່າງ"</string>
+<string name="callFailed_timedOut">"ບໍ່​ມີ​ການ​ຕອບ​ສະ​ນອງ, ໝົດ​ເວ​ລາ​ແລ້ວ"</string>
+<string name="callFailed_server_unreachable">"ບໍ່​ສາ​ມາດ​ເຊື່ອມ​ຕໍ່​ກັບ​ເສີບ​ເວີ"</string>
+<string name="callFailed_number_unreachable">"ເບີ​ໂທ​ນີ້ບໍ່​ສາ​ມາດ​ໂທ"</string>
+<string name="callFailed_invalid_credentials">"​ຊື່​ຜູ້​ໃຊ້​ຫຼື​ລະ​ຫັດ​ຜ່ານ​ຜິດ​ພາດ"</string>
+<string name="callFailed_out_of_network">"ໂທນອກ​ເຄືອ​ຂ່າຍ"</string>
+<string name="callFailed_server_error">"ເສີບ​ເວີ​ຜິດ​ພາດ ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ພາຍ​ຫລັງ"</string>
+<string name="callFailed_noSignal">"ບໍ່ມີສັນຍານ"</string>
+<string name="callFailed_limitExceeded">"ເກີນ​ຂີດ​ຈຳ​ກັດACM"</string>
+<string name="callFailed_powerOff">"ວິທະຍຸປິດ"</string>
+<string name="callFailed_simError">"ບໍ່​ມີSIM ຫຼືSIM ຜິດ​ພາດ"</string>
+<string name="callFailed_outOfService">"ບໍ່​ຢູ່​ໃນ​ເຂດ​ບໍ​ລິ​ການ"</string>
+<string name="callFailed_fdn_only">"ການ​ໂທ​ອອກ​ຈະ​ຖືກ​ຈຳ​ກັດ​ໂດຍ​ສາຍ​ຄົງ​ທີ່."</string>
+<string name="callFailed_cb_enabled">"ທ່ານ​ຈະ​ບໍ່​ສາ​ມາດ​ໂທ​ອອກ​ໃນ​ຂະ​ນະ​ທີ່ໄດ້​ເປີດ​ການ​ໃຊ້​ງານ​ການ​ໂທຈຳ​ກັດ."</string>
+<string name="callFailed_dsac_restricted">"ທຸກ​ສາຍ​ຈະ​ຖືກ​ຈຳ​ກັດ​ໂດຍ​ການ​ຄວບ​ຄຸມ​ການ​ເຂົ້າ​ເຖິງ."</string>
+<string name="callFailed_dsac_restricted_emergency">"ການ​ໂທ​ສຸກ​ເສີນ​ແລະ​ການ​ໂທ​ແຈ້ງ​ໄພ​ຈະ​ຖືກ​ຈຳ​ກັດ​ໂດຍ​ການ​ຄວບ​ຄຸມ​ການ​ເຂົ້າ​ເຖິງ."</string>
+<string name="callFailed_dsac_restricted_normal">"ການ​ໂທ​ປົກ​ກະ​ຕິ​ຖືກ​ຈຳ​ກັດ​ໂດຍ​ການ​ຄວບ​ຄຸມ​ການ​ເຂົ້າ​ເຖິງ."</string>
+<string name="callFailed_unobtainable_number">"ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ບໍ່​ຖືກ​ຕ້ອງ"</string>
+<string name="confCall">"ການ​ປະ​ຊຸມ​ທາງ​ໂທ​ລະ​ສັບ"</string>
+<string name="call_lost">"ການ​ໂທ​ໄດ້​ຖືກ​ຕັດ​ແລ້ວ"</string>
+<string name="ok">"ຕົກລົງ"</string>
+<string name="audio_mode_speaker">"ລຳ​ໂພງ"</string>
+<string name="audio_mode_earpiece">"ຫູ​ຟັງ​ໂທ​ລະ​ສັບ​ມື​ຖື"</string>
+<string name="audio_mode_wired_headset">"ຫູ​ຟັງ​ແບບ​ມີ​ສາຍ"</string>
+<string name="audio_mode_bluetooth">"Bluetooth"</string>
+<string name="wait_prompt_str">"ສົ່ງສຽງດັ່ງ​ຕໍ່​ໄປ​ນີ້​ຫຼືບໍ່?\n"</string>
+<string name="pause_prompt_str">"ກຳ​ລັງ​ສົ່ງ​ສຽງ\n"</string>
+<string name="send_button">"ສົ່ງ"</string>
+<string name="pause_prompt_yes">"ຕົກລົງ"</string>
+<string name="pause_prompt_no">"ບໍ່"</string>
+<string name="wild_prompt_str">"ແທ່ນ​ທີ່​ຕົວ​ອັກ​ສອນ​ກັບ"</string>
+<string name="no_vm_number">"ຂາດ​ຫາຍ​ໝາຍ​ເລກ​ຂໍ້​ຄວາມ​ສຽງ"</string>
+<string name="no_vm_number_msg">"ໃນSIM ບໍ່ໄດ້​ບັນ​ຈຸໝາຍ​ເລກ​ຂໍ້​ຄວາມ​ສຽງ"</string>
+<string name="add_vm_number_str">"ເພີ່ມ​ໝາຍ​ເລກ"</string>
+<string name="puk_unlocked">"SIMຂອງ​ທ່ານ​ໄດ້​ປົດ​ລອ໊ກ​ແລ້ວ,ກຳ​ລັງ​ປົດ​ລອ໊ກ​ມື​ຖື​ຂອງ​ທ່ານ…"</string>
+<string name="label_ndp">"ເຄືອ​ຂ່າຍSIM​ປົດ​ລ໊ອກPIN"</string>
+<string name="sim_ndp_unlock_text">"ປົດລັອກ"</string>
+<string name="sim_ndp_dismiss_text">"ບໍ່ເຮັດຫຍັງ"</string>
+<string name="requesting_unlock">"ກຳ​ລັງ​ຮຽກ​ຮ້ອງ​ເຄືອ​ຂ່າຍ​ປົດ​ລ໊ອກ\u2026"</string>
+<string name="unlock_failed">"​ການຮຽກ​ຮ້ອງ​ເຄືອ​ຂ່າຍ​ປົດ​ລ໊ອກ​ລົ້ມ​ເຫລວ"</string>
+<string name="unlock_success">"ເຄືອ​ຂ່າຍ​ປົດ​ລ໊ອກ​ສຳ​ເລັດ"</string>
+<string name="labelGSMMore">"ການ​ກຳ​ນົດ​ຄ່າ​ການ​ໂທGSM"</string>
+<string name="labelCDMAMore">"ການ​ກຳ​ນົດ​ຄ່າ​ການ​ໂທCDMA "</string>
+<string name="apn_settings">"ຊື່ຈຸດເຂົ້າເຖິງ(APN)"</string>
+<string name="settings_label">"ການຕັ້ງຄ່າເຄື່ອຂ່າຍ"</string>
+<string name="voicemail">"ຂໍ້ຄວາມສຽງ"</string>
+<string name="voicemail_abbreviated">"VM:"</string>
+<string name="networks">"ຜູ້ດໍາເນີນກິດຈະການເຄືອ​ຂ່າຍ"</string>
+<string name="call_settings">"ຕັ້ງຄ່າການໂທ"</string>
+<string name="additional_gsm_call_settings">"ການ​ກຳ​ນົດ​ຄ່າ​ອື່ນໆ"</string>
+<string name="sum_gsm_call_settings">"ອື່ນໆພຽງ​ໃຊ້​ສະ​ເພາະ​ໃນ​ການ​ກຳ​ນົດ​ຄ່າ​ການ​ໂທGSMເທົ່າ​ນັ້ນ"</string>
+<string name="additional_cdma_call_settings">"ອື່ນໆພຽງ​ໃຊ້​ໃນ​ການ​ກຳ​ນົດ​ຄ່າ​ການ​ໂທCDMA"</string>
+<string name="sum_cdma_call_settings">"ອື່ນໆພຽງ​ໃຊ້​ສະ​ເພາະ​ໃນ​ການ​ກຳ​ນົດ​ຄ່າ​ການ​ໂທCDMA ເທົ່າ​ນັ້ນ"</string>
+<string name="labelNwService">"ການ​ກຳ​ໜົດ​ຄ່າ​ການ​ບິ​ການ​ເຄືອ​ຂ່າຍ"</string>
+<string name="labelCallerId">"ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ເຄື່ອງ​ນີ້"</string>
+<string name="sum_loading_settings">"ກຳ​ລັງ​ຕັ້ງ​ຄ່າ​ການ​ໂຫລດ\u2026"</string>
+<string name="sum_hide_caller_id">"ເຊື່ອງ​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ນີ້​ເມື່ອ​ໂທ​ອອກ​ໄປ​ຍັງ​ໂທ​ລະ​ສັບ​ອື່ນ"</string>
+<string name="sum_show_caller_id">"ສະ​ແດງໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ນີ້​ເມື່ອ​ໂທ​ອອກ​ໄປ​ຍັງ​ໂທ​ລະ​ສັບ​ອື່ນ"</string>
+<string name="sum_default_caller_id">"ໃຊ້​ການ​ຕັ້ງ​ຄ່າ​ເລີ່ມ​ຕົ້ນ​ດຳ​ເນິນ​ການ​ສະ​ແດງ​ໝາຍ​ເລກ​ຂອງ​ຂ້ອຍ​ໃນ​ການ​ໂທ​ອອກ"</string>
+<string name="labelCW">"ສາຍຊ້ອນ"</string>
+<string name="sum_cw_enabled">" ແຈ້ງ​ການ​ຂ້ອຍ​ເມື່ອ​ມີ​ສາຍ​ຊ້ອນ​ໂທ​ເຂົ້າ​ມາ ໃນ​ຂະ​ນະ​ທີ່​ຢູ່​ໃນ​ການ​ໂທ"</string>
+<string name="sum_cw_disabled">" ແຈ້ງ​ການ​ຂ້ອຍ​ເມື່ອ​ມີ​ສາຍ​ຊ້ອນ​ໂທ​ເຂົ້າ​ມາ ໃນ​ຂະ​ນະ​ທີ່​ຢູ່​ໃນ​ການ​ໂທ"</string>
+<string name="call_forwarding_settings">"ການ​ກຳ​ນົດ​ຄ່າການ​ສົ່ງ​ຕໍ່​ສາຍ​ເຂົ້າ"</string>
+<string name="labelCF">"ການໂອນສາຍ"</string>
+<string name="labelCFU">"ການ​ສົ່ງ​ຕໍ່​ສະ​ເໝີ​ໄປ"</string>
+<string name="messageCFU">"ນຳ​ໃຊ້​ໝາຍ​ເລກ​ນີ້​ສະ​ເໝີ​ໄປ"</string>
+<string name="sum_cfu_enabled_indicator">"ການໂອນສາຍທັງໝົດ"</string>
+<string name="sum_cfu_enabled">"ໂອນ​ສາຍ​ທັງ​ໝົດ​ໄປ​ຍັງ <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfu_enabled_no_number">"ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ບໍ່​ສາ​ມາດ​ໃຊ້​ງານ"</string>
+<string name="sum_cfu_disabled">"ປິດການນຳໃຊ້"</string>
+<string name="labelCFB">"ສົ່ງ​ຕໍ່​ເມື່ອ​ສາຍບໍ່​ວ່າງ"</string>
+<string name="messageCFB">"ໝາຍ​ເລກ​ທີ່​ສົ່ງ​ຕໍ່​ເມື່ອ​ສາຍບໍ່​ວ່າງ"</string>
+<string name="sum_cfb_enabled">"ໂອນ​ໄປ​ຍັງ <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfb_disabled">"ປິດການນຳໃຊ້"</string>
+<string name="disable_cfb_forbidden">"ຜູ້​ປະ​ຕິ​ບັດ​ການ​ຂອງ​ທ່ານບໍ່​ສະ​ນັບ​ສະ​ໜຸນ​ຟັງ​ຊັນ​ປິດ​ການໃ​ຊ້​ງານ​ການ​ສົ່ງ​ຕໍ່​ສາຍ​ເມື່ອ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານບໍ່​ວ່າງ."</string>
+<string name="labelCFNRy">"ສົ່ງ​ຕໍ່​ເມື່ອບໍ່​ມີ​ຜູ້​ຮັບ​ສາຍ"</string>
+<string name="messageCFNRy">"ສະແດງໝາຍເລກເມື່ອຍັງບໍ່ທັນໄດ້ຕອບ"</string>
+<string name="sum_cfnry_enabled">"ໂອນ​ໄປ​ຍັງ <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnry_disabled">"ປິດການນຳໃຊ້"</string>
+<string name="disable_cfnry_forbidden">"ຜູ້​ປະ​ຕິ​ບັດ​ການ​ຂອງ​ທ່ານບໍ່​ສະ​ນັບ​ສະ​ໜຸນ​ຟັງ​ຊັນ​ປິດ​ການ​ຊ້​ງານ​ການ​ສົ່ງ​ຕໍ່​ສາຍ​ເມື່ອ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານບໍ່ມີ​ຄົນ​ຮັບ."</string>
+<string name="labelCFNRc">"​ສົ່ງ​ຕໍ່​ເມື່ອ​ບໍ​ສາ​ມາດໂທ​ອອກ​ໄດ້"</string>
+<string name="messageCFNRc">"ໝາຍ​ເລກ​ທີ່​ສົ່ງ​ຕໍ​ເມື່ອບໍ່​ສາ​ມາດ​ໂທ​ອອກ​ໄດ້."</string>
+<string name="sum_cfnrc_enabled">"ໂອນ​ໄປ​ຍັງ <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnrc_disabled">"ປິດການນຳໃຊ້"</string>
+<string name="disable_cfnrc_forbidden">"ຜູ້​ປະ​ຕິ​ບັດ​ການ​ຂອງ​ທ່ານບໍ່​ສະ​ນັບ​ສະ​ໜຸນ​ຟັງ​ຊັນ​ປິດ​ການ​ນຳໃຊ້​ການ​ສົ່ງ​ຕໍ່​ສາຍ​ເມື່ອ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານບໍ່​ສາ​ມາດ​ໂທ​ອອກ."</string>
+<string name="updating_title">"ຕັ້ງຄ່າການໂທ"</string>
+<string name="error_updating_title">"ການ​ກຳ​ນົດ​ຄ່າກ​ການ​ໂທ​ຜິດ​ພາດ"</string>
+<string name="reading_settings">"ກຳ​ລັງ​ອ່ານ​ກາ​ນ​ກຳ​ໜົດ​ຄ່າ\u2026"</string>
+<string name="updating_settings">"ກຳ​ລັງ​ອັບ​ເດດ​ການ​ກຳ​ໜົດ​ຄ່າ\u2026"</string>
+<string name="reverting_settings">"ກຳ​ລັງ​ຟື້ນ​ຟູ​ການ​ກຳ​ໜົດ​ຄ່າ\u2026"</string>
+<string name="response_error">"ການ​ຕອບ​ສະ​ໜອງ​ເຄືອ​ຂ່າຍ​ຜິດ​ປົກ​ກະ​ຕິ"</string>
+<string name="exception_error">"​ເຄືອ​ຂ່າຍ​ຫຼືSIMເກີດ​ຂໍ້​ຜິດ​ພາດ"</string>
+<string name="fdn_check_failure">"ການ​ກຳ​ນົດ​ຄ່າ​ການ​ໂທ​ຄົງ​ທີ່​ຂອງ​ໂປ​ຮ​ແກ​ຣມ​ການ​ໂທ​ໄດ້​ເປີດ​ການ​ໃຊ້​ງານ, ດັ່ງ​ນັ້ນ​ຟັງ​ຊັນ​ທີ່​ກ່ຽວ​ຂ້ອງ​​ບາງ​ສ່ວນກັບການ​ໂທ​ຈະ​ບໍ​ສາ​ມາດ​ໃຊ້​ງານ​ໄດ້​ປົກ​ກະ​ຕິ."</string>
+<string name="radio_off_error">"ກະ​ລຸ​ນາ​ເປີດ​ໃຊ້​ງານອຸ​ປະ​ກອນ​ໄຮ້​ສາຍ​ກ່ອນ ຈາກນັ້ນ​ກວດ​ກາ​ເບິ່ງ​ການ​ກຳ​ນົດ​ຄ່າ​ເລົ່າ​ນີ້​ອີກ​ຄັ້ງ."</string>
+<string name="close_dialog">"ຕົກລົງ"</string>
+<string name="enable">"ເປິດນຳໃຊ້"</string>
+<string name="disable">"ປິດໃຊ້ງານ"</string>
+<string name="change_num">"ອັບເດດ"</string>
+<string-array name="clir_display_values">
+<item>"ການ​ກຳ​ນົດ​ຄ່າ​ການ​ເລີ່ມ​ຕົ້ນ​ເຄືອ​ຂ່າຍ"</item>
+<item>"​ເຊື່ອງໝາຍ​ເລກ​ໂທ"</item>
+<item>"​ສະ​ແດງ​ໝາຍ​ເລກ​ໂທ"</item>
+</string-array>
+<string name="vm_changed">"ມາຍ​ເລກ​ຂໍ້​ຄວາມ​ສ​ຽງ​ໄດ້​ປ່ຽນ​ແປງ"</string>
+<string name="vm_change_failed">"ບໍ່​ສາ​ມາດ​ປ່ຽນ​ແປງ​ໝາຍ​ເລກ​ຂໍ້​ຄວາມ​ສຽງ.\nຖ້າ​ຫາກ​ປັນ​ຫາ​ນີ້​ຍັງ​ຄົງ​ມີ​ຢູ່ ກະ​ລຸ​ນາ​ຕິດ​ຕໍ່​ພົວ​ພັນ​ກັບຜູ້​ໃຫ້​ບໍ​ລິ​ການ​ຂອງ​ທ່ານ."</string>
+<string name="fw_change_failed">"ບໍ່​ສາ​ມາດ​ປ່ຽນ​ແປງ​ໝາຍ​ເລກ​ການ​ສົ່ງ​ຕໍ່.\nຖ້າ​ຫາກ​ປັນ​ຫາ​ນີ້​ຍັງ​ຄົງ​ມີ​ຢູ່ ກະ​ລຸ​ນາ​ຕິດ​ຕໍ່​ພົວ​ພັນ​ກັບຜູ້ໃຫ້​ບໍ​ລິ​ການຂອງ​ທ່ານ."</string>
+<string name="fw_get_in_vm_failed">"ບໍ່​ສາ​ມາດກວດ​ຫາ​ແລະ​ບັນ​ທຶກ​ການ​ກຳ​ນົດ​ຄ່າ​ໝາຍ​ເລກ​ການ​ສົ່ງ​ຕໍ່​ໃນ​ຂະ​ນະ​ນີ້.\nຕ້ອງ​ການ​ສັບ​ປ່ຽນ​ໄປ​ຍັງ​ຜູ້​ໃຫ້​ບໍ​ລິ​ການ​ໃໝ່​ບໍ່?"</string>
+<string name="no_change">"ບໍ່​ໄດ້​ເຮັດ​ການ​ປ່ຽນ​ແປງ​ໃດໆ"</string>
+<string name="sum_voicemail_choose_provider">"​ເລືອກ​ການ​ບໍ​ລິ​ການ​ຂໍ້​ຄວາມ​ສຽງ"</string>
+<string name="voicemail_default">"ຜູ້ດໍາເນີນກິດຈະການຂອງ​ຂ້ອຍ"</string>
+<string name="mobile_networks">"ການ​ກຳ​ນົດ​ຄ່າ​ເຄືອ​ຂ່າຍ​ມື​ຖື"</string>
+<string name="label_available">"ເຄືອ​ຂ່າຍ​ທີ່​ສາ​ມາດ​ໃຊ້​ງານ​ໄດ້"</string>
+<string name="load_networks_progress">"ກຳລັງຊອກຫາ..."</string>
+<string name="empty_networks_list">"ຊອກບໍ່​ພົບ​ເຄືອ​ຂ່າຍ"</string>
+<string name="search_networks">"ຄົ້ນ​ຫາ​ເຄືອ​ຂ່າຍ"</string>
+<string name="network_query_error">"ເກີດ​ຄວມ​ຜິດ​ພາດ​ເມື່ອ​ການ​ຄົ້ນ​ຫາ​ເຄືອ​ຂ່າຍ"</string>
+<string name="register_on_network">"ກຳ​​ລັງ​ລົງ​ທະ​ບຽນ​ໃນ <xliff:g id="network">%s</xliff:g>\u2026"</string>
+<string name="not_allowed">"SIMຂອງ​ທ່ານບໍ່​ອະ​ນຸ​ຍາດ​ໃຫ້​ເຊື່ອມ​ຕໍ່​ກັບ​ເຄືອ​ຂ່າຍ​ນີ້"</string>
+<string name="connect_later">"ຂະ​ນະ​ນີ້ບໍ່​ສາ​ມາດ​ເຊື່ອມ​ຕໍ່ກັບ​ເຄືອ​ຂ່າຍ​ນີ້, ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ໃນ​ພາຍ​ຫລັງ"</string>
+<string name="registration_done">"ໄດ້​ລົງ​ທະ​ບຽນ​ໃນ​ເຄືອ​ຂ່າຍ​ແລ້ວ."</string>
+<string name="sum_carrier_select">"ເລືອກຜູ່ໃຫ້ບໍລິການເຄືອຂ່າຍ"</string>
+<string name="sum_search_networks">"_x000D_
+
+ຄົ້ນຫາສໍາລັບທຸກເຄືອຂ່າຍທີ່ມີຢູ່"</string>
+<string name="select_automatically">"ເລືອກ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ"</string>
+<string name="sum_select_automatically">"ເລືອກ​ເຄືອ​ຂ່າຍ​ທີ່​ຕ້ອງ​ການ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ"</string>
+<string name="register_automatically">"ລົງ​ທະ​ບຍນ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ\u2026"</string>
+<string name="preferred_network_mode_title">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍ"</string>
+<string name="preferred_network_mode_summary">"ປ່​ຽນ​ຮູບ​ແບບການ​ທຳ​ງານ​ຂອງ​ເຄືອ​ຂ່າຍ"</string>
+<string name="preferred_network_mode_dialogtitle">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ"</string>
+<string name="preferred_network_mode_wcdma_perf_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ:ເລືອກWCDMA"</string>
+<string name="preferred_network_mode_gsm_only_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ:ພຽງGSM ເທົ່າ​ນັ້ນ"</string>
+<string name="preferred_network_mode_wcdma_only_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ:ພຽງWCDMAເທົ່າ​ນັ້ນ"</string>
+<string name="preferred_network_mode_gsm_wcdma_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ: GSM / WCDMA"</string>
+<string name="preferred_network_mode_cdma_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ: CDMA"</string>
+<string name="preferred_network_mode_cdma_evdo_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ: CDMA / EvDo"</string>
+<string name="preferred_network_mode_cdma_only_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ:ພຽງCDMAເທົ່າ​ນັ້ນ"</string>
+<string name="preferred_network_mode_evdo_only_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ:​ພຽງ EvDoເທົ່າ​ນັ້ນ"</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ: CDMA/EvDo/GSM/WCDMA"</string>
+<string name="preferred_network_mode_lte_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ: LTE"</string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ: GSM/WCDMA/LTE"</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ: CDMA+LTE/EVDO"</string>
+<string name="preferred_network_mode_global_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍ​ທີ່​ຕ້ອງ​ການ:ທົ່ວ​ໂລກ"</string>
+<string name="preferred_network_mode_lte_wcdma_summary">"ຮູບ​ແບບ​ເຄືອ​ຂ່າຍທີ່​ຕ້ອງ​ການ: LTE / WCDMA"</string>
+<string-array name="preferred_network_mode_choices">
+<item>"LTE / WCDMA"</item>
+<item>"LTE"</item>
+<item>"ທົ່ວ​ໂລກ"</item>
+<item>"GSM/WCDMA/LTE"</item>
+<item>"CDMA + LTE/EvDo"</item>
+<item>"CDMA/EvDo/GSM/WCDMA"</item>
+<item>"ພຽງEvDo "</item>
+<item>"CDMA w/o EvDo"</item>
+<item>"CDMA/EvDoເລືອກ​ອັດ​ຕະ​ໂນ​ມັດ"</item>
+<item>"GSM/WCDMA ເລືອກ​ອັດ​ຕະ​ໂນ​ມັດ"</item>
+<item>"ພຽງWCDMA "</item>
+<item>"ພຽງGSM"</item>
+<item>"​ເລືອກGSM/WCDMA "</item>
+</string-array>
+<string name="data_enabled">"ເປີດ​ໃຊ້​ງານ​ເຄືອ​ຂ່າຍ​ຂໍ້​ມູນ"</string>
+<string name="data_enable_summary">"ອະ​ນຸ​ຍາດ​ໃຫ້​ເຂົ້າ​ເຖິງ​ຂໍ້​ມູນ​ຜ່ານ​ເຄືອ​ຂ່າຍ​ໂທ​ລະ​ສັບ​ມື​ຖື"</string>
+<string name="roaming">"ການໂຣມມິງຂໍ້ມູນ"</string>
+<string name="roaming_enable">"ເຊື່ອມຕໍ່ບໍລິການຂໍ້ມູນເມື່ອໃຊ້ໂຣມມິງ"</string>
+<string name="roaming_disable">"ເຊື່ອມຕໍ່ບໍລິການຂໍ້ມູນເມື່ອໃຊ້ໂຣມມິງ"</string>
+<string name="roaming_reenable_message">"ການ​ເຊື່ອມ​ຕໍ່​ເຄືອ​ຂ່າຍ​ຂໍ້​ມູນ​ໂທ​ລະ​ສັບ​ໄດ້​ຕັດ​ແລ້ວ ເພາະ​ວ່າ​ທ່ານ​ອອກ​ຈາກ​ເຄືອ​ຂ່າຍ​ໃນ​ບ້ານ​ຂອງ​ທ່ານ​ແລະ​ໄດ້​ປິດ​ຟັງ​ຊັນ​ຣອມ​ມີງ​​ເຄືອ​ຂ່າຍ​ຂໍ້​ມູນ​ມື​ຖື​ແລ້ວ."</string>
+<string name="roaming_warning">"ຕ້ອງ​ການ​ອະ​ນຸ​ຍາດ​ໃຫ້​ຣອມ​ມີງ​​ເຄືອ​ຂ່າຍ​ຂໍ້​ມູນ​ມື​ຖືຫລືບໍ່? ນີ້​ອາດ​ເຮັດ​ໃຫ້​ທ່ານ​ເສຍ​ຄ່າ​ທຳ​ນຽມ​ການ​ຣອມ​ມີງ​ມະ​ຫາ​ສານ."</string>
+<string name="gsm_umts_options">"ທາງ​ເລືອກGSM/UMTS "</string>
+<string name="cdma_options">"ທາງ​ເລືອກCDMA "</string>
+<string name="throttle_data_usage">"ການນຳໃຊ້ຂໍ້ມູນ"</string>
+<string name="throttle_current_usage">"ຂໍ້ມູນຖືກນໍາໃຊ້ໃນໄລຍະເວລາໃນປະຈຸບັນ"</string>
+<string name="throttle_time_frame">"_x000D_
+
+ໄລຍະເວລາການນໍາໃຊ້ຂໍ້ມູນ"</string>
+<string name="throttle_rate">"ນະໂຍບາຍອັດຕາການຂໍ້ມູນ"</string>
+<string name="throttle_help">"ຮຽນຮູ້ເພີ່ມເຕີມ"</string>
+<string name="throttle_status_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A)ຂອງ<xliff:g id="used">%3$s</xliff:g> ໄລ​ຍະ​ເວ​ລາ​ສູງ​ສຸດ\nຖັດ​ໄປ​ຈະ​ເລີ່​ຕົ້ນ​ໃນຊ່ວງ<xliff:g id="used">%4$d</xliff:g> ​ມື້ (<xliff:g id="used">%5$s</xliff:g>)"</string>
+<string name="throttle_data_usage_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) ຂອງ <xliff:g id="used">%3$s</xliff:g> ໄລ​ຍະ​ເວ​ລາ​ສູງ​ສຸດ"</string>
+<string name="throttle_data_rate_reduced_subtext">"<xliff:g id="used">%1$s</xliff:g>ອັດ​ຕາ​ເກີນ​ຂີດ​ຈຳ​ກັດ\nອັດ​ຕາ​ການ​ຖ່າຍ​ໂອນ​ຂໍ້​ມູນ​ໄດ້​ລຸດ​ລົງ​ເຖິງ<xliff:g id="used">%2$d</xliff:g> Kb/​ວິ​ນາ​ທີ."</string>
+<string name="throttle_time_frame_subtext">"<xliff:g id="used">%1$d</xliff:g>\u066A ຂອງວົງ​ຈອນ​ທີ່​ຜ່ານ​ໄປ\nຖັດ​ໄປ​ຈະ​ເລີ່ມ​ຕົ້ນ​ໃນ​ຊ່ວງ <xliff:g id="used">%2$d</xliff:g> ມື້ (<xliff:g id="used">%3$s</xliff:g>)"</string>
+<string name="throttle_rate_subtext">"ອັດ​ຕາ​ການ​ສົ່ງ​ຂໍ້​ມູນ​ລຸດ​ລົງ<xliff:g id="used">%1$d</xliff:g> Kb/ວິ​ນາ​ທີ​ ຫາກ​ໃຊ້​ຂໍ້​ມູນ​ເກີນ​ຂີດ​ຈຳ​ກັດ"</string>
+<string name="throttle_help_subtext">"ຂໍ້​ມູນ​ເພີ່ມ​ເຕີມ​ກ່ຽວ​ກັບ​ຜູ້​ໃຫ້​ບໍ​ລິ​ການ​ຂອງ​ທ່ານ ​ຂໍ້​ມູນ​ເຄືອ​ຂ່າຍ​ມື​ຖືການ​ນຳ​ໃຊ້ນະ​ໂຍ​ບາຍ​."</string>
+<string name="cell_broadcast_sms">"ການສະແດງ SMS ໃນມືຖື"</string>
+<string name="enable_disable_cell_bc_sms">"ການສະແດງ SMS ໃນມືຖື"</string>
+<string name="cell_bc_sms_enable">"ການສະແດງ SMS ໃນມືຖືຖືກເປິດໃຊ້ງານ"</string>
+<string name="cell_bc_sms_disable">"ການສະແດງ SMS ໃນມືຖືຖືກປິດການໃຊ້ງານ"</string>
+<string name="cb_sms_settings">"ການຕັ້ງຄ່າ ການສະແດງ SMS ໃນມືຖື"</string>
+<string name="enable_disable_emergency_broadcast">"ການ​ອອກ​ອາ​ກາດ​ສຸກ​ເສີນ"</string>
+<string name="emergency_broadcast_enable">"ປິດການໃຊ້ງານການເຕືອນສຸກເສີນ"</string>
+<string name="emergency_broadcast_disable">"ໄດ້​ປີດ​ການ​ໃຊ້​ງານ​ການ​ອອກ​ອາ​ກາດ​ສຸກ​ເສີນ"</string>
+<string name="enable_disable_administrative">"ການບໍລິຫານ"</string>
+<string name="administrative_enable">"​ໄດ້​ເປີດ​​ນຳໃຊ້ການ​ບໍ​ລິ​ຫານ​ແລ້ວ"</string>
+<string name="administrative_disable">"​ໄດ້​ປີດ​​ນຳໃຊ້​​ການ​ບໍ​ລິ​ຫານ​ແລ້ວ"</string>
+<string name="enable_disable_maintenance">"ການຮັກສາໄວ້"</string>
+<string name="maintenance_enable">"​ໄດ້​ເປີດ​ໃຊ້​ງານ​ການຮັກສາໄວ້"</string>
+<string name="maintenance_disable">"​ໄດ້​ປີດ​ໃຊ້​ງານ​ການຮັກສາໄວ້"</string>
+<string name="general_news_settings">"ຂ່າວ​ທົ່ວ​ໄປ"</string>
+<string name="bf_news_settings">"ຂ່າວ​ທຸ​ລະ​ກິດ​ແລະ​ການ​ເງິນ"</string>
+<string name="sports_news_settings">"ຂ່າວ​ກິ​ລາ"</string>
+<string name="entertainment_news_settings">"ຂ່າວ​ບັນ​ເທິງ"</string>
+<string name="enable_disable_local">"ທ້ອງຖິ່ນ"</string>
+<string name="local_enable">"ໄດ້​ເປີດການ​ໃຊ້​ງານ​ຂ່າວ​ທ້ອງ​ຖີ່ນ​ແລ້ວ"</string>
+<string name="local_disable">"ໄດ້​ປີດການ​ໃຊ້​ງານ​ຂ່າວ​ທ້ອງ​ຖີ່ນ​ແລ້ວ"</string>
+<string name="enable_disable_regional">"ສະເພາະເຂດ"</string>
+<string name="regional_enable">"ໄດ້​ເປີດການນຳ​ໃຊ້​ຂ່າວສະເພາະເຂດ"</string>
+<string name="regional_disable">"ໄດ້​ປີດການ​ນຳ​ໃຊ້​​ຂ່າວສະເພາະເຂດ"</string>
+<string name="enable_disable_national">"ພາຍ​ໃນ​ປະ​ເທດ"</string>
+<string name="national_enable">"ໄດ້​ເປີດ​ນຳ​ໃຊ້​​ຂ່າວພາຍ​ໃນ​ປະ​ເທດ​ແລ້ວ"</string>
+<string name="national_disable">"ໄດ້​ປີດນຳ​ໃຊ້​​ຂ່າວພາຍ​ໃນ​ປະ​ເທດ​ແລ້ວ"</string>
+<string name="enable_disable_international">"ຕ່າງ​ປະ​ເທດ"</string>
+<string name="international_enable">"ໄດ້​ເປີດນຳ​ໃຊ້​​ຂ່າວຕ່າງ​ປະ​ເທດ​ແລ້ວ"</string>
+<string name="international_disable">"ໄດ້​ປີດນຳ​ໃຊ້​​ຂ່າວຕ່າງ​ປະ​ເທດ​ແລ້ວ"</string>
+<string name="list_language_title">"ພາສາ"</string>
+<string name="list_language_summary">"​ເລືອກ​ພາ​ສາ​ຂ່າວ"</string>
+<string-array name="list_language_entries">
+<item>"ພາສາອັງກິດ"</item>
+<item>"ພາສາຝຣັ່ງ"</item>
+<item>"ພາ​ສາ​ສະ​ເປນ"</item>
+<item>"​ພາ​ສາ​ຍີ່​ປຸ່ນ "</item>
+<item>"ພາສາເກົາຫຼີ"</item>
+<item>"ພາສາຈີນ"</item>
+<item>"ພາສາຮີບຣູ"</item>
+</string-array>
+<string name="list_language_dtitle">"ພາສາ"</string>
+<string name="enable_disable_local_weather">"​ອາ​ກາດ​ໃນ​ທ້ອງ​ຖີ່ນ"</string>
+<string name="local_weather_enable">"​ໄດ້ເປີດ​ນຳ​ໃຊ້​​​ການລາຍ​ງານ​ອາ​ກາດ​ໃນ​ທ້ອງ​ຖີ່ນ"</string>
+<string name="local_weather_disable">"​​ໄດ້ປີດນຳ​ໃຊ້​​​ການ​ລາຍ​ງານ​ອາ​ກາດ​ໃນ​ທ້ອງ​ຖີ່ນ"</string>
+<string name="enable_disable_atr">"ລາຍ​ງານ​ສະ​ພາບ​ທາງ​ການ​ຈໍ​ລະ​ຈອນໃນ​ພື້ນ​ທີ່"</string>
+<string name="atr_enable">"​ໄດ້ເປີດ​ນຳ​ໃຊ້​​ລາຍ​ງານ​ສະ​ພາບ​ທາງ​ການ​ຈໍ​ລະ​ຈອນໃນ​ພື້ນ​ທີ່"</string>
+<string name="atr_disable">"​ໄດ້ປີດນຳ​ໃຊ້​​ລາຍ​ງານ​ສະ​ພາບ​ທາງ​ການ​ຈໍ​ລະ​ຈອນໃນ​ພື້ນ​ທີ່"</string>
+<string name="enable_disable_lafs">"ຕາ​ຕະ​ລາງ​ທ່ຽວ​ບິນ​ຂອງ​ສະ​ໜາມ​ບິນ​ໃນ​ທ້ອງ​ຖີ່ນ"</string>
+<string name="lafs_enable">"​ໄດ້ເປີດ​ນຳ​ໃຊ້​​ຕາ​ຕະ​ລາງ​ທ່ຽວ​ບິນ​ຂອງ​ສະ​ໜາມ​ບິນ​ໃນ​ທ້ອງ​ຖີ່ນ"</string>
+<string name="lafs_disable">"​​ໄດ້ປີດ​ນຳ​ໃຊ້​​ຕາ​ຕະ​ລາງ​ທ່ຽວ​ບິນ​ຂອງ​ສະ​ໜາມ​ບິນ​ໃນ​ທ້ອງ​ຖີ່ນ"</string>
+<string name="enable_disable_restaurants">"ຮ້ານອາຫານ"</string>
+<string name="restaurants_enable">"​ໄດ້​ເປີດນຳ​ໃຊ້​​ຂໍ້​ມູນ​ກ່ຽວ​ກັບຮ້ານ​ອາ​ຫານ"</string>
+<string name="restaurants_disable">"​​ໄດ້ປີດນຳ​ໃຊ້​​ຂໍ້​ມູນ​ກ່ຽວ​ກັບຮ້ານ​ອາ​ຫານ"</string>
+<string name="enable_disable_lodgings">"ຂໍ້​ມູນ​ການ​ເຊົ່າ​ບ້ານ"</string>
+<string name="lodgings_enable">"​ໄດ້​ເປີດ​ນຳ​ໃຊ້​​ຂໍ້​ມູນ​ການ​ເຊົ່າ​ບ້ານ"</string>
+<string name="lodgings_disable">"​​ໄດ້ປີດ​ນຳ​ໃຊ້​​ຂໍ້​ມູນ​ການ​ເຊົ່າ​ບ້ານ"</string>
+<string name="enable_disable_retail_directory">"ລະບົບການ​ຂາຍຍ່ອຍ"</string>
+<string name="retail_directory_enable">"ໄດ້​ເປີດນຳ​ໃຊ້​​ຊື່​ຮ້ານ​ຂາຍ​ຍ່ອຍ"</string>
+<string name="retail_directory_disable">"ໄດ້​ປີດ​ນຳ​ໃຊ້​​ຊື່​ຮ້ານ​ຂາຍ​ຍ່ອຍ"</string>
+<string name="enable_disable_advertisements">" ການໂຄສະນາ"</string>
+<string name="advertisements_enable">"ໄດ້​ເປີດນຳ​ໃຊ້​​ ການໂຄສະນາ"</string>
+<string name="advertisements_disable">"ໄດ້​ປີດນຳ​ໃຊ້​​ ການໂຄສະນາ"</string>
+<string name="enable_disable_stock_quotes">"ລາຄາຫຸ້ນ"</string>
+<string name="stock_quotes_enable">"ໄດ້​ເປີດ​ນຳ​ໃຊ້​​ລາຄາຫຸ້ນ"</string>
+<string name="stock_quotes_disable">"ໄດ້​ປີດນຳ​ໃຊ້​​ລາຄາຫຸ້ນ"</string>
+<string name="enable_disable_eo">"ຂໍ້​ມູນໂອກາດການຈ້າງງານ"</string>
+<string name="eo_enable">"ໄດ້​ເປີດ​ນຳ​ໃຊ້​​ຂໍ້​ມູນໂອກາດການຈ້າງງານ"</string>
+<string name="eo_disable">"ໄດ້​ປີດ​ນຳ​ໃຊ້​​ຂໍ້​ມູນໂອກາດການຈ້າງງານ"</string>
+<string name="enable_disable_mhh">"ທາງການແພດ, ສຸຂະພາບ, ແລະໂຮງຫມໍ"</string>
+<string name="mhh_enable">"ໄດ້​ເປີດນຳ​ໃຊ້​​ທາງການແພດ, ສຸຂະພາບ, ແລະໂຮງຫມໍ"</string>
+<string name="mhh_disable">"ໄດ້​ປີດ​ນຳ​ໃຊ້​​ທາງການແພດ, ສຸຂະພາບ, ແລະໂຮງຫມໍ"</string>
+<string name="enable_disable_technology_news">"ຂ່າວ​ເທັກ​ໂນ​ໂລ​ຢີ"</string>
+<string name="technology_news_enable">"ໄດ້​ເປີດ​ນຳ​ໃຊ້​​ນຂ່າວ​ເທັກ​ໂນ​ໂລ​ຢີ"</string>
+<string name="technology_news_disable">"ໄດ້​ປີດນຳ​ໃຊ້​​ຂ່າວ​ເທັກ​ໂນ​ໂລ​ຢີ"</string>
+<string name="enable_disable_multi_category">"ຫຼາຍປະເພດ"</string>
+<string name="multi_category_enable">"ໄດ້​ເປີດ​ນຳ​ໃຊ້​​ ຫຼາຍປະເພດ"</string>
+<string name="multi_category_disable">"ໄດ້​ປີດ​ນຳ​ໃຊ້​​ ຫຼາຍປະເພດ"</string>
+<string name="prefer_2g">"ນໍາໃຊ້ພຽງແຕ່ເຄືອຂ່າຍ 2G "</string>
+<string name="prefer_2g_summary">"ປະ​ຫ​ຍັດ​ແບັດ​ຕາ​ຣີ"</string>
+<string name="cdma_system_select_title">"ລະບົບການຄັດເລືອກ"</string>
+<string name="cdma_system_select_summary">"ປ່ຽນ​ຮູບ​ແບບ​ຣອມ​ມີງCDMA "</string>
+<string name="cdma_system_select_dialogtitle">"ລະບົບການຄັດເລືອກ"</string>
+<string-array name="cdma_system_select_choices">
+<item>"ພຽງ​ລະ​ບົບ​ໃນ​ທ້ອງ​ຖີ່ນ"</item>
+<item>"ອັດຕະໂນມັດ"</item>
+</string-array>
+<string name="cdma_subscription_title">"ການ​ສະ​ມັກເປັນສະມາຊິກCDMA"</string>
+<string name="cdma_subscription_summary">"​ດຳ​ເນີນ​ການ​ສັບ​ປ່ຽນ​ຢູ່​ໃນ​ລະ​ຫວ່າງRUIM/SIM ແລະ NV"</string>
+<string name="cdma_subscription_dialogtitle">"ການ​ສະ​ມັກເປັນສະມາຊິກ"</string>
+<string name="cdma_activate_device">"ການອຸປະກອນກະຕຸ້ນ"</string>
+<string name="cdma_lte_data_service">"ກໍານົດຄ່າການບໍລິການຂໍ້ມູນ"</string>
+<string name="fdn">"ໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="manage_fdn_list">"ບັນຊີລາຍຊື່ຈໍານວນການໂທຄົງ​ທີ່"</string>
+<string name="fdn_activation">"ການ​ກະ​ຕຸ້ນໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="fdn_enabled">"ໄດ້​ເປີດ​ໃຊ້​ງານໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="fdn_disabled">"ໄດ້​ປີດ​ໃຊ້​ງານໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="enable_fdn">"ເປີດ​ໃຊ້​ງານໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="disable_fdn">"ປີດ​ໃຊ້​ງານໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="change_pin2">"ປ່ຽນ​ແປງPIN2"</string>
+<string name="enable_fdn_ok">"ປີດ​ໃຊ້​ງານໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="disable_fdn_ok">"ເປີດ​ໃຊ້​ງານໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="sum_fdn">"ການ​ຄວບ​ຄຸມໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="sum_fdn_change_pin">"ການປ່ຽນແປງ PINສຳ​ລັບ​ການ​ກຳ​ໜົດ​ຄ່າ​ການ​ເຂົ້າ​ເຖິງໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່"</string>
+<string name="sum_fdn_manage_list">"ການ​ຄວບ​ຄຸມ​ລາຍ​ຊື່​ໝາຍ​ເລກ​ໂທ​ລະ​ສັບ​ມື​ຖື"</string>
+<string name="voice_privacy">"ສຽງຄວາມເປັນສ່ວນຕົວ"</string>
+<string name="voice_privacy_summary">"ເປີດ​ໃຊ້​ງານຮູບແບບຄວາມເປັນສ່ວນຕົວແບບເຮັດໃຫ້ດີຂຶ້ນ"</string>
+<string name="tty_mode_option_title">"ໂໝດ TTY"</string>
+<string name="tty_mode_option_summary">"ຮູບແບບ​ການ​ກຳ​ນົດ​ຄ່າTTY "</string>
+<string name="auto_retry_mode_title">"ສົ່ງ​ໃໝ່​ອີກ​ຄັ້ງ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ"</string>
+<string name="auto_retry_mode_summary">"ເປີດ​​ນຳ​ໃຊ້ຮູບ​ແບບສົ່ງ​ໃໝ່​ອີກ​ຄັ້ງ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ"</string>
+<string name="menu_add">"ເພີ່ມລາຍຊື່"</string>
+<string name="menu_edit">"​ແກ້​ໄຂ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="menu_delete">"​ລຶບ​ຜູ້​ຕິດ​ຕໍ"</string>
+<string name="get_pin2">"ໃສ່PIN2"</string>
+<string name="name">"ຊື່"</string>
+<string name="number">"​ເບີ​ໂທ"</string>
+<string name="save">"ບັນທຶກ"</string>
+<string name="add_fdn_contact">"ເພີ່​ມ​ໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="adding_fdn_contact">"ກຳ​ລັງ​ເພີ່ມໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່\u2026"</string>
+<string name="fdn_contact_added">"ໄດ້​ເພີ່ມໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່ແລ້ວ"</string>
+<string name="edit_fdn_contact">"​ແກ້​ໄຂໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="updating_fdn_contact">"ກຳ​ລັງ​ອັບ​ເດດໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່\u2026"</string>
+<string name="fdn_contact_updated">"ໄດ້​ອັບ​ເດດໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່​ແລ້ວ"</string>
+<string name="delete_fdn_contact">"​ລຶບ​ໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="deleting_fdn_contact">"​ກຳ​ລັງລຶບ​ໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່\u2026"</string>
+<string name="fdn_contact_deleted">"ໄດ້​ລຶບ​ລຶບ​ໝາຍ​ເລກ​ໂທ​ອອກ​ຄົງ​ທີ່ຜູ້​ຕິດ​ຕໍ່​ແລ້ວ"</string>
+<string name="pin2_invalid">"​ລະ​ບົບ​ບໍ່​ໄດ້​ອັບ​ເດດໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່,ເພາະ​ວ່າPINທີ່​ທ່ານ​ໃສ່​ຜິດ​ພາດ"</string>
+<string name="fdn_invalid_number">"FDNບໍ່​ໄດ້​ຮັບ​ການ​ອັບ​ເດດ​ ເນື່ອງ​ຈາກ​ຕົວ​ເລກບໍ່​ສາ​ມາດ​ເກີນ 20ໂຕ."</string>
+<string name="pin2_or_fdn_invalid">"ໝາຍ​ເລກ​ໂທ​ຄົງ​ທີ່ບໍ່​ໄດ້​ອັບ​ເດດ, PIN2ມີ​ຄວາມ​ຜິດ​ພາດ ຫຼື​ເບີ​ໂທ​ລະ​ສັບປະ​ຕິ​ເສດ"</string>
+<string name="simContacts_emptyLoading">"​ກຳ​ລັງ​ອ່ານ​ຈາກSIM\u2026"</string>
+<string name="simContacts_empty">"ໃນSIM ​ບໍ່​ມີ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="simContacts_title">"ເລືອກ​ຜູ້​ຕິດ​ຕໍ່​ທີ່​ຕ້ອງ​ການ​ນຳ​ເຂົ້າ"</string>
+<string name="simContacts_airplaneMode">"ໃນການນໍາເຂົ້າຜູ້ຕິດຕໍ່​ຈາກSIM ກະ​ລຸ​ນາ​ປິດ​ຮູບແບບເຮືອບິນ​ກ່ອນ"</string>
+<string name="enable_pin">"​​ເປິດ​ນຳ​ໃຊ້/ປີດ​ນຳ​ໃຊ້PIN SIM"</string>
+<string name="change_pin">"ປ່ຽນລະຫັດ PIN ຂອງ SIM"</string>
+<string name="enter_pin_text">"PIN SIM:"</string>
+<string name="oldPinLabel">"PIN ​ຕົວເກົ່າ"</string>
+<string name="newPinLabel">"ລະຫັດ PIN ໃໝ່"</string>
+<string name="confirmPinLabel">"ຢືນຢັນລະຫັດ PIN ໃໝ່"</string>
+<string name="badPin">"PIN ​ຕົວເກົ່າທີ່​ໃສ່​ມີ​ຂໍ້​ຜິດ​ພາດ, ກະ​ລຸ​ນາ​ລອ​​ງ​ໃໝ່​ອີກ​ຄັ້ງ."</string>
+<string name="mismatchPin">"PINທີ່​ໃສ່​ບໍ່​ກົງ​ກັນ,  ກະ​ລຸ​ນາ​ລອ​​ງ​ໃໝ່​ອີກ​ຄັ້ງ."</string>
+<string name="invalidPin">"ພິມລະຫັດ PIN ຄວາມຍາວ 4 ເຖິງ 8 ໂຕເລກ."</string>
+<string name="disable_sim_pin">"​ປິດ​ນຳ​ໃຊ້ PIN SIM"</string>
+<string name="enable_sim_pin">"​ເປິດ​ນຳ​ໃຊ້ PIN SIM"</string>
+<string name="enable_in_progress">"ກະລຸນາລໍຖ້າ..."</string>
+<string name="enable_pin_ok">"PIN SIM ​ໄດ້ເປີດ​ນຳ​ໃຊ້​ແລ້ວ"</string>
+<string name="disable_pin_ok">"PIN SIM ​ໄດ້ປີດ​ນຳ​ໃຊ້​ແລ້ວ"</string>
+<string name="pin_failed">"PIN ທີ່​ໃສ່​ຜິດ​ພ​າດ"</string>
+<string name="pin_changed">"ໄດ້​ສຳ​ເລັດ​ໃນ​ການ​ປ່ຽນ​ແປງ PIN."</string>
+<string name="puk_requested">"ລະ​ຫັດ​ຜ່ານບໍ່​ຖືກ​ຕ້ອງ, SIM ລ໊ອກ​ແລ້ວ! ຕ້ອງ​ການPUK2"</string>
+<string name="oldPin2Label">"PIN2 ຕົວ​ເກົ່າ"</string>
+<string name="newPin2Label">"PIN2 ຕົວ​ໃໝ່"</string>
+<string name="confirmPin2Label">"​ຢືນ​ຢັນPIN2 ​ຕົວໃໝ່"</string>
+<string name="badPuk2">"PUK2ທີ່​ໃສ່​ຜິດ​ພາດ,ກະ​ລຸ​ນາ​ລອງ​ໃໝ່."</string>
+<string name="badPin2">"PIN2ເກົ່າ ທີ່​ທ່ານ​ໃສ່​ຜິດ​ພາດ.  ກະ​ລຸ​ນາ​ພະ​ຍາ​ຍາມ​ໃໝ່ອີກ​ເທື່ອ​ໜື່ງ"</string>
+<string name="mismatchPin2">"PIN2ທີ່​ທ່ານ​ໃສ່​ບໍ່​ກົງ​ກັນ ກະ​ລຸ​ນາ​ລອງ​ໃໝ່"</string>
+<string name="invalidPin2">"ໃສ່PIN2ຕົວ​ເລກ4 ເຖິງ 8 ​ຕົວ"</string>
+<string name="invalidPuk2">"ກະລຸນາໃສ່ PUK2  8 ຕົວເລກ."</string>
+<string name="pin2_changed">"ການ​ປ່ຽນ​ແປງPIN2ສຳ​ເລັດ"</string>
+<string name="label_puk2_code">"ໃສ່​ລະ​ຫັດPUK2 "</string>
+<string name="fdn_enable_puk2_requested">"ລະ​ຫັດ​ຜ່ານ​ມີ​ຄວາມ​ຜິດ​ພາດ, ກະ​ລຸ​ນາ​ປ່ຽນPIN2 ແລະ​ລອງ​ໃໝ່"</string>
+<string name="puk2_requested">"ລະ​ຫັດ​ຜ່ານບໍ່​ຖືກ​ຕ້ອງ, SIM ລ໊ອກ​ແລ້ວ! ຕ້ອງ​ການPUK2"</string>
+<string name="doneButton">"ແລ້ວໆ"</string>
+<string name="caller_manage_header">"ການ​ປ​ປະ​ຊຸມ​ທາງ​ໂທ​ລະ​ສັບ<xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"ໝາຍ​ເລກ​ຂໍ້​ຄວາມ​ສຽງ"</string>
+<string name="card_title_dialing">"ກຳ​ລັງ​ໂທ"</string>
+<string name="card_title_redialing">"ກຳ​ລັງ​ໂທ​ໃໝ່​ອີກ​​ເທື່ອ​ໜື່ງ"</string>
+<string name="card_title_conf_call">"ການ​ປະ​ຊຸມ​ທາງ​ໂທ​ລະ​ສັບ"</string>
+<string name="card_title_incoming_call">"ສາຍໂທເຂົ້າ"</string>
+<string name="card_title_call_ended">"ຈົບ​ການ​ໂທ"</string>
+<string name="card_title_on_hold">"ຖື"</string>
+<string name="card_title_hanging_up">"ກຳ​ລັງ​ວາງ​ສາຍ"</string>
+<string name="card_title_in_call">"ກຳ​ລັງ​ຢູ່​ໃນ​ການ​ໂທ"</string>
+<string name="card_title_my_phone_number">"ເບີ​ໂທ​ລະ​ສັບ​ຂ​ອອງ​ຂ້ອຍແມ່ນ <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"ກຳ​ລັງ​ໂທ"</string>
+<string name="notification_missedCallTitle">"ສາຍທີ່ບໍ່ໄດ້ຮັບ"</string>
+<string name="notification_missedCallsTitle">"ສາຍ​ທີ່ບໍ່​ໄດ້​ຮັບ"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g>ສາຍ​ທີ່ບໍ່​ໄດ້​ຮັບ"</string>
+<string name="notification_missedCallTicker">"ສາຍ​ທີ່ບໍ່​ໄດ້​ຮັບມາ​ຈາກ<xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">"ໂທ​ໃນ​ຂະ​ນະ​ນີ້"</string>
+<string name="notification_on_hold">"ຖື"</string>
+<string name="notification_incoming_call">"ສາຍໂທເຂົ້າ"</string>
+<string name="notification_voicemail_title">"ຂໍ້​ຄວາມ​ສຽງ​ໃໝ່"</string>
+<string name="notification_voicemail_title_count">"ຂໍ້​ຄວາມ​ສຽງ​ໃໝ່ (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"ໂທ<xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"ບໍ່​ຮູ​ຈັກ​ໝາຍ​ເລກ​ຂໍ້​ຄວາມ​ສຽງ"</string>
+<string name="notification_network_selection_title">"ບໍ່ມີບໍລິການ."</string>
+<string name="notification_network_selection_text">"​ເຄືອ​ຂ່າຍ​ທີ່​ເລືອກ (<xliff:g id="operator_name">%s</xliff:g>) ບໍ່​ສາ​ມາດ​ນຳ​ໃຊ້​ໄດ້"</string>
+<string name="notification_action_end_call">"​ວາງ​ສາຍ"</string>
+<string name="notification_missedCall_call_back">"ໂທ​ກັບ"</string>
+<string name="notification_missedCall_message">"ຂໍ້​ຄວາມ"</string>
+<string name="incall_error_power_off">"ຕ້ອງ​ການ​ດຳ​ເນີນ​ການ​ການ​ໂທ,ກະ​ລຸ​ນາ​ປິດ​ຮູບ​ແບບ​ເຄື່ອງ​ບິນ​ກ່ອນ"</string>
+<string name="incall_error_emergency_only">"ບໍ່​ໄດ້​ລົງ​ທະ​ບຽນ​ໃນ​ເຄືອ​ຂ່າຍ"</string>
+<string name="incall_error_out_of_service">"ບໍ່​ສາ​ມາດ​ເຂົ້າ​ເຖິງ​ເຄືອ​ຂ່າຍ​ມື​ຖື"</string>
+<string name="incall_error_no_phone_number_supplied">"ການ​ໂທບໍ່​ສົ່ງ​ອອກ ເພາະ​ວ່າ​ໝາຍ​ເລກ​ໃສ່​ບໍ່​ຖືກ​ຕ້ອງ"</string>
+<string name="incall_error_call_failed">"ການ​ໂທບໍ່​ສົ່ງ​ອອກ"</string>
+<string name="incall_status_dialed_mmi">"ກຳ​ລັງ​ເລີ່​ມ​ຕົ້ນການ​ຈັດ​ລຳ​ດັບ MMI\u2026"</string>
+<string name="incall_error_supp_service_unknown">"ບໍ່​ສະ​ນັບ​ສະ​ໜຸນ​ການ​ບໍ​ລິ​ການ​ນີ້"</string>
+<string name="incall_error_supp_service_switch">"ບໍ່​ສາ​ມາດ​ສັບ​ປ່ຽນ​ການ​ໂທ"</string>
+<string name="incall_error_supp_service_separate">"ບໍ່​ສາ​ມາດທີ່​ຈະ​ແຍກ​ສາຍ​ການ​ໂທ"</string>
+<string name="incall_error_supp_service_transfer">"ບໍ່​ສາ​ມາດ​ໂອນ​ການ​ໂທ"</string>
+<string name="incall_error_supp_service_conference">"ບໍ່​ສາ​ມາດ​ດຳ​ເນີນ​ການການ​ປະ​ຊຸມ​ທາງ​ໂທ​ລະ​ສັບ"</string>
+<string name="incall_error_supp_service_reject">"ບໍ່​ສາ​ມາດ​ປະ​ຕິ​ເສດ​ການ​ໂທ"</string>
+<string name="incall_error_supp_service_hangup">"ບໍ່​ສາ​ມາດ​ວາງ​ສາຍ"</string>
+<string name="incall_call_type_label_sip">"ການ​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="emergency_enable_radio_dialog_title">"ການໂທສຸກເສີນ"</string>
+<string name="emergency_enable_radio_dialog_message">"ກຳ​ລັງ​ເປີດສາຍອາກາດ\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"ບໍ່​ຢູ່​ໃນ​ເຂດ​ການ​ບໍ​ລິ​ການ, ກະ​ລຸ​ນາ​ລອງ​ໃໝ່\u2026"</string>
+<string name="dial_emergency_error">"ການ​ໂທບໍ່​ສົ່ງ​ອອກ. <xliff:g id="non_emergency_number">%s</xliff:g>ບໍ່​ແມ່ນ​ໝາຍ​ເລກ​ໂທ​ສຸກ​ເສີນ！"</string>
+<string name="dial_emergency_empty_error">"ການ​ໂທບໍ່​ສົ່ງ​ອອກ, ກຳ​ລຸ​ນາ​ໂທ​​ຫມາຍ​ເລກ​ໂທ​ລະ​ສັບ​ສຸກ​ເສີນ"</string>
+<string name="dialerKeyboardHintText">"ໃຊ້ແປ້ນພິມເພື່ອກົດໂທ"</string>
+<string name="onscreenHoldText">"​ລໍ​ຖ້າ"</string>
+<string name="onscreenEndCallText">"ວາງ​ສາຍ"</string>
+<string name="onscreenShowDialpadText">"​ແປ້ນ​ພິມ​ໃນ​ການ​ໂທ"</string>
+<string name="onscreenMuteText">"ປິດສຽງ"</string>
+<string name="onscreenAddCallText">"ເພີ່ມການໂທ"</string>
+<string name="onscreenMergeCallsText">"ປະ​ສານ​ສາຍ​ການ​ໂທ"</string>
+<string name="onscreenSwapCallsText">"ແລກປ່ຽນ"</string>
+<string name="onscreenManageCallsText">"ການ​ຄວບ​ຄຸມ​ການ​ໂທ"</string>
+<string name="onscreenManageConferenceText">"ການຄຸ້ມຄອງກອງປະຊຸມ"</string>
+<string name="onscreenAudioText">"ສຽງ"</string>
+<string name="onscreenVideoCallText">"ການ​ໂທວິ​ດີ​ໂອ"</string>
+<string name="importSimEntry">"ນຳເຂົ້າ"</string>
+<string name="importAllSimEntries">"ນຳ​ເຂົ້າ​ທັ້ງ​ໝົດ"</string>
+<string name="importingSimContacts">"ກຳ​ລັງ​ນຳ​ເຂົ້າ​ຜູ້​ຕິດ​ຕໍ່SIM "</string>
+<string name="importToFDNfromContacts">"ນຳ​ເຂົ້າ​ຈາກ​ຜູ້​ຕິດ​ຕໍ"</string>
+<string name="hac_mode_title">"ເຄື່ອງ​ຊ່ວຍ​ຟັງ"</string>
+<string name="hac_mode_summary">"ເປີດ​ຮູບ​ແບບເຄື່ອງ​ຊ່ວຍ​ຟັງ"</string>
+<string-array name="tty_mode_entries">
+<item>"TTY ປິດ​ແລ້ວ"</item>
+<item>"TTYເຕັມ​ແລ້ວ"</item>
+<item>"TTY HCO"</item>
+<item>"TTY VCO"</item>
+</string-array>
+<string name="dtmf_tones_title">"ສຽງDTMF "</string>
+<string name="dtmf_tones_summary">"​ກຳ​ໜົດ​ຄ່າ​ຄ​ວາມ​ຍາວ​ຂອງ​ສຽງDTMF "</string>
+<string-array name="dtmf_tone_entries">
+<item>"ປົກກະຕິ"</item>
+<item>"ຍາວ"</item>
+</string-array>
+<string name="network_message">"ຂ່າວສານເຄືອຂ່າຍ"</string>
+<string name="ota_title_activate">"ກະ​ຕຸ້ນ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ"</string>
+<string name="ota_touch_activate">"ສາຍໂທພິເສດຈຳເປັນຕ້ອງໄດ້ສ້າງຂຶ້ນ ເພື່ອເປີດໃຊ້ງານການບໍລິການໂທລະສັບຂອງທ່ານ.\n\nຫຼັງຈາກກົດ \u201CActivate\u201D, ຟັງຄຳແນະນຳເພື່ອເປີດໃຊ້ງານໂທລະສັບຂອງທ່ານ."</string>
+<string name="ota_skip_activation_dialog_title">"ຂ້າມ​ຂັ້ນ​ຕອນ​ການ​ກະ​ຕຸ້ນ\?"</string>
+<string name="ota_skip_activation_dialog_message">"ຖ້າ​ຫາກ​ທ່ານຂ້າມ​ຂັ້ນ​ຕອນ​ການ​ກະ​ຕຸ້ນ ກໍ່​ຈະ​ບໍ່​ສາ​ມາດ​ໂທ​ຫຼື​ເຊື່ອມ​ຕໍ​ເຖິງ​ເຄືອ​ຂ່​າຍ​ຂໍ້​ມູ​ນ​ມື​ຖື(ແຕ່​ວ່າ​ທ່ານ​ສາ​ມາດ​ເຊື່ອມ​ຕໍ່​ເຖິງ​ເຄືອ​ຂ່າຍWi-Fi ໄດ້).ຫາກ​ທ່ານບໍ​ກະ​ຕຸ້ນ​ໂທ​ລະ​ສັບ ທຸກ​ຄັ້ງ​ທີ່​ເປີດ​ເຄື່ອງ​ຈະ​ໄດ້​ຮັບ​ຄຳ​ແນະ​ນຳ​ການ​ກະ​ຕຸ້ນ."</string>
+<string name="ota_skip_activation_dialog_skip_label">"ຂ້າມ"</string>
+<string name="ota_activate">"ເປິດນຳໃຊ້"</string>
+<string name="ota_title_activate_success">"ມື​ຖື​ໄດ້​ກະ​ຕຸ້ນ​ແລ້ວ"</string>
+<string name="ota_title_problem_with_activation">"ພົບ​ປັນ​ຫາ​ເມື່ອ​ເວ​ລາ​ກະ​ຕຸ້ນ"</string>
+<string name="ota_listen">"ດຳ​ເນີນ​ການ​ຕາມ​ຄຳ​ແນະ​ນຳ​ຂອງ​ສຽງ ຈົນ​ກ່​ວາ​ທ່ານ​ໄດ້​ຍິນ​ວ່າ​ການ​ກະ​ຕຸ້ນນັ້ນ​ສຳ​ເລັດ​ແລ້ວ."</string>
+<string name="ota_speaker">"ລຳ​ໂພງ"</string>
+<string name="ota_progress">"ລໍ​ຖ້າ​ຈົນ​ກ່​ວາ​ມື​ຖື​ຂອງ​ທ່ານ​ຈະ​ຂຽນ​ໂປ​ຣ​ແກ​ຣມ​ແລ້ວ"</string>
+<string name="ota_failure">"ການ​ຂຽນ​ໂປ​ຣ​ແກ​ຣມບໍ່​ປະ​ສົບ​ຜົນ​ສຳ​ເລັດ"</string>
+<string name="ota_successful">"ໂທລະສັບຂອງທ່ານຈະຖືກເປີດໃຊ້ງານດ່ຽວນີ້. ມັນອາດຈະໃຊ້ເວລາ 15 ນາທີໃນການໃຫ້ບໍລິການເພື່ອຈະເລີ້ມຕົ້ນ."</string>
+<string name="ota_unsuccessful">"ມື​ຖື​ຂອງ​ທ່ານບໍ່​ໄດ້​​ເຄື່ອນ​ໄຫວ.\nທ່ານ​ອາດ​ຈະ​ຊອກ​ຫາ​ສັນ​ຍານ​ໂທ​ລະ​ສັບ​ມື​ຖື​ໃນ​ຕຳ​ແໜ່ງທີ່​ດີ​ກ່​ວາ（ໃກ້​ປ່ອງ​ຢ້ຽມ​ຫລື​ຂ້າງນອກ).\n\nກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ຫລືໂທ​ຜູ້​ໃຫ້​ບໍ​ລິ​ການ​ລູກ​ຄ້າ​​ເພື່ອ​ຊອກວິ​ທີ​​ແກ້​ໄຂເພີ່ມ​ເຕີມ."</string>
+<string name="ota_spc_failure">"SPCຂັດ​ຂ້ອງ​ຫລາຍ​ເກີນ​ໄປ"</string>
+<string name="ota_call_end">"ກັບຄືນ"</string>
+<string name="ota_try_again">"ທົດລອງອີກຄັ້ງ"</string>
+<string name="ota_next">"ຕໍ່ໄປ"</string>
+<string name="phone_entered_ecm_text">"ໄດ້​ເຂົ້າ​ສູ່​ຮູບ​ແບບ​ການ​ໂທ​ກັບ​ສຸກ​ເສີນ"</string>
+<string name="phone_in_ecm_notification_title">"ຮູບ​ແບບ​ການ​ໂທ​ກັບ​ສຸກ​ເສີນ"</string>
+<string name="phone_in_ecm_call_notification_text">"ປິດ​ໃຊ້​ງານ​ການ​ເຊື່ອມ​ຕໍ່​ຂໍ້​ມູນ"</string>
+<plurals name="phone_in_ecm_notification_time">
+<item quantity="one">"ບໍ່​ມີ​ຂໍ້​ມູນ​ເຊື່ອມ​ຕໍ່ສຳ​ລັບ <xliff:g id="count">%s</xliff:g>ນາ​ທີ"</item>
+<item quantity="other">"ບໍ່​ມີ​ຂໍ້​ມູນ​ເຊື່ອມ​ຕໍ່ສຳ​ລັບ <xliff:g id="count">%s</xliff:g>ນາ​ທີ"</item>
+</plurals>
+<plurals name="alert_dialog_exit_ecm">
+<item quantity="one">"ໂທ​ລະ​ສັບ​ຈະຢູ່​ໃນ​ຮູບ​ແບ​ບ​ການ​ໂທ​ກັບສຸກ​ເສີນ​ສຳ​ລັບ<xliff:g id="count">%s</xliff:g> ນາ​ທີ.ໃນ​ຂະ​ນະ​ທີ່​ຢູ່​ໃນ​ຮູບ​ແບບ​ນີ້ບໍ່​ມີ​ໂປ​ຣ​ແກ​ຣມ​ທີ່​ໃຊ້​ໃນ​ການ​ເຊື່ອມ​ຕໍ່​ຂໍ້​ມູນ​ທີ່​ສາ​ມາດ​ໃຊ້​ໄດ້.ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ອອກ​ຕອນ​ນີ້ບໍ່?"</item>
+<item quantity="other">"ໂທ​ລະ​ສັບ​ຈະຢູ່​ໃນ​ຮູບ​ແບ​ບ​ການ​ໂທ​ກັບສຸກ​ເສີນ​ສຳ​ລັບ<xliff:g id="count">%s</xliff:g> ນາ​ທີ.ໃນ​ຂະ​ນະ​ທີ່​ຢູ່​ໃນ​ຮູບ​ແບບ​ນີ້ບໍ່​ມີ​ໂປ​ຣ​ແກ​ຣມ​ທີ່​ໃຊ້​ໃນ​ການ​ເຊື່ອມ​ຕໍ່​ຂໍ້​ມູນ​ທີ່​ສາ​ມາດ​ໃຊ້​ໄດ້.ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ອອກ​ຕອນ​ນີ້ບໍ່?"</item>
+</plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="one">"ການ​ປະ​ຕິ​ບັດ​ການ​ທີ່​ໄດ້​ເລືອກ​ຈະ​ບໍ່​ສາ​ມາດ​ໃຊ້​ໄດ້​ໃນ​ຂະ​ນະ​ທີ່​ຢູ່​ໃນ​ຮູບ​ແບບ​ສຸກ​ເສີນ​ໂທ​ກັບ ໂທ​ລະ​ສັບ​ຈະ​ຢູ່​ໃນ​ໂໝດ​ນີ້<xliff:g id="count">%s</xliff:g> ນາ​ທີ.ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ອອກ​ຕອນ​ນີ້ບໍ່?"</item>
+<item quantity="other">"ການ​ປະ​ຕິ​ບັດ​ການ​ທີ່​ໄດ້​ເລືອກ​ຈະ​ບໍ່​ສາ​ມາດ​ໃຊ້​ໄດ້​ໃນ​ຂະ​ນະ​ທີ່​ຢູ່​ໃນ​ຮູບ​ແບບ​ສຸກ​ເສີນ​ໂທ​ກັບ ໂທ​ລະ​ສັບ​ຈະ​ຢູ່​ໃນ​ໂໝດ​ນີ້<xliff:g id="count">%s</xliff:g> ນາ​ທີ.ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ອອກ​ຕອນ​ນີ້ບໍ່?"</item>
+</plurals>
+<string name="alert_dialog_in_ecm_call">"ການ​ປະ​ຕິ​ບັດ​ການ​ທີ່​ໄດ້​ເລືອກ ບໍ່​ວ​ສາ​ມາດ​ໃຊ້​ໄດ້​ໃນ​ຂະ​ນະ​ທີ່​ໂທ​ສຸກ​ເສີນ"</string>
+<string name="progress_dialog_exiting_ecm">"ກຳ​ລັງ​ອອກ​ຈາກ​ຮູບ​ແບບ​ການ​ໂທ​ກັບ​ສຸກ​ເສີນ"</string>
+<string name="alert_dialog_yes">"ຕົກລົງ"</string>
+<string name="alert_dialog_no">"ບໍ່"</string>
+<string name="alert_dialog_dismiss">"ບໍ່ເຮັດຫຍັງ"</string>
+<string name="voicemail_provider">"ການ​ບໍ​ລິ​ການ"</string>
+<string name="voicemail_settings">"ກຳ​ນົດ​ຄ່າ"</string>
+<string name="voicemail_number_not_set">"ບໍ່​ໄດ້​ຕັ້ງ​ຄ່າ"</string>
+<string name="other_settings">"ການ​ກຳ​ໜົດ​ການ​ໂທ​ອື່ນໆ"</string>
+<string name="calling_via_template">"ໂທ​ຜ່ານ <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"​ຮູບ​ພາບ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="goPrivate">"ລົມ​ກັນ​ເປັນ​ການ​ສ່ວນ​ຕົວ"</string>
+<string name="selectContact">"ເລືອກ​ຜູ້​ຕິດ​ຕໍ່"</string>
+<string name="sip_settings">"ການ​ກຳ​ນົດ​ຄ່າ​ການ​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="sip_accounts">"ບັນ​ຊີ​ຜູ້​ໃຊ້ (SIP)ການ​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="sip_accounts_title">"ບັນຊີ"</string>
+<string name="sip_receive_calls">"ຮັບ​ສາຍ​ໂທ​ເຂົ້າ"</string>
+<string name="sip_receive_calls_summary">"ການຫຼຸດຜ່ອນແບັດ​ຕາ​ຣີ "</string>
+<string name="sip_call_options_title">"ນຳ​ໃຊ້​ການ​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="sip_call_options_wifi_only_title">"ນຳ​ໃຊ້​ການ​ໂທ​ອິນ​ເຕີ​ເນັດ( ສະ​ເພາະWi-Fi ເທົ່າ​ນັ້ນ)"</string>
+<string name="sip_call_options_entry_1">"ສຳ​ລັບ​ທຸກ​ສາຍ​ເມື່ອ​ເຄືອ​ຂ່າຍ​ຂໍ້​ມູນ​ທີ່​ສາ​ມາດ​ໃຊ້​ໄດ້"</string>
+<string name="sip_call_options_entry_2">"ໃຊ້​ສະ​ເພາະ​ໃນ​ການ​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="sip_call_options_entry_3">"ສອບ​ຖາມ​ໃນ​ຂະ​ນະ​ທີ່​ໂທ​ແຕ່​ລະ​ຄັ້ງ"</string>
+<string name="sip_call_options_wifi_only_entry_1">"​ໃຊ້​ໃນ​ການ​ໂທ​ທັ້ງ​ໝົດ"</string>
+<string name="pick_outgoing_call_phone_type">"ໂທ"</string>
+<string name="pick_outgoing_sip_phone">"ໃຊ້​ການ​ໂທ​ອິນ​ເຕີ​ເນັດ ບັນ​ຊີ​ຜູ້​ໃຊ້:"</string>
+<string name="remember_my_choice">"ມັກ​ຈະ​ໃຊ້​ໃນ​ການ​ໂທ​ທາງ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="reset_my_choice_hint">"ທ່ານ​ສາ​ມາດ​ປ່ຽນ​ບັນ​ຊີການ​ໂທ​ທາງ​ອິນ​ເຕີ​ເນັດ​ທີ່​​ເປັນ​ຄ່າ​ເລີ່ມ​ຕົ້ນ​ຈາກ​ໂທ​ລະ​ສັບ ຕັ້ງ​ຄ່າ ການ​ຕັ້ງ​ຄ່າ​ການ​ໂທ​ທາງ​ອິນ​ເຕີ​ເນັດ ໜ້​ຈໍ​ບັນ​ຊີ."</string>
+<string name="pstn_phone">"ໂທຫາໂທລະສັບມືຖື"</string>
+<string name="internet_phone">"ການ​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="no_sip_account_found_title">"ບໍ່​ມີ​ບັນ​ຊີ​ຜູ້​ໃຊ້​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="no_sip_account_found">"ໃນ​ໂທ​ລະ​ສັບ​ນີ້ບໍ່​ມີ​ບັນ​ຊີ​ຜູ້​ໃຊ້​ໂທ​ອິນ​ເຕີ​ເນັດ ຕ້ອງ​ການ​ເພີ່ມ​ຕອນ​ນີ້​ບໍ?"</string>
+<string name="sip_menu_add">"ເພີ່ມ"</string>
+<string name="add_sip_account">"ເພີ່ມບັນຊີ"</string>
+<string name="remove_sip_account">"ລຶບບັນຊີອອກ"</string>
+<string name="sip_account_list">"ບັນ​ຊີSIP"</string>
+<string name="saving_account">"ກຳ​ລັງ​ບັນ​ທຶກ​ບັນ​ຊີ\u2026"</string>
+<string name="removing_account">"ກຳ​ລັງ​ລຶບ​ບັນ​ຊີ\u2026"</string>
+<string name="sip_menu_save">"ບັນທຶກ"</string>
+<string name="sip_menu_discard">"ປິດໄວ້"</string>
+<string name="alert_dialog_close">"ປິດ​ຂໍ້​ມູ​ນ​ສ່ວນ​ຕົວ"</string>
+<string name="alert_dialog_ok">"ຕົກລົງ"</string>
+<string name="close_profile">"ປິດ"</string>
+<string name="primary_account_summary_with">"ບັນ​ຊີ​ຫລັກ. <xliff:g id="registration_status" example="Registering...">%s</xliff:g>"</string>
+<string name="registration_status_checking_status">"ກຳ​ລັງ​ຢູ່​ໃນ​ພາ​ວະ​ການກວດ​ກາ…"</string>
+<string name="registration_status_registering">"ກຳ​ລັງ​ລົງ​ທະ​ບຽນ\u2026"</string>
+<string name="registration_status_still_trying">"ກຳ​ລັງ​ຢູ່​ໃນ​ການພະຍາຍາມ\u2026"</string>
+<string name="registration_status_not_receiving">"ບໍ່​ຮັບ​ສາຍ"</string>
+<string name="registration_status_no_data">"ເນື່ອງ​ຈາກບໍ່​ໄດ້​ເຊື່ອມ​ຕໍ່​ໄປ​ຍັງ​ອິນ​ເຕີ​ເນັດ, ການ​ລົງ​ທະ​ບຽນ​ບັນ​ຊີ​ຜູ້​ໃຊ້​ໄດ້​ຢຸດ."</string>
+<string name="registration_status_no_wifi_data">"ເນື່ອງ​ຈາກບໍ່​ໄດ້​ເຊື່ອມ​ຕໍ່​ໄປ​ຍັງWi-Fi, ການ​ລົງ​ທະ​ບຽນ​ບັນ​ຊີ​ຜູ້​ໃຊ້​ໄດ້​ຢຸດ."</string>
+<string name="registration_status_not_running">"ການ​ລົງ​ທະ​ບຽນ​ບັນ​ຊີ​ຜູ້​ໃຊ້​ລົ້ມ​ເຫລວ"</string>
+<string name="registration_status_done">"ຮັບ​ສາຍ"</string>
+<string name="registration_status_failed_try_later">"ການ​ລົງ​ທະ​ບຽນ​ບັນ​ຊີ​ລົ້ມ​ເຫລວ: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); ​ລອງໃໝ່​ໃນ​ພາຍ​ຫລັງ"</string>
+<string name="registration_status_invalid_credentials">"ການ​ລົງ​ທະ​ບຽນ​ບັນ​ຊີ​ຜູ້​ໃຊ້​ລົ້ມ​ເຫລວ: ຊື່​ຜູ້​ໃຊ້​ຫລື​ລະ​ຫັດ​ຜ່ານ​ຜິດ​ພາດ"</string>
+<string name="registration_status_server_unreachable">"ການ​ລົງ​ທະ​ບຽນ​ບັນ​ຊີ​ຜູ້​ໃຊ້​ລົ້ມ​ເຫລວ: ກະ​ລຸ​ນາ​ກວດ​ເບິ່ງ​ຊື່​ເສີບ​ເວີ"</string>
+<string name="third_party_account_summary">"ບັນ​ຊີ​ນີ້​ໄດ້​ຖືກ​ໃຊ້​ຢູ່​ໃນ​ຂະ​ນະ​ນີ້​ໂດຍໂປ​ຣ​ແກ​ຣມ<xliff:g id="account_owner" example="Google Talk">%s</xliff:g> app."</string>
+<string name="sip_edit_title">"ລາຍ​ລະ​ອຽດ​ບັນ​ຊີSIP"</string>
+<string name="sip_edit_new_title">"ລາຍ​ລະ​ອຽດ​ບັນ​ຊີSIP"</string>
+<string name="domain_address_title">"ເຊີບເວີ"</string>
+<string name="username_title">"ຊື່ຜູ່ໃຊ້"</string>
+<string name="password_title">"ລະຫັດຜ່ານ"</string>
+<string name="display_name_title">"ສະ​ແດງ​ຊື່"</string>
+<string name="proxy_address_title">"ທີ່​ຢູ່ຕົວ​ແທນອອກນອກເຂດ"</string>
+<string name="port_title">"ຫມາຍ​ເລກຮູສຸບ"</string>
+<string name="transport_title">"ປະ​ເພດ​ການ​ສົ່ງ"</string>
+<string name="send_keepalive_title">"ສົ່ງ​ການ​ຮັກ​ສາ​ຂໍ້​ມູນ​ເຊື່ອມ​ຕໍ່"</string>
+<string name="set_primary_title">"​ກຳ​ໜົດ​ຄ່າ​ເປັນ​ບັນ​ຊີ​ຫລັກ"</string>
+<string name="set_primary_summary">"ໃຊ້​ສຳ​ລັບ​ການ​ໂທ​ອອກນອກ​ເຂດ"</string>
+<string name="advanced_settings">"ສາ​ມາດ​ເລືອກ​ການ​ກຳ​ໜົດ​ຄ່າ"</string>
+<string name="auth_username_title">"ຊື່​ຜູ້ຜູ້​ໃຊ້ກວດ​ສອບ"</string>
+<string name="auth_username_summary">"_x000D_
+
+ຊື່ຜູ້ໃຊ້ນໍາໃຊ້ສໍາລັບການກວດສອບ"</string>
+<string name="default_preference_summary">"ບໍ່​ໄດ້​ຕັ້ງ​ຄ່າ"</string>
+<string name="display_name_summary">"ຄື​ກັນ​ກັບ​ຊື່​ບັນ​ຊີ​ຜູ້​ໃຊ້"</string>
+<string name="optional_summary">"ເລືອກໄດ້"</string>
+<string name="advanced_settings_show">"▷ ສຳ​ພັດ​ເພື່ອ​ສະ​ແດງ​ທັ້ງ​ໝົດ"</string>
+<string name="advanced_settings_hide">"▽ ສຳ​ພັດ​ເພື່ອ​ເຊື່ອງ​ທັ້ງ​ໝົດ"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> ເປັນ​ສີ່ງ​ທີ່​ຈຳ​ເປັນ​ແລະ​ບໍ່​ສາ​ມາດຈະປະໄວ້ເປົ່າ."</string>
+<string name="not_a_valid_port">"ໝາຍ​ເລກ​ຮູ​ສຸບ​ຕ້ອງ​ຢູ່​ໃນ​ລະ​ຫວ່າງ1000 ກັບ655534 "</string>
+<string name="no_internet_available_title">"​ບໍ່​ມີ​ອິນ​ເຕີ​ເນັດ​ເຊື່ອມ​ຕໍ່"</string>
+<string name="no_wifi_available_title">"​ບໍ່​ມີ​Wi-Fi​ເຊື່ອມ​ຕໍ່"</string>
+<string name="no_internet_available">"ຕ້ອງ​ການ​ໂທ​ໂທ​ລະ​ສັບ​ອິນ​ເຕີ​ເນັດ ກະ​ລຸ​ນາ​ກວດ​ເບີ່ງ​ສະ​ພາບ​ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ​ກ່ອນ."</string>
+<string name="no_wifi_available">"ທ່ານຈໍາເປັນຕ້ອງໄດ້ຮັບການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ສໍາລັບການໂທອິນເຕີເນັດ (ນໍາໃຊ້ການຕັ້ງຄ່າ ​ໄວ​ແລ​ສ &amp; ເຄືອຂ່າຍ)."</string>
+<string name="no_voip">"ບໍ່​ສະ​ໜັບ​ສ​ະ​ໜຸນ​ການ​ໂທ​ອິນ​ເຕີ​ເນັດ"</string>
+<string name="sip_system_decide">"ອັດຕະໂນມັດ"</string>
+<string name="sip_always_send_keepalive">"ມັກ​ຈະ​ສົ່ງ"</string>
+<string name="not_voice_capable">"ບໍ່​ສະ​ນັບ​ສະ​ໜຸນການ​ໂທ​ສຽງ"</string>
+<string name="respond_via_sms_canned_response_1">"ຂະ​ນະ​ນີ້ບໍ່​ສາ​ມາດ​ຮັບ, ມີ​ວຽກ​ຫ​ຍັງ​ບໍ່?"</string>
+<string name="respond_via_sms_canned_response_2">"ຂ້ອຍ​ຈະ​ໂທ​ກັບ​ຫາ​ເຈົ້າ​ຕອນ​ນີ້"</string>
+<string name="respond_via_sms_canned_response_3">"​ລໍ​ຖ້າ​ບຶດ​ໜື່ງ​ຂ້ອຍ​ຈະ​ໂທ​ຫາ​ເຈົ້າ"</string>
+<string name="respond_via_sms_canned_response_4">"​ຕອນ​ນີ້ບໍ່​ສາ​ມາດ​ຮັບ​ສາຍ ຖ້າ​ຈັກ​ໜ້ອຍ​ຈື່ງ​ໂທ​ຫາ​ຂ້ອຍ​ອີກໄດ້​ບໍ່?"</string>
+<string name="respond_via_sms_custom_message">"ຂຽນຂອງທ່ານເອງ ... "</string>
+<string name="custom_message_cancel">"ຍົກເລີກ"</string>
+<string name="custom_message_send">"ສົ່ງ"</string>
+<string name="respond_via_sms_setting_title">"ການຕອບແບບວ່ອງໄວ"</string>
+<string name="respond_via_sms_setting_title_2">"​ແກ້​ໄຂ​ການ​ຕອບ​ກັບ​ຢ່າງ​ວ່ອງ​ໄວ"</string>
+<string name="respond_via_sms_edittext_dialog_title">"ແກ້ໄຂການຕອບແບບວ່ອງໄວ"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"ຕັ້ງ​ຄ່າ​ໂປ​ຣ​ແກ​ຣມ​ໃໝ່ໃນຕອນຕົ້ນ"</string>
+<string name="respond_via_sms_confirmation_format">"ຂໍ້​ມູນ​ໄດ້​ສົ່ງ​ໄປ​ຍັງ<xliff:g id="phone_number">%s</xliff:g>."</string>
+<string name="description_image_button_one">"ນຶ່ງ"</string>
+<string name="description_image_button_two">"ສອງ"</string>
+<string name="description_image_button_three">"ສາມ"</string>
+<string name="description_image_button_four">"ສີ່"</string>
+<string name="description_image_button_five">"ຫ້າ"</string>
+<string name="description_image_button_six">"ຫົກ"</string>
+<string name="description_image_button_seven">"ເຈັດ"</string>
+<string name="description_image_button_eight">"ແປດ"</string>
+<string name="description_image_button_nine">"ເກົ້າ"</string>
+<string name="description_image_button_star">"ຕິດດາວ"</string>
+<string name="description_image_button_zero">"ສູນ"</string>
+<string name="description_image_button_pound">"ພາວ"</string>
+<string name="description_dial_button">"ແປ້ນໂທ"</string>
+<string name="description_delete_button">"backspace"</string>
+<string name="accessibility_speakerphone_enabled">"ລຳ​ໂພ​ງ​ມື​ຖື​ໄດ້​ເປີດ​ໃຊ້​ງານ​ແລ້ວ"</string>
+<string name="accessibility_call_muted">"ໄດ້​ປິດ​ສ​ຽງ​ການ​ໂທ​ແລ້ວ"</string>
+<string name="description_target_answer">"​ຮັຍ​ສາຍ"</string>
+<string name="description_target_send_sms">"ສົ່ງ​ SMS"</string>
+<string name="description_target_decline">"ປະຕິເສດ"</string>
+<string name="description_direction_up">"ເລື່ອນຂຶ້ນເພື່ອ <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>."</string>
+<string name="description_direction_left">"ເລື່ອນໄປທາງຊ້າຍເພື່ອ <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>."</string>
+<string name="description_direction_right">"ເລື່ອນໄປທາງຂວາເພື່ອ <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g>."</string>
+<string name="voicemail_notification_vibrate_when_title">"ສັ່ນເຕືອນ"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"ສັ່ນເຕືອນ"</string>
+<string name="voicemail_notification_ringtone_title">"ສຽງ"</string>
+<string name="default_notification_description">" (<xliff:g id="default_sound_title">%1$s</xliff:g>)​ສຽງ​ຄ່າ​ເລີ່ມ​ຕົ້ນ"</string>
+<string name="ringtone_title">"ຣິງໂທນໂທລະສັບ"</string>
+<string name="vibrate_on_ring_title">"ສັ່ນເຕືອນເມື່ອມີສາຍໂທເຂົ້າ"</string>
+<string name="dtmf_tone_enable_title">"ສຽງແປ້ນໂທລະສັບ"</string>
+<string name="dial_pad_autocomplete">"ເຕີມ​ໜ້າ​ຈໍ​ໂທ​ອອກ​ໂດຍ​ອັດ​ຕະ​ໂນ​ມັດ"</string>
+<string name="preference_category_ringtone">"ສຽງ​ເອີ້ນ​ເຂົ້າ ​ແລະ ສຽງ​ສັ່ນ"</string>
+<string name="manageConferenceLabel">"ການ​ຄວບ​ຄຸມການ​ປະ​ຊຸມ​ທາງ​ໂທ​ລະ​ສັບ"</string>
+<string name="emergency_call_dialog_number_for_display">"ເບີໂທສຸກເສີນ"</string>
+</resources>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">ফোন</string>
+<string name="onHold">অন হোল্ড</string>
+<string name="unknown">অজানা</string>
+<string name="private_num">ব্যক্তিগত নম্বর</string>
+<string name="payphone">ফোন দেত্তয়া</string>
+<string name="callFailed_userBusy">লাইন ব্যস্ত</string>
+<string name="callFailed_congestion">"নেটওয়ার্ক ব্যর্থ"</string>
+<string name="callFailed_timedOut">কোন সাড়া, সময় শেষ</string>
+<string name="callFailed_server_unreachable">সার্ভার অনধিগম্য</string>
+<string name="callFailed_number_unreachable">সংখ্যা অনধিগম্য</string>
+<string name="callFailed_invalid_credentials">ভুল ব্যবহারকারী নাম অথবা পাসওয়ার্ড</string>
+<string name="callFailed_out_of_network">বলা হয় নেটওয়ার্কের থেকে আউট</string>
+<string name="callFailed_server_error">সার্ভার ত্রুটি. পরে আবার চেষ্টা করুন.</string>
+<string name="callFailed_noSignal">কোন সংকেত নেই</string>
+<string name="callFailed_limitExceeded">ACM সীমা অতিক্রম করেছে</string>
+<string name="callFailed_powerOff">রেডিও বন্ধ</string>
+<string name="callFailed_simError">কোনো SIM নেই, অথবা SIM ত্রুটি</string>
+<string name="callFailed_outOfService">বিকল এলাকা</string>
+<string name="callFailed_fdn_only">আউটগোয়িং কল FDN দ্বারা সীমিত হয়.</string>
+<string name="callFailed_cb_enabled">আপনি বহির্গামী কল সময় কল ছাড়া হল উপর করা সম্ভব নয়.</string>
+<string name="callFailed_dsac_restricted">সমস্ত কল প্রবেশাধিকার নিয়ন্ত্রণ দ্বারা সীমিত হয়.</string>
+<string name="callFailed_dsac_restricted_emergency">জরুরী কলের প্রবেশাধিকার নিয়ন্ত্রণ দ্বারা সীমিত হয়.</string>
+<string name="callFailed_dsac_restricted_normal">সাধারন কল প্রবেশাধিকার নিয়ন্ত্রণ দ্বারা সীমিত হয়.</string>
+<string name="callFailed_unobtainable_number">অবৈধ সংখ্যা</string>
+<string name="confCall">কনফারেন্স কল</string>
+<string name="call_lost">কল হারিয়ে হয়েছে.</string>
+<string name="ok">ওকে</string>
+<string name="audio_mode_speaker">স্পিকার</string>
+<string name="audio_mode_earpiece">হ্যান্ডসেট ইয়ারপিস</string>
+<string name="audio_mode_wired_headset">তারযুক্ত হেডসেট</string>
+<string name="audio_mode_bluetooth">"ব্লুটুথ"</string>
+<string name="wait_prompt_str">নিম্নলিখিত টোন পাঠান? \n</string>
+<string name="pause_prompt_str">পাঠানো টোন \n</string>
+<string name="send_button">"পাঠান"</string>
+<string name="pause_prompt_yes">হ্যাঁ</string>
+<string name="pause_prompt_no">না</string>
+<string name="wild_prompt_str">বন্য অক্ষর দিয়ে প্রতিস্থাপন</string>
+<string name="caller_manage_header">কনফারেন্স কল <xliff:g id="conf_call_time">%s</xliff:g></string>
+<string name="voicemail_settings_number_label">ভয়েসমেইল নম্বর গুলো</string>
+<string name="card_title_dialing">ডায়াল হচ্ছে</string>
+<string name="card_title_redialing">পুনরায় চেষ্টা করছে</string>
+<string name="card_title_conf_call">কনফারেন্স কল</string>
+<string name="card_title_incoming_call">আগত কল</string>
+<string name="card_title_call_ended">কল শেষ</string>
+<string name="card_title_on_hold">অন হোল্ড</string>
+<string name="card_title_hanging_up">ঝুলন্ত </string>
+<string name="card_title_in_call">কলে আছে</string>
+<string name="card_title_my_phone_number">আমার নাম্বার <xliff:g id="my_phone_number">%s</xliff:g></string>
+<string name="notification_dialing">ডায়াল হচ্ছে</string>
+<string name="notification_missedCallTitle">মিসড কল</string>
+<string name="notification_missedCallsTitle">মিসড কল গুলো</string>
+<string name="notification_missedCallsMsg"><xliff:g id="num_missed_calls">%s</xliff:g> মিস্ড কলগুলো</string>
+<string name="notification_missedCallTicker"><xliff:g id="missed_call_from">%s</xliff:g> থেকে মিসড কল</string>
+<string name="notification_ongoing_call">চলমান কল</string>
+<string name="notification_on_hold">অন হোল্ড</string>
+<string name="notification_incoming_call">আগত কল</string>
+<string name="notification_voicemail_title">নতুন ভয়েসমেইল</string>
+<string name="notification_voicemail_title_count">নতুন ভয়েসমেইল (<xliff:g id="count">%d</xliff:g>)</string>
+<string name="notification_voicemail_text_format">ডায়াল <xliff:g id="voicemail_number">%s</xliff:g></string>
+<string name="notification_voicemail_no_vm_number">ভয়েসমেইল নম্বর অজানা</string>
+<string name="notification_network_selection_title">"কোনো পরিষেবা নেই"</string>
+<string name="notification_network_selection_text">নির্বাচিত নেটওয়ার্ক (<xliff:g id="operator_name">%s</xliff:g>) উপলব্ধ নেই </string>
+<string name="notification_action_end_call">কল কাটা</string>
+<string name="notification_missedCall_call_back">"কল ব্যাক"</string>
+<string name="notification_missedCall_message">বার্তা</string>
+<string name="incall_error_power_off">কল করার জন্য প্রথমে বিমান মোড বন্ধ করুন। </string>
+<string name="incall_error_emergency_only">নেটওয়ার্কে নিবন্ধিত নয়।</string>
+<string name="incall_error_out_of_service">উপলব্ধ মোবাইল নেটওয়ার্ক নেই</string>
+<string name="incall_error_no_phone_number_supplied">কল পাঠানো হয়নি, কোন  কোন কার্য়কর নম্বর প্রবেশ করানো হইনি।  </string>
+<string name="incall_error_call_failed">"কল পাঠানো হয় নি।"</string>
+<string name="incall_status_dialed_mmi">MMI ক্রম শুরু হচ্ছে\u2026</string>
+<string name="incall_error_supp_service_unknown">অসমর্থিত সেবা</string>
+<string name="incall_error_supp_service_switch">কল সুইচ করতে অক্ষম।</string>
+<string name="incall_error_supp_service_separate">কল আলাদা করতে অক্ষম।</string>
+<string name="incall_error_supp_service_transfer">কল স্থানান্তরণ করতে অক্ষম।</string>
+<string name="incall_error_supp_service_conference">কনফারেন্স কল অক্ষম।</string>
+<string name="incall_error_supp_service_reject">কল প্রত্যাখ্যান করতে অক্ষম।</string>
+<string name="incall_error_supp_service_hangup">কল (গুলি) প্রকাশ করতে অক্ষম।</string>
+<string name="incall_call_type_label_sip">"ইন্টারনেট কল"</string>
+<string name="emergency_enable_radio_dialog_title">"ইমার্জেন্সি কল"</string>
+<string name="emergency_enable_radio_dialog_message">রেডিও চালু\u2026</string>
+<string name="emergency_enable_radio_dialog_retry">পরিষেবা অঞ্চলের বাইরে, পুনরায় চেষ্টা চলছে\u2026</string>
+<string name="dial_emergency_error">কল পাঠানো হয়নি, <xliff:g id="non_emergency_number">%s</xliff:g> একটি জরুরী নম্বর নয়।</string>
+<string name="dial_emergency_empty_error">কল পাঠানো হয়নি, জরুরী নম্বর ডায়াল করুন!</string>
+<string name="dialerKeyboardHintText">ডায়াল করতে কীবোর্ড ব্যবহার করুন</string>
+<string name="onscreenHoldText">রাখা</string>
+<string name="onscreenEndCallText">শেষ</string>
+<string name="onscreenShowDialpadText">ডায়াল পেড</string>
+<string name="onscreenMuteText">নিঃশব্দ</string>
+<string name="onscreenAddCallText">কল যোগ করুন</string>
+<string name="onscreenMergeCallsText">কল একত্রীকরণ</string>
+<string name="onscreenSwapCallsText">বিনিময় করা</string>
+<string name="onscreenManageCallsText">কল পরিচালনা</string>
+<string name="onscreenManageConferenceText">পরিচালনা করা</string>
+<string name="onscreenAudioText">"অডিও"</string>
+<string name="onscreenVideoCallText">ভিডিও কল</string>
+<string name="voicemail_provider">ভয়েসমেইল সেবা</string>
+<string name="voicemail_settings">সেটআপ</string>
+<string name="voicemail_number_not_set">"&lt;সেট না&gt;"</string>
+<string name="other_settings">অন্যান্য কল সেটিংস</string>
+<string name="calling_via_template">কলিং মাধ্যমে <xliff:g id="provider_name">%s</xliff:g></string>
+<string name="contactPhoto">"ছবির যোগাযোগ"</string>
+<string name="goPrivate">ব্যক্তিগতে যান</string>
+<string name="selectContact">"নির্বাচন যোগাযোগ"</string>
+<string name="respond_via_sms_canned_response_1">এখন কথা বলতে পারবনা. কি খবর?</string>
+<string name="respond_via_sms_canned_response_2">আমি ঠিক পরে আপনাকে কল করব।</string>
+<string name="respond_via_sms_canned_response_3">আমি আপনাকে পরে ফোন করবো.</string>
+<string name="respond_via_sms_canned_response_4">এখন কথা বলা যাবেনা।আমাকে কি পরে কল করবেন?</string>
+<string name="respond_via_sms_custom_message">"আপনার নিজেরটি লিখুন ... " </string>
+<string name="custom_message_cancel">বাতিল</string>
+<string name="custom_message_send">"পাঠান"</string>
+<string name="respond_via_sms_setting_title">"দ্রুত প্রতিক্রিয়া"</string>
+<string name="respond_via_sms_setting_title_2">"দ্রুত প্রতিক্রিয়া সম্পাদনা করুন"</string>
+<string name="respond_via_sms_edittext_dialog_title">"দ্রুত প্রতিক্রিয়া"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"ডিফল্ট অ্যাপ্লিকেশন রিসেট "</string>
+<string name="respond_via_sms_confirmation_format">বার্তা পাঠানো হল<xliff:g id="phone_number">%s</xliff:g>.</string>
+<string name="description_image_button_one">এক</string>
+<string name="description_image_button_two">দুই</string>
+<string name="description_image_button_three">তিন</string>
+<string name="description_image_button_four">চার</string>
+<string name="description_image_button_five">পাঁচ</string>
+<string name="description_image_button_six">ছয়</string>
+<string name="description_image_button_seven">সাত</string>
+<string name="description_image_button_eight">আট</string>
+<string name="description_image_button_nine">নয়</string>
+<string name="description_image_button_star">তারকা</string>
+<string name="description_image_button_zero">শূন্য</string>
+<string name="description_image_button_pound">পাউন্ড</string>
+<string name="description_dial_button">ডায়াল</string>
+<string name="description_delete_button">ব্যাকস্পেস</string>
+<string name="accessibility_speakerphone_enabled">স্পিকারফোন সক্রিয় করা হয়েছে। </string>
+<string name="accessibility_call_muted">নিঃশব্দ কল করুন.</string>
+<string name="description_target_answer">উত্তর</string>
+<string name="description_target_send_sms">এসএমএস পাঠান</string>
+<string name="description_target_decline">"অস্বীকার"</string>
+<string name="description_direction_up">"আপ জন্য <xliff:g id="target_description" example="Unlock">%s</xliff:g>।"</string>
+<string name="description_direction_left">"বাকি আছে <xliff:g id="target_description" example="Unlock">%s</xliff:g>।"</string>
+<string name="description_direction_right">"রাইট<xliff:g id="target_description" example="Unlock">%s</xliff:g>।"</string>
+<string name="voicemail_notification_vibrate_when_title">"কাম্পান"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"কাম্পান"</string>
+<string name="voicemail_notification_ringtone_title">"শব্দ"</string>
+<string name="default_notification_description">ডিফল্ট শব্দ  (<xliff:g id="default_sound_title">%1$s</xliff:g>)</string>
+<string name="ringtone_title">"ফোন রিংটোন"</string>
+<string name="vibrate_on_ring_title">ধ্বনিত যখন কাম্পান</string>
+<string name="dtmf_tone_enable_title">"শ্রাব্য স্পর্শ টোন"</string>
+<string name="dial_pad_autocomplete">"ডায়াল প্যাড স্বয়ংক্রিয় ভাবে সম্পন্ন"</string>
+<string name="preference_category_ringtone">"রিংটোন কম্পন"</string>
+<string name="manageConferenceLabel">কনফারেন্স কল নিয়ন্ত্রণ করা</string>
+<string name="emergency_call_dialog_number_for_display">"জরুরী সংখ্যা"</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Lokacin rekod:"</string>
+<string name="onscreenShowRecodText">"Rekod"</string>
+<string name="recorderr">"adana fayil na rekod ya gaza!"</string>
+<string name="audio_db_artist_name">"Rikodin dinka"</string>
+<string name="audio_db_album_name">"Rekodin kira"</string>
+<string name="audio_db_playlist_name">"Rekodin dina"</string>
+<string name="app_name">"Masarrafin waya"</string>
+<string name="error_mediadb_new_record">"Ba a iya adana sautin da aka yi rikodin ba"</string>
+<string name="sdcard_access_error">"Ba zai iya isa katin SD ba"</string>
+<string name="no_sd_card">"Babu katin SD ko kuma an cire"</string>
+<string name="insert_sd_card">"Ka sa katin SD"</string>
+<string name="storage_is_full">"Ma\'adana ta cika"</string>
+<string name="recording">"Rekodin"</string>
+<string name="lockscreen_comments">"jawowa kasa don amsawa ko korewa"</string>
+<string name="lockscreen_comments_sms">"An yi watsi da SMS"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"An adana fayil din rekodin ga"</string>
+    <string name="unknown_area">"Majahulin wuri"</string>
+    <string name="unknown_contacts">"Majahulin matuntubai"</string>
+
+</resources>

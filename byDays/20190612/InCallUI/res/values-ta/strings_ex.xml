@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"பதிவு நேரம்:"</string>
+<string name="onscreenShowRecodText">"பதிவு"</string>
+<string name="recorderr">"பதிவுக் கோப்பை சேமித்தல் தோல்வியடைந்தது!"</string>
+<string name="audio_db_artist_name">"உங்கள் பதிவாக்கல்கள்"</string>
+<string name="audio_db_album_name">"அழைப்புப் பதிவாக்கல்கள்"</string>
+<string name="audio_db_playlist_name">"எனது பதிவாக்கல்கள்"</string>
+<string name="app_name">"ஃபோன் App"</string>
+<string name="error_mediadb_new_record">"பதிவுசெய்யப்பட்ட ஆடியோவை சேமிக்க முடியவில்லை"</string>
+<string name="sdcard_access_error">"Sdஅட்டையை அணுக முடியாது"</string>
+<string name="no_sd_card">"SD கார்டு இல்லை அல்லது ஏற்றப்பட்டிருக்காது"</string>
+<string name="insert_sd_card">"தயவுசெய்து ஒரு SD கார்டைச் செருகவும்"</string>
+<string name="storage_is_full">"சேமிப்பகம் நிரம்பியுள்ளது"</string>
+<string name="recording">"பதிவாக்கல்"</string>
+<string name="lockscreen_comments">"பதிலளிக்க அல்லது நிராகரிக்க கீழ்நோக்கிய ஸ்லைடிங்"</string>
+<string name="lockscreen_comments_sms">"SMS நிராகரி"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"பதிவி கோப்பு இங்கு சேமிக்கப்பட்டுள்ளது"</string>
+    <string name="unknown_area">"அறியாத பகுதி"</string>
+    <string name="unknown_contacts">"அறியாத தொடர்புகள்"</string>
+
+</resources>

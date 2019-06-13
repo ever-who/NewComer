@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"timp înregistrare:"</string>
+<string name="onscreenShowRecodText">"Înregistrare"</string>
+<string name="recorderr">"fişierul înregistrării nu a fost salvat!"</string>
+<string name="audio_db_artist_name">"Înregistrările dvs."</string>
+<string name="audio_db_album_name">"Înregistrare apel"</string>
+<string name="audio_db_playlist_name">"Înregistrările mele"</string>
+<string name="app_name">"Aplicaţie telefon"</string>
+<string name="error_mediadb_new_record">"Imposibil de salvat materialul audio înregistrat"</string>
+<string name="sdcard_access_error">"Cardul SD nu poate fi accesat "</string>
+<string name="no_sd_card">"Nu exista card SD sau nu este instalat "</string>
+<string name="insert_sd_card">"Vă rugăm să introduceţi un card SD"</string>
+<string name="storage_is_full">"Dispozitivul de stocare este plin"</string>
+<string name="recording">"Se înregistrează"</string>
+<string name="lockscreen_comments">"glisaţi în jos pentru a răspunde sau pentru a respinge apelul"</string>
+<string name="lockscreen_comments_sms">"Respingere SMS"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"Fişierul înregistrării a fost salvat în"</string>
+    <string name="unknown_area">"Zonă necunoscută"</string>
+    <string name="unknown_contacts">"Contacte necunoscute"</string>
+
+</resources>

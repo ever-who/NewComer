@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ఫోన్"</string>
+<string name="onHold">"హోల్డ్ లో ఉన్నది"</string>
+<string name="unknown">తెలియని</string>
+<string name="private_num">ప్రైవేట్ నెంబరు</string>
+<string name="payphone">చెల్లించి చేసే ఫోను</string>
+<string name="callFailed_userBusy">"లైన్ బిజీ"</string>
+<string name="callFailed_congestion">"నెట్ వర్క్ విఫల౦"</string>
+<string name="callFailed_timedOut">"జవాబు లేదు, టైమ్ అయి పోయింది"</string>
+<string name="callFailed_server_unreachable">"సర్వర్ రీచబుల్ కాదు"</string>
+<string name="callFailed_number_unreachable">"నంబర్ రీచ్ అవ్వలేము"</string>
+<string name="callFailed_invalid_credentials">"ఇన్కరెక్ట్ యూజర్ నేమ్ లేదా పాస్వర్డ్"</string>
+<string name="callFailed_out_of_network">"అవుట్-ఆఫ్-నెట్వర్క్ నుంచి కాల్ చేయబడింది"</string>
+<string name="callFailed_server_error">"సర్వర్ ఎర్రర్. మరలా ప్రయత్నించండి."</string>
+<string name="callFailed_noSignal">"సిగ్నల్ లేదు"</string>
+<string name="callFailed_limitExceeded">"ACM లిమిట్ దాటిపోయింది"</string>
+<string name="callFailed_powerOff">"రేడియో ఆఫ్"</string>
+<string name="callFailed_simError">"SIM లేదు లేదా SIM ఎర్రర్"</string>
+<string name="callFailed_outOfService">"అవుట్ ఆఫ్ సర్వీస్ ఏరియా"</string>
+<string name="callFailed_fdn_only">"FDN చేత అవుట్ గోయింగ్ కాల్స్ నియంత్రించబడ్డాయి."</string>
+<string name="callFailed_cb_enabled">"కాల్ బెరింగ్ ఆన్ లో ఉన్నప్పుడు అవుట్ గోయింగ్ కాల్స్ మీరు చేయలేరు."</string>
+<string name="callFailed_dsac_restricted">"అన్ని కాల్స్ యాక్సెస్ కంట్రోల్ చేత నియంత్రించబడుతున్నాయి."</string>
+<string name="callFailed_dsac_restricted_emergency">"అత్యవసర కాల్స్ యాక్సెస్ కంట్రోల్ చేత నియంత్రించబడుతున్నాయి."</string>
+<string name="callFailed_dsac_restricted_normal">"సాధారణ కాల్స్ యాక్సెస్ కంట్రోల్ చేత నియంత్రించబడుతున్నాయి."</string>
+<string name="callFailed_unobtainable_number">"ఇన్వాలీడ్ నంబర్"</string>
+<string name="confCall">"కాన్ఫరెన్స్ కాల్"</string>
+<string name="call_lost">"కాల్ పోయింది."</string>
+<string name="ok">సరి</string>
+<string name="audio_mode_speaker">"స్పీకర్"</string>
+<string name="audio_mode_earpiece">"హాండ్ సెట్ ఇయర్ పీస్"</string>
+<string name="audio_mode_wired_headset">"వైర్డ్ హెడ్ సెట్"</string>
+<string name="audio_mode_bluetooth">"బ్లూ టూత్"</string>
+<string name="wait_prompt_str">"ఈ క్రింది టోన్స్ పంపించాలా?\n"</string>
+<string name="pause_prompt_str">"టోన్స్ ను పంపిస్తున్నాము\n"</string>
+<string name="send_button">"పంపుము"</string>
+<string name="pause_prompt_yes">అవును</string>
+<string name="pause_prompt_no">కాదు</string>
+<string name="wild_prompt_str">"వైల్డ్ కారెక్టర్ ను  తో రీప్లేస్ చేయించాము"</string>
+<string name="caller_manage_header">"కాన్ఫరెన్స్ కాల్ <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"వాయిస్ మెయిల్ నంబర్"</string>
+<string name="card_title_dialing">"డయలింగ్"</string>
+<string name="card_title_redialing">"మరలా ప్రయత్నించడము"</string>
+<string name="card_title_conf_call">"కాన్ఫరెన్స్ కాల్"</string>
+<string name="card_title_incoming_call">వచ్చే కాల్</string>
+<string name="card_title_call_ended">"కాల్ పూర్తి అయింది"</string>
+<string name="card_title_on_hold">"హోల్డ్ లో ఉన్నది"</string>
+<string name="card_title_hanging_up">"హాంగింగ్ అప్"</string>
+<string name="card_title_in_call">"ఇన్ కాల్"</string>
+<string name="card_title_my_phone_number">"నా నంబర్ <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"డయలింగ్"</string>
+<string name="notification_missedCallTitle">తప్పిపోయిన కాల్</string>
+<string name="notification_missedCallsTitle">"మిస్డ్ కాల్స్"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> మిస్డ్ కాల్స్"</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g> నుంచి మిస్డ్ కాల్"</string>
+<string name="notification_ongoing_call">ఆన్ గోయింగ్ కాల్  </string>
+<string name="notification_on_hold">"హోల్డ్ లో ఉన్నది"</string>
+<string name="notification_incoming_call">వచ్చే కాల్</string>
+<string name="notification_voicemail_title">"క్రొత్త వాయిస్ మెయిల్"</string>
+<string name="notification_voicemail_title_count">"క్రొత్త వాయిస్ మెయిల్ (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"డయల్ <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"వాయిస్ మెయిల్ నంబర్ తెలియదు"</string>
+<string name="notification_network_selection_title">"సేవ లేదు"</string>
+<string name="notification_network_selection_text">"ఎంపిక చేయబడిన నెట్వర్క్ (<xliff:g id="operator_name">%s</xliff:g>) అందుబాటులో లేదు"</string>
+<string name="notification_action_end_call">"హాంగ్ అప్"</string>
+<string name="notification_missedCall_call_back">"వెనక్కి కాల్  చేయి"</string>
+<string name="notification_missedCall_message">మెసేజ్</string>
+<string name="incall_error_power_off">"ఒక కాల్ ను ప్లేస్ చేయడము కొరకు ముందుగా ఎయిరో ప్లేన్ మోడ్ ను ముందుగా టర్న్ఆఫ్ చేయండి."</string>
+<string name="incall_error_emergency_only">"నెట్వర్క్ మీద రిజిస్టర్ చేయబడలేదు."</string>
+<string name="incall_error_out_of_service">"మొబైల్ నెట్వర్క్ అందుబాటులో లేదు."</string>
+<string name="incall_error_no_phone_number_supplied">"కాల్ పంపబడలేదు, వాలీడ్ నంబర్ ఎంటర్ చేయబడలేదు."</string>
+<string name="incall_error_call_failed">కాల్ పంపబడలేదు</string>
+<string name="incall_status_dialed_mmi">"MMI సీక్వెన్స్ ను మొదలు పెడుతూ\u2026"</string>
+<string name="incall_error_supp_service_unknown">"సపోర్ట్ చేయబడని సర్వీస్."</string>
+<string name="incall_error_supp_service_switch">"కాల్స్ ను స్విచ్ చేయలేకపోయాము."</string>
+<string name="incall_error_supp_service_separate">"కాల్ ను సపరేట్ చేయలేకపోయాము."</string>
+<string name="incall_error_supp_service_transfer">"కాల్ ను ట్రాన్స్ఫర్ చేయలేకపోయాము."</string>
+<string name="incall_error_supp_service_conference">"కాల్స్ ను కాన్ఫరెన్స్ చేయలేకపోతున్నాము."</string>
+<string name="incall_error_supp_service_reject">"కాల్ ను రిజెక్ట్ చేయలేకపోతున్నాము."</string>
+<string name="incall_error_supp_service_hangup">"కాల్(స్) ను రిలీజ్ చేయలేక పోతున్నాము."</string>
+<string name="incall_call_type_label_sip">ఇంటర్నెట్ కాల్</string>
+<string name="emergency_enable_radio_dialog_title">"ఎమర్జెన్సీ కాల్"</string>
+<string name="emergency_enable_radio_dialog_message">"రేడియోను ఆన్ చేస్తూ \u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"అవుట్ ఆఫ్ సర్వీస్ ఏరియా, రీట్రైయింగ్\u2026"</string>
+<string name="dial_emergency_error">"కాల్ పంపబడలేదు. <xliff:g id="non_emergency_number">%s</xliff:g> ఇది ఒక అత్యవసర నంబర్ కాదు!"</string>
+<string name="dial_emergency_empty_error">"కాల్ పంపబడలేదు. అత్యవసర నంబర్ డయల్ చేయండి!"</string>
+<string name="dialerKeyboardHintText">డయల్ చేయడానికి కీబోర్డుని ఉపయోగించు </string>
+<string name="onscreenHoldText">"హోల్డ్"</string>
+<string name="onscreenEndCallText">ఎండ్</string>
+<string name="onscreenShowDialpadText">"డయల్ పాడ్"</string>
+<string name="onscreenMuteText">మ్యూట్</string>
+<string name="onscreenAddCallText">కాల్ చేర్చు</string>
+<string name="onscreenMergeCallsText">"కాల్స్ ను కలపండి"</string>
+<string name="onscreenSwapCallsText">"స్వాప్"</string>
+<string name="onscreenManageCallsText">"కాల్స్ మానేజ్ చేయండి"</string>
+<string name="onscreenManageConferenceText">"కాన్ఫరెన్స్ మానేజ్ చేయండి"</string>
+<string name="onscreenAudioText">ఆడియో</string>
+<string name="onscreenVideoCallText">"వీడియో కాల్"</string>
+<string name="voicemail_provider">"సర్వీస్"</string>
+<string name="voicemail_settings">సెటప్</string>
+<string name="voicemail_number_not_set">"&lt;సెట్ చేయబడలేదు&gt;"</string>
+<string name="other_settings">"ఇతర కాల్ సెట్టింగ్స్"</string>
+<string name="calling_via_template">"<xliff:g id="provider_name">%s</xliff:g> నుంచి కాల్ చేయడము"</string>
+<string name="contactPhoto">పరిచయం చిత్రం</string>
+<string name="goPrivate">"ప్రైవేట్ కు వెళ్ళండి"</string>
+<string name="selectContact">సంప్రదించండి ఎంచుకోండి</string>
+<string name="respond_via_sms_canned_response_1">"ఇప్పుడు మాట్లాడలేను. ఏమి ఉన్నది?"</string>
+<string name="respond_via_sms_canned_response_2">"నేను ఇప్పుడే నీకు కాల్ బాక్ చేస్తాను."</string>
+<string name="respond_via_sms_canned_response_3">"నేను నీకు తరువాత కాల్ చేస్తాను."</string>
+<string name="respond_via_sms_canned_response_4">"ఇప్పుడు మాట్లాలేను. తరువాత నాకు కాల్ చేయండి?"</string>
+<string name="respond_via_sms_custom_message">"మీ స్వంత ...   వ్రాయండి"</string>
+<string name="custom_message_cancel">రద్దు</string>
+<string name="custom_message_send">"పంపుము"</string>
+<string name="respond_via_sms_setting_title">"శీఘ్ర స్పందన"</string>
+<string name="respond_via_sms_setting_title_2">"శీఘ్ర ప్రతిస్పందనలని సవరించు"</string>
+<string name="respond_via_sms_edittext_dialog_title">"శీఘ్రంగా మొదలుపెట్టు"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"డీఫాల్ట్ యాప్ ను రీసెట్ చేయండి"</string>
+<string name="respond_via_sms_confirmation_format">"<xliff:g id="phone_number">%s</xliff:g> కు మెసేజ్ పంపబడింది."</string>
+<string name="description_image_button_one">ఒకటి</string>
+<string name="description_image_button_two">రెండు</string>
+<string name="description_image_button_three">మూడు</string>
+<string name="description_image_button_four">నాలుగు</string>
+<string name="description_image_button_five">ఐదు</string>
+<string name="description_image_button_six">ఆరు</string>
+<string name="description_image_button_seven">ఏడు</string>
+<string name="description_image_button_eight">ఎనిమిది</string>
+<string name="description_image_button_nine">తొమ్మిది</string>
+<string name="description_image_button_star">స్టార్</string>
+<string name="description_image_button_zero">సున్నా</string>
+<string name="description_image_button_pound">పౌండు</string>
+<string name="description_dial_button">డయల్</string>
+<string name="description_delete_button">బ్యాక్ స్పేస్</string>
+<string name="accessibility_speakerphone_enabled">"స్పీకర్ ఫోన్ ఎనేబుల్ చేయబడింది."</string>
+<string name="accessibility_call_muted">"కాల్ మ్యూట్ చేయబడింది."</string>
+<string name="description_target_answer">"సమాధానము"</string>
+<string name="description_target_send_sms">"SMS పంపించండి"</string>
+<string name="description_target_decline">"క్షీణించడం"</string>
+<string name="description_direction_up">"కొరకు <xliff:g example="Unlock" id="target_description">%s</xliff:g>."</string>
+<string name="description_direction_left">"కొరకు విడిచి పెట్టబడింది <xliff:g example="Unlock" id="target_description">%s</xliff:g>."</string>
+<string name="description_direction_right">"కొరకు సరైనది <xliff:g example="Unlock" id="target_description">%s</xliff:g>."</string>
+<string name="voicemail_notification_vibrate_when_title">వైబ్రేట్</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">వైబ్రేట్</string>
+<string name="voicemail_notification_ringtone_title">"సౌండ్ సెట్టింగులు"</string>
+<string name="default_notification_description">"డీఫాల్ట్ సౌండ్ (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">ఫోన్ రింగ్ టోన్స్</string>
+<string name="vibrate_on_ring_title">"రింగ్ అయినపుడు కంపించు"</string>
+<string name="dtmf_tone_enable_title">"వినగల టచ్ టోన్లు"</string>
+<string name="dial_pad_autocomplete">"డయల్ పాడ్ ఆటో క౦ప్లీట్"</string>
+<string name="preference_category_ringtone">"రి౦గ్ టోన్ వైబ్రేట్"</string>
+<string name="manageConferenceLabel">"కాన్ఫరెన్స్ కాల్ ను మానేజ్ చేయండి"</string>
+<string name="emergency_call_dialog_number_for_display">"అత్యవసర సంఖ్య"</string>
+</resources>

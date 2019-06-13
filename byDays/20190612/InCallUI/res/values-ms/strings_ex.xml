@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"rekod masa:"</string>
+<string name="onscreenShowRecodText">"Rakam"</string>
+<string name="recorderr">"gagal menyimpan rekod fail!"</string>
+<string name="audio_db_artist_name">"Rakaman Anda"</string>
+<string name="audio_db_album_name">"Rakaman Panggilan"</string>
+<string name="audio_db_playlist_name">"Rakaman saya"</string>
+<string name="app_name">"Aplikasi Telefon"</string>
+<string name="error_mediadb_new_record">"Tidak dapat menyimpan audio yang dirakam"</string>
+<string name="sdcard_access_error">"Tidak boleh mengakses sdkad"</string>
+<string name="no_sd_card">"TIADA kad SD atau DINYAHLEKAP"</string>
+<string name="insert_sd_card">"Sila masukkan kad SD"</string>
+<string name="storage_is_full">"Storan penuh"</string>
+<string name="recording">"Rakaman"</string>
+<string name="lockscreen_comments">"gelongsor ke bawah untuk menjawab atau menolak"</string>
+<string name="lockscreen_comments_sms">"SMS Ditolak"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"Fail Perakam telah disimpan ke"</string>
+    <string name="unknown_area">"Kawasan tidak diketahui"</string>
+    <string name="unknown_contacts">"Kenalan tidak diketahui"</string>
+
+</resources>

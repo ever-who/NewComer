@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"Telefone"</string>
+<string name="onHold">"Segurar  "</string>
+<string name="unknown">"Desconhecido"</string>
+<string name="private_num">"Número privato"</string>
+<string name="payphone">"Pagar telefone"</string>
+<string name="callFailed_userBusy">"Linha ocupada"</string>
+<string name="callFailed_congestion">"Rede ocupado"</string>
+<string name="callFailed_timedOut">"Sem resposta, expirado"</string>
+<string name="callFailed_server_unreachable">"Servidor não chegável"</string>
+<string name="callFailed_number_unreachable">"Número não chegável"</string>
+<string name="callFailed_invalid_credentials">"Nome de usuário ou senha incorreta"</string>
+<string name="callFailed_out_of_network">"Chamado de fora-de-rede"</string>
+<string name="callFailed_server_error">"Servidor erro. Tente de novo mais tarde."</string>
+<string name="callFailed_noSignal">"Sem sinal"</string>
+<string name="callFailed_limitExceeded">"ACM limite excedido"</string>
+<string name="callFailed_powerOff">"Rádio desligado"</string>
+<string name="callFailed_simError">"Sem SIM ou SIM erro"</string>
+<string name="callFailed_outOfService">"Fora de área de serviço"</string>
+<string name="callFailed_fdn_only">"As chamadas de saída são restringidas por FDN."</string>
+<string name="callFailed_cb_enabled">"Você não pode fazer as chamadas de saída quando o barramento de chamada é ligado."</string>
+<string name="callFailed_dsac_restricted">"Todas as chamadas são restringidas por controle de acesso."</string>
+<string name="callFailed_dsac_restricted_emergency">"As chamadas de emergência sao restringidas por controle de acesso."</string>
+<string name="callFailed_dsac_restricted_normal">"As chamadas normais são restringidas por controle de acesso."</string>
+<string name="callFailed_unobtainable_number">"Número inválido"</string>
+<string name="confCall">"Chamada de conferência"</string>
+<string name="call_lost">"Chamada foi perdida."</string>
+<string name="ok">"OK"</string>
+<string name="audio_mode_speaker">"Alto-falante"</string>
+<string name="audio_mode_earpiece">"Receptor de auscultador"</string>
+<string name="audio_mode_wired_headset">"Auscultador com fio"</string>
+<string name="audio_mode_bluetooth">"Bluetooth"</string>
+<string name="wait_prompt_str">"Enviar os tons seguintes?\n"</string>
+<string name="pause_prompt_str">"Enviando os tons\n"</string>
+<string name="send_button">"Enviar"</string>
+<string name="pause_prompt_yes">"Sim"</string>
+<string name="pause_prompt_no">"Não"</string>
+<string name="wild_prompt_str">"Colocar o carácter de selvagem com"</string>
+<string name="no_vm_number">"Número de vozmail perdido"</string>
+<string name="no_vm_number_msg">"Nenhum número de vozmail é guardado no SIM cartão."</string>
+<string name="add_vm_number_str">"Adicionar número"</string>
+<string name="puk_unlocked">"Seu SIM cartão foi destrancado. Seu telefone está destrancando\u2026"</string>
+<string name="label_ndp">"PIN de destrancar de rede de SIM"</string>
+<string name="sim_ndp_unlock_text">"Desbloquear"</string>
+<string name="sim_ndp_dismiss_text">"Recusar"</string>
+<string name="requesting_unlock">"Solicitando rede destrancar\u2026"</string>
+<string name="unlock_failed">"Rede destranca solicita sem sucesso."</string>
+<string name="unlock_success">"Rede destranca com sucesso."</string>
+<string name="labelGSMMore">"Ajuste de chamada de GSM"</string>
+<string name="labelCDMAMore">"Ajuste de chamada de CDMA"</string>
+<string name="apn_settings">"Acesso aos Nomes de Ponto"</string>
+<string name="settings_label">"Ajustes de Rede"</string>
+<string name="voicemail">"Vozmail"</string>
+<string name="voicemail_abbreviated">"VM:"</string>
+<string name="networks">"Operadores de rede"</string>
+<string name="call_settings">"Definições de chamada"</string>
+<string name="additional_gsm_call_settings">"Ajuste adicional"</string>
+<string name="sum_gsm_call_settings">"Ajuste de chamada de GSM adicional apenas"</string>
+<string name="additional_cdma_call_settings">"Ajuste de chamada de CDMA adicional"</string>
+<string name="sum_cdma_call_settings">"Ajuste de chamada de CDMA adicional apenas"</string>
+<string name="labelNwService">"Ajuste de serviço de rede"</string>
+<string name="labelCallerId">"ID de chamador"</string>
+<string name="sum_loading_settings">"Ajuste de descarrega\u2026"</string>
+<string name="sum_hide_caller_id">"Número escondido nas chamadas de saída"</string>
+<string name="sum_show_caller_id">"Número editado nas chamadas de saída"</string>
+<string name="sum_default_caller_id">"Usar default ajuste de operador para display meu número nas chamadas de saída"</string>
+<string name="labelCW">"Aguardando a chamada"</string>
+<string name="sum_cw_enabled">"Durante uma chamada, notifique-me as chamadas de entrada"</string>
+<string name="sum_cw_disabled">"Durante uma chamada, notifique-me as chamadas de entrada"</string>
+<string name="call_forwarding_settings">"Ajuste de transmissão de chamada"</string>
+<string name="labelCF">"Transferindo a chamada"</string>
+<string name="labelCFU">"Sempre transferir"</string>
+<string name="messageCFU">"Sempre usa este número"</string>
+<string name="sum_cfu_enabled_indicator">"Transferir todas as chamadas"</string>
+<string name="sum_cfu_enabled">"Transferindo todas as chamadas para <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfu_enabled_no_number">"O número é indisponível"</string>
+<string name="sum_cfu_disabled">"Desactivo"</string>
+<string name="labelCFB">"Transferir quando ocupado"</string>
+<string name="messageCFB">"Número quando ocupado"</string>
+<string name="sum_cfb_enabled">"Transferindo para <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfb_disabled">"Desactivo"</string>
+<string name="disable_cfb_forbidden">"Seu operador não suporta desativar a transferência de chamada quando seu telefone é ocupado."</string>
+<string name="labelCFNRy">"Transferir quando sem resposta"</string>
+<string name="messageCFNRy">"Número quando sem resposta"</string>
+<string name="sum_cfnry_enabled">"Transferindo para <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnry_disabled">"Desactivo"</string>
+<string name="disable_cfnry_forbidden">"Seu operador não suporta desativar a transferência de chamada quando seu telefone não responde."</string>
+<string name="labelCFNRc">"Transferir quando não chegável"</string>
+<string name="messageCFNRc">"Número quando não chegável"</string>
+<string name="sum_cfnrc_enabled">"Transferindo para <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnrc_disabled">"Desactivo"</string>
+<string name="disable_cfnrc_forbidden">"Seu portador não suporta desativar a transferência de chamada quando seu telefone é não chegável."</string>
+<string name="updating_title">"Definições de chamada"</string>
+<string name="error_updating_title">"Erro de ajuste de chamada"</string>
+<string name="reading_settings">"Lendo o ajuste\u2026"</string>
+<string name="updating_settings">"Atualizando o ajuste\u2026"</string>
+<string name="reverting_settings">"Revertendo o ajuste\u2026"</string>
+<string name="response_error">"Resposta inesperada de rede."</string>
+<string name="exception_error">"Rede ou SIM cartão erro."</string>
+<string name="fdn_check_failure">"O ajuste de Números de Chamada Fixas de aplicação do seu telefone é ligado. Como um resultado, algumas características de chamada-relativa não estão funcionando."</string>
+<string name="radio_off_error">"Ligar o rádio antes de ver estes ajustes."</string>
+<string name="close_dialog">"OK"</string>
+<string name="enable">"Activar"</string>
+<string name="disable">"Desactivar"</string>
+<string name="change_num">"Atualização"</string>
+<string-array name="clir_display_values">
+<item>"Rede default"</item>
+<item>"Esconder número"</item>
+<item>"Mostrar número"</item>
+</string-array>
+<string name="vm_changed">"Número de vozmail mudado."</string>
+<string name="vm_change_failed">"Não pode mudar o número de vozmail.\nContate com o seu portador se este problema persiste."</string>
+<string name="fw_change_failed">"Não pode mudar o número transferido.\nContate com o seu portador se este problema persiste."</string>
+<string name="fw_get_in_vm_failed">"Não pode recuperar nem guardar o ajuste de número transferido corrente.\nMudar para um novo fornecedor de qualquer maneira?"</string>
+<string name="no_change">"Sem mudança foi feita."</string>
+<string name="sum_voicemail_choose_provider">"Escolher o serviço de vozmail"</string>
+<string name="voicemail_default">"Meu portador"</string>
+<string name="mobile_networks">"Ajuste de rede móvel"</string>
+<string name="label_available">"Redes disponíveis"</string>
+<string name="load_networks_progress">"Procurando\u2026"</string>
+<string name="empty_networks_list">"Sem rede procurado."</string>
+<string name="search_networks">"Buscar os redes"</string>
+<string name="network_query_error">"Erro quando está buscando os redes."</string>
+<string name="register_on_network">"Registrando em <xliff:g id="network">%s</xliff:g>\u2026"</string>
+<string name="not_allowed">"Seu SIM cartão não permite uma conexão para este rede."</string>
+<string name="connect_later">"Não pode ligar com este rede agora. Tente de novo mais tarde."</string>
+<string name="registration_done">"Registrado no rede."</string>
+<string name="sum_carrier_select">"Escolha o operador de rede"</string>
+<string name="sum_search_networks">"Buscar todos os redes disponíveis"</string>
+<string name="select_automatically">"Escolher automaticamente"</string>
+<string name="sum_select_automatically">"Escolher automaticamente o rede preferido"</string>
+<string name="register_automatically">"Registração automática\u2026"</string>
+<string name="preferred_network_mode_title">"Modo de Rede"</string>
+<string name="preferred_network_mode_summary">"Mudar o modo de operação de rede"</string>
+<string name="preferred_network_mode_dialogtitle">"Modo de rede preferido"</string>
+<string name="preferred_network_mode_wcdma_perf_summary">"Modo de rede preferido: WCDMA preferido"</string>
+<string name="preferred_network_mode_gsm_only_summary">"Modo de rede preferido: GSM apenas"</string>
+<string name="preferred_network_mode_wcdma_only_summary">"Modo de rede preferido: WCDMA apenas"</string>
+<string name="preferred_network_mode_gsm_wcdma_summary">"Modo de rede preferido: GSM / WCDMA"</string>
+<string name="preferred_network_mode_cdma_summary">"Modo de rede preferido: CDMA"</string>
+<string name="preferred_network_mode_cdma_evdo_summary">"Modo de rede preferido: CDMA / EvDo"</string>
+<string name="preferred_network_mode_cdma_only_summary">"Modo de rede preferido: CDMA apenas"</string>
+<string name="preferred_network_mode_evdo_only_summary">"Modo de rede preferido: EvDo apenas"</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"Modo de rede preferido: CDMA/EvDo/GSM/WCDMA"</string>
+<string name="preferred_network_mode_lte_summary">"Modo de rede preferido: LTE"</string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">"Modo de rede preferido: GSM/WCDMA/LTE"</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">"Modo de rede preferido: CDMA+LTE/EVDO"</string>
+<string name="preferred_network_mode_global_summary">"Modo de rede preferido: Global"</string>
+<string name="preferred_network_mode_lte_wcdma_summary">"Modo de rede preferido: LTE / WCDMA"</string>
+<string-array name="preferred_network_mode_choices">
+<item>"LTE / WCDMA"</item>
+<item>"LTE"</item>
+<item>"Global"</item>
+<item>"GSM/WCDMA/LTE"</item>
+<item>"CDMA + LTE/EvDo"</item>
+<item>"CDMA/EvDo/GSM/WCDMA"</item>
+<item>"EvDo apenas"</item>
+<item>"CDMA w/o EvDo"</item>
+<item>"CDMA/EvDo auto"</item>
+<item>"GSM/WCDMA auto"</item>
+<item>"WCDMA apenas"</item>
+<item>"GSM apenas"</item>
+<item>"GSM/WCDMA preferido"</item>
+</string-array>
+<string name="data_enabled">"Dados ativados"</string>
+<string name="data_enable_summary">"Ativar o acesso de dados sobre o rede móvel"</string>
+<string name="roaming">"Roaming de dados"</string>
+<string name="roaming_enable">"Conectar a serviços de dados quando em roaming"</string>
+<string name="roaming_disable">"Conectar a serviços de dados quando em roaming"</string>
+<string name="roaming_reenable_message">"Você perdeu a conetividade de dados porque você deixa o seu rede de casa com voar os dados desligado."</string>
+<string name="roaming_warning">"Permitir voar os dados? Você pode incorrer nas cobranças de voar significativo!"</string>
+<string name="gsm_umts_options">"Opções de GSM/UMTS"</string>
+<string name="cdma_options">"Opções de CDMA"</string>
+<string name="throttle_data_usage">"Utilização de dados"</string>
+<string name="throttle_current_usage">"Dados usados no período corrente"</string>
+<string name="throttle_time_frame">"Período de uso de dados"</string>
+<string name="throttle_rate">"Política de escala de dados"</string>
+<string name="throttle_help">"Estudar mais"</string>
+<string name="throttle_status_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) de <xliff:g id="used">%3$s</xliff:g> máx período\nPróximo período inicia em <xliff:g id="used">%4$d</xliff:g> dias (<xliff:g id="used">%5$s</xliff:g>)"</string>
+<string name="throttle_data_usage_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) de <xliff:g id="used">%3$s</xliff:g> máx período  "</string>
+<string name="throttle_data_rate_reduced_subtext">"<xliff:g id="used">%1$s</xliff:g> máx excedido\nEscala de dados reduzida para <xliff:g id="used">%2$d</xliff:g> Kb/s"</string>
+<string name="throttle_time_frame_subtext">"<xliff:g id="used">%1$d</xliff:g>\u066A de ciclo passado\nPróximo período inicia em <xliff:g id="used">%2$d</xliff:g> dias (<xliff:g id="used">%3$s</xliff:g>)"</string>
+<string name="throttle_rate_subtext">"Escala de dados reduzida para <xliff:g id="used">%1$d</xliff:g> Kb/s se o limite de uso de dados é excedido"</string>
+<string name="throttle_help_subtext">"Mais informação sobre a política de uso de dados de rede móvel do seu portador"</string>
+<string name="cell_broadcast_sms">"SMS de Transmissão de Cela"</string>
+<string name="enable_disable_cell_bc_sms">"SMS de Transmissão de Cela"</string>
+<string name="cell_bc_sms_enable">"SMS de Transmissão de Cela ativada"</string>
+<string name="cell_bc_sms_disable">"SMS de Transmissão Regional desativada"</string>
+<string name="cb_sms_settings">"Ajuste de SMS de Transmissão de Cela"</string>
+<string name="enable_disable_emergency_broadcast">"Transmissão de Emergência"</string>
+<string name="emergency_broadcast_enable">"Transmissão de Emergência ativada"</string>
+<string name="emergency_broadcast_disable">"Transmissão de Emergência desativada"</string>
+<string name="enable_disable_administrative">"Administrativo"</string>
+<string name="administrative_enable">"Administrativo ativado"</string>
+<string name="administrative_disable">"Administrativo desativado"</string>
+<string name="enable_disable_maintenance">"Manutenção"</string>
+<string name="maintenance_enable">"Manutenção ativada"</string>
+<string name="maintenance_disable">"Manutenção desativada"</string>
+<string name="general_news_settings">"Notícias Gerais"</string>
+<string name="bf_news_settings">"Notícias de Negócio e Finança"</string>
+<string name="sports_news_settings">"Notícias de Esporte"</string>
+<string name="entertainment_news_settings">"Notícias de Diversão"</string>
+<string name="enable_disable_local">"Local"</string>
+<string name="local_enable">"Notícias locais ativadas"</string>
+<string name="local_disable">"Notícias locais desativadas"</string>
+<string name="enable_disable_regional">"Regional"</string>
+<string name="regional_enable">"Notícias regionais ativadas"</string>
+<string name="regional_disable">"Notícias regionais desativadas"</string>
+<string name="enable_disable_national">"Nacional"</string>
+<string name="national_enable">"Notícias nacionais ativadas"</string>
+<string name="national_disable">"Notícias nacionais desativadas"</string>
+<string name="enable_disable_international">"Internacional"</string>
+<string name="international_enable">"Notícias internacionais ativadas"</string>
+<string name="international_disable">"Notícias internacionais desativadas"</string>
+<string name="list_language_title">"Idioma"</string>
+<string name="list_language_summary">"Selecionar a lingua de notícias"</string>
+<string-array name="list_language_entries">
+<item>"Inglês"</item>
+<item>"Francês"</item>
+<item>"Espanhol"</item>
+<item>"Japonês"</item>
+<item>"Coreano"</item>
+<item>"Chinês"</item>
+<item>"Hebraico"</item>
+</string-array>
+<string name="list_language_dtitle">"Línguas"</string>
+<string name="enable_disable_local_weather">"Clima Local"</string>
+<string name="local_weather_enable">"Clima Local ativado"</string>
+<string name="local_weather_disable">"Clima Local desativado"</string>
+<string name="enable_disable_atr">"Relatórios de Trâfico de Área"</string>
+<string name="atr_enable">"Relatórios de Trâfico de Área ativados"</string>
+<string name="atr_disable">"Relatórios de Trâfico de Área desativados"</string>
+<string name="enable_disable_lafs">"Horários de Vôo de Aeroporto Local"</string>
+<string name="lafs_enable">"Horários de Vôo de Aeroporto Local ativados"</string>
+<string name="lafs_disable">"Horários de Vôo de Aeroporto Local desativados"</string>
+<string name="enable_disable_restaurants">"Restaurantes"</string>
+<string name="restaurants_enable">"Restaurantes ativados"</string>
+<string name="restaurants_disable">"Restaurantes desativados"</string>
+<string name="enable_disable_lodgings">"Alojamentos"</string>
+<string name="lodgings_enable">"Alojamentos ativados"</string>
+<string name="lodgings_disable">"Alojamentos desativados"</string>
+<string name="enable_disable_retail_directory">"Diretório Varejo"</string>
+<string name="retail_directory_enable">"Diretório Varejo ativado"</string>
+<string name="retail_directory_disable">"Diretório Varejo desativado"</string>
+<string name="enable_disable_advertisements">"Anúncios"</string>
+<string name="advertisements_enable">"Anúncios ativados"</string>
+<string name="advertisements_disable">"Anúncios desativados"</string>
+<string name="enable_disable_stock_quotes">"Quotações de Estoque"</string>
+<string name="stock_quotes_enable">"Quotações de Estoque ativadas"</string>
+<string name="stock_quotes_disable">"Quotações de Estoque desativadas"</string>
+<string name="enable_disable_eo">"Oportunidades de Emprego"</string>
+<string name="eo_enable">"Oportunidades de Emprego ativadas"</string>
+<string name="eo_disable">"Oportunidades de Emprego desativadas"</string>
+<string name="enable_disable_mhh">"Medical, Saúde, e Hospital"</string>
+<string name="mhh_enable">"Medical, Saúde, e Hospital ativado"</string>
+<string name="mhh_disable">"Medical, Saúde, e Hospital desativado"</string>
+<string name="enable_disable_technology_news">"Notícias de Tecnologia"</string>
+<string name="technology_news_enable">"Notícias de Tecnologia ativadas"</string>
+<string name="technology_news_disable">"Notícias de Tecnologia desativadas"</string>
+<string name="enable_disable_multi_category">"Multi-categoria"</string>
+<string name="multi_category_enable">"Multi-categoria ativada"</string>
+<string name="multi_category_disable">"Multi-categoria desativada"</string>
+<string name="prefer_2g">"Usar apenas os redes de 2G"</string>
+<string name="prefer_2g_summary">"Guardar bateria"</string>
+<string name="cdma_system_select_title">"Selecionar Sistema"</string>
+<string name="cdma_system_select_summary">"Mudar o modo de voar CDMA"</string>
+<string name="cdma_system_select_dialogtitle">"Selecionar Sistema"</string>
+<string-array name="cdma_system_select_choices">
+<item>"Principal apenas"</item>
+<item>"Automático"</item>
+</string-array>
+<string name="cdma_subscription_title">"Subscrição de CDMA"</string>
+<string name="cdma_subscription_summary">"Mudar entre RUIM/SIM e NV"</string>
+<string name="cdma_subscription_dialogtitle">"subscrição"</string>
+<string name="cdma_activate_device">"Ativar o aparelho"</string>
+<string name="cdma_lte_data_service">"Ajustar o serviço de dados"</string>
+<string name="fdn">"Números de Chamada Fixa"</string>
+<string name="manage_fdn_list">"FDN lista"</string>
+<string name="fdn_activation">"FDN ativação"</string>
+<string name="fdn_enabled">"Os Números de Chamada Fixa são ativados"</string>
+<string name="fdn_disabled">"Os Números de Chamada Fixa são desativados"</string>
+<string name="enable_fdn">"Ativar FDN"</string>
+<string name="disable_fdn">"Desativar FDN"</string>
+<string name="change_pin2">"Mudar PIN2"</string>
+<string name="enable_fdn_ok">"Desativar FDN"</string>
+<string name="disable_fdn_ok">"Ativar FDN"</string>
+<string name="sum_fdn">"Administrar os Números de Chamada Fixa"</string>
+<string name="sum_fdn_change_pin">"Mudar PIN para FDN acesso"</string>
+<string name="sum_fdn_manage_list">"Administrar a lista de número de telefone"</string>
+<string name="voice_privacy">"Privacidade de voz"</string>
+<string name="voice_privacy_summary">"Ativar o modo de privacidade aprimorada"</string>
+<string name="tty_mode_option_title">"TTY modo"</string>
+<string name="tty_mode_option_summary">"Ajustar o TTY modo"</string>
+<string name="auto_retry_mode_title">"Auto-retentar"</string>
+<string name="auto_retry_mode_summary">"Ativar o modo de auto-retentar"</string>
+<string name="menu_add">"Adicionar contacto"</string>
+<string name="menu_edit">"Editar contacto"</string>
+<string name="menu_delete">"Deletar contato"</string>
+<string name="get_pin2">"Entrar o PIN2"</string>
+<string name="name">"Nome"</string>
+<string name="number">"Número  "</string>
+<string name="save">"Salvar"</string>
+<string name="add_fdn_contact">"Adicionar o número de chamada fixa"</string>
+<string name="adding_fdn_contact">"Adicionando o número de chamada fixa\u2026"</string>
+<string name="fdn_contact_added">"Número de chamada fixa adicionado."</string>
+<string name="edit_fdn_contact">"Editar o número de chamada fixa"</string>
+<string name="updating_fdn_contact">"Atualizando o número de chamada fixa\u2026"</string>
+<string name="fdn_contact_updated">"Número de chamada fixa atualizado."</string>
+<string name="delete_fdn_contact">"Deletar o número de chamada fixa"</string>
+<string name="deleting_fdn_contact">"Deletando o número de chamada fixa\u2026"</string>
+<string name="fdn_contact_deleted">"Número de chamada fixa deletado."</string>
+<string name="pin2_invalid">"FDN não foi atualizado porque você entrou um PIN incorreto."</string>
+<string name="fdn_invalid_number">"FDN não foi atualizado porque o número não pode exceder de 20 dígitos."</string>
+<string name="pin2_or_fdn_invalid">"FDN não foi atualizado. O PIN2 foi incorreto, ou o número de telefone foi rejeitado."</string>
+<string name="simContacts_emptyLoading">"Lendo de SIM cartão\u2026"</string>
+<string name="simContacts_empty">"Sem contato no seu SIM cartão."</string>
+<string name="simContacts_title">"Selecionar os contatos para importar"</string>
+<string name="simContacts_airplaneMode">"Para importar os contatos de SIM cartão, primeiro desligue o modo de Avião."</string>
+<string name="enable_pin">"Ativar/Desativar SIM PIN"</string>
+<string name="change_pin">"Alterar PIN de SIM"</string>
+<string name="enter_pin_text">"SIM PIN:"</string>
+<string name="oldPinLabel">"PIN Antigo"</string>
+<string name="newPinLabel">"Novo PIN"</string>
+<string name="confirmPinLabel">"Confirmar o novo PIN"</string>
+<string name="badPin">"O PIN antigo que entrou não é correto. Tentar de novo."</string>
+<string name="mismatchPin">"Os PINs que entrou não combinam. Tentar de novo."</string>
+<string name="invalidPin">"Entrar um PIN que é 4 a 8 números."</string>
+<string name="disable_sim_pin">"Desativar SIM PIN"</string>
+<string name="enable_sim_pin">"Ativar SIM PIN"</string>
+<string name="enable_in_progress">"Por favor aguarde\u2026"</string>
+<string name="enable_pin_ok">"SIM PIN ativado."</string>
+<string name="disable_pin_ok">"SIM PIN desativado."</string>
+<string name="pin_failed">"O PIN que entrou foi incorreto."</string>
+<string name="pin_changed">"SIM PIN mudado com sucesso."</string>
+<string name="puk_requested">"Senha incorreta, o SIM é trancado! O PUK2 solicitado."</string>
+<string name="oldPin2Label">"PIN2 Antigo"</string>
+<string name="newPin2Label">"PIN2 Novo"</string>
+<string name="confirmPin2Label">"Confirmar o novo PIN2"</string>
+<string name="badPuk2">"O PUK2 que entrou não é correto. Tentar de novo."</string>
+<string name="badPin2">"O PIN2 antigo que entrou não é correto. Tentar de novo."</string>
+<string name="mismatchPin2">"Os PIN2s que entrou não combinam. Tentar de novo."</string>
+<string name="invalidPin2">"Entrar um PIN2 que é 4 a 8 números."</string>
+<string name="invalidPuk2">"Entrar um PUK2 que é 8 números."</string>
+<string name="pin2_changed">"PIN2 mudado com sucesso."</string>
+<string name="label_puk2_code">"Entrar o código de PUK2""</string>
+<string name="fdn_enable_puk2_requested">"Senha incorreta. Mudar PIN2 e retentar."</string>
+<string name="puk2_requested">"Senha incorreta, SIM é trancado. PUK2 solicitado."</string>
+<string name="doneButton">"Concluído"</string>
+<string name="caller_manage_header">"Chamada de conferência <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"Número de vozmail"</string>
+<string name="card_title_dialing">"Chamando"</string>
+<string name="card_title_redialing">"Retentando"</string>
+<string name="card_title_conf_call">"Chamada de conferência"</string>
+<string name="card_title_incoming_call">"Chamada de entrada"</string>
+<string name="card_title_call_ended">"Chamada acabada"</string>
+<string name="card_title_on_hold">"Segurar  "</string>
+<string name="card_title_hanging_up">"Atendendo"</string>
+<string name="card_title_in_call">"Na chamada"</string>
+<string name="card_title_my_phone_number">"Meu número é <xliff:g id="meu_telefone_número">%s</xliff:g>"</string>
+<string name="notification_dialing">"Chamando"</string>
+<string name="notification_missedCallTitle">"Chamada perdida"</string>
+<string name="notification_missedCallsTitle">"Chamadas perdidas"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> chamadas perdidas"</string>
+<string name="notification_missedCallTicker">"Chamada perdida de <xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">"Chamada de entrada"</string>
+<string name="notification_on_hold">"Segurar  "</string>
+<string name="notification_incoming_call">"Chamada de entrada"</string>
+<string name="notification_voicemail_title">"Novo vozmail"</string>
+<string name="notification_voicemail_title_count">"Novo vozmail (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"Chamar <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"Número de vozmail desconhecido"</string>
+<string name="notification_network_selection_title">"Sem serviço"</string>
+<string name="notification_network_selection_text">"Rede selecionado (<xliff:g id="operator_name">%s</xliff:g>) indisponível"</string>
+<string name="notification_action_end_call">"Desligar"</string>
+<string name="notification_missedCall_call_back">"Ligar de volta"</string>
+<string name="notification_missedCall_message">"Mensagem"</string>
+<string name="incall_error_power_off">"Para colocar uma chamada, primeiro desligue o modo de Avião."</string>
+<string name="incall_error_emergency_only">"Não registrado no rede."</string>
+<string name="incall_error_out_of_service">"Rede móvel não disponível."</string>
+<string name="incall_error_no_phone_number_supplied">"Chamada não enviada, sem número válido entrado."</string>
+<string name="incall_error_call_failed">"Chamada não enviada"</string>
+<string name="incall_status_dialed_mmi">"Iniciando a MMI sequência\u2026"</string>
+<string name="incall_error_supp_service_unknown">"Serviço não suportado."</string>
+<string name="incall_error_supp_service_switch">"Não pode mudar as chamadas."</string>
+<string name="incall_error_supp_service_separate">"Não pode separar a chamada."</string>
+<string name="incall_error_supp_service_transfer">"Não pode transferir a chamada."</string>
+<string name="incall_error_supp_service_conference">"Não pode fazer as chamadas de conferência."</string>
+<string name="incall_error_supp_service_reject">"Não pode rejeitar a chamada."</string>
+<string name="incall_error_supp_service_hangup">"Não pode soltar a chamada(s)."</string>
+<string name="incall_call_type_label_sip">"Chamada de internet"</string>
+<string name="emergency_enable_radio_dialog_title">"Chamada de emergência"</string>
+<string name="emergency_enable_radio_dialog_message">"Ligando o rádio\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"Fora de área de serviço, retentando\u2026"</string>
+<string name="dial_emergency_error">"Chamada não enviada. <xliff:g id="non_emergency_number">%s</xliff:g> não é um número de emergência!"</string>
+<string name="dial_emergency_empty_error">"Chamada não enviada. Chamar um número de emergência!"</string>
+<string name="dialerKeyboardHintText">"Usar teclado para chamar"</string>
+<string name="onscreenHoldText">"Segurar"</string>
+<string name="onscreenEndCallText">"Fim"</string>
+<string name="onscreenShowDialpadText">"Teclado de Disca"</string>
+<string name="onscreenMuteText">"SILÊNCIO"</string>
+<string name="onscreenAddCallText">"Adicionar chamada"</string>
+<string name="onscreenMergeCallsText">"Fundir as chamadas"</string>
+<string name="onscreenSwapCallsText">"Trocar"</string>
+<string name="onscreenManageCallsText">"Administrar as chamadas"</string>
+<string name="onscreenManageConferenceText">"Administrar a conferência"</string>
+<string name="onscreenAudioText">"Áudio"</string>
+<string name="onscreenVideoCallText">"Chamada de vídeo"</string>
+<string name="importSimEntry">"Importar"</string>
+<string name="importAllSimEntries">"Importar tudo"</string>
+<string name="importingSimContacts">"Importando os contatos de SIM"</string>
+<string name="importToFDNfromContacts">"Importar de contatos"</string>
+<string name="hac_mode_title">"Aparelhos auditivos"</string>
+<string name="hac_mode_summary">"Ligar a compatibilidade de aparelho auditivo"</string>
+<string-array name="tty_mode_entries">
+<item>"TTY Desligar"</item>
+<item>"TTY Cheio"</item>
+<item>"TTY HCO"</item>
+<item>"TTY VCO"</item>
+</string-array>
+<string name="dtmf_tones_title">"DTMF tons"</string>
+<string name="dtmf_tones_summary">"Ajustar o comprimento de DTMF tons"</string>
+<string-array name="dtmf_tone_entries">
+<item>"Normal"</item>
+<item>"Longo"</item>
+</string-array>
+<string name="network_message">"Mensagem de rede"</string>
+<string name="ota_title_activate">"Ativar o seu telefone"</string>
+<string name="ota_touch_activate">"Uma chamada especial precisa de ser feita para ativar o serviço do seu telefone.\n\nDepois de clicar \u201CAtivar\u201D, ouça as instruções fornecidas para ativar o seu telefone."</string>
+<string name="ota_skip_activation_dialog_title">"Saltar activação\?"</string>
+<string name="ota_skip_activation_dialog_message">"Se você salta a ativação, você não pode fazer as chamadas nem ligar com os redes de dados móveis (embora você possa ligar com os redes de Wi-Fi). Até você ativa o seu telefone, você está perguntado ativar cada vez você o liga."</string>
+<string name="ota_skip_activation_dialog_skip_label">"Pular"</string>
+<string name="ota_activate">"Activar"</string>
+<string name="ota_title_activate_success">"O telefone é ativado."</string>
+<string name="ota_title_problem_with_activation">"Problema com ativação"</string>
+<string name="ota_listen">"Segue às instruções faladas até você ouvir que a ativação é completa."</string>
+<string name="ota_speaker">"Alto-falante"</string>
+<string name="ota_progress">"Espere quando o seu telefone está sendo programado."</string>
+<string name="ota_failure">"Programando sem sucesso"</string>
+<string name="ota_successful">"Seu telefone é ativado agora. O qual pode demorar 15 minutos para iniciar o serviço."</string>
+<string name="ota_unsuccessful">"Seu telefone não ativa. \nVocê pode precisar uma áera com melhor cobertura (perto duma janelam ou no exterior). \n\nTentar de novo ou chamar o serviço de cliente para mais opções."</string>
+<string name="ota_spc_failure">"FALHA DE SPC EXCESSO"</string>
+<string name="ota_call_end">"Retroceder"</string>
+<string name="ota_try_again">"Tente novamente"</string>
+<string name="ota_next">"Seguinte"</string>
+<string name="phone_entered_ecm_text">"Modo de Chamada de Volta de Emergência Entrada"</string>
+<string name="phone_in_ecm_notification_title">"Modo de Chamada de Volta de Emergência"</string>
+<string name="phone_in_ecm_call_notification_text">"Conexão de dados desativadas"</string>
+<plurals name="phone_in_ecm_notification_time">
+<item quantity="one">"Sem conexão de dados para <xliff:g id="count">%s</xliff:g> minuto"</item>
+<item quantity="other">"Sem conexão de dados para <xliff:g id="count">%s</xliff:g> minutos"</item>
+</plurals>
+<plurals name="alert_dialog_exit_ecm">
+<item quantity="one">"O telefone será no modo de Chamada de Volta de Emergência para <xliff:g id="count">%s</xliff:g> minuto. Neste modo, nenhuma aplicação usando uma conexão de dados pode ser usada. Se quer sair agora?"</item>
+<item quantity="other">"O telefone será no modo de Chamada de Volta de Emergência para <xliff:g id="count">%s</xliff:g> minutos. Neste modo, nenhuma aplicação usando uma conexão de dados pode ser usada. Se quer sair agora?"</item>
+</plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="one">"A ação selecionada não é disponível quando no modo de Chamada de Volta de Emergência. O telefone será neste modo para <xliff:g id="count">%s</xliff:g> minuto. Se quer sair agora?"</item>
+<item quantity="other">"A ação selecionada não é disponível quando no modo de Chamada de Volta de Emergência. O telefone será neste modo para <xliff:g id="count">%s</xliff:g> minutos. Se quer sair agora?"</item>
+</plurals>
+<string name="alert_dialog_in_ecm_call">"A ação selecionada não é disponível quando numa chamada de emergência."</string>
+<string name="progress_dialog_exiting_ecm">"Saindo de modo de Chamada de Volta de Emergência"</string>
+<string name="alert_dialog_yes">"Sim"</string>
+<string name="alert_dialog_no">"Não"</string>
+<string name="alert_dialog_dismiss">"Recusar"</string>
+<string name="voicemail_provider">"Serviço"</string>
+<string name="voicemail_settings">"Ajuste"</string>
+<string name="voicemail_number_not_set">"Não ajuste"</string>
+<string name="other_settings">"Outros ajustes de chamada"</string>
+<string name="calling_via_template">"Chamando via <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"Fotografia de Contacto"</string>
+<string name="goPrivate">"ir privato"</string>
+<string name="selectContact">"Selecionar contato"</string>
+<string name="sip_settings">"Ajuste de chamada de Internet"</string>
+<string name="sip_accounts">"Contas de chamada (SIP) de Internet"</string>
+<string name="sip_accounts_title">"Conta:"</string>
+<string name="sip_receive_calls">"Receber as chamadas de entrada"</string>
+<string name="sip_receive_calls_summary">"Reduzir a vida de bateria"</string>
+<string name="sip_call_options_title">"Usar a chamada de Internet"</string>
+<string name="sip_call_options_wifi_only_title">"Usar a chamada de Internet (Wi-Fi apenas)"</string>
+<string name="sip_call_options_entry_1">"Para todas as chamadas quando o rede de dados é disponível"</string>
+<string name="sip_call_options_entry_2">"Apenas para as chamadas de Internet"</string>
+<string name="sip_call_options_entry_3">"Perguntar cada chamada"</string>
+<string name="sip_call_options_wifi_only_entry_1">"Para todas as chamadas"</string>
+<string name="pick_outgoing_call_phone_type">"Fazer uma chamada"</string>
+<string name="pick_outgoing_sip_phone">"Usar a conta de chamada de Internet:"</string>
+<string name="remember_my_choice">"Sempre usar para fazer as chamadas de Internet"</string>
+<string name="reset_my_choice_hint">"Você pode mudar que conta de chamada de Internet para usar por default de Telefone Ajuste  Ajuste de chamada de Internet Tela de contas."</string>
+<string name="pstn_phone">"Chamada de telefone de cela"</string>
+<string name="internet_phone">"Chamada de internet"</string>
+<string name="no_sip_account_found_title">"Sem conta de chamada de Internet"</string>
+<string name="no_sip_account_found">"Há nenhuma conta de chamada de Internet neste telefone. Se quer adicionar uma agora?"</string>
+<string name="sip_menu_add">"Adicionar"</string>
+<string name="add_sip_account">"Adicionar conta"</string>
+<string name="remove_sip_account">"Remover conta"</string>
+<string name="sip_account_list">"SIP contas"</string>
+<string name="saving_account">"Guardando a conta\u2026"</string>
+<string name="removing_account">"Removendo a conta\u2026"</string>
+<string name="sip_menu_save">"Salvar"</string>
+<string name="sip_menu_discard">"Descartar"</string>
+<string name="alert_dialog_close">"Fechar o perfil"</string>
+<string name="alert_dialog_ok">"OK"</string>
+<string name="close_profile">"Fechar"</string>
+<string name="primary_account_summary_with">"Conta primária. <xliff:g id="registration_status" example="Registering...">%s</xliff:g>"</string>
+<string name="registration_status_checking_status">"Verificando o estado..."</string>
+<string name="registration_status_registering">"Registrando\u2026"</string>
+<string name="registration_status_still_trying">"Ainda tentando\u2026"</string>
+<string name="registration_status_not_receiving">"Não recebendo as chamadas."</string>
+<string name="registration_status_no_data">"Registração de conta parada porque há nenhuma conexão de Internet."</string>
+<string name="registration_status_no_wifi_data">"Registração de conta parada porque há nenhuma conexão de Wi-Fi."</string>
+<string name="registration_status_not_running">"Registração de conta sem sucesso."</string>
+<string name="registration_status_done">"Recebendo as chamadas."</string>
+<string name="registration_status_failed_try_later">"Registração de conta sem sucesso: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); vai tentar mais tarde"</string>
+<string name="registration_status_invalid_credentials">"Registração de conta sem sucesso: Nome ou senha de usuário incorreta."</string>
+<string name="registration_status_server_unreachable">"Registração de conta sem sucesso: Verificar o nome de servidor."</string>
+<string name="third_party_account_summary">"Esta conta é atualmente no uso por <xliff:g id="account_owner" example="Google Talk">%s</xliff:g> aplicação."</string>
+<string name="sip_edit_title">"Detalhes de conta de SIP"</string>
+<string name="sip_edit_new_title">"Detalhes de conta de SIP"</string>
+<string name="domain_address_title">"Servidor"</string>
+<string name="username_title">"Nome de usuário"</string>
+<string name="password_title">"Senha"</string>
+<string name="display_name_title">"Display nome"</string>
+<string name="proxy_address_title">"Endereço de proxy de saída"</string>
+<string name="port_title">"Número de porta"</string>
+<string name="transport_title">"Tipo de transportação"</string>
+<string name="send_keepalive_title">"Enviar manter-vivo"</string>
+<string name="set_primary_title">"Ajustar como conta primária"</string>
+<string name="set_primary_summary">"Usado para as chamadas de saída"</string>
+<string name="advanced_settings">"Ajustes opcionais"</string>
+<string name="auth_username_title">"Nome de usuário de atenticação"</string>
+<string name="auth_username_summary">"Nome de usuário usado para autenticação"</string>
+<string name="default_preference_summary">"Não ajuste"</string>
+<string name="display_name_summary">"Igual com nome de usuário"</string>
+<string name="optional_summary">"Opcional"</string>
+<string name="advanced_settings_show">"▷ Toque para mostrar tudo"</string>
+<string name="advanced_settings_hide">"▽ Toque para esconder tudo"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> é solicitado e não pode ser deixado em branco."</string>
+<string name="not_a_valid_port">"O número de porta deve ser dentro de 1000 e 65534."</string>
+<string name="no_internet_available_title">"Sem conexão de Internet"</string>
+<string name="no_wifi_available_title">"Sem conexão de Wi-Fi"</string>
+<string name="no_internet_available">"Para fazer uma chamada de Internet, verifique a sua conexão de Internet primeiro."</string>
+<string name="no_wifi_available">"Você precisa de ser ligado com um rede de Wi-Fi para as chamadas de Internet (usar os ajustes de Sem Fio &amp; Rede)."</string>
+<string name="no_voip">"Chamada de Internet não suportada"</string>
+<string name="sip_system_decide">"Automático"</string>
+<string name="sip_always_send_keepalive">"Sempre enviar"</string>
+<string name="not_voice_capable">"A chamada de voz não suportada"</string>
+<string name="respond_via_sms_canned_response_1">"Não pode falar agora. Que foi?"</string>
+<string name="respond_via_sms_canned_response_2">"Vou te chamar de volta."</string>
+<string name="respond_via_sms_canned_response_3">"Vou te chamar mais tarde."</string>
+<string name="respond_via_sms_canned_response_4">"Não pode falar agora. Me chame mais tarde?"</string>
+<string name="respond_via_sms_custom_message">"Escrever o seu próprio..."</string>
+<string name="custom_message_cancel">"Cancelar"</string>
+<string name="custom_message_send">"Enviar"</string>
+<string name="respond_via_sms_setting_title">"Respostas rápidas"</string>
+<string name="respond_via_sms_setting_title_2">"Edite respostas rápidas"</string>
+<string name="respond_via_sms_edittext_dialog_title">"Edite resposta rápida"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"Reajustar a aplicação default"</string>
+<string name="respond_via_sms_confirmation_format">"Mensagem enviada para <xliff:g id="phone_number">%s</xliff:g>."</string>
+<string name="description_image_button_one">"um"</string>
+<string name="description_image_button_two">"dois"</string>
+<string name="description_image_button_three">"três"</string>
+<string name="description_image_button_four">"quatro"</string>
+<string name="description_image_button_five">"cinco"</string>
+<string name="description_image_button_six">"seis"</string>
+<string name="description_image_button_seven">"sete"</string>
+<string name="description_image_button_eight">"oito"</string>
+<string name="description_image_button_nine">"nove"</string>
+<string name="description_image_button_star">"estréla"</string>
+<string name="description_image_button_zero">"Zero"</string>
+<string name="description_image_button_pound">"libra"</string>
+<string name="description_dial_button">"chamar"</string>
+<string name="description_delete_button">"retrocesso"</string>
+<string name="accessibility_speakerphone_enabled">"Fone de alto-falante ativado."</string>
+<string name="accessibility_call_muted">"Chamada mute."</string>
+<string name="description_target_answer">"Responder"</string>
+<string name="description_target_send_sms">"Enviar SMS"</string>
+<string name="description_target_decline">"Rejeitar"</string>
+<string name="description_direction_up">"Deslizar para cima <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="description_direction_left">"Deslizar para esquerda <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="description_direction_right">"Deslizar para direito <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="voicemail_notification_vibrate_when_title">"Vibrar"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"Vibrar"</string>
+<string name="voicemail_notification_ringtone_title">"Som"</string>
+<string name="default_notification_description">"Default som (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"Toque do telefone"</string>
+<string name="vibrate_on_ring_title">"Vibrar quando tocar"</string>
+<string name="dtmf_tone_enable_title">"Tons de marcação"</string>
+<string name="dial_pad_autocomplete">"Chamar almofada autocompleta"</string>
+<string name="preference_category_ringtone">"Melodia &amp; Vibrar"</string>
+<string name="manageConferenceLabel">"Administrar chamada de conferência"</string>
+<string name="emergency_call_dialog_number_for_display">"Número de emergência"</string>
+</resources>

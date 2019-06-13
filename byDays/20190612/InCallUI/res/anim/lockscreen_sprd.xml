@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+android:oneshot="true">
+	<item android:drawable="@drawable/ic_lock_arrow1_sprd" android:duration="200" />
+	<item android:drawable="@drawable/ic_lock_arrow2_sprd" android:duration="200" />
+	<item android:drawable="@drawable/ic_lock_arrow3_sprd" android:duration="200" />
+	<item android:drawable="@drawable/ic_lock_arrow4_sprd" android:duration="200" />
+</animation-list>

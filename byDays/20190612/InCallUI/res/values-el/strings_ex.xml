@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Χρόνος εγγραφής:"</string>
+<string name="onscreenShowRecodText">"Εγγραφή"</string>
+<string name="recorderr">"Αποτυχία αποθήκευσης αρχείου εγγραφής!"</string>
+<string name="audio_db_artist_name">"Οι ηχογραφήσεις σας"</string>
+<string name="audio_db_album_name">"Ηχογραφήσεις κλήσεων"</string>
+<string name="audio_db_playlist_name">"Οι ηχογραφήσεις μου"</string>
+<string name="app_name">"Εφαρμογή τηλεφώνου"</string>
+<string name="error_mediadb_new_record">"Είναι αδύνατη η αποθήκευση της ηχογράφησης"</string>
+<string name="sdcard_access_error">"Αδυναμία πρόσβασης κάρτας sd"</string>
+<string name="no_sd_card">"Δεν υπάρχει κάρτα SD ή έχει ΑΦΑΙΡΕΘΕΙ"</string>
+<string name="insert_sd_card">"Παρακαλώ εισάγετε την κάρτα SD."</string>
+<string name="storage_is_full">"Αποθηκευτικός χώρος πλήρης"</string>
+<string name="recording">"Εγγραφή"</string>
+<string name="lockscreen_comments">"Ολίσθηση προς τα κάτω για απάντηση ή απόρριψη"</string>
+<string name="lockscreen_comments_sms">"Άρνηση SMS"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"Το αρχείο εγγραφής έχει αποθηκευτεί στο"</string>
+    <string name="unknown_area">"Άγνωστη περιοχή"</string>
+    <string name="unknown_contacts">"Άγνωστες επαφές"</string>
+
+</resources>

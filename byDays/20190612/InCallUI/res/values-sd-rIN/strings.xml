@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">" فون"</string>
+<string name="onHold">" وقفي تي آهي"</string>
+<string name="unknown">"اڻڄاتل"</string>
+<string name="private_num">" پوشيده نمبر"</string>
+<string name="payphone">"پي فون"</string>
+<string name="callFailed_userBusy">" لائين مصروف آهي"</string>
+<string name="callFailed_congestion">"نيٽورڪ جي ناڪامي آهي"</string>
+<string name="callFailed_timedOut">"جواب موصول نه پيو ٿئي، وقت پورو ٿي ويو"</string>
+<string name="callFailed_server_unreachable">"سرور ناقابلِ دسترس آهي"</string>
+<string name="callFailed_number_unreachable">" نمبر ناقابلِ دسترس آهي"</string>
+<string name="callFailed_invalid_credentials">" صارف جو نالو يا پاس ورڊ غير درست آهي"</string>
+<string name="callFailed_out_of_network">"ڪال نيٽ ورڪ جي رسائي کان ٻاهر آهي"</string>
+<string name="callFailed_server_error">"سرور جي خرابي آهي، بعد ۾ ٻيهر ڪوشش ڪندا."</string>
+<string name="callFailed_noSignal">" سگنل ڪو نه آهن"</string>
+<string name="callFailed_limitExceeded">"ACM جي حد پار ٿي چڪي آهي"</string>
+<string name="callFailed_powerOff">"ريڊيو بند ڪيل آهي"</string>
+<string name="callFailed_simError">"SIM ڪانهي يا SIM جي خرابي آهي"</string>
+<string name="callFailed_outOfService">"سروس کان ٻاهر آهي"</string>
+<string name="callFailed_fdn_only">FDN پاران ٻاهرين ڪالن تي پابندي لڳل آهي."</string>
+<string name="callFailed_cb_enabled">"جڏهن ڪال روڪڻ کليل هوندو ته توهان بيروني ڪالون نه ٿا ڪري سگهو."</string>
+<string name="callFailed_dsac_restricted">"رسائي جي ضابطي پاران سمورين ڪالن تي پابندي لڳل آهي."</string>
+<string name="callFailed_dsac_restricted_emergency">"رسائي جي ضابطي پاران هنگامي ڪالن تي پابندي لڳل آهي."</string>
+<string name="callFailed_dsac_restricted_normal">"رسائي جي ضابطي پاران عام ڪالن تي پابندي لڳل آهي."</string>
+<string name="callFailed_unobtainable_number">" غير موزون نمبر"</string>
+<string name="confCall">" ڪانفرنس ڪال"</string>
+<string name="call_lost">"ڪال گم ٿي وئي آهي."</string>
+<string name="ok">"ٺيڪ آهي"</string>
+<string name="audio_mode_speaker">"اسپيڪر"</string>
+<string name="audio_mode_earpiece">"هئينڊسيٽ ايئرپيس"</string>
+<string name="audio_mode_wired_headset">"تار وارو هئيڊ سيٽ"</string>
+<string name="audio_mode_bluetooth">"بلُو ٽٿ"</string>
+<string name="wait_prompt_str">" هيٺيون ڌُنون موڪلڻ ٿا چاهيو؟\n"</string>
+<string name="pause_prompt_str">" ڌُنون موڪلجي رهيون آهن\n"</string>
+<string name="send_button">" موڪليو"</string>
+<string name="pause_prompt_yes">" هاءُ"</string>
+<string name="pause_prompt_no">"نه"</string>
+<string name="wild_prompt_str">"سان ڌاريي حرف کي مَٽيو"</string>
+<string name="caller_manage_header">"<xliff:g id="conf_call_time">%s</xliff:g> ڪانفرنس ڪال" </string>
+<string name="voicemail_settings_number_label">" آوازي ميل جو نمبر"</string>
+<string name="card_title_dialing">" ڊائل ٿي رهيو آهي"</string>
+<string name="card_title_redialing">" ٻيهر ڊائل ٿي رهيو آهي"</string>
+<string name="card_title_conf_call">" ڪانفرنس ڪال"</string>
+<string name="card_title_incoming_call">" ايندڙ ڪال"</string>
+<string name="card_title_call_ended">" ڪال پڄاڻي تي پهتي"</string>
+<string name="card_title_on_hold">" وقفي تي آهي"</string>
+<string name="card_title_hanging_up">" ڦاسي رهي آهي"</string>
+<string name="card_title_in_call">" ڪال ۾"</string>
+<string name="card_title_my_phone_number">" منهنجو نمبر<xliff:g id="my_phone_number">%s</xliff:g> آهي" </string>
+<string name="notification_dialing">" ڊائل ٿي رهيو آهي"</string>
+<string name="notification_missedCallTitle">" گُسي ويل ڪال"</string>
+<string name="notification_missedCallsTitle">"گسي ويل ڪالون"</string>
+<string name="notification_missedCallsMsg">"گسي ويل ڪالون <xliff:g id="num_missed_calls">%s</xliff:g>"</string>
+<string name="notification_missedCallTicker">" <xliff:g id="missed_call_from">%s</xliff:g> وٽان گسي ويل ڪال"</string>
+<string name="notification_ongoing_call">" جاري ڪال"</string>
+<string name="notification_on_hold">" وقفي تي آهي"</string>
+<string name="notification_incoming_call">" ايندڙ ڪال"</string>
+<string name="notification_voicemail_title">" نئين آوازي ميل"</string>
+<string name="notification_voicemail_title_count">" نئين آوازي ميل (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"<xliff:g id="voicemail_number">%s</xliff:g> ڊائل ڪريو"</string>
+<string name="notification_voicemail_no_vm_number">"آوازي ميل جو نمبر اڻڄاتل آهي"</string>
+<string name="notification_network_selection_title">" ڪا به سروس ڪونهي"</string>
+<string name="notification_network_selection_text">"چونڊ ڪيل نيٽ ورڪ (<xliff:g id="operator_name">%s</xliff:g>) ميسر ناهي"</string>
+<string name="notification_action_end_call">"ڦاسايو"</string>
+<string name="notification_missedCall_call_back">" واپسي ڪال ڪريو"</string>
+<string name="notification_missedCall_message">"پيغام"</string>
+<string name="incall_error_power_off">"ڪال ڪرڻ کاءِ، پهرين جهازي طرز کي بند ڪريو."</string>
+<string name="incall_error_emergency_only">"ڪو به رجسٽر ٿيل نيٽ ورڪ ڪونهي."</string>
+<string name="incall_error_out_of_service">"سيليولر نيٽ ورڪ غير ميسر آهي"</string>
+<string name="incall_error_no_phone_number_supplied">"ڪال نه موڪلجي سگهي، ڪو به موزون نمبر داخل نه ڪيو ويو."</string>
+<string name="incall_error_call_failed">"ڪال نه موڪلي وئي."</string>
+<string name="incall_status_dialed_mmi">"MMI جي تسلسل کي شروع ڪري رهيو آهي..."</string>
+<string name="incall_error_supp_service_unknown">"غير سهوليتي سروس."</string>
+<string name="incall_error_supp_service_switch">"ڪالن کي سوئچ نه ٿو ڪري سگهي."</string>
+<string name="incall_error_supp_service_separate">"ڪال کي الڳ ڪرڻ جي قابل ڪونهي."</string>
+<string name="incall_error_supp_service_transfer">"ڪال منتقل نه ٿو ڪري سگهي."</string>
+<string name="incall_error_supp_service_conference">" مشترڪه ڪالون نه ٿي سگهن."</string>
+<string name="incall_error_supp_service_reject">"ڪال کي منسوخ ڪرڻ جي قابل ڪونهي."</string>
+<string name="incall_error_supp_service_hangup">"ڪال (ن) کي آزاد ڪرڻ جي قابل ڪونهي."</string>
+<string name="incall_call_type_label_sip">"انٽرنيٽ ڪال"</string>
+<string name="emergency_enable_radio_dialog_title">" هنگامي ڪال"</string>
+<string name="emergency_enable_radio_dialog_message">" ريڊيو کي کولي رهيو آهي ..."</string>
+<string name="emergency_enable_radio_dialog_retry">"سروس جي علائقي کان ٻاهر آهي، ٻيهر ڪوشش ٿي رهي آهي...."</string>
+<string name="dial_emergency_error">"ڪال نه موڪلي وئي. <xliff:g id="non_emergency_number">%s</xliff:g> ڪو هنگامي نمبر ڪونهي!"</string>
+<string name="dial_emergency_empty_error">"ڪال نه موڪلي وئي، هنگامي نمبر کي ڊائل ڪريو!"</string>
+<string name="dialerKeyboardHintText">"ڊائل ڪرڻ جي لاءِ ڪي بورڊ کي استعمال ڪريو"</string>
+<string name="onscreenHoldText">" وقفو ڪريو"</string>
+<string name="onscreenEndCallText">" ختم ڪريو"</string>
+<string name="onscreenShowDialpadText">" ڊائل پيڊ"</string>
+<string name="onscreenMuteText">" خاموش ڪريو"</string>
+<string name="onscreenAddCallText">" ڪال کي شامل ڪريو"</string>
+<string name="onscreenMergeCallsText">" ڪالن کي ضم ڪريو"</string>
+<string name="onscreenSwapCallsText">" مٽا سٽا"</string>
+<string name="onscreenManageCallsText">" ڪالن جي نگراني ڪريو"</string>
+<string name="onscreenManageConferenceText">" مشترڪه جي نگراني ڪريو"</string>
+<string name="onscreenAudioText">" آڊيو"</string>
+<string name="onscreenVideoCallText">" ويڊيو ڪال،</string>
+<string name="voicemail_provider">"سروس"</string>
+<string name="voicemail_settings">" ترتيب"</string>
+<string name="voicemail_number_not_set">"&lt;مرتب ٿيل ڪونهي&gt;"</string>
+<string name="other_settings">"ڪال جون ٻيون ترتيبون"</string>
+<string name="calling_via_template">"<xliff:g id="provider_name">%s</xliff:g> پاران ڪال ٿي رهي آهي"</string>
+<string name="contactPhoto">" رابطي جو فوٽو"</string>
+<string name="goPrivate">" پوشيدگي طرف وڃو"</string>
+<string name="selectContact">" رابطي کي چونڊيو"</string>
+<string name="respond_via_sms_canned_response_1">"هينئر نه ٿو ڳالهائي سگهي، ڇا ٿي رهيو آهي؟"</string>
+<string name="respond_via_sms_canned_response_2">"آئون هينئر ئي ڳالهايان ٿو."</string>
+<string name="respond_via_sms_canned_response_3">"آئون بعد ۾ ڳالهائيندس."</string>
+<string name="respond_via_sms_canned_response_4">"هينئر نه ٿو ڳالهائي سگهان،مون کي بعد ۾ ڪال ڪندا؟"</string>
+<string name="respond_via_sms_custom_message">"پنهنجو سندو لکو..."</string>
+<string name="custom_message_cancel">" رد ڪريو"</string>
+<string name="custom_message_send">" موڪليو"</string>
+<string name="respond_via_sms_setting_title">" ترت جوابات"</string>
+<string name="respond_via_sms_setting_title_2">" ترت جوابات جي تدوين ڪريو"</string>
+<string name="respond_via_sms_edittext_dialog_title">" ترت جواب"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"مروجه اطلاق کي ٻيهر مرتب ڪريو"</string>
+<string name="respond_via_sms_confirmation_format">"<xliff:g id="phone_number">%s</xliff:g> کي پيغام موڪليو ويو."</string>
+<string name="description_image_button_one">"1"</string>
+<string name="description_image_button_two">"2"</string>
+<string name="description_image_button_three">"3"</string>
+<string name="description_image_button_four">"4"</string>
+<string name="description_image_button_five">"5"</string>
+<string name="description_image_button_six">"6"</string>
+<string name="description_image_button_seven">"7"</string>
+<string name="description_image_button_eight">"8"</string>
+<string name="description_image_button_nine">"9"</string>
+<string name="description_image_button_star">"تارو"</string>
+<string name="description_image_button_zero">"0"</string>
+<string name="description_image_button_pound">"پائونڊ"</string>
+<string name="description_dial_button">" ڊائل ڪريو"</string>
+<string name="description_delete_button">"بئيڪ اسپيس"</string>
+<string name="accessibility_speakerphone_enabled">"فون جو اسپيڪر فعال ٿيل آهي."</string>
+<string name="accessibility_call_muted">"ڪال ماٺ ڪرايل آهي."</string>
+<string name="description_target_answer">"جواب ڏيو"</string>
+<string name="description_target_send_sms">" ايس ايم ايس موڪليو"</string>
+<string name="description_target_decline">" انڪار ڪريو"</string>
+<string name="description_direction_up">" <xliff:g id="target_description" example="Unlock">%s</xliff:g> لاءِ مٿي سرڪايو."</string>
+<string name="description_direction_left">" <xliff:g id="target_description" example="Unlock">%s</xliff:g> لاءِ کاٻي طرف سرڪايو."</string>
+<string name="description_direction_right">" <xliff:g id="target_description" example="Unlock">%s</xliff:g> لاءِ ساڄي طرف سرڪايو."</string>
+<string name="voicemail_notification_vibrate_when_title">" ٿرٿراهٽ"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">" ٿرٿراهٽ"</string>
+<string name="voicemail_notification_ringtone_title">" آواز"</string>
+<string name="default_notification_description">" مُرَوجّه آواز  (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">" فون جي وڄندڙ ڌُن"</string>
+<string name="vibrate_on_ring_title">" گهنٽي جي دوران ٿرٿراهٽ هجي"</string>
+<string name="dtmf_tone_enable_title">" ڊائل پئڊ جي ٽچ واري ڌُن"</string>
+<string name="dial_pad_autocomplete">"پاڻمرادو تڪميل ڪندڙ ڊائل پئڊ"</string>
+<string name="preference_category_ringtone">" ڌن وارو سر ۽ ٿرٿراهٽ"</string>
+<string name="manageConferenceLabel">" ڪانفرنس ڪال جي نگراني ڪريو"</string>
+<string name="emergency_call_dialog_number_for_display">" هنگامي نمبر"</string>
+</resources>

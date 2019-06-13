@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+
+<!--
+SPRD:Added the background for the FrameLayout for bug216675, because
+the background color of Phone$DecorView is white, but the background of
+the activity is transparent, so we see the white.
+Make it background as black and the background is depends on the background
+of StatusBar.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/incall_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/incallscreen_background_sprd"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/in_call_button_side_padding"
+    android:paddingRight="@dimen/in_call_button_side_padding" >
+
+    <FrameLayout
+        android:id="@+id/photo_layout"
+        android:layout_width="@dimen/contact_photo_layout_size"
+        android:layout_height="@dimen/contact_photo_layout_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60dip"
+        android:background="@drawable/in_call_photo_bg_sprd" >
+
+        <ImageView
+            android:id="@+id/photo"
+            android:layout_width="@dimen/contact_photo_size"
+            android:layout_height="@dimen/contact_photo_size"
+            android:layout_gravity="center"
+            android:contentDescription="@string/contactPhoto"
+            android:scaleType="centerCrop"
+            android:src="@drawable/picture_unknown_sprd" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@color/incall_call_button_text_color_sprd"
+        android:textSize="@dimen/in_call_main_line_text_size" />
+
+    <TextView
+        android:id="@+id/elapsedTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@color/incall_call_button_text_color_sprd"
+        android:textSize="@dimen/in_call_secondary_line_text_size"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:gravity="bottom" >
+
+        <LinearLayout
+            android:id="@+id/addContactsLayout"
+            android:layout_width="match_parent"
+            android:layout_height="115dp"
+            android:layout_above="@+id/backButton"
+            android:layout_marginBottom="@dimen/in_call_button_top_padding"
+            android:background="@drawable/add_contacts_bg_sprd"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/ContactsNew"
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:background="@drawable/end_call_background_sprd"
+                android:padding="2dp"
+                android:text="@string/menu_add"
+                android:textColor="@color/incall_main_info_text_color_sprd" />
+
+            <Button
+                android:id="@+id/ContactsAdd"
+                android:layout_width="match_parent"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:background="@drawable/end_call_background_sprd"
+                android:padding="2dp"
+                android:text="@string/menu_edit"
+                android:textColor="@color/incall_main_info_text_color_sprd" />
+        </LinearLayout>
+
+        <Button
+            android:id="@id/backButton"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/in_call_bottom_button_height"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/in_call_button_bottom_padding"
+            android:background="@drawable/call_button_reject_sprd"
+            android:contentDescription="@string/onscreenEndCallText"
+            android:gravity="center"
+            android:text="@string/custom_message_cancel"
+            android:textColor="@color/incall_call_banner_text_color"
+            android:textSize="18dp" />
+    </RelativeLayout>
+
+</LinearLayout>

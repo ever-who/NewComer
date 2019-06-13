@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">தொலைபேசி</string>
+<string name="onHold">"காத்திருப்பில் உள்ளது"</string>
+<string name="unknown">தெரியாதது</string>
+<string name="private_num">தனிப்பட்ட எண்</string>
+<string name="payphone">தொகை செலுத்தும் தொலைபேசி</string>
+<string name="callFailed_userBusy">"இணைப்பு பிஸியாக உள்ளது"</string>
+<string name="callFailed_congestion">""நெட்வோர்க் தோல்வி"</string>
+<string name="callFailed_timedOut">"பதில் இல்லை, நேரம் முடிந்தது"</string>
+<string name="callFailed_server_unreachable">"சேவையகத்தை அடைய முடியவில்லை"</string>
+<string name="callFailed_number_unreachable">"எண்ணை அடைய முடியவில்லை"</string>
+<string name="callFailed_invalid_credentials">"தவறான பயனர் பெயர் அல்லது கடவுச்சொல்"</string>
+<string name="callFailed_out_of_network">"நெட்வொர்க்கிற்கு வெளியிலிருந்து அழைக்கப்பட்டது"</string>
+<string name="callFailed_server_error">"சேவையகப் பிழை. மீண்டும் முயற்சி செய்க."</string>
+<string name="callFailed_noSignal">"சிக்னல் இல்லை"</string>
+<string name="callFailed_limitExceeded">"ACM வரம்பை தாண்டியது"</string>
+<string name="callFailed_powerOff">ரேடியோ அணைப்பில்</string>
+<string name="callFailed_simError">"SIM இல்லை அல்லது SIM பிழை"</string>
+<string name="callFailed_outOfService">"சேவைக்கு அப்பாற்பட்ட பகுதியிலுள்ளது"</string>
+<string name="callFailed_fdn_only">"வெளியேறும் அழைப்புகள் FDNஆல் கட்டுப்படுத்தப்படுகிறது."</string>
+<string name="callFailed_cb_enabled">"அழைப்பு பாரிங்கில் ஆனில் இருக்கும் போது வெளிச்செல்லும் அழைப்பை செய்ய முடியாது."</string>
+<string name="callFailed_dsac_restricted">"அனைத்து அழைப்புகளும் அணுகல் கட்டுப்பாட்டால் தடைசெய்யப்பட்டுள்ளது."</string>
+<string name="callFailed_dsac_restricted_emergency">"அவசர அழைப்புகள் அணுகல் கட்டுப்பாட்டால் தடைசெய்யப்பட்டுள்ளது."</string>
+<string name="callFailed_dsac_restricted_normal">"சாதாரண அழைப்புகள் அணுகல் கட்டுப்பாட்டால் தடைசெய்யப்பட்டுள்ளது."</string>
+<string name="callFailed_unobtainable_number">"தவறான எண்"</string>
+<string name="confCall">"கான்பரன்ஸ் அழைப்பு"</string>
+<string name="call_lost">"அழைப்பு இழக்கப்பட்டது."</string>
+<string name="ok">ஓகே</string>
+<string name="audio_mode_speaker">"ஸ்பீக்கர்"</string>
+<string name="audio_mode_earpiece">"ஹேண்ட்செட் இயர்பீஸ்"</string>
+<string name="audio_mode_wired_headset">"ஒயர்டு ஹெட்செட்"</string>
+<string name="audio_mode_bluetooth">புளூடூத்</string>
+<string name="wait_prompt_str">"பின்வரும் டோன்களை அனுப்பவா?\n"</string>
+<string name="pause_prompt_str">"டோன்களை அனுப்புகிறது\n"</string>
+<string name="send_button">"அனுப்புக"</string>
+<string name="pause_prompt_yes">ஆம்</string>
+<string name="pause_prompt_no">"இல்லை"</string>
+<string name="wild_prompt_str">"ஒயில்ட் எழுத்தை இதனுடன் இடம் மாற்று"</string>
+<string name="caller_manage_header">"கான்பரன்ஸ் அழைப்பு <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"குரல் அஞ்சல் எண்"</string>
+<string name="card_title_dialing">"டயல் செய்கிறது"</string>
+<string name="card_title_redialing">"மீண்டும் முயற்சிக்கிறது"</string>
+<string name="card_title_conf_call">"கான்பரன்ஸ் அழைப்பு"</string>
+<string name="card_title_incoming_call">உள் வரும் அழைப்பு</string>
+<string name="card_title_call_ended">"அழைப்பு முடிந்தது"</string>
+<string name="card_title_on_hold">"காத்திருப்பில் உள்ளது"</string>
+<string name="card_title_hanging_up">"செயலிழக்கப்படுகிறது"</string>
+<string name="card_title_in_call">"அழைப்பில்"</string>
+<string name="card_title_my_phone_number">"எனது எண் <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"டயல் செய்கிறது"</string>
+<string name="notification_missedCallTitle">தவறிய அழைப்பு</string>
+<string name="notification_missedCallsTitle">"தவறிய அழைப்புகள்"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> தவறிய அழைப்புகள்"</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g> யிடமிருந்து தவறிய அழைப்பு"</string>
+<string name="notification_ongoing_call">நடப்பில் இருக்கும் அழைப்பு</string>
+<string name="notification_on_hold">"காத்திருப்பில் உள்ளது"</string>
+<string name="notification_incoming_call">உள் வரும் அழைப்பு</string>
+<string name="notification_voicemail_title">"புதிய குரல் அஞ்சல்"</string>
+<string name="notification_voicemail_title_count">"புதிய குரலஞ்சல் (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"<xliff:g id="voicemail_number">%s</xliff:g> ஐ டயல் செய்க"</string>
+<string name="notification_voicemail_no_vm_number">"தெரியாத குரலஞ்சல் எண்"</string>
+<string name="notification_network_selection_title">"சேவை இல்லை"</string>
+<string name="notification_network_selection_text">"தேர்ந்தெடுக்கப்பட்ட நெட்வொர்க் (<xliff:g id="operator_name">%s</xliff:g>) இல்லை"</string>
+<string name="notification_action_end_call">"தொங்கவிடுக"</string>
+<string name="notification_missedCall_call_back">திரும்ப அழைக்கவும்</string>
+<string name="notification_missedCall_message">செய்தி</string>
+<string name="incall_error_power_off">"ஒரு அழைப்பைச் செய்ய, முதலில் வானூர்திப் பயன்முறையை ஆஃப் செய்யவும்."</string>
+<string name="incall_error_emergency_only">"நெட்வொர்க்கில் பதிவு செய்யவில்லை."</string>
+<string name="incall_error_out_of_service">"மொபைல் நெட்வொர்க் இல்லை."</string>
+<string name="incall_error_no_phone_number_supplied">"அழைப்பு அனுப்படவில்லை, சரியான எண் உள்ளிடவில்லை."</string>
+<string name="incall_error_call_failed">அழைப்பு அனுப்பப்படவில்லை</string>
+<string name="incall_status_dialed_mmi">"MMI வரிசையை துவக்குகிறது\u2026"</string>
+<string name="incall_error_supp_service_unknown">"துணைபுரியாத சேவை."</string>
+<string name="incall_error_supp_service_switch">"அழைப்புகளை மாற்ற முடியவில்லை."</string>
+<string name="incall_error_supp_service_separate">"அழைப்பினை தனியாக பிரிக்க முடியவில்லை."</string>
+<string name="incall_error_supp_service_transfer">"அழைப்பை இடமாற்ற முடியவில்லை."</string>
+<string name="incall_error_supp_service_conference">"கான்ஃபரன்ஸ் அழைப்புகளை செய்ய முடியவில்லை."</string>
+<string name="incall_error_supp_service_reject">"அழைப்பை நிராகரிக்க முடியவில்லை."</string>
+<string name="incall_error_supp_service_hangup">"அழைப்பு(களை) வெளியிட முடியவில்லை."</string>
+<string name="incall_call_type_label_sip">இணைய தள அழைப்பு</string>
+<string name="emergency_enable_radio_dialog_title">அவசர அழைப்பு</string>
+<string name="emergency_enable_radio_dialog_message">"ரேடியோவை ஆன் செய்கிறது\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"சேவை பகுதிக்கு வெளியே உள்ளது, மீண்டும் முயற்சிக்கிறது\u2026"</string>
+<string name="dial_emergency_error">"அழைப்பு அனுப்பப்படவில்லை. <xliff:g id="non_emergency_number">%s</xliff:g> ஓர் அவசரநிலை எண் அல்ல!"</string>
+<string name="dial_emergency_empty_error">"அழைப்பு அனுப்பப்படவில்லை. அவசர எண் டயல்செய்!"</string>
+<string name="dialerKeyboardHintText">டயல் செய்ய கீ பலகைபயன்படுத்தவும்</string>
+<string name="onscreenHoldText">"வைத்திரு"</string>
+<string name="onscreenEndCallText">முடிவு</string>
+<string name="onscreenShowDialpadText">"டயல்பேட்"</string>
+<string name="onscreenMuteText">நிசப்தமாக்கவும்</string>
+<string name="onscreenAddCallText">அழைப்பு சேர்க்கவும்</string>
+<string name="onscreenMergeCallsText">"அழைப்புகளை ஒருங்கிணை"</string>
+<string name="onscreenSwapCallsText">"மாற்று"</string>
+<string name="onscreenManageCallsText">"அழைப்புகளை நிர்வகி"</string>
+<string name="onscreenManageConferenceText">"கான்ஃபரன்ஸ்ஸை நிர்வகி"</string>
+<string name="onscreenAudioText">ஆடியோ</string>
+<string name="onscreenVideoCallText">வீடியோ அழைப்பு</string>
+<string name="voicemail_provider">"சேவை"</string>
+<string name="voicemail_settings">"அமைவு"</string>
+<string name="voicemail_number_not_set">"&lt;அமைக்கவில்லை&gt;"</string>
+<string name="other_settings">"பிற அழைப்பு அமைவுகள்"</string>
+<string name="calling_via_template">"<xliff:g id="provider_name">%s</xliff:g> வழியாக அழைக்கின்றது"</string>
+<string name="contactPhoto">தொடர்பு புகைப்படம்</string>
+<string name="goPrivate">"தனிப்பட்டவைக்குச் செல்க"</string>
+<string name="selectContact">தொடர்பைத் தேர்வு செய்க</string>
+<string name="respond_via_sms_canned_response_1">"இப்பொழுது பேச முடியாது. எப்படி போய்க்கொண்டிருக்கின்றது?"</string>
+<string name="respond_via_sms_canned_response_2">"நான் உங்களை திரும்ப அழைக்கிறேன்."</string>
+<string name="respond_via_sms_canned_response_3">"நான் பின்னர் உங்களை அழைக்கிறேன்."</string>
+<string name="respond_via_sms_canned_response_4">"இப்பொழுது பேச முடியாது. என்னை பின்னர் அழைக்கிறீர்களா?"</string>
+<string name="respond_via_sms_custom_message">"உங்கள் சொந்த... ஐ எழுதவும்"</string>
+<string name="custom_message_cancel">நிராகரி</string>
+<string name="custom_message_send">"அனுப்புக"</string>
+<string name="respond_via_sms_setting_title">"விரைவு பதில்கள்"</string>
+<string name="respond_via_sms_setting_title_2">"விரவான பதிகளை திருத்தவும்"</string>
+<string name="respond_via_sms_edittext_dialog_title">துரித பதில்</string>
+<string name="respond_via_sms_menu_reset_default_activity">"இயல்புநிலை பயன்பாட்டை மீட்டமைக்கவும்"</string>
+<string name="respond_via_sms_confirmation_format">"<xliff:g id="phone_number">%s</xliff:g>க்கு செய்தி அனுப்பப்பட்டது."</string>
+<string name="description_image_button_one">ஒன்று</string>
+<string name="description_image_button_two">இரண்டு</string>
+<string name="description_image_button_three">மூன்று</string>
+<string name="description_image_button_four">நான்கு</string>
+<string name="description_image_button_five">ஐந்து</string>
+<string name="description_image_button_six">ஆறு</string>
+<string name="description_image_button_seven">ஏழு</string>
+<string name="description_image_button_eight">எட்டு</string>
+<string name="description_image_button_nine">ஒன்பது</string>
+<string name="description_image_button_star">நட்சத்திரம்</string>
+<string name="description_image_button_zero">பூஜ்யம்</string>
+<string name="description_image_button_pound">பவுண்டு</string>
+<string name="description_dial_button">டயல்</string>
+<string name="description_delete_button">பின்புல காலியிடம்</string>
+<string name="accessibility_speakerphone_enabled">"ஸ்பீக்கர்ஃபோன் செயல்படுத்தப்பட்டது."</string>
+<string name="accessibility_call_muted">"அழைப்பு ஒலிதடுக்கப்பட்டது."</string>
+<string name="description_target_answer">"பதிலளி"</string>
+<string name="description_target_send_sms">"SMS அனுப்பு"</string>
+<string name="description_target_decline">"மறுக்கவும்"</string>
+<string name="description_direction_up">"<xliff:g example="Unlock" id="target_description">%s</xliff:g> க்கு மேலே."</string>
+<string name="description_direction_left">""<xliff:g example="Unlock" id="target_description">%s</xliff:g> க்கு சென்றுவிட்டது."</string>
+<string name="description_direction_right">"<xliff:g example="Unlock" id="target_description">%s</xliff:g>க்கு சரி."</string>
+<string name="voicemail_notification_vibrate_when_title">"அதிர்வு"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"அதிர்வு"</string>
+<string name="voicemail_notification_ringtone_title">ஒலி அமைப்புக்கள்</string>
+<string name="default_notification_description">"இயல்புநிலை ஒலி(<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">தொலைபேசி மணி ஒலி</string>
+<string name="vibrate_on_ring_title">மணி ஒலிக்கும்போது அதிரச்செய்யவும்</string>
+<string name="dtmf_tone_enable_title">கேட்க முடிந்த தொடு மணி ஒலிகள்</string>
+<string name="dial_pad_autocomplete">"டயல் பேட் தானாக நிறைவடைகிறது"</string>
+<string name="preference_category_ringtone">"ரிங்டோன் அதிர்வு"</string>
+<string name="manageConferenceLabel">"கான்ஃபரன்ஸ் அழைப்புகளை நிர்வகி"</string>
+<string name="emergency_call_dialog_number_for_display">"அவசரநிலை எண்"</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/video_call "
+          android:icon="@drawable/ic_bluetooth_holo_dark"
+          android:title="@string/onscreenVideoCallText" />
+    <item android:id="@+id/voice_call "
+          android:icon="@drawable/ic_bluetooth_holo_dark"
+          android:title="@string/onscreenChangeToVoiceText" />
+</menu>
+

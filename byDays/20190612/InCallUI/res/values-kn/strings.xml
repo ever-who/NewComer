@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ಫೋನ್"</string>
+<string name="onHold">"ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="unknown">""ಪರಿಚಿತವಲ್ಲದ್ದು" "</string>
+<string name="private_num">"ಖಾಸಗಿ ಸಂಖ್ಯೆ"</string>
+<string name="payphone">"ಪಾವತಿ ಫೋನ್"</string>
+<string name="callFailed_userBusy">"ಲೈನ್ ವ್ಯಸ್ಥವಾಗಿದೆ"</string>
+<string name="callFailed_congestion">"ನೆಟ್ವರ್ಕ್ ವ್ಯಸ್ಥವಾಗಿದೆ""</string>
+<string name="callFailed_timedOut">"ಯಾವುದೇ ಉತ್ತರವಿಲ್ಲ, ಸಮಯ ಮೀರಿದೆ"</string>
+<string name="callFailed_server_unreachable">"ಸರ್ವರ್ ಸಿಗುತ್ತಿಲ್ಲ"</string>
+<string name="callFailed_number_unreachable">"ಸಂಖ್ಯೆ ಸಿಗುತ್ತಿಲ್ಲ"</string>
+<string name="callFailed_invalid_credentials">"ಯುಸರ್ ಹೆಸರು ಮತ್ತು ಪಾಸ್ವರ್ಡ್ ಸರಿಯಾಗಿಲ್ಲ"</string>
+<string name="callFailed_out_of_network">"ನೆಟ್ವರ್ಕ್ ಸಿಗದಿರುವೆಡೆಯಿಂದ ಕರೆ ಮಾಡಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="callFailed_server_error">"ಸರ್ವರ್ ದೋಷ. ಮತ್ತೆ ಮರು ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="callFailed_noSignal">"ಸಂಕೇತ ಇಲ್ಲ"</string>
+<string name="callFailed_limitExceeded">"ACM ಮಿತಿ ದಾಟಿದೆ"</string>
+<string name="callFailed_powerOff">"ರೇಡಿಯೋ ಆಫ್"</string>
+<string name="callFailed_simError">"SIM ಇಲ್ಲ ಅಥವಾ SIM ದೋಷ"</string>
+<string name="callFailed_outOfService">"ಸೇವಾ ಕ್ಷೇತ್ರದ ಹೊರಗಿದೆ"</string>
+<string name="callFailed_fdn_only">"ಹೊರ ಹೋಗುವ ಕರೆಗಳು FDN ನಿಂದ ನಿರ್ಬಂಧಿತವಾಗಿವೆ."</string>
+<string name="callFailed_cb_enabled">"ಕರೆ ತಡೆಯುವಿಕೆ ಆನ್ ಇರುವಾಗ ನೀವು ಹೊರಹೋಗುವ ಕರೆ ಮಾಡುವಂತಿಲ್ಲ."</string>
+<string name="callFailed_dsac_restricted">"ಎಲ್ಲ ಕರೆಗಳೂ ಅವಕಾಶ ನಿಯಂತ್ರಣದಿಂದ ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ."</string>
+<string name="callFailed_dsac_restricted_emergency">"ತುರ್ತು ಕರೆಗಳು ಅವಕಾಶ ನಿಯಂತ್ರಣದಿಂದ ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ."</string>
+<string name="callFailed_dsac_restricted_normal">"ಸಾಮಾನ್ಯ ಕರೆಗಳು ಅವಕಾಶ ನಿಯಂತ್ರಣದಿಂದ ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ."</string>
+<string name="callFailed_unobtainable_number">"ಅಸಿಂಧು ಸಂಖ್ಯೆ"</string>
+<string name="confCall">"ಅಧಿವೇಶನ ಕರೆ"</string>
+<string name="call_lost">"ಕರೆಯು ಕಳೆದುಹೋಗಿದೆ"</string>
+<string name="ok">"ಸರಿ"</string>
+<string name="audio_mode_speaker">"ಧ್ವನಿ ವರ್ಧಕ"</string>
+<string name="audio_mode_earpiece">"ಹ್ಯಾಂಡ್ ಸೆಟ್ ಇಯರ್ ಪೀಸ್"</string>
+<string name="audio_mode_wired_headset">"ವಯರ್ಡ್ ಹೆಡ್ ಸೆಟ್"</string>
+<string name="audio_mode_bluetooth">"ಬ್ಲೂಟೂತ್"</string>
+<string name="wait_prompt_str">"ಈ ಕೆಳಗಿನ ಟೋನುಗಳನ್ನು ಕಳುಹಿಸುವುದೇ?\n"</string>
+<string name="pause_prompt_str">"ಟೋನುಗಳನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ\n"</string>
+<string name="send_button">"ಕಳುಹಿಸಿ"</string>
+<string name="pause_prompt_yes">"ಹೌದು"</string>
+<string name="pause_prompt_no">"ಇಲ್ಲ"</string>
+<string name="wild_prompt_str">"ವನ್ಯ ಪದವನ್ನು ಇದರಿಂದ ಬದಲಿಸಿ"</string>
+<string name="no_vm_number">"ಕಳೆದುಹೋಗಿರುವ ವಾಯ್ಸ್ ಮೇಲ್ ಸಂಖ್ಯೆ"</string>
+<string name="no_vm_number_msg">"SIM ಕಾರ್ಡಿನಲ್ಲಿ ವಾಯ್ಸ್ ಮೇಲ್ ಸಂಖ್ಯೆಯು ದಾಸ್ತಾನಿಲ್ಲ."</string>
+<string name="add_vm_number_str">"ಸಂಖ್ಯೆ ಸೇರಿಸು"</string>
+<string name="puk_unlocked">"ನಿಮ್ಮ SIM ಅನ್ನು ಅನ್-ಬ್ಲಾಕ್ ಮಾಡಲಾಗಿದೆ. ನಿಮ್ಮ ಫೋನ್ ಅನ್ ಲಾಕ್ ಆಗುತ್ತಿದೆ\u2026"</string>
+<string name="label_ndp">"SIM ಜಾಲದ ಅನ್-ಲಾಕ್ PIN"</string>
+<string name="sim_ndp_unlock_text">"ಅನ್ಲಾಕ್"</string>
+<string name="sim_ndp_dismiss_text">"ತೆಗೆದು ಹಾಕಿ"</string>
+<string name="requesting_unlock">"ನೆಟ್ವರ್ಕ್ ಅನ್-ಲಾಕ್ ಕೋರಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="unlock_failed">"ನೆಟ್ವರ್ಕ್ ಅನ್-ಲಾಕ್ ಕೋರಿಕೆ ಯಶಸ್ವಿಯಾಗಿಲ್ಲ."</string>
+<string name="unlock_success">"ನೆಟ್ವರ್ಕ್ ಅನ್-ಲಾಕ್ ಯಶಸ್ವಿಯಾಗಿದೆ."</string>
+<string name="labelGSMMore">"GSM ಕರೆ ಸೆಟ್ಟ್ಂಗ್ ಗಳು"</string>
+<string name="labelCDMAMore">"CDMA ಕರೆ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="apn_settings">"ಪ್ರವೇಶಾವಕಾಶ ಸ್ಥಾನ ಹೆಸರುಗಳು"</string>
+<string name="settings_label">"ನೆಟ್ವರ್ಕ್ ಸೆಟ್ಟ್ಂಗ್ ಗಳು"</string>
+<string name="voicemail">"ವಾಯ್ಸ್ ಮೇಯ್ಲ್"</string>
+<string name="voicemail_abbreviated">"VM:"</string>
+<string name="networks">"ನೆಟವರ್ಕ್ ಆಪರೇಟರುಗಳು"</string>
+<string name="call_settings">"ಕರೆಯ ಸೆಟ್ಟಿಂಗ್ಸ್"</string>
+<string name="additional_gsm_call_settings">"ಹೆಚ್ಚುವರಿ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="sum_gsm_call_settings">"ಹೆಚ್ಚುವರಿ GSM ಮಾತ್ರ ಕರೆ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="additional_cdma_call_settings">"ಹೆಚ್ಚುವರಿ CDMA ಕರೆ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="sum_cdma_call_settings">"ಹೆಚ್ಚುವರಿ CDMA ಮಾತ್ರ ಕರೆ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="labelNwService">"ನೆಟ್ವರ್ಕ್ ಸರ್ವೀಸ್ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="labelCallerId">"ಕರೆ ಮಾಡುವವರ ಗುರುತು"</string>
+<string name="sum_loading_settings">"ಸೆಟ್ಟಿಂಗ್ಸ್ ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="sum_hide_caller_id">"ಹೊರಹೋಗುವ ಕರೆಗಳಲ್ಲಿ ಸಂಖ್ಯೆಗಳು ಮರೆಮಾಚಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="sum_show_caller_id">"ಹೊರಹೋಗುವ ಕರೆಗಳಲ್ಲಿ ಸಂಖ್ಯೆ ಪ್ರದರ್ಶಿಸಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="sum_default_caller_id">"ಹೊರಹೋಗುವ ಕರೆಗಳಲ್ಲಿ ನನ್ನ ಸಂಖ್ಯೆಯನ್ನು ಪ್ರದರ್ಶಿಸಲು ಡಿಫ಼ಾಲ್ಟ್ ಆಪರೇಟರ್ ಸೆಟ್ಟಿಂಗ್ಸ್ ಬಳಸಿ"</string>
+<string name="labelCW">"ಕರೆ ನಿರೀಕ್ಷಣೆಯಲ್ಲಿ"</string>
+<string name="sum_cw_enabled">"ಕರೆಯ ಸಮಯದಲ್ಲಿ, ಒಳಬರುವ ಕರೆಗಳ ಕುರಿತು ನನಗೆ ಸ್ಛಾಣೇ ಣೇಏದೀ"</string>
+<string name="sum_cw_disabled">"ಕರೆಯ ಸಮಯದಲ್ಲಿ, ಒಳಬರುವ ಕರೆಗಳ ಕುರಿತು ನನಗೆ ಸ್ಛಾಣೇ ಣೇಏದೀ"</string>
+<string name="call_forwarding_settings">"ಕರೆ ಮುಂದೆಕಳುಹಿಸುವ ಸೆಟ್ಟಿಂಗ್ಸ್"</string>
+<string name="labelCF">"ಕರೆ ಮುಂಕಳುಹುವಿಕೆ"</string>
+<string name="labelCFU">"ಯಾವತ್ತೂ ಫ಼ಾರ್ವರ್ಡ್ ಮಾಡಿ"</string>
+<string name="messageCFU">"ಯಾವತ್ತೂ ಈ ಸಂಖ್ಯೆಯನ್ನು ಬಳಸಿ"</string>
+<string name="sum_cfu_enabled_indicator">"ಎಲ್ಲಾ ಕರೆಗಳನ್ನು ಫ಼ಾರ್ವರ್ಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="sum_cfu_enabled_no_number">"ಸಂಖ್ಯೆ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="sum_cfu_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="labelCFB">"ಕಾರ್ಯನಿರತವಾಗಿರುವಾಗ ಫ಼ಾರ್ವರ್ಡ್ ಮಾಡಿ"</string>
+<string name="messageCFB">"ಕಾರ್ಯನಿರತವಾಗಿರುವಾಗ ಸಂಖ್ಯೆ"</string>
+<string name="sum_cfb_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="disable_cfb_forbidden">"ನಿಮ್ಮ ಫೋನ್ ಕಾರ್ಯನಿರತವಾಗಿರುವಾಗ ಕರೆಯನ್ನು ಫ಼ಾರ್ವರ್ಡ್ ಮಾಡುವುದನ್ನು ನಿಮ್ಮ ಆಪರೇಟರ್ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+<string name="labelCFNRy">"ಉತ್ತರಸಿಗದಿರುವಾಗ ಫ಼ಾರ್ವರ್ಡ್ ಮಾಡಿ"</string>
+<string name="messageCFNRy">"ಉತ್ತರ ಸಿಗದಿರುವಾಗ ಸಂಖ್ಯೆ"</string>
+<string name="sum_cfnry_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="disable_cfnry_forbidden">""ನಿಮ್ಮ ಫೋನ್ ಉತ್ತರಿಸದಿದ್ದಾಗ ಕರೆಯನ್ನು ಫ಼ಾರ್ವರ್ಡ್ ಮಾಡುವುದನ್ನು ಅಸಮರ್ಥಗೊಳಿಸುವುದನ್ನು ನಿಮ್ಮ ಆಪರ್ಟರ್ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ"."</string>
+<string name="labelCFNRc">"ತಲಪದಿರುವಾಗ ಫ಼ಾರ್ವರ್ಡ್ ಮಾಡಿ"</string>
+<string name="messageCFNRc">"ತಲಪದಿರುವಾಗ ಸಂಖ್ಯೆ"</string>
+<string name="sum_cfnrc_disabled">"ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="disable_cfnrc_forbidden">"ನಿಮ್ಮ ವಾಹಕವು ನಿಮ್ಮ ಫೋನ್ ತಲಪದಿರುವಾಗ ಕರೆ ಫ಼ಾರ್ವರ್ಡ ಮಾಡುವುದನ್ನು ಅಸಮರ್ಥಗೊಳಿಸುವುದನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ."</string>
+<string name="updating_title">"ಕರೆಯ ಸೆಟ್ಟಿಂಗ್ಸ್"</string>
+<string name="error_updating_title">"ಕರೆ ಸೆಟ್ಟಿಂಗ್ಸ್ ದೋಷ"</string>
+<string name="reading_settings">"ಓದುವಿಕೆ ಸೆಟ್ಟಿಂಗ್ಸ್ ಓದುವಿಕೆ\u2026"</string>
+<string name="updating_settings">"ಸೆಟ್ಟಿಂಗ್ಸ್ ನವೀಕರಣ\u2026"</string>
+<string name="reverting_settings">"ಸೆಟ್ಟಿಂಗ್ಸ್ ಮತ್ತೆ ಹಿಂದಿರುಗುವುದು\u2026"</string>
+<string name="response_error">"ನೆಟ್ವರ್ಕ್ ನಿಂದ ಅನಿರೀಕ್ಶಿಹಿತ ಪ್ರತಿಕ್ರಿಯೆ\u2026"</string>
+<string name="exception_error">"ನೆಟ್ವರ್ಕ್ SIM ಕಾರ್ಡ್ ದೋಷ"</string>
+<string name="fdn_check_failure">"ನಿಮ್ಮ ಫೋನ್ ಅಪ್ಲಿಕೇಶನ್ ನ ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳ ಸೆಟ್ಟಿಂಗ್ಸ್ ಟರ್ನ್ ಆನ್ ಅಗಿದೆ. ಪರಿಣಾಮವಾಗಿ, ಕೆಲವು ಕರೆ-ಸಂಬಂಧಿ ಲಕ್ಷಣಗಳು ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ."</string>
+<string name="radio_off_error">"ಈ ಸೆಟ್ಟಿಂಗ್ಸ್ ನೋಡುವ ಮುನ್ನ ರೇಡಿಯೋ ಟರ್ನ್ ಆನ್ ಮಾಡಿ"</string>
+<string name="close_dialog">"ಸರಿ"</string>
+<string name="enable">"ಸಕ್ರಿಯಗೊಳಿಸು"</string>
+<string name="disable">"ಅಸಕ್ರಿಯಗೊಳಿಸು"</string>
+<string name="change_num">"ಅದ್ಯತನಗೊಳಿಸು"</string>
+<string name="vm_changed">"ವಾಯ್ಸ ಮೇಲ್ ಸಂಖ್ಯೆ ಬದಲಾಗಿದೆ"</string>
+<string name="vm_change_failed">"ವಾಯ್ಸ್ ಮೇಲ್ ಸಂಖ್ಯೆ ಬದಲಿಸಲಾಗಲಿಲ್ಲ. \nಈ ಸಮಸ್ಯೆ ಉಳಿದುಕೊಂಡಲ್ಲಿ ನಿಮ್ಮ ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ"</string>
+<string name="fw_change_failed">"ಫ಼ಾರ್ವರ್ಡಿಂಗ್ ಸಂಖ್ಯೆ ಬದಲಿಸಲಾಗಲಿಲ್ಲ. \nಈ ಸಮಸ್ಯೆ ಉಳಿದುಕೊಂಡಲ್ಲಿ ನಿಮ್ಮ ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ"</string>
+<string name="fw_get_in_vm_failed">"ಈಗಿನ ಫ಼ಾರ್ವರ್ಡಿಂಗ್ ನಂಬರ್ ಸೆಟ್ಟಿಂಗ್ಸ್ ಮತ್ತೆ ಪಡೆಯಲಾಗಲಿಲ್ಲ ಹಾಗೂ ಉಳಿಸಲಾಗಲಿಲ್ಲ. \nಹೇಗಿದ್ದರೂ ಹೊಸ ನೀಡುಗ ಗೆ ಬದಲಿಸುವುದೇ?"</string>
+<string name="no_change">"ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಲಿಲ್ಲ"</string>
+<string name="sum_voicemail_choose_provider">"ವಾಯ್ಸ್ ಮೇಲ್ ಸರ್ವೀಸ್ಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="voicemail_default">"ನನ್ನ ವಾಹಕ"</string>
+<string name="mobile_networks">"ಮೊಬೈಲ್ ನೆಟ್ವರ್ಕ್ ಸೆಟ್ಟಿಂಗ್ಸ್"</string>
+<string name="label_available">"ಲಭ್ಯವಿರುವ ನೆಟ್ವರ್ಕ್ ಗಳು"</string>
+<string name="load_networks_progress">"ಹುಡುಕಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="empty_networks_list">"ನೆಟ್ವರ್ಕ್ಸ್ ಕಂಡುಬಂದಿಲ್ಲ"</string>
+<string name="search_networks">"ನೆಟ್ವಕ್ಸ್ ಹುಡುಕಾಡಿ"</string>
+<string name="network_query_error">"ನೆಟ್ವರ್ಕ್ ಗಾಗಿ ಹುಡುಕಾಡುವಾಗ ದೋಷ"</string>
+<string name="register_on_network">"ಇಲ್ಲಿ ನೋಂದಾಯಿಸಲಾಗುತ್ತಿದೆ <xliff:g id="network">%s</xliff:g>\u2026"</string>
+<string name="not_allowed">"ನಿಮ್ಮ SIM ಕಾರ್ಡ್ ಈ ನೆಟ್ವರ್ಕಿಗೆ ಸಂಪರ್ಕವನ್ನು ಅನುಮತಿಸುತ್ತಿಲ್ಲ.."</string>
+<string name="connect_later">"ಈಗ ಈ ನೆಟ್ವರ್ಕಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲಾಗುತ್ತಿಲ್ಲ. ಮತ್ತೆ ತಿರುಗಿ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="registration_done">"ನೆಟ್ವರ್ಕಿನಲ್ಲಿ ನೋಂದಾಯಿಸಲಾಗಿದೆ"</string>
+<string name="sum_carrier_select">"ನೆಟ್ವರ್ಕ್ ಆಪರ್ಟರ್ ಒಂದನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="sum_search_networks">"ಎಲ್ಲಾ ಲಭ್ಯವಿರುವ ನೆಟ್ವರ್ಕ್ ಗಳಿಗಾಗಿ ಅರಸಿ"</string>
+<string name="select_automatically">"ಸ್ವಯಂ ಚಾಲಿತವಾಗಿ ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="sum_select_automatically">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="register_automatically">"ಸ್ವಯಂ ಚಾಲಿತ ನೋಂದಣಿ\u2026"</string>
+<string name="preferred_network_mode_title">"ನೆಟ್ವರ್ಕ್ ಮೋಡ್"</string>
+<string name="preferred_network_mode_summary">"ನೆಟ್ವರ್ಕ್ ಕ್ರಿಯಾ ಪ್ರಕಾರವನ್ನು ಬದಲಾಯಿಸು"</string>
+<string name="preferred_network_mode_dialogtitle">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್"</string>
+<string name="preferred_network_mode_wcdma_perf_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: WCDMA ಬಯಸಲಾಗಿದೆ"</string>
+<string name="preferred_network_mode_gsm_only_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: GSM ಮಾತ್ರ"</string>
+<string name="preferred_network_mode_wcdma_only_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: WCDMA ಮಾತ್ರ"</string>
+<string name="preferred_network_mode_gsm_wcdma_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: GSM / WCDMA"</string>
+<string name="preferred_network_mode_cdma_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: CDMA"</string>
+<string name="preferred_network_mode_cdma_evdo_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: CDMA / EvDo"</string>
+<string name="preferred_network_mode_cdma_only_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: CDMA  ಮಾತ್ರ"</string>
+<string name="preferred_network_mode_evdo_only_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: EvDo ಮಾತ್ರ"</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: CDMA/EvDo/GSM/WCDMA"</string>
+<string name="preferred_network_mode_lte_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: LTE"</string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್:  GSM/WCDMA/LTE"</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: CDMA+LTE/EVDO"</string>
+<string name="preferred_network_mode_global_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: ಜಾಗತಿಕ"</string>
+<string name="preferred_network_mode_lte_wcdma_summary">"ಬಯಸಿದ ನೆಟ್ವರ್ಕ್ ಮೋಡ್: LTE / WCDMA"</string>
+<string name="data_enabled">"ದತ್ತ ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="data_enable_summary">"ಮೊಬೈಲ್ ನೆಟ್ವರ್ಕಿನ ಮೂಲಕ ದತ್ತ ಪ್ರವೇಶಾವಕಾಶ ಸಮರ್ಥಗೊಳಿಸಿ"</string>
+<string name="roaming">"ರೋಮಿಂಗ್ ಮಾಡುತ್ತಿರುವಾಗ ದತ್ತ ಸರ್ವೀಸ್ಗಳಿಗೆ ಸಂಪರ್ಕಿಸಿ"</string>
+<string name="roaming_enable">"ದತ್ತ ರೋಮಿಂಗ್"</string>
+<string name="roaming_disable">"ದತ್ತ ರೋಮಿಂಗ್"</string>
+<string name="roaming_reenable_message">"ನೀವು ದತ್ತ ಸಂಪರ್ಕವನ್ನು ಕಳೆದುಕೊಂಡಿರುವಿರಿ, ಯಾಕೆಂದರೆ ನ್ವು ಡೇಟ್ ರೋಮೀಮ್ಗ್ ಟರ್ನ್ ಆಫ಼್ ಮಾಡಿ ಮನೆಯ ನೆಟ್ವರ್ಕ್ ಅನ್ನು ಬಿಟ್ಟುಹೊರಟಿರುವಿರಿ."</string>
+<string name="roaming_warning">"ದತ್ತ ರೋಮಿಂಗ್ ಅನುಮತಿಸುವುದೇ ? ನಿಮಗೆ ಗಣನೀಯ ಪ್ರಮಾಣದ ರ್ಮಿಂಗ್ ಶುಲ್ಕ ಲಗಾವಾಗಬಹುದು!"</string>
+<string name="gsm_umts_options">"GSM/UMTS ಆಯ್ಕೆಗಳು"</string>
+<string name="cdma_options">"CDMA ಆಯ್ಕೆಗಳು"</string>
+<string name="throttle_data_usage">"ದತ್ತಾಂಶ ಬಳಕೆ"</string>
+<string name="throttle_current_usage">"ಪ್ರಸ್ತುತ ಅವಧಿಯಲ್ಲಿ ಬಳಕೆಯಾದ ದತ್ತ"</string>
+<string name="throttle_time_frame">"ದತ್ತ ಬಳಕೆಯ ಅವಧಿ"</string>
+<string name="throttle_rate">"ದತ್ತ ದರ ನೀತಿ"</string>
+<string name="throttle_help">"ಹೆಚ್ಚು ತಿಳಿ"</string>
+<string name="throttle_status_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) ನ <xliff:g id="used">%3$s</xliff:g> ಅವಧಿ ಗರಿಷ್ಠ \nಮುಂದಿನ ಅವಧಿಯು ಇಷ್ಟು ಸಮಯದಲ್ಲಿ ಆರಂಭವಾಗುತ್ತದೆ <xliff:g id="used">%4$d</xliff:g> ದಿನಗಳು (<xliff:g id="used">%5$s</xliff:g>)"</string>
+<string name="throttle_data_usage_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) ನ <xliff:g id="used">%3$s</xliff:g> ಅವಧಿಯು ಗರಿಷ್ಠ"</string>
+<string name="throttle_data_rate_reduced_subtext">"<xliff:g id="used">%1$s</xliff:g> ಗರಿಷ್ಠ ಮಿತಿ ಮೀರಿದೆ \nದತ್ತ ದರವು ಇದಕ್ಕೆ ಇಳಿಸಲಾಗಿದೆ <xliff:g id="used">%2$d</xliff:g> Kb/s"</string>
+<string name="throttle_time_frame_subtext">"<xliff:g id="used">%1$d</xliff:g>\u066A ಚಕ್ರವು ಕಳೆದುಹೋಗಿದೆ \nಮುಂದಿನ ಅವಧಿಯು ಈ ಸಮಯದಲ್ಲಿ ಆರಂಭವಾಗುತ್ತದೆ <xliff:g id="used">%2$d</xliff:g> ದಿನಗಳು (<xliff:g id="used">%3$s</xliff:g>)"</string>
+<string name="throttle_rate_subtext">"ದತ್ತ ದರವು ಇದಕ್ಕೆ ಇಳಿಸಲಾಗಿದೆ <xliff:g id="used">%1$d</xliff:g> Kb/s ದತ್ತ ಬಳಕೆ ಮಿತಿಯು ಮೀರಿದ್ದಲ್ಲಿ"</string>
+<string name="throttle_help_subtext">"ನಿಮ್ಮ ವಾಹಕದ ಮೊಬೈಲ್ ನೆಟ್ವರ್ಕ್ ದತ್ತ ಬಳಕೆ ನೀತಿಯ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿ"</string>
+<string name="cell_broadcast_sms">"ಸೆಲ್ ಪ್ರಸರಣ SMS"</string>
+<string name="enable_disable_cell_bc_sms">"ಸೆಲ್ ಪ್ರಸರಣ SMS"</string>
+<string name="cell_bc_sms_enable">"ಸೆಲ್ ಪ್ರಸಾರ SMS ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="cell_bc_sms_disable">"ಸೆಲ್ ಪ್ರಸಾರ SMS ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="cb_sms_settings">"ಸೆಲ್ ಪ್ರಸಾರ SMS ಅಳವಡಿಕೆಗಳು"</string>
+<string name="enable_disable_emergency_broadcast">"ತುರ್ತು ಪ್ರಸರಣ"</string>
+<string name="emergency_broadcast_enable">"ತುರ್ತು ಪ್ರಸರಣ ಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="emergency_broadcast_disable">"ತುರ್ತು ಪ್ರಸರಣ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="enable_disable_administrative">"ಆಡಳಿತಾತ್ಮಕ"</string>
+<string name="administrative_enable">"ಆಡಳಿತಾತ್ಮಕ ಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="administrative_disable">"ಆಡಳಿತಾತ್ಮಕ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="enable_disable_maintenance">"ನಿರ್ವಹಣೆ"</string>
+<string name="maintenance_enable">"ನಿರ್ವಹಣೆ ಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="maintenance_disable">"ನಿರ್ವಹಣೆ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="general_news_settings">"ಸಾಮಾನ್ಯ ವಾರ್ತೆ"</string>
+<string name="bf_news_settings">"ವ್ಯವಹಾರ ಹಾಗೂ ಹಣಕಾಸು ವಾರ್ತೆ"</string>
+<string name="sports_news_settings">"ಕ್ರೀಡಾ ವಾರ್ತೆ"</string>
+<string name="entertainment_news_settings">"ಮನರಂಜನಾ ಸುದ್ದಿ"</string>
+<string name="enable_disable_local">"ಸ್ಥಳೀಯ"</string>
+<string name="local_enable">"ಸ್ಥಳೀಯ ಸುದ್ದಿ ಸಮರ್ಥಗೂಳಿಸಲಾಗಿದೆ"</string>
+<string name="local_disable">"ಸ್ಥಳೀಯ ಸುದ್ದಿ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="enable_disable_regional">"ಪ್ರಾದೇಶಿಕ"</string>
+<string name="regional_enable">"ಪ್ರಾದೇಶಿಕ ವಾರ್ತೆ ಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="regional_disable">"ಪ್ರಾದೇಶಿಕ ವಾರ್ತೆ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="enable_disable_national">"ರಾಷ್ಟ್ರೀಯ"</string>
+<string name="national_enable">"ರಾಷ್ಟ್ರೀಯ ವಾರ್ತೆ ಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="national_disable">"ರಾಷ್ಟ್ರೀಯ ವಾರ್ತೆ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="enable_disable_international">"ಅಂತಾರಾಷ್ಟ್ರೀಯ"</string>
+<string name="international_enable">"ಅಂತಾರಾಷ್ಟ್ರೀಯ ವಾರ್ತೆ ಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="international_disable">"ಅಂತಾರಾಷ್ಟ್ರೀಯ ವಾರ್ತೆ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="list_language_title">"ಭಾಷೆ"</string>
+<string name="list_language_summary">"ಸುದ್ದಿ ಭಾಷೆಯನ್ನು ಆರಿಸಿ"</string>
+<string name="list_language_dtitle">"ಭಾಷೆಗಳು"</string>
+<string name="enable_disable_local_weather">"ಸ್ಥಳೀಯ ಹವಾಮಾನ"</string>
+<string name="local_weather_enable">"ಸ್ಥಳೀಯ ಹವಾಮಾನ ಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="local_weather_disable">"ಸ್ಥಳೀಯ ಹವಾಮಾನ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="enable_disable_atr">"ಕ್ಷೇತ್ರ ವಾಹನ ದಟ್ಟಣೆ ವರದಿಗಳು"</string>
+<string name="atr_enable">"ಕ್ಷೇತ್ರ ವಾಹನ ದಟ್ಟಣೆ ವರದಿಗಳು ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="atr_disable">"ಕ್ಷೇತ್ರ ವಾಹನ ದಟ್ಟಣೆ ವರದಿಗಳು ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="enable_disable_lafs">"ಸ್ಥಳೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ವಿಮಾನ ಹಾರಾಟ ವೇಳಾಪಟ್ಟಿ"</string>
+<string name="lafs_enable">"ಸ್ಥಳೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ವಿಮಾನ ಹಾರಾಟ ವೇಳಾಪಟ್ಟಿ ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="lafs_disable">"ಸ್ಥಳೀಯ ವಿಮಾನ ನಿಲ್ದಾಣ ವಿಮಾನ ಹಾರಾಟ ವೇಳಾಪಟ್ಟಿ ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="enable_disable_restaurants">"ರೆಸ್ಟುರಾಂಟ್ ಗಳು"</string>
+<string name="restaurants_enable">"ರೆಸ್ಟುರಾಂಟ್ ಗಳು ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="restaurants_disable">"ರೆಸ್ಟುರಾಂಟ್ ಗಳು ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="enable_disable_lodgings">"ವಸತಿ ವ್ಯವಸ್ಥೆಗಳು"</string>
+<string name="lodgings_enable">"ವಸತಿ ವ್ಯವಸ್ಥೆಗಳು ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="lodgings_disable">"ವಸತಿ ವ್ಯವಸ್ಥೆಗಳು ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="enable_disable_retail_directory">"ಸಗಟು ವ್ಯಾಪಾರ ಡೈರೆಕ್ಟರಿ"</string>
+<string name="retail_directory_enable">"ಸಗಟು ವ್ಯಾಪಾರ ಡೈರೆಕ್ಟರಿ ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="retail_directory_disable">"ಸಗಟು ವ್ಯಾಪಾರ ಡೈರೆಕ್ಟರಿ ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="enable_disable_advertisements">"ಜಾಹೀರಾತುಗಳು"</string>
+<string name="advertisements_enable">"ಜಾಹೀರಾತುಗಳು ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="advertisements_disable">"ಜಾಹೀರಾತುಗಳು ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="enable_disable_stock_quotes">"ಶೇರು ಮಾರುಕಟ್ಟೆ ಹೇಳಿಕೆಗಳು"</string>
+<string name="stock_quotes_enable">"ಶೇರು ಮಾರುಕಟ್ಟೆ ಹೇಳಿಕೆಗಳು ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="stock_quotes_disable">"ಶೇರು ಮಾರುಕಟ್ಟೆ ಹೇಳಿಕೆಗಳು ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="enable_disable_eo">"ಉದ್ಯೋಗಾವಕಾಶಗಳು"</string>
+<string name="eo_enable">"ಉದ್ಯೋಗಾವಕಾಶಗಳು ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="eo_disable">"ಉದ್ಯೋಗಾವಕಾಶಗಳು ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="enable_disable_mhh">"ವೈದ್ಯಕೀಯ, ಆರೋಗ್ಯ ಮತ್ತು ಆಸ್ಪತ್ರೆ"</string>
+<string name="mhh_enable">"ವೈದ್ಯಕೀಯ, ಆರೋಗ್ಯ ಮತ್ತು ಆಸ್ಪತ್ರೆ ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="mhh_disable">"ವೈದ್ಯಕೀಯ, ಆರೋಗ್ಯ ಮತ್ತು ಆಸ್ಪತ್ರೆ ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="enable_disable_technology_news">"ತಂತ್ರಜ್ಞಾನ ಸುದ್ದಿ"</string>
+<string name="technology_news_enable">"ತಂತ್ರಜ್ಞಾನ ಸುದ್ದಿ ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="technology_news_disable">"ತಂತ್ರಜ್ಞಾನ ಸುದ್ದಿ ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="enable_disable_multi_category">"ಬಹು-ವರ್ಗೀಯ"</string>
+<string name="multi_category_enable">"ಬಹು-ವರ್ಗೀಯ ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="multi_category_disable">"ಬಹು-ವರ್ಗೀಯ ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="prefer_2g">"ಕೇವಲ 2G ನೆಟ್ವರ್ಕ್ ಮಾತ್ರ ಬಳಸಿ"</string>
+<string name="prefer_2g_summary">"ಬ್ಯಾಟರಿ ಉಳಿತಾಯ ಮಾಡುತ್ತದೆ"</string>
+<string name="cdma_system_select_title">"ಸಿಸ್ಟಂ ಆಯ್ಕೆ"</string>
+<string name="cdma_system_select_summary">"CDMA ರೋಮಿಂಗ್ ಮೋಡ್ ಬದಲಿಸಿ"</string>
+<string name="cdma_system_select_dialogtitle">"ಸಿಸ್ಟಂ ಆಯ್ಕೆ"</string>
+<string name="cdma_subscription_title">"CDMA ಚಂದಾದಾರಿಕೆ"</string>
+<string name="cdma_subscription_summary">"RUIM/SIM ಹಾಗೂ NV ನಡುವೆ ಬದಲಿಸಿ"</string>
+<string name="cdma_subscription_dialogtitle">"ಚಂದಾದಾರಿಕೆ"</string>
+<string name="cdma_activate_device">"ಕ್ರಿಯಾಶೀಲ ಡಿವೈಸ್"</string>
+<string name="cdma_lte_data_service">"ದತ್ತ ಸರ್ವೀಸ್ ಸ್ಥಾಪಿಸಿ"</string>
+<string name="fdn">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳು"</string>
+<string name="manage_fdn_list">"FDN ಪಟ್ಟಿ"</string>
+<string name="fdn_activation">"FDN ಆಕ್ಟಿವೇಶನ್"</string>
+<string name="fdn_enabled">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳು ಸಮರ್ಥಗೊಂಡಿವೆ"</string>
+<string name="fdn_disabled">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳು ಅಸಮರ್ಥಗೊಂಡಿವೆ"</string>
+<string name="enable_fdn">"FDN ಸಮರ್ಥಗೊಳಿಸಿ"</string>
+<string name="disable_fdn">"FDN ಅಸಮರ್ಥಗೊಳಿಸಿ"</string>
+<string name="change_pin2">"PIN2 ಬದಲಿಸಿ"</string>
+<string name="enable_fdn_ok">"FDN ಅಸಮರ್ಥಗೊಳಿಸಿ"</string>
+<string name="disable_fdn_ok">"FDN ಸಮರ್ಥಗೊಳಿಸಿ"</string>
+<string name="sum_fdn">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"</string>
+<string name="sum_fdn_change_pin">"FDN ಪ್ರವೇಶಾವಕಾಶಕ್ಕಾಗಿ PIN ಬದಲಿಸಿ"</string>
+<string name="sum_fdn_manage_list">"ಫೋನ್ ನಂಬರಿನ ಪಟ್ಟಿಯನ್ನು ನಿರ್ವಹಿಸಿ"</string>
+<string name="voice_privacy">"ಧ್ವನಿ ಖಾಸಗಿತನ"</string>
+<string name="voice_privacy_summary">"ಹೆಚ್ಚಿಸಿದ ಖಾಸಗಿತನದ ಮೋಡನ್ನು ಸಮರ್ಥಗೊಳಿಸಿ"</string>
+<string name="tty_mode_option_title">"TTY ಮೋಡ್"</string>
+<string name="tty_mode_option_summary">"TTY ಮೋಡ್ ಸ್ಥಾಪಿಸಿ"</string>
+<string name="auto_retry_mode_title">"ಸ್ವಯಂ ಚಾಲಿತವಾಗಿ ಮರುಪ್ರಯತ್ನಿಸಿ"</string>
+<string name="auto_retry_mode_summary">"ಸ್ವಯಂ ಚಾಲಿತ ಮರುಪ್ರಯತ್ನ ಮೋಡ್ ಸಮರ್ಥಗೊಳಿಸಿ"</string>
+<string name="menu_add">"ಸಂಪರ್ಕ ಸೇರಿಸಿ"</string>
+<string name="menu_edit">"ಸಂಪರ್ಕ ಪರಿಷ್ಕರಿಸಿ"</string>
+<string name="menu_delete">"ಸಂಪರ್ಕ ಅಳಿಸಿಹಾಕಿ"</string>
+<string name="get_pin2">"PIN2 ಮುದ್ರಿಸಿ"</string>
+<string name="name">"ಹೆಸರು"</string>
+<string name="number">"ಸಂಖ್ಯೆ"</string>
+<string name="save">"ಉಳಿಸಿ"</string>
+<string name="add_fdn_contact">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ಸೇರಿಸಿ"</string>
+<string name="adding_fdn_contact">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ಸೇರಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="fdn_contact_added">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ"</string>
+<string name="edit_fdn_contact">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ಪರಿಷ್ಕರಿಸಿ"</string>
+<string name="updating_fdn_contact">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳು ನವೀಕರಿಸಲ್ಪಡುತ್ತಿವೆ\u2026"</string>
+<string name="fdn_contact_updated">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳು ನವೀಕರಿಸಲ್ಪಟ್ಟಿವೆ"</string>
+<string name="delete_fdn_contact">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ಅಳಿಸಿಹಾಕಿ"</string>
+<string name="deleting_fdn_contact">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳನ್ನು ಅಳಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="fdn_contact_deleted">"ಫಿಕ್ಸ್ಡ್ ಡಯಲಿಂಗ್ ಸಂಖ್ಯೆಗಳು ಅಳಿಸಲ್ಪಟ್ಟಿವೆ."</string>
+<string name="pin2_invalid">"FDN ನವೀಕರಿಸಲ್ಪಟ್ಟಿರಲಿಲ್ಲ ಯಾಕೆಂದರೆ ನೀವು ಸರಿಯಿರದ PIN ಮುರಿಸಿರುವಿರಿ."</string>
+<string name="fdn_invalid_number">"FDN ನವೀಕರಿಸಲ್ಪಟ್ಟಿರಲಿಲ್ಲ, ಯಾಕೆಂದರೆ ಸಂಖ್ಯೆಯು 20 ಅಂಕಿಗಳನ್ನು ಮೀರಿರುವಂತಿಲ್ಲ."</string>
+<string name="pin2_or_fdn_invalid">"FDN ನವೀಕರಿಸಲ್ಪಟ್ಟಿರಲಿಲ್ಲ. PIN2 ಸರಿಯಾಗಿರಲಿಲ್ಲ ಅಥವಾ ದೂರವಾಣಿ ಸಂಖ್ಯೆಯು ತಿರಸ್ಕೃತವಾಗಿತ್ತು."</string>
+<string name="simContacts_emptyLoading">"SIM ಕಾರ್ಡಿನಿಂದ ಓದಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="simContacts_empty">"ನಿಮ್ಮ SIM ಕಾರ್ಡಿನಲ್ಲಿ ಸಂಪರ್ಕಗಳು ಇಲ್ಲ."</string>
+<string name="simContacts_title">"ಆಮದು ಮಾಡಿಕೊಳ್ಳಲು ಸಂಪರ್ಕಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ."</string>
+<string name="simContacts_airplaneMode">"SIM ಕಾರ್ಡಿನಿಂದ ಸಂಪರ್ಕವನ್ನು ಒಳತರಲು, ಮೊದಲು ವೈಮಾನಿಕ ಮೋಡ್ ಅನ್ನು ಟರ್ನ್ ಆಫ್ ಮಾಡಿ."</string>
+<string name="enable_pin">"SIM PIN ಸಮರ್ಥ/ಅಸಮರ್ಥಗೊಳಿಸಿ"</string>
+<string name="change_pin">"SIM PIN ಬದಲಿಸಿ"</string>
+<string name="enter_pin_text">"SIM PIN"</string>
+<string name="oldPinLabel">"ಹಳೆಯ PIN"</string>
+<string name="newPinLabel">""ಹೊಸ PIN" "</string>
+<string name="confirmPinLabel">"ಹೊಸ PIN ದೃಢೀಕರಿಸಿ"</string>
+<string name="badPin">"ನೀವು ಮುದ್ರಿಸಿದ ಹಳೆಯ PIN ಸರಿಯಾಗಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="mismatchPin">"ನೀವು ಮುದ್ರಿಸಿದ PINಗಳು ಸಿಂಕ್ಯಾಗುತ್ತಿಲ್ಲ. ಮತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="invalidPin">"4ರಿಂದ 8 ಸಂಖ್ಯೆಗಳುಳ್ಳ PIN ಅನ್ನು ಟೈಪ್ ಮಾಡಿ."</string>
+<string name="disable_sim_pin">"SIM PIN ಅಸಮರ್ಥಗೊಳಿಸಿ."</string>
+<string name="enable_sim_pin">"SIM PIN ಸಮರ್ಥಗೊಳಿಸಿ."</string>
+<string name="enable_in_progress">"ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ\u2026"</string>
+<string name="enable_pin_ok">"SIM PIN ಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ."</string>
+<string name="disable_pin_ok">"SIM PIN ಅಸಮರ್ಥಗೊಳಿಸಲ್ಪಟ್ಟಿದೆ."</string>
+<string name="pin_failed">"ನೀವು ಮುದ್ರಿಸಿದ PIN ಸರಿಯಾಗಿರಲಿಲ್ಲ."</string>
+<string name="pin_changed">"SIM PIN ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಯಿಸಲಾಯಿತು."</string>
+<string name="puk_requested">"ಪಾಸ್ವರ್ಡ್ ಸರಿಯಾಗಿಲ್ಲ. SIM ಲಾಕ್ ಮಾಡಲ್ಪಟ್ಟಿದೆ! PUK2 ಕೋರಲಾಗಿದೆ."</string>
+<string name="oldPin2Label">"ಹಳೆಯ PIN2"</string>
+<string name="newPin2Label">"ಹೊಸ PIN2"</string>
+<string name="confirmPin2Label">"ಹೊಸ PIN2 ದೃಢಪಡಿಸಿ."</string>
+<string name="badPuk2">"ನೀವು ಮುದ್ರಿಸಿದ PUK2 ಸರಿಯಾಗಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="badPin2">"ನೀವು ಮುದ್ರಿಸಿದ ಹಳೆಯ PIN2 ಸರಿಯಾಗಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="mismatchPin2">"ನೀವು ಮುದ್ರಿಸಿದ PIN2 ಸಿಂಕ್ಯಾಗುತ್ತಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="invalidPin2">"4 ರಿಂದ 8 ಸಂಖ್ಯೆಗಳಿರುವ PIN2 ಒಂದನ್ನು ಮುದ್ರಿಸಿ"</string>
+<string name="invalidPuk2">"8 ಸಂಖ್ಯೆಗಳಿರುವ PUK2 ಒಂದನ್ನು ಮುದ್ರಿಸಿ""</string>
+<string name="pin2_changed">"PIN2 ಯಶಸ್ವಿಯಾಗಿ ಬದಲಿಸಲಾಯಿತು."</string>
+<string name="label_puk2_code">"PUK2 ಕೋಡ್ ಮುದ್ರಿಸಿ"</string>
+<string name="fdn_enable_puk2_requested">"ಪಾಸ್ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ. PIN2 ಬದಲಿಸಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="puk2_requested">"ಪಾಸ್ವರ್ಡ್ ತಪ್ಪಾಗಿದೆ. SIM ಲಾಕ್ ಮಾಡಲ್ಪಟ್ಟಿದೆ. PUK2 ಕೋರಲಾಗಿದೆ."</string>
+<string name="doneButton">"ಆಯ್ತು"</string>
+<string name="caller_manage_header">"ಅಧಿವೇಶನ ಕರೆ <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"ವಾಯ್ಸ್ ಮೇಲ್ ಸಂಖ್ಯೆ"</string>
+<string name="card_title_dialing">"ಡಯಲ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="card_title_redialing">"ಮರುಪ್ರಯತ್ನ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="card_title_conf_call">"ಅಧಿವೇಶನ ಕರೆ"</string>
+<string name="card_title_incoming_call">"ಒಳಬರುವ ಕರೆ"</string>
+<string name="card_title_call_ended">"ಕರೆ ಕೊನೆಗೊಂಡಿದೆ"</string>
+<string name="card_title_on_hold">"ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="card_title_hanging_up">"ಕರೆ ಮುಕ್ತಾಯಗೊಳಿಸುತ್ತಿದೆ"</string>
+<string name="card_title_in_call">"ಕರೆಯಲ್ಲಿದೆ"</string>
+<string name="card_title_my_phone_number">"ನನ್ನ ಸಂಖ್ಯೆಯು <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"ಡಯಲ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="notification_missedCallTitle">""ಬಿಟ್ಟಿಹೋಗಿರುವ ಕರೆ’"</string>
+<string name="notification_missedCallsTitle">"ತಪ್ಪಿಹೋಗಿರುವ ಕರೆಗಳು"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> ತಪ್ಪಿಹೋಗಿರುವ ಕರೆ"</string>
+<string name="notification_missedCallTicker">"ಇಲ್ಲಿಂದ ತಪ್ಪಿಹೋಗಿರುವ ಕರೆ <xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">"ನಡೆಯುತ್ತಿರುವ ಕರೆ"</string>
+<string name="notification_on_hold">"ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="notification_incoming_call">"ಒಳಬರುವ ಕರೆ"</string>
+<string name="notification_voicemail_title">"ಹೊಸ ವಾಯ್ಸ್ ಮೇಲ್"</string>
+<string name="notification_voicemail_title_count">"ಹೊಸ ವಾಯ್ಸ್ ಮೇಲ್ (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"ಡಯಲ್ ಮಾಡಿ <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"ವಾಯ್ಸ್ ಮೇಲ್ ಸಂಖ್ಯೆ ಅಪರಿಚಿತವಾದುದು"</string>
+<string name="notification_network_selection_title">"ಯಾವುದೇ ಸೇವೆ ಇಲ್ಲ"</string>
+<string name="notification_network_selection_text">"ಆಯ್ಕೆ ಮಾಡಿದ ನೆಟ್ವರ್ಕ್ (<xliff:g id="operator_name">%s</xliff:g>) ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="notification_action_end_call">"ಹ್ಯಾಂಗ್ ಅಪ್"</string>
+<string name="notification_missedCall_call_back">"ಮತ್ತೆ ಕರೆ ಮಾಡಿ"</string>
+<string name="notification_missedCall_message">"ಸಂದೇಶ"</string>
+<string name="incall_error_power_off">"ಕರೆ ಮಾಡಲು, ಮೊದಲು ವೈಮಾನಿಕ ಮೋಡ್ ಆಫ್ ಮಾಡಿ"</string>
+<string name="incall_error_emergency_only">"ನೆಟ್ವರ್ಕ್ ನಲ್ಲಿ ನೋಂದಾಯಿಸಿಲ್ಲ."</string>
+<string name="incall_error_out_of_service">"ಮೊಬೈಲ್ ನೆಟ್ವರ್ಕ್ ಲಭ್ಯವಿಲ್ಲ."</string>
+<string name="incall_error_no_phone_number_supplied">"ಕರೆ ಕಳುಹಿಸಿಲ್ಲ. ಸಿಂಧುವಾದ ಸಂಖ್ಯೆ ನಮೂದಿಸಿಲ್ಲ."</string>
+<string name="incall_error_call_failed">"ಕರೆ ಕಳುಹಿಸಿಲ್ಲ"</string>
+<string name="incall_status_dialed_mmi">"MMI ಸರಣಿ ಆರಂಭಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="incall_error_supp_service_unknown">"ಬೆಂಬಲಿತವಲ್ಲದ ಸರ್ವೀಸ್."</string>
+<string name="incall_error_supp_service_switch">"ಕರೆ ಬದಲಾವಣೆ ಅಸಾಧ್ಯವಾಗಿದೆ"</string>
+<string name="incall_error_supp_service_separate">"ಕರೆ ಪ್ರತ್ಯೇಕಿಸುವುದು ಅಸಾಧ್ಯವಾಗಿದೆ"</string>
+<string name="incall_error_supp_service_transfer">"ಕರೆ ವರ್ಗಾವಣೆ ಅಸಾಧ್ಯವಾಗಿದೆ"</string>
+<string name="incall_error_supp_service_conference">"ಕರೆ ಅಧಿವೇಶನ ಅಸಾಧ್ಯವಾಗಿದೆ"</string>
+<string name="incall_error_supp_service_reject">"ಕರೆಯನ್ನು ತಿರಸ್ಕರಿಸಲಾಗುತ್ತಿಲ್ಲ."</string>
+<string name="incall_error_supp_service_hangup">"ಕರೆಯ(ಗಳ)ನ್ನು ಬಿಡುಗಡೆಗೊಳಿಸಲಾಗುತ್ತಿಲ್ಲ."</string>
+<string name="incall_call_type_label_sip">"ಅಂತರ್ಜಾಲ ಕರೆ"</string>
+<string name="emergency_enable_radio_dialog_title">"ತುರ್ತು ಕರೆ"</string>
+<string name="emergency_enable_radio_dialog_message">"ರೇಡಿಯೊ ಟರ್ನ್ ಆನ್ ಮಾಡಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"ಸೇವಾ ಕ್ಷೇತ್ರದಿಂದ ಹೊರಗೆ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="dial_emergency_error">"ಕರೆ ಕಳುಹಿಸಿಲ್ಲ. <xliff:g id="non_emergency_number">%s</xliff:g> ಇದು ತುರ್ತು ಸಂಖ್ಯೆಯಲ್ಲ!"</string>
+<string name="dial_emergency_empty_error">"ಕರೆ ಕಳುಹಿಸಿಲ್ಲ. ತುರ್ತು ಸಂಖ್ಯೆಯೊಂದನ್ನು ಡಯಲ್ ಮಾಡಿ!"</string>
+<string name="dialerKeyboardHintText">"ಡಯಲ್ ಮಾಡಲು ಕೀಪ್ಯಾಡ್ ಬಳಸಿ"</string>
+<string name="onscreenHoldText">"ಹಿಡಿದಿರಿಸು"</string>
+<string name="onscreenEndCallText">"ಕೊನೆಗೊಳಿಸು"</string>
+<string name="onscreenShowDialpadText">"ಡಯಲ್ ಪ್ಯಾಡ್"</string>
+<string name="onscreenMuteText">"ಮೌನ"</string>
+<string name="onscreenAddCallText">"ಕರೆಯನ್ನು ಸೇರಿಸಿ"</string>
+<string name="onscreenMergeCallsText">"ಕರೆಗಳನ್ನು ಜೊತೆಗೂಡಿಸು"</string>
+<string name="onscreenSwapCallsText">"ಅದಲು ಬದಲು ಮಾಡು"</string>
+<string name="onscreenManageCallsText">"ಕರೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"</string>
+<string name="onscreenManageConferenceText">"ಅಧಿವೇಶನವನ್ನು ನಿರ್ವಹಿಸಿ"</string>
+<string name="onscreenAudioText">"ಶ್ರವ್ಯ"</string>
+<string name="onscreenVideoCallText">"ವಿಡಿಯೋ ಕರೆ"</string>
+<string name="importSimEntry">"ಆಮದು"</string>
+<string name="importAllSimEntries">"ಎಲ್ಲವನ್ನೂ ಆಮದು ಮಾಡಿ"</string>
+<string name="importingSimContacts">"SIM ಸಂಪರ್ಕಗಳನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ"</string>
+<string name="importToFDNfromContacts">"ಸಂಪರ್ಕಗಳಿಂದ ಆಮದು ಮಾಡಿ"</string>
+<string name="hac_mode_title">"ಶ್ರವಣ ಡಿವೈಸ್ಗಳು"</string>
+<string name="hac_mode_summary">"ಶ್ರವಣ ಡಿವೈಸ್ ಸೂಕ್ತತೆಯನ್ನು ಆನ್ ಮಾಡಿ"</string>
+<string name="dtmf_tones_title">"DTMF ಟೋನ್ ಗಳು"</string>
+<string name="dtmf_tones_summary">"DTMF ಟೋನಿನ ಅಳತೆಯನ್ನು ಸ್ಥಾಪಿಸಿ"</string>
+<string name="network_message">"ನೆಟ್ ವರ್ಕ್ ಸಂದೇಶ"</string>
+<string name="ota_title_activate">"ನಿಮ್ಮ ಫೋನ್ ಆಕ್ಟಿವೇಟ್ ಮಾಡಿ"</string>
+<string name="ota_touch_activate">"ನಿಮ್ಮ ಫೋನ್ ಸರ್ವೀಸ್ಯನ್ನು ಆಕ್ಟಿವೇಟ್ ಮಾಡಲು ವಿಶೇಷ ಕರೆಯೊಂದನ್ನು ಮಾಡಬೇಕಿದೆ. \u201Cಆಕ್ಟಿವೇಟ್\u201D ಅನ್ನು ಒತ್ತಿದ ನಂತರ, \n\n ನಿಮ್ಮ ಫೋನ್ ಆಕ್ಟಿವೇಟ್ ಮಾಡಲು ಒದಗಿಸಲ್ಪಟ್ಟ್ ಸೂಚನೆಗಳನ್ನು ಆಲಿಸಿ."</string>
+<string name="ota_skip_activation_dialog_title">"ಆಕ್ಟಿವೇಶನ್ ಬಿಟ್ಟು ಸರಿಯುವುದೇ?"</string>
+<string name="ota_skip_activation_dialog_message">"ನೀವು ಆಕ್ಟಿವೇಶನ್ ನಿಂದ ದೂರವಿದ್ದರೆ, ನಿಮಗೆ ಕರೆ ಮಾಡಲು ಅಥವಾ ಮೊಬೈಲ್ ದೇಟ ಜಾಲಕ್ಕೆ ಸಂಪರ್ಕ ಸ್ಥಾಪಿಸಲು ಸಾಧ್ಯವಾಗದು (ನಿಮಗೆ Wi-Fi ಜಾಲಕ್ಕೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲ್ ಸಾಧ್ಯವಾಗಬಹುದು). ನೀವು ನಿಮ್ಮ ಫೋನ್ ಆಕ್ಟಿವೇಟ್ ಮಾಡುವ ತನಕ, ಪ್ರತಿ ಬಾರಿ ನೀವು ಅದನ್ನು ಆನ್ ಮಾಡುವಾಗಲೂ ಅದನ್ನು ಆಕ್ಟಿವೇಟ್ ಮಾಡಲು ಕೇಳಿಕೊಳ್ಳಲ್ಪಡುವಿರಿ."</string>
+<string name="ota_skip_activation_dialog_skip_label">"ಜಿಗಿದುಸಾಗಿ"</string>
+<string name="ota_activate">"ಆಕ್ಟಿವೇಟ್"</string>
+<string name="ota_title_activate_success">"ಫೋನ್ ಆಕ್ಟಿವೇಟ್ ಆಗಿದೆ."</string>
+<string name="ota_title_problem_with_activation">"ಆಕ್ಟಿವೇಶನ್ ನಲ್ಲಿ ಸಮಸ್ಯೆ"</string>
+<string name="ota_listen">"ಆಕ್ಟಿವೇಶನ್ ಸಂಪೂರ್ಣಗೊಂಡಿದೆ ಎನ್ನುವುದು ಕೇಳಿಸುವ ತನಕ ಹ್ಳುತ್ತಿರುವ ಸೂಚನೆಯನ್ನು ಅನುಸರಿಸಿ."</string>
+<string name="ota_speaker">"ಧ್ವನಿ ವರ್ಧಕ"</string>
+<string name="ota_progress">"ನಿಮ್ಮ ಫೋನ್ ಪ್ರೊಗ್ರಾಂ ಆಗುವವರೆಗೆ ನಿರೀಕ್ಷಿಸಿ"</string>
+<string name="ota_failure">"ಪ್ರೊಗ್ರಾಮಿಂಗ್ ಯಶಸ್ವಿಯಾಗಿಲ್ಲ."</string>
+<string name="ota_successful">"ನಿಮ್ಮ ಫೋನ್ ಈಗ ಆಕ್ಟಿವೇಟ್ ಆಗಿದೆ. ಸ್ವೆಯು ಆರಂಭವಾಗಲು ಸುಮಾರು 15 ನಿಮಿಷಗಳು ತೆಗೆದುಕೊಳ್ಳಬಹುದು."</string>
+<string name="ota_unsuccessful">"ನಿಮ್ಮ ಫೋನ್ ಆಕ್ಟಿವೇಟ್ ಆಗಿಲ್ಲ. \n ಉತ್ತಮ ಕವರೇಜ್ ಇರುವ ಕ್ಷೇತ್ರವನ್ನು ನೀವು ಆಯ್ಕೆ ಮಾಡಬೇಕಾಗಿ ಬರಬಹುದು (ಕಿಟಕಿಯ ಬಳಿ ಅಥವಾ ಹೊರಗಡೆ. \n\n ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ಹೆಚ್ಚಿನ ಆಯ್ಕೆಗಳಿಗಾಗಿ ಗ್ರಾಹಕ ಸರ್ವೀಸ್ಯನ್ನು ಸಂಪರ್ಕಿಸಿ."</string>
+<string name="ota_spc_failure">"ಹೆಚ್ಚುವರಿ SPC ವೈಫಲ್ಯಗಳು"</string>
+<string name="ota_call_end">"ಹಿಂದೆ"</string>
+<string name="ota_try_again">"ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ"</string>
+<string name="ota_next">"ಮುಂದಿನದು"</string>
+<string name="phone_entered_ecm_text">"ತುರ್ತು ಹಿಂಕರೆ ಮೋಡಿಗೆ ಪ್ರವೇಶಿಸಲಾಗಿದೆ"</string>
+<string name="phone_in_ecm_notification_title">"ತುರ್ತು ಹಿಂಕರೆ ಮೋಡ್"</string>
+<string name="phone_in_ecm_call_notification_text">"ದತ್ತ ಸಂಪರ್ಕ ಅಸಮರ್ಥಗೊಳಿಸಲಾಗಿದೆ"</string>
+<string name="alert_dialog_in_ecm_call">"ಆಯ್ಕೆಮಾಡಿರುವ ಕ್ರಿಯೆಯು ತುರ್ತು ಕರೆಯಲ್ಲಿರುವಾಗ ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="progress_dialog_exiting_ecm">"ತುರ್ತು ಹಿಂಕರೆ ಮೋಡ್ ನಿಂದ ಹೊರಬರುತ್ತಿದೆ"</string>
+<string name="alert_dialog_yes">"ಹೌದು"</string>
+<string name="alert_dialog_no">"ಇಲ್ಲ"</string>
+<string name="alert_dialog_dismiss">"ತೆಗೆದು ಹಾಕಿ"</string>
+<string name="voicemail_provider">"ಸರ್ವೀಸ್"</string>
+<string name="voicemail_settings">"ಸೆಟ್ ಅಪ್"</string>
+<string name="voicemail_number_not_set">&lt; ಹೊಂದಿಸಿಲ್ಲ&gt;</string>
+<string name="other_settings">"ಇತರೆ ಕರೆ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="calling_via_template">"<xliff:g id="provider_name">%s</xliff:g> ಈ ಮೂಲಕ ಕರೆ"</string>
+<string name="contactPhoto">"ಸಂಪರ್ಕದ ಭಾವಚಿತ್ರ"</string>
+<string name="goPrivate">"ಖಾಸಗಿಯಾಗು"</string>
+<string name="selectContact">"ಸಂಪರ್ಕ ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="sip_settings">"ಅಂತರ್ಜಾಲ ಕರೆ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="sip_accounts">"ಅಂತರ್ಜಾಲ ಕರೆಸಂಬಂಧಿತ (SIP) ಅಕೌಂಟ್ಗಳು"</string>
+<string name="sip_accounts_title">"ಅಕೌಂಟ್ಗಳು"</string>
+<string name="sip_receive_calls">"ಒಳಬರುವ ಕರೆಗಳನ್ನು ಸ್ವೀಕರಿಸುವುದು"</string>
+<string name="sip_receive_calls_summary">"ಬ್ಯಾಟರಿಯ ಕಾರ್ಯಾವಧಿಯನ್ನು ತಗ್ಗಿಸುತ್ತದೆ"</string>
+<string name="sip_call_options_title">"ಅಂತರ್ಜಾಲ ಕರೆಸಂಬಂಧಿತ ವನ್ನು ಬಳಸಿ"</string>
+<string name="sip_call_options_wifi_only_title">"ಅಂತರ್ಜಾಲ ಕರೆಸಂಬಂಧಿತ ವನ್ನು ಬಳಸಿ (WiFi ಮಾತ್ರ)"</string>
+<string name="sip_call_options_entry_1">"ದತ್ತ ಅಂತರ್ಜಾಲ ದೊರಕದಿರುವಾಗ ಎಲ್ಲ ಕರೆಗಳಿಗೆ"</string>
+<string name="sip_call_options_entry_2">"ಕೇವಲ ಅಂತರ್ಜಾಲ ಕರೆಗಳಿಗೆ ಮಾತ್ರ"</string>
+<string name="sip_call_options_entry_3">"ಪ್ರತಿ ಕರೆಗೂ ಕೇಳಿ"</string>
+<string name="sip_call_options_wifi_only_entry_1">"ಎಲ್ಲ ಕರೆಗಳಿಗೆ"</string>
+<string name="pick_outgoing_call_phone_type">"ಕರೆಯೊಂದನ್ನು ಮಾಡಿ"</string>
+<string name="pick_outgoing_sip_phone">"ಅಂತರ್ಜಾಲ ಕರೆಸಂಬಂಧಿತ ಅಕೌಂಟ್ಯನ್ನು ಬಳಸಿ:"</string>
+<string name="remember_my_choice">"ಅಂತರ್ಜಾಲ ಕರೆಗಳನ್ನು ಮಾಡಲು ಸರ್ವಕಾಲವೂ ಬಳಸಿ"</string>
+<string name="reset_my_choice_hint">"ಡಿಫಾಲ್ಟ್ವಾಗಿ ಯಾವ ಅಂತರ್ಜಾಲ ಕರೆಸಂಬಂಧಿತ ಅಕೌಂಟ್ಯನ್ನು ಬಳಸಬಹುದು ಎಂಬುದನ್ನು ನೀವು ಬದಲಾಯಿಸಬಹುದು. ಇದಕ್ಕೆ ಪೂರಕವಾದುದು ಫೋನ್ &amp;gt; ಸ್ಥಾಪನೆಗಳು &amp;gt; ಅಂತರ್ಜಾಲ ಕರೆ ಸ್ಥಾಪನೆಗಳು &amp;gt; ಅಕೌಂಟ್ ಸ್ಕ್ರೀನ್."</string>
+<string name="pstn_phone">"ಸೆಲ್ ಫೋನ್ ಕರೆ"</string>
+<string name="internet_phone">"ಅಂತರ್ಜಾಲ ಕರೆ"</string>
+<string name="no_sip_account_found_title">""ಅಂತರ್ಜಾಲ ಕರೆಸಂಬಂಧಿತ ಅಕೌಂಟ್ ಇಲ್ಲ" "</string>
+<string name="no_sip_account_found">"ಈ ಫೋನ್ ನಲ್ಲಿ ಯಾವುದೇ ಅಂತರ್ಜಾಲ ಕರೆಸಂಬಂಧಿತ ಅಕೌಂಟ್ಗಳು ಇಲ್ಲ. ನೀವು ಈಗ ಒಂದನ್ನು ಸೇರಿಸಲು ಬಯಸುವಿರೆ?"</string>
+<string name="sip_menu_add">"ಸೇರಿಸು"</string>
+<string name="add_sip_account">"ಅಕೌಂಟ್ ಸೇರಿಸಿ"</string>
+<string name="remove_sip_account">"ಅಕೌಂಟ್ ತೆಗೆದುಹಾಕಿಬಿಡಿ"</string>
+<string name="sip_account_list">"SIP ಅಕೌಂಟ್ಗಳು"</string>
+<string name="saving_account">"ಅಕೌಂಟ್ಯನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="removing_account">"ಅಕೌಂಟ್ಯನ್ನು ತೆಗೆದುಹಾಕಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="sip_menu_save">"ಉಳಿಸಿ"</string>
+<string name="sip_menu_discard">"ತ್ಯಜಿಸಿ"</string>
+<string name="alert_dialog_close">"ಪ್ರೊಫೈಲನ್ನು ಮುಚ್ಚಿ"</string>
+<string name="alert_dialog_ok">"ಸರಿ"</string>
+<string name="close_profile">"ಸಮಾಪ್ತಿಗೊಳಿಸಿ"</string>
+<string name="primary_account_summary_with">"ಪ್ರಮುಖ ಅಕೌಂಟ್. <xliff:g id="Registration_status" example =" Registering...">%s</xliff:g>"</string>
+<string name="registration_status_checking_status">"ಸ್ಥಿತಿ ತಪಾಸಣೆಮಾಡಲಾಗುತ್ತಿದೆ..."</string>
+<string name="registration_status_registering">"ನೋಂದಣಿಯಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="registration_status_still_trying">"ಇನ್ನೂ ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದೇವೆ\u2026"</string>
+<string name="registration_status_not_receiving">"ಕರೆಗಳನ್ನು ಸ್ವೀಕರಿಸುತ್ತಿಲ್ಲ."</string>
+<string name="registration_status_no_data">""ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕ ಇಲ್ಲದಿರುವುದರಿಂದ ಅಕೌಂಟ್ ನೋಂದಣಿ ಸ್ಥಗಿತಗೊಂಡಿತು." "</string>
+<string name="registration_status_no_wifi_data">"WiFi ಸಂಪರ್ಕ ಇಲ್ಲದಿರುವುದರಿಂದ ಅಕೌಂಟ್ ನೋಂದಣಿ ಸ್ಥಗಿತಗೊಂಡಿತು."</string>
+<string name="registration_status_not_running">"ಅಕೌಂಟ್ ನೋಂದಣಿ ವಿಫಲ."</string>
+<string name="registration_status_done">"ಕರೆಗಳನ್ನು ಸ್ವೀಕರಿಸಲಾಗುತ್ತಿದೆ."</string>
+<string name="registration_status_failed_try_later">"ಅಕೌಂಟ್ ನೋಂದಣಿ ವಿಫಲ: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸುತ್ತೇವೆ."</string>
+<string name="registration_status_invalid_credentials">"ಅಕೌಂಟ್ ನೋಂದಣಿ ವಿಫಲ: ಸರಿಯಿಲ್ಲದ ಯುಸರ್ರ ಹೆಸರು ಅಥವಾ ಪಾಸ್ವರ್ಡ್."</string>
+<string name="registration_status_server_unreachable">"ಅಕೌಂಟ್ ನೋಂದಣಿ ವಿಫಲ: ಸರ್ವರ್ ಹೆಸರನ್ನು ಪರೀಕ್ಷಿಸಿ."</string>
+<string name="third_party_account_summary">"ರಿಂದ ಬಳಸಲ್ಪಡುತ್ತಿದೆ <xliff:g id="Account_owner" example="Google Talk">%s</xliff:g> ಅಪ್ಲಿಕೇಶನ್ ಈ ಅಕೌಂಟ್ಯು ಪ್ರಸ್ತುತದಲ್ಲಿ."</string>
+<string name="sip_edit_title">"SIP ಅಕೌಂಟ್ಯ ವಿವರಗಳು"</string>
+<string name="sip_edit_new_title">"SIP ಅಕೌಂಟ್ಯ ವಿವರಗಳು"</string>
+<string name="domain_address_title">"ಸರ್ವರ್"</string>
+<string name="username_title">"ಯುಸರ್ರ ಹೆಸರು"</string>
+<string name="password_title">"ಪಾಸ್ವರ್ಡ್"</string>
+<string name="display_name_title">"ಹೆಸರನ್ನು ಪ್ರದರ್ಶಿಸಿ"</string>
+<string name="proxy_address_title">"ಹೊರಹೋಗತಕ್ಕ ಪ್ರಾಕ್ಸಿ ವಿಳಾಸ"</string>
+<string name="port_title">"ಪೋರ್ಟ್ ಸಂಖ್ಯೆ"</string>
+<string name="transport_title">"ಸಾರಿಗೆಯ ವಿಧಾನ"</string>
+<string name="send_keepalive_title">"ಕೀಪ್-ಅಲೈವ್ ಅನ್ನು ಕಳುಹಿಸಿ"</string>
+<string name="set_primary_title">"ಪ್ರಮುಖ ಅಕೌಂಟ್ಯಾಗಿ ಸ್ಥಾಪಿರಿ"</string>
+<string name="set_primary_summary">"ಹೊರಹೋಗತಕ್ಕ ಕರೆಗಳಿಗೆ ಬಳಸಲಾಗುತ್ತದೆ"</string>
+<string name="advanced_settings">"ಐಚ್ಛಿಕ ಅಳವಡಿಕೆಗಳು"</string>
+<string name="auth_username_title">"ಯುಸರ್ರ ಹೆಸರಿನ ದೃಢೀಕರಣ"</string>
+<string name="auth_username_summary">"ದೃಢೀಕರಣಕ್ಕೆ ಬಳಸಲಾದ ಯುಸರ್ರ ಹೆಸರು"</string>
+<string name="default_preference_summary">" ಹೊಂದಿಸಿಲ್ಲ "</string>
+<string name="display_name_summary">"ಸೇಮ್ ಆಸ್ ಯೂಸರ್ಸ್ ನೇಮ್;"</string>
+<string name="optional_summary">"ಆಪ್ಷನಲ್;"</string>
+<string name="advanced_settings_show">"▷ ಎಲ್ಲವನ್ನೂ ತೋರಿಸಲು ಸ್ಪರ್ಶಿಸಿ"</string>
+<string name="advanced_settings_hide">"▽ ಎಲ್ಲವನ್ನೂ ಮರೆಮಾಚಲು ಸ್ಪರ್ಶಿಸಿ"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> ಅಗತ್ಯವಿದೆ ಮತ್ತು ಖಾಲಿ ಬಿಟ್ಟಿರುವಂತಿಲ್ಲ."</string>
+<string name="not_a_valid_port">"ಪೋರ್ಟ್ ಸಂಖ್ಯೆಯು ಕಡ್ಡಾಯವಾಗಿ1000 ಮತ್ತು 65534ರ ಒಳಗೆ ಇರಬೇಕು."</string>
+<string name="no_internet_available_title">"ಯಾವುದೇ ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕವಿಲ್ಲ"</string>
+<string name="no_wifi_available_title">"ಯಾವುದೇ Wi-Fi ಸಂಪರ್ಕವಿಲ್ಲ"</string>
+<string name="no_internet_available">"ಅಂತರ್ಜಾಲ ಕರೆಯೊಂದನ್ನು ಮಾಡಲು, ಮೊದಲಿಗೆ ನಿಮ್ಮ ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕವನ್ನು ಪರೀಕ್ಷಿಸಿ."</string>
+<string name="no_wifi_available">"ಅಂತರ್ಜಾಲ ಕರೆಗಳನ್ನು ಮಾಡಬೇಕಾದರೆ ನೀವು ಒಂದು Wi-Fi ನೆಟ್ ವರ್ಕ್ ಗೆ ಸಂಪರ್ಕ ಹೊಂದಿರಬೇಕು.(ವೈರ್ ಲೆಸ್ &amp; ನೆಟ್ ವರ್ಕ್ ಅಳವಡಿಕೆಗಳನ್ನು ಬಳಸಿ)."</string>
+<string name="no_voip">"ಅಂತರ್ಜಾಲ ಕರೆಮಾಡುವಿಕೆಯನ್ನು ಬೆಂಬಲಿಸಿಲ್ಲ"</string>
+<string name="sip_system_decide">"ಸ್ವಯಂಚಾಲಿತ"</string>
+<string name="sip_always_send_keepalive">"ಯಾವಾಗಲೂ ಕಳುಹಿಸಿ"</string>
+<string name="not_voice_capable">"ವಾಯ್ಸ್ ಕರೆ ಮಾಡುವಿಕೆ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ"</string>
+<string name="respond_via_sms_canned_response_1">"ಈಗ ಮಾತನಾಡಲಾಗುವುದಿಲ್ಲ. ಏನು ಸಮಾಚಾರ?"</string>
+<string name="respond_via_sms_canned_response_2">"ನಾನು ಕೂಡಲೆ ನಿಮಗೆ ಕರೆ ನೀಡುತ್ತೇನೆ."</string>
+<string name="respond_via_sms_canned_response_3">"ನಾನು ನಿಮಗೆ ಆಮೇಲೆ ಕರೆ ಮಾಡುತ್ತೇನೆ."</string>
+<string name="respond_via_sms_canned_response_4">"ಈಗ ಮಾತನಾಡಲಾಗುವುದಿಲ್ಲ. ಆಮೇಲೆ ಕರೆ ಮಾಡುವಿರೆ?"</string>
+<string name="respond_via_sms_custom_message">"ನಿಮ್ಮದೇ ಸ್ವಂತದ್ದನ್ನು ಬರೆಯಿರಿ..."</string>
+<string name="custom_message_cancel">"ರದ್ದು"</string>
+<string name="custom_message_send">"ಕಳುಹಿಸಿ"</string>
+<string name="respond_via_sms_setting_title">"ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆಗಳು"</string>
+<string name="respond_via_sms_setting_title_2">"ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಪರಿಷ್ಕರಿಸಿ"</string>
+<string name="respond_via_sms_edittext_dialog_title">"ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆ"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"ಡಿಫಾಲ್ಟ್ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರುಸ್ಥಾಪಿಸಿ"</string>
+<string name="respond_via_sms_confirmation_format">"<xliff:g id="phone_number">%s</xliff:g> ಗೆ ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಿದೆ"</string>
+<string name="description_image_button_one">"ಒಂದು"</string>
+<string name="description_image_button_two">"ಎರಡು"</string>
+<string name="description_image_button_three">"ಮೂರು"</string>
+<string name="description_image_button_four">"ನಾಲ್ಕು"</string>
+<string name="description_image_button_five">"ಐದು"</string>
+<string name="description_image_button_six">"ಆರು"</string>
+<string name="description_image_button_seven">"ಏಳು"</string>
+<string name="description_image_button_eight">"ಎಂಟು"</string>
+<string name="description_image_button_nine">"ಒಂಬತ್ತು"</string>
+<string name="description_image_button_star">"ತಾರೆ"</string>
+<string name="description_image_button_zero">"ಶೂನ್ಯ"</string>
+<string name="description_image_button_pound">"ಪೌಂಡ್"</string>
+<string name="description_dial_button">"ಡಯಲ್"</string>
+<string name="description_delete_button">"ಬ್ಯಾಕ್ ಸ್ಪೇಸ್"</string>
+<string name="accessibility_speakerphone_enabled">"ಸ್ಪೀಕರ್ ಫೋನ್ ಸಕ್ರಿಯವಾಗಿದೆ."</string>
+<string name="accessibility_call_muted">"ಕರೆ ನಿಃಶಬ್ದಗೊಳಿಸಲಾಗಿದೆ."</string>
+<string name="description_target_answer">"ಉತ್ತರಿಸಿ"</string>
+<string name="description_target_send_sms">"SMS ಕಳುಹಿಸಿ"</string>
+<string name="description_target_decline">"ನಿರಾಕರಿಸಿ"</string>
+<string name="description_direction_up">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>.ಕ್ಕಾಗಿ ಮೇಲಕ್ಕೆ ಜಾರಿಸಿ"</string>
+<string name="description_direction_left">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>.ಕ್ಕಾಗಿ ಕೆಳೆಡಕ್ಕೆ ಜಾರಿಸಿ"</string>
+<string name="description_direction_right">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>.ಕ್ಕಾಗಿ ಬಲಕ್ಕೆ ಜಾರಿಸಿ"</string>
+<string name="voicemail_notification_vibrate_when_title">"ಕಂಪನ"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"ಕಂಪನ"</string>
+<string name="voicemail_notification_ringtone_title">"ಸದ್ದು"</string>
+<string name="default_notification_description">"ಡಿಫಾಲ್ಟ್ ಸದ್ದು (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"ಫೋನ್ ರಿಂಗ್ ಟೋನ್"</string>
+<string name="vibrate_on_ring_title">"ರಿಂಗ್ ಆಗುವಾಗ ಕಂಪಿಸಲಿ"</string>
+<string name="dtmf_tone_enable_title">"ಡಯಲ್ ಪ್ಯಾಡ್ ಸ್ಪರ್ಶ ಟೋನ್ ಗಳು"</string>
+<string name="dial_pad_autocomplete">"ಡಯಲ್ ಪ್ಯಾಡ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಂಪೂರ್ಣಗೊಂಡಿದೆ"</string>
+<string name="preference_category_ringtone">"ರಿಂಗ್ ಟೋನ್ ಕಂಪನ"</string>
+<string name="manageConferenceLabel">"ಸಮ್ಮೇಲನ ಕರೆಯನ್ನು ನಿರ್ವಹಿಸಿ"</string>
+<string name="emergency_call_dialog_number_for_display">"ತುರ್ತು ಸಂಖ್ಯೆ"</string>
+
+  <string-array name="clir_display_values">
+    <item>"ನೆಟವರ್ಕ್ ಡಿಫ಼ಾಲ್ಟ್"</item>
+    <item>"ಸಂಖ್ಯೆ ಮರೆಮಾಚು"</item>
+    <item>"ಸಂಖ್ಯೆ ಪ್ರದರ್ಷಿಸು"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item>"LTE / WCDMA"</item>
+    <item>"LTE"</item>
+    <item>"ಜಾಗತಿಕ"</item>
+    <item>"GSM/WCDMA/LTE"</item>
+    <item>"CDMA + LTE/EvDo"</item>
+    <item>"CDMA/EvDo/GSM/WCDMA"</item>
+    <item>"EvDo ಮಾತ್ರ"</item>
+    <item>"CDMA w/o EvDo"</item>
+    <item>"CDMA/EvDo ಆಟೋ"</item>
+    <item>"GSM/WCDMA ಆಟೋ"</item>
+    <item>"WCDMA ಮಾತ್ರ"</item>
+    <item>"GSM  ಮಾತ್ರ"</item>
+    <item>"GSM/WCDMA ಆದ್ಯತೆ"</item>
+  </string-array>
+  <string-array name="list_language_entries">
+    <item>"ಇಂಗ್ಲಿಷ್"</item>
+    <item>"ಫ್ರೆಂಚ್"</item>
+    <item>"ಸ್ಪ್ಯಾನಿಷ್"</item>
+    <item>"ಜಪಾನೀಸ್"</item>
+    <item>"ಕೊರಿಯನ್"</item>
+    <item>"ಚೈನೀಸ್"</item>
+    <item>"ಹೀಬ್ರೂ"</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item>"ಮನೆ ಮಾತ್ರ"</item>
+    <item>"ಸ್ವಯಂಚಾಲಿತ"</item>
+  </string-array>
+  <string-array name="tty_mode_entries">
+    <item>"TTY ಆಫ್"</item>
+    <item>"TTY ತುಂಬಿದೆ"</item>
+    <item>"TTY HCO"</item>
+    <item>"TTY VCO"</item>
+  </string-array>
+  <string-array name="dtmf_tone_entries">
+    <item>"ಸಾಮಾನ್ಯ"</item>
+    <item>"ಉದ್ದನೆಯ"</item>
+  </string-array>
+  <plurals name="phone_in_ecm_notification_time">
+<item quantity="one">"ಈ ಸಮಯದವರೆಗೆ ದತ್ತ ಸಂಪರ್ಕವಿಲ್ಲ <xliff:g id="count">%s</xliff:g> ಮಿನಿಟುಗಳು"</item>
+<item quantity="other">"ಈ ಸಮಯದವರೆಗೆ ದತ್ತ ಸಂಪರ್ಕವಿಲ್ಲ <xliff:g id="count">%s</xliff:g> ಮಿನಿಟುಗಳು"</item>
+  </plurals>
+  <plurals name="alert_dialog_exit_ecm">
+<item quantity="one">"ಫೋನ್ ತುರ್ತು ಹಿಂಕರೆ ಮೋಡಿನಲ್ಲಿ ಇಷ್ಟು ಸಮಯ ಇರುತ್ತದೆ <xliff:g id="count">%s</xliff:g> ಮಿನಿಟುಗಳು. ಈ ಮೋಡಿನಲ್ಲಿರುವಾಗ ದತ್ತ ಸಂಪರ್ಕ ಉಪಯೋಗಿಸುವ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಈಗ ನಿರ್ಗಮಿಸಬಯಸುವಿರೇ?"</item>
+<item quantity="other">"ಫೋನ್ ತುರ್ತು ಹಿಂಕರೆ ಮೋಡಿನಲ್ಲಿ ಇಷ್ಟು ಸಮಯ ಇರುತ್ತದೆ <xliff:g id="count">%s</xliff:g> ಮಿನಿಟುಗಳು. ಈ ಮೋಡಿನಲ್ಲಿರುವಾಗ ದತ್ತ ಸಂಪರ್ಕ ಉಪಯೋಗಿಸುವ ಅಪ್ಲಿಕೇಶನ್ ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಈಗ ನಿರ್ಗಮಿಸಬಯಸುವಿರೇ?"</item>
+  </plurals>
+  <plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="one">"ತುರ್ತು ಕರೆಯ ಮೋಡಿನಲ್ಲಿರುವಾಗ ಆಯ್ಕೆಮಾಡಿರುವ ಕ್ರಿಯೆಯು ಲಭ್ಯವಿಲ್ಲ. ಫೋನ್ ಈ ಮೋಡಿನಲ್ಲಿ ಇಷ್ಟು ಸಮಯ ಇರುತ್ತದೆ. <xliff:g id="count">%s</xliff:g> ಮಿನಿಟು.ಈಗ ನಿರ್ಗಮಿಸ ಬಯಸುವಿರೇ?"</item>
+<item quantity="other">"ತುರ್ತು ಕರೆಯ ಮೋಡಿನಲ್ಲಿರುವಾಗ ಆಯ್ಕೆಮಾಡಿರುವ ಕ್ರಿಯೆಯು ಲಭ್ಯವಿಲ್ಲ. ಫೋನ್ ಈ ಮೋಡಿನಲ್ಲಿ ಇಷ್ಟು ಸಮಯ ಇರುತ್ತದೆ. <xliff:g id="count">%s</xliff:g> ಮಿನಿಟು.ಈಗ ನಿರ್ಗಮಿಸ ಬಯಸುವಿರೇ?"</item>
+  </plurals>
+</resources>

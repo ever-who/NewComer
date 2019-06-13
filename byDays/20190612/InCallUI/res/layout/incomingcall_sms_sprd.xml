@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/smsRejectListLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/incoming_call_list_background_color_sprd"
+    android:orientation="vertical" >
+
+    <ListView
+        android:id="@+id/sms_reject_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/incoming_call_list_text_color_sprd"
+        android:divider="@drawable/list_divider_sprd"
+        android:background="@drawable/sms_reject_bg_sprd" />
+
+</LinearLayout>

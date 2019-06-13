@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ཁ་པར།"</string>
+<string name="onHold">"རྒྱུན་འཁྱོངས་བྱེད་བཞིན་ཡོད།"</string>
+<string name="unknown">"མི་ཤེས།"</string>
+<string name="private_num">"སྒེར་གྱི་ཨང་གྲངས། "</string>
+<string name="payphone">"སྤྱི་སྤྱོད་ཁ་པར། "</string>
+<string name="callFailed_userBusy">"སྐུད་ལམ་ལ་ཁོམ་ལོང་མི་འདུག"</string>
+<string name="callFailed_congestion">"དྲ་རྒྱ་ལ་ཁོམ་ལོང་མི་འདུག"</string>
+<string name="callFailed_timedOut">"ཡ་ལན་མི་འདུག དུས་ལ་འདས།"</string>
+<string name="callFailed_server_unreachable">"ཞབས་ཞུ་ཆས་ལ་སྦྲེལ་ཐབས་མི་འདུག"</string>
+<string name="callFailed_number_unreachable">"ཨང་གྲངས་དེར་ཁ་པར་སྤྲོད་ཐབས་མི་འདུག"</string>
+<string name="callFailed_invalid_credentials">"བཀོལ་བདག་མིང་ངམ་གསང་ཨང་ནོར།"</string>
+<string name="callFailed_out_of_network">"དྲ་ཕྱིའི་འབོད་སྐུལ།"</string>
+<string name="callFailed_server_error">"ཞབས་ཞུ་ཆས་ནོར། སྒུག་ནས་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="callFailed_noSignal">"བརྡ་རྟགས་མི་འདུག"</string>
+<string name="callFailed_limitExceeded">"ACMཚད་བཅད་ལས་བརྒལ།"</string>
+<string name="callFailed_powerOff">"གནམ་སྐུད་བཀག་ཟིན།"</string>
+<string name="callFailed_simError">"SIMམེད་པའམ་SIMརུ་ནོར་འཁྲུལ་བྱུང་།"</string>
+<string name="callFailed_outOfService">"ཞབས་ཞུ་ཁུལ་དུ་མི་འདུག"</string>
+<string name="callFailed_fdn_only">"ཕྱིར་འབོད་ཁ་པར་གཏན་འཁེལ་ཁ་པར་གྱི་བཀག་རྒྱ་ཐེབས།"</string>
+<string name="callFailed_cb_enabled">"ཁ་པར་ཚོད་འཛིན་གྱི་གནས་ཚུལ་འོག་ཏུ་ཕྱིར་འབོད་ཁ་པར་གཏོང་ཐབས་མི་འདུག"</string>
+<string name="callFailed_dsac_restricted">"ཁ་བརྡ་མཐའ་དག་ལ་འདྲི་གཏུག་ཚོད་འཛིན་གྱི་བཀག་རྒྱ་ཐེབས།"</string>
+<string name="callFailed_dsac_restricted_emergency">"བྲེལ་འབོད་དམ་ཉེན་འབོད་ལ་འདྲི་གཏུག་གི་ཚོད་འཛིན་ཐེབས།"</string>
+<string name="callFailed_dsac_restricted_normal">"རྒྱུན་ལྡན་གྱི་ཁ་བརྡ་ལ་འདྲི་གཏུག་གི་ཚོད་འཛིན་ཐེབས།"</string>
+<string name="callFailed_unobtainable_number">"ནུས་མེད་ཨང་གྲངས།"</string>
+<string name="confCall">"ཁ་པར་གྲོས་ཚོགས།"</string>
+<string name="call_lost">"ཁ་བརྡ་ཆད་ཟིན།"</string>
+<string name="ok">"གཏན་འཁེལ།"</string>
+<string name="audio_mode_speaker">"སྒྲ་དུང་།"</string>
+<string name="audio_mode_earpiece">"ཁ་པར་གྱི་ཉན་དུང་།"</string>
+<string name="audio_mode_wired_headset">"སྐུད་ལྡན་ཉན་དུང་།"</string>
+<string name="audio_mode_bluetooth">"སོ་སྔོན་པོ།"</string>
+<string name="wait_prompt_str">"གཤམ་གྱི་སྒྲ་ཟློས་སྐུར།\n"</string>
+<string name="pause_prompt_str">"སྒྲ་ཟློས་སྐུར་བཞིན་འདུག\n"</string>
+<string name="send_button">"བསྐུར་སྐྱེལ།"</string>
+<string name="pause_prompt_yes">"རེད།"</string>
+<string name="pause_prompt_no">"མིན།"</string>
+<string name="wild_prompt_str">"ཀུན་འཕྲོད་རྟགས་བརྗེ།"</string>
+<string name="no_vm_number">"སྐད་སྒྲའི་སྦྲག་སྒམ་ཨང་གྲངས་མི་འདུག"</string>
+<string name="no_vm_number_msg">"SIMབྱང་བུའི་སྟེང་དུ་སྐད་སྒྲའི་སྦྲག་སྒམ་ཨང་གྲངས།"</string>
+<string name="add_vm_number_str">"ཨང་གྲངས་ཁ་སྣོན་བྱེད།"</string>
+<string name="puk_unlocked">"ཁྱེད་ཀྱི་SIMབྱང་བུ་སྒྲོག་ཟིན། ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒྲོག་འབྱེད་བཞིན་འདུག\u2026"</string>
+<string name="label_ndp">"SIMདྲ་བའི་སྒྲོག་སེལ་PIN"</string>
+<string name="sim_ndp_unlock_text">"སྒོ་ཕྱེ་བ།"</string>
+<string name="sim_ndp_dismiss_text">"སྐྱུར་བ།"</string>
+<string name="requesting_unlock">"དྲ་བའི་སྒྲོག་སེལ་བར་རེ་འདུན་འདོན་བཞིན་ཡོད།\u2026"</string>
+<string name="unlock_failed">"དྲ་བའི་སྒྲོལ་སེལ་རེ་འདུན་ལ་འགྲུབ་མ་བྱུང་།"</string>
+<string name="unlock_success">"དྲ་བའི་སྒྲོག་སེལ་ལེགས་འགྲུབ་བྱུང་།"</string>
+<string name="labelGSMMore">"GPMཁ་བརྡའི་སྒྲིག་འགོད།"</string>
+<string name="labelCDMAMore">"CDMAཁ་བརྡའི་སྒྲིག་འགོད།"</string>
+<string name="apn_settings">"མཐུད་སྣེའི་མིང་།"</string>
+<string name="settings_label">"དྲ་རྒྱའི་སྒྲིག་འགོད།"</string>
+<string name="voicemail">"སྐད་འཇོག་ཡིག་སྒམ།"</string>
+<string name="voicemail_abbreviated">"VM:"</string>
+<string name="networks">"དྲ་རྒྱ་ཚོང་གཉེར་བ།"</string>
+<string name="call_settings">"གཏོང་ལེན་སྒྲིག་འགོད།"</string>
+<string name="additional_gsm_call_settings">"སྒྲིག་འགོད་གཞན།"</string>
+<string name="sum_gsm_call_settings">"GSMཁ་བརྡ་ཁོ་ནར་སྤྱོད་པའི་སྒྲིག་འགོད་གཞན།"</string>
+<string name="additional_cdma_call_settings">"CDMAཁ་བརྡའི་སྒྲིག་འགོད་གཞན།"</string>
+<string name="sum_cdma_call_settings">"CDMAཁ་བརྡ་ཁོ་ནར་སྤྱོད་པའི་སྒྲིག་འགོད་གཞན།"</string>
+<string name="labelNwService">"དྲ་རྒྱའི་ཞབས་ཞུ་སྒྲིག་འགོད།"</string>
+<string name="labelCallerId">"གཏོང་མཁན་གྱི་ID"</string>
+<string name="sum_loading_settings">"སྒྲིག་བཟོ་ཐོན་ཞིན་པ།\u2026"</string>
+<string name="sum_hide_caller_id">"ཕྱིར་འབོད་གནང་སྐབས་རང་གི་ཨང་གྲངས་སྦ།"</string>
+<string name="sum_show_caller_id">"ཕྱིར་འབོད་གནང་སྐབས་རང་གི་ཨང་གྲངས་འཆར།"</string>
+<string name="sum_default_caller_id">"འཕྱིར་འབོད་གནང་སྐབས་ཚོང་གཉེར་བའི་རང་ལེན་སྒྲིག་འགོད་ལྟར་རང་གི་ཨང་གྲངས་འཆར།"</string>
+<string name="labelCW">"ཁ་པར་ཡོང་ན་སྒུག་སྡོད།"</string>
+<string name="sum_cw_enabled">"ཁ་བརྡ་བྱེད་པའི་སྐབས་སུ་ནང་འབོད་གཞན་གྱི་བརྡ་སྤྲོད།"</string>
+<string name="sum_cw_disabled">"ཁ་བརྡ་བྱེད་པའི་སྐབས་སུ་ནང་འབོད་གཞན་གྱི་བརྡ་སྤྲོད།"</string>
+<string name="call_forwarding_settings">"ནང་འབོད་གཞན་སྦྲེལ་སྒྲིག་འགོད།"</string>
+<string name="labelCF">"ཁ་པར་ཡོང་བའི་བརྒྱུད་ལེན།"</string>
+<string name="labelCFU">"ཐོག་མཐའ་བར་གསུམ་དུ་གཞན་སྦྲེལ་བྱེད།"</string>
+<string name="messageCFU">"མཐོ་མཐའ་བར་གསུམ་དུ་ཨང་གྲངས་འདི་སྤྱོད།"</string>
+<string name="sum_cfu_enabled_indicator">"ནང་འབོད་ཚང་མ་གཞན་སྦྲེལ་བྱེད།"</string>
+<string name="sum_cfu_enabled">"ནང་འབོད་ཁ་པར་ཚང་མ་<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>ལ་སྦྲེལ།"</string>
+<string name="sum_cfu_enabled_no_number">"ཨང་གྲངས་མ་སྤྲད།"</string>
+<string name="sum_cfu_disabled">"མི་ཆོག་པ།"</string>
+<string name="labelCFB">"སྐུད་པར་ཁོམ་ལོང་མེད་སྐབས་གཞན་དུ་སྦྲེལ།"</string>
+<string name="messageCFB">"སྐུད་པར་ཁོམ་ལོང་མེད་སྐབས་སྦྲེལ་སའི་ཨང་གྲངས།"</string>
+<string name="sum_cfb_enabled">"ནང་འབོད་ཁ་པར་<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>སྦྲེལ།"</string>
+<string name="sum_cfb_disabled">"མི་ཆོག་པ།"</string>
+<string name="disable_cfb_forbidden">"ཁྱེད་ཀྱི་ཚོང་གཉེར་པས་ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྐུད་པ་བྲེལ་སྐབས་ནང་འབོད་ཁ་པར་གཞན་སྦྲེལ་རྩོལ་ནུས་ཀྱི་མཚམས་འཇོག་པར་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+<string name="labelCFNRy">"ཉན་མཁན་མེད་པའི་སྐབས་སུ་ནང་འབོད་གཞན་སྦྲེལ་བྱེད།"</string>
+<string name="messageCFNRy">"ཉན་མཁན་མེད་པའི་སྐབས་ཀྱི་གཞན་སྦྲེལ་ཨང་གྲངས།"</string>
+<string name="sum_cfnry_enabled">"ནང་འབོད་ཁ་པར་<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>སྦྲེལ།"</string>
+<string name="sum_cfnry_disabled">"མི་ཆོག་པ།"</string>
+<string name="disable_cfnry_forbidden">"སྐུད་བྲེལ་གྱི་སྐབས་སུ་ཁྱེད་ཀྱི་ཚོང་གཉེར་པས་ནང་འབོད་གཞན་སྦྲེལ་རྩོལ་ནུས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+<string name="labelCFNRc">"ཁ་པར་མི་འཕྲོད་པའི་སྐབས་གཞན་དུ་སྦྲེལ།"</string>
+<string name="messageCFNRc">"ཁ་པར་མི་འཕྲོད་པའི་སྐབས་ཀྱི་གཞན་སྦྲེལ་ཨང་གྲངས།"</string>
+<string name="sum_cfnrc_enabled">"ནང་འབོད་ཁ་པར་<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>སྦྲེལ།"</string>
+<string name="sum_cfnrc_disabled">"མི་ཆོག་པ།"</string>
+<string name="disable_cfnrc_forbidden">"ཁ་པར་ལ་འབྲེལ་བ་བྱེད་ཐབས་མེད་སྐབས་ནང་འབོད་གཞན་སྦྲེལ་རྩོལ་ནུས་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+<string name="updating_title">"གཏོང་ལེན་སྒྲིག་འགོད།"</string>
+<string name="error_updating_title">"ཁ་བརྡའི་སྒྲིག་འགོད་ནོར།"</string>
+<string name="reading_settings">"སྒྲིག་འགོད་ཀློག་བཞིན་འདུག\u2026"</string>
+<string name="updating_settings">"སྒྲིག་འགོད་རིམ་སྤར་བྱེད་བཞིན་འདུག\u2026"</string>
+<string name="reverting_settings">"སྒྲིག་འགོད་སོར་ཆུད་བྱེད་བཞིན་འདུག\u2026"</string>
+<string name="response_error">"དྲ་རྒྱའི་རྒྱུན་ལྡན་མ་ཡིན་པའི་ཡ་ལན།"</string>
+<string name="exception_error">"དྲ་རྒྱའམ་SIMབྱང་བའི་ནོར་འཛོལ།"</string>
+<string name="fdn_check_failure">"ཉེར་སྤྱོད་གྱིས་ཁ་པར་གཏོང་བའོ་སྒྲིག་བཟོ་ཁ་ཕྱེ་འདུག་ དེས་རྐྱེན་པས་འབྲེལ་བ་ཡོད་པའི་ཁ་པར་འགའ་ཞིག་གི་ནུས་པ་མེད་པ་ཆག་སྲིད།"</string>
+<string name="radio_off_error">"སྐུད་མེད་སྡེབ་སྒྲིག་ཀྱི་སྒོ་འབྱེད་ཅིང་དེ་ནས་སྒྲིག་འགོད་འདི་ལ་ལྟ་རྟོག་བྱེད།"</string>
+<string name="close_dialog">"གཏན་འཁེལ།"</string>
+<string name="enable">"འགོ་སློང་།"</string>
+<string name="disable">"སྤྱོད་འཚམས་བཞག་པ།"</string>
+<string name="change_num">"གསར་སྤེལ།"</string>
+<string-array name="clir_display_values">
+<item>"དྲ་རྒྱའི་རང་ལེན།"</item>
+<item>"ཨང་གྲངས་སྦ།"</item>
+<item>"ཨང་གྲངས་འཆར།"</item>
+</string-array>
+<string name="vm_changed">"སྐད་སྒྲའི་སྦྲག་སྒམ་གྱི་ཨང་གྲངས་བརྗེས་ཟིན།"</string>
+<string name="vm_change_failed">"སྐད་སྒྲའི་སྦྲག་འཕྲིན་གྱི་ཨང་གྲངས་སྒྱུར་ཐབས་མི་འདུག \nགལ་ཏེ་གནད་དོན་འདི་ཡུན་རིང་དུ་ཡོད་ན་ཁྱེད་ཀྱི་ཚོང་གཉེར་པར་འབྲེལ་གཏུག་བྱེད་རོགས།"</string>
+<string name="fw_change_failed">"གཞན་སྦྲེལ་གྱི་ཨང་གྲངས་སྒྱུར་ཐབས་མི་འདུག \nགལ་ཏེ་གནད་དོན་འདི་ཡུན་རིང་དུ་ཡོད་ན་ཁྱེད་ཀྱི་ཚོང་གཉེར་པར་འབྲེལ་གཏུག་བྱེད་རོགས།"</string>
+<string name="fw_get_in_vm_failed">"ད་སྐབས་ཀྱི་གཞན་སྦྲེལ་སྒྲིག་འགོད་འཚོལ་བཤེར་དང་གསོག་ཉར་བྱེད་ཐབས་མི་འདུག \n གང་ལྟར་ཡང་ལས་སྒོ་གཞན་དུ་བརྗེ་སྤོར་བྱེད་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="no_change">"སྒྱུར་བཅོས་གང་ཡང་གནང་མེད།"</string>
+<string name="sum_voicemail_choose_provider">"སྐད་སྒྲའི་སྦྲག་སྒམ་ཞབས་ཞུ་འདམ།"</string>
+<string name="voicemail_default">"ངའི་སྐྱེལ་མཁན།"</string>
+<string name="mobile_networks">"གནས་སྤོ་དྲ་རྒྱའི་སྒྲིག་འགོད།"</string>
+<string name="label_available">"སྤྱོད་ཐུབ་པའི་དྲ་རྒྱ།"</string>
+<string name="load_networks_progress">"འཚོལ་བཤེར་བྱེད་བཞིན་པ།..."</string>
+<string name="empty_networks_list">"དྲ་རྒྱ་མ་རྙེད།"</string>
+<string name="search_networks">"དྲ་རྒྱ་འཚོལ།"</string>
+<string name="network_query_error">"དྲ་རྒྱ་འཚོལ་སྐབས་ནོར་འཛོལ་ལ་འཕྲད།"</string>
+<string name="register_on_network">" <xliff:g id="network">%s</xliff:g>ལ་ཐོ་འགོད་བྱེད་བཞིན་འདུགu\2026"</string>
+<string name="not_allowed">"ཁྱེད་ཀྱི་SIMབྱང་བུ་དྲ་རྒྱ་འདིར་སྦྲེལ་དུ་མི་འཇུག"</string>
+<string name="connect_later">"ད་སྐབས་དྲ་རྒྱ་འདིར་སྦྲེལ་ཐབས་མི་འདུག ཅུང་ཙམ་སྒུག་རོགས།"</string>
+<string name="registration_done">"དྲ་རྒྱའི་སྟེང་དུ་ཐོ་འགོད་བྱས་ཟིན།"</string>
+<string name="sum_carrier_select">"དྲ་རྒྱའི་འཁོར་སྐྱོད་ཚོང་གཉེར་གཅིག་འདེམས་དགོས།"</string>
+<string name="sum_search_networks">"སྤྱོད་ཐུབ་པའི་དྲ་རྒྱ་ཡོད་ཚད་འཚོལ།"</string>
+<string name="select_automatically">"རང་འགུལ་གདམ་གསེས།"</string>
+<string name="sum_select_automatically">"རང་འགུལ་གྱིས་སྔོན་ཐོབ་དྲ་རྒྱ་འདམ།"</string>
+<string name="register_automatically">"རང་འགུལ་གྱིས་ཐོར་འགོད\u2026"</string>
+<string name="preferred_network_mode_title">"དྲ་རྒྱའི་རྣམ་པ།"</string>
+<string name="preferred_network_mode_summary">"དྲ་རྒྱའི་འཁོར་སྐྱོད་རྣམ་པ།"</string>
+<string name="preferred_network_mode_dialogtitle">"སྔོན་ཐོབ་དྲ་རྒྱའི་རྣམ་པ།"</string>
+<string name="preferred_network_mode_wcdma_perf_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ WCDMAསྔོན་ཐོབ།"</string>
+<string name="preferred_network_mode_gsm_only_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ GSMཁོ་ན།"</string>
+<string name="preferred_network_mode_wcdma_only_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: WCDMA only"</string>
+<string name="preferred_network_mode_gsm_wcdma_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: GSM / WCDMA"</string>
+<string name="preferred_network_mode_cdma_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: CDMA"</string>
+<string name="preferred_network_mode_cdma_evdo_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: CDMA / EvDo"</string>
+<string name="preferred_network_mode_cdma_only_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ CDMAཁོ་ན།"</string>
+<string name="preferred_network_mode_evdo_only_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ EvDoཁོ་ན།"</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: CDMA/EvDo/GSM/WCDMA"</string>
+<string name="preferred_network_mode_lte_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: LTE"</string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: GSM/WCDMA/LTE"</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: CDMA+LTE/EVDO"</string>
+<string name="preferred_network_mode_global_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ ཀུན་འཕྲོད།"</string>
+<string name="preferred_network_mode_lte_wcdma_summary">"སྔོན་ཐོབ་དྲ་རྒྱ་འདམ་པའི་རྣམ་པ: LTE / WCDMA"</string>
+<string-array name="preferred_network_mode_choices">
+<item>"LTE / WCDMA"</item>
+<item>"LTE"</item>
+<item>"ཀུན་འཕྲོད།"</item>
+<item>"GSM/WCDMA/LTE"</item>
+<item>"CDMA + LTE/EvDo"</item>
+<item>"CDMA/EvDo/GSM/WCDMA"</item>
+<item>"EvDoཁོ་ན།"</item>
+<item>"EvDoཕུད་པའི་CDMA "</item>
+<item>"CDMA/EvDo རང་འགུལ།"</item>
+<item>"GSM/WCDMA རང་འགུལ།"</item>
+<item>"CDMAཁོ་ན།"</item>
+<item>"GSMཁོ་ན།"</item>
+<item>"སྔོན་ནས་འདེམས་པའི་GSM/WCDMA "</item>
+</string-array>
+<string name="data_enabled">"དན་གྲངས་ཀྱི་སྤྱོད་མགོ་བསླངས།"</string>
+<string name="data_enable_summary">"གནས་སྤོ་དྲ་རྒྱའི་དན་གྲངས་འབྲེལ་གཏུག་རྩོལ་ནུས་སྤྱོད་མགོ་སློང་།"</string>
+<string name="roaming">"གཞི་གྲངས་རྩེད་མྱུལ།"</string>
+<string name="roaming_enable">"མྱུལ་བའི་སྐབས་གཞི་གྲངས་ཞབས་ཞུར་འབྲེལ་མཐུད་བྱེད།"</string>
+<string name="roaming_disable">"མྱུལ་བའི་སྐབས་གཞི་གྲངས་ཞབས་ཞུར་འབྲེལ་མཐུད་བྱེད།"</string>
+<string name="roaming_reenable_message">"ཁྱེད་ཉིད་ཁྱིམ་ཚང་གི་དྲ་རྒྱར་བྲལ་ཞིང་དན་གྲངས་འཁྱམ་མྱུལ་གྱི་སྒོ་བརྒྱབས་ཟིན་པས་ཁྱེད་ཀྱི་དན་གྲངས་སྦྲེལ་མཐུད་ཆད་ཟིན།"</string>
+<string name="roaming_warning">"དན་གྲངས་འཁྱམ་མྱུལ་བྱེད་དུ་འཇུག་རྒྱུ་ཡིན་ནམ། དེ་ལྟར་འཁྱམ་གླ་འབོར་ཆེན་ཤོར་སྲིད།"</string>
+<string name="gsm_umts_options">"GSM/UMTSའདམ་ཚན།"</string>
+<string name="cdma_options">"CDMAའདམ་ཚན།"</string>
+<string name="throttle_data_usage">"གཞི་གྲངས་སྤྱོད་ཚུལ།"</string>
+<string name="throttle_current_usage">"ད་སྐབས་སྤྱད་ཟིན་པའི་དན་གྲངས།"</string>
+<string name="throttle_time_frame">"དན་གྲངས་སྤྱོད་པའི་དུས་ཡུན།"</string>
+<string name="throttle_rate">"དན་གྲངས་བཞུར་ཕྱོད་སྲིད་ཇུས།"</string>
+<string name="throttle_help">"དེ་ལས་མང་བ་ཤེས་རྟོག་བྱེད།"</string>
+<string name="throttle_status_subtext">" <xliff:g id="used">%3$s</xliff:g>ཡི་<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) སྐབས་རིང་ཤོས\nསྐབས་རྗེས་མ་ <xliff:g id="used">%4$d</xliff:g> ཉིན་མགོ་རྩོམ། (<xliff:g id="used">%5$s</xliff:g>)"</string>
+<string name="throttle_data_usage_subtext">"<xliff:g id="used">%3$s</xliff:g>ཡི་<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) དུས་སྐབས་རིང་ཤོས།"</string>
+<string name="throttle_data_rate_reduced_subtext">"<xliff:g id="used">%1$s</xliff:g> ཡི་ཚད་གཞི་མཐོ་ཤོས\nདན་གྲངས་ཕྱོད་<xliff:g id="used">%2$d</xliff:g> Kb/sལ་འབེབ།"</string>
+<string name="throttle_time_frame_subtext">"དུས་འཁོར<xliff:g id="used">%1$d</xliff:g>\u066A འདས་ཟིན།\nསྐབས་རྗེས་མ་ <xliff:g id="used">%2$d</xliff:g> ཉིན་ལ་མགོ་རྩོམ། (<xliff:g id="used">%3$s</xliff:g>)"</string>
+<string name="throttle_rate_subtext">"དན་གྲངས་སྤྱོད་ཚད་གོང་མཐའ་ལས་བརྒལ་ན། དན་གྲངས་ཟློས་ཕྱོད་<xliff:g id="used">%1$d</xliff:g> Kb/sབབ།"</string>
+<string name="throttle_help_subtext">"ཁྱེད་ཀྱི་ཚོང་གཉེར་པའི་གནས་སྤོ་དྲ་རྒྱའི་དན་གྲངས་བཀོལ་སྤྱོད་སྲིད་ཇུས་སྐོར་གྱི་ཕྲ་ཞིབ་གནས་ཚུལ།"</string>
+<string name="cell_broadcast_sms">"གཞིས་ཁུལ་འཕྲིན་ཐུང་།"</string>
+<string name="enable_disable_cell_bc_sms">"གཞིས་ཁུལ་འཕྲིན་ཐུང་།"</string>
+<string name="cell_bc_sms_enable">"གཞིས་ཁུལ་གྱི་རྒྱང་སྒྲོག་འཕྲིན་ཐུང་སྤྱོད་མགོ་བསླངས།"</string>
+<string name="cell_bc_sms_disable">"གཞིས་ཁུལ་གྱི་རྒྱང་སྒྲོག་འཕྲིན་ཐུང་སྤྱོད་མཚམས་བཞག"</string>
+<string name="cb_sms_settings">"གཞིས་ཁུལ་གྱི་རྒྱང་སྒྲོག་འཕྲིན་ཐུང་གི་སྒྲིག་འགོད།"</string>
+<string name="enable_disable_emergency_broadcast">"བྲེལ་ཚུབ་ཀྱི་རྒྱང་སྒྲོག"</string>
+<string name="emergency_broadcast_enable">"བྲེལ་ཚུབ་རྒྱང་སྒྲོག་སྤྱོད་མགོ་བསླངས།"</string>
+<string name="emergency_broadcast_disable">"བྲེལ་ཚུབ་རྒྱང་སྒྲོག་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_administrative">"དོ་དམ།"</string>
+<string name="administrative_enable">"དོ་དམ་སྤྱོད་མགོ་བསླངས།"</string>
+<string name="administrative_disable">"དོ་དམ་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_maintenance">"སྲུང་སྐྱོང་།"</string>
+<string name="maintenance_enable">"སྲུང་སྐྱོང་སྤྱོད་མགོ་བསླངས།"</string>
+<string name="maintenance_disable">"སྲུང་སྐྱོང་སྤྱོད་མཚམས་བཞག"</string>
+<string name="general_news_settings">"གསར་འགྱུར་སྤྱིར་བཏང་བ།"</string>
+<string name="bf_news_settings">"ཚོང་ལས་དང་ནོར་དོན་གསར་འགྱུར།"</string>
+<string name="sports_news_settings">"ལུས་རྩལ་གསར་འགྱུར།"</string>
+<string name="entertainment_news_settings">"རོལ་རྩེད་གསར་འགྱུར།"</string>
+<string name="enable_disable_local">"རང་ས།"</string>
+<string name="local_enable">"རང་སའི་གསར་འགྱུར་སྤྱོད་མགོ་སློང་།"</string>
+<string name="local_disable">"རང་སའི་གསར་འགྱུར་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_regional">"རང་སའི་རང་བཞིན།"</string>
+<string name="regional_enable">"རང་སའི་གསར་འགྱུར་སྤྱོད་མགོ་བསླངས།"</string>
+<string name="regional_disable">"རང་སའི་གསར་འགྱུར་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_national">"ནང་རྒྱལ།"</string>
+<string name="national_enable">"ནང་རྒྱལ་གསར་འགྱུར་སྤྱོད་མགོ་བསླངས།"</string>
+<string name="national_disable">"ནང་རྒྱལ་གསར་འགྱུར་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_international">"རྒྱལ་སྤྱི།"</string>
+<string name="international_enable">"རྒྱལ་སྤྱིའི་གསར་འགྱུར་སྤྱོད་མགོ་བསླངས།"</string>
+<string name="international_disable">"རྒྱལ་སྤྱིའི་གསར་འགྱུར་སྤྱོད་མཚམས་བཞག"</string>
+<string name="list_language_title">"སྐད་ཡིག"</string>
+<string name="list_language_summary">"གསར་འགྱུར་གྱི་སྐད་རིགས་འདམ།"</string>
+<string-array name="list_language_entries">
+<item>"དབྱིན་ཡིག"</item>
+<item>"ཧྥ་ཡིག"</item>
+<item>"སི་ཕན་ཡིག"</item>
+<item>"འཇར་ཕན་ཡི་གེ"</item>
+<item>"ཁོ་རེ་ཡ་ཡི་གེ"</item>
+<item>"རྒྱ་ཡིག"</item>
+<item>"ཧི་པི་རིའི་ཡི་གེ"</item>
+</string-array>
+<string name="list_language_dtitle">"སྐད་རིགས། "</string>
+<string name="enable_disable_local_weather">"རང་སའི་གནམ་གཤིས། "</string>
+<string name="local_weather_enable">"རང་སའི་གནམ་གཤིས་སྔོན་བརྡ་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="local_weather_disable">"རང་སའི་གནམ་གཤིས་སྔོན་བརྡ་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_atr">"ས་ཁོངས་ཀྱི་ལམ་བབ་སྙན་ཞུ། "</string>
+<string name="atr_enable">"ས་ཁོངས་ལམ་བབ་སྙན་ཞུ་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="atr_disable">"ས་ཁོངས་ལམ་བབ་སྙན་ཞུ་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_lafs">"རང་སའི་གནམ་གྲུ་འབབ་ཚུགས་ཀྱི་འཕུར་ལན་དུས་ཁྲ། "</string>
+<string name="lafs_enable">"རང་སའི་གནམ་གྲུ་འབབ་ཚུགས་ཀྱི་འཕུར་ལན་དུས་ཁྲ་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="lafs_disable">"རང་སའི་གནམ་གྲུ་འབབ་ཚུགས་ཀྱི་འཕུར་ལན་དུས་ཁྲ་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_restaurants">"ཟ་ཁང་། "</string>
+<string name="restaurants_enable">"ཟ་ཁང་གི་ཆ་འཕྲིན་སྙན་ཞུའི་མགོ་བརྩམས། "</string>
+<string name="restaurants_disable">"ཟ་ཁང་ཆ་འཕྲིན་སྙན་ཞུའི་མཚམས་བཞག"</string>
+<string name="enable_disable_lodgings">"གླ་ཁང་གི་ཆ་འཕྲིན། "</string>
+<string name="lodgings_enable">"གླ་ཁང་གི་ཆ་འཕྲིན་སྣེ་ཁྲིད་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="lodgings_disable">"གླ་ཁང་གི་ཆ་འཕྲིན་སྣེ་ཁྲིད་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_retail_directory">"ཟིལ་འཚོང་དཀར་ཆག"</string>
+<string name="retail_directory_enable">"ཟིལ་འཚོང་དཀར་ཆག་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="retail_directory_disable">"ཟིལ་འཚོང་དཀར་ཆག་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_advertisements">"འགྲེམ་བརྡ། "</string>
+<string name="advertisements_enable">"འགྲེམ་བརྡ་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="advertisements_disable">"འགྲེམ་བརྡ་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_stock_quotes">"རྐང་འཛིན་འབོད་གོང་། "</string>
+<string name="stock_quotes_enable">"རྐང་འཛིན་འབོད་གོང་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="stock_quotes_disable">"རྐང་འཛིན་འབོད་གོང་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_eo">"གདན་ཞུ་ཆ་འཕྲིན། "</string>
+<string name="eo_enable">"གདན་ཞུ་ཆ་འཕྲིན་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="eo_disable">"གདན་ཞུ་ཆ་འཕྲིན་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_mhh">"སྨན་བཅོས བདེ་ཐང སྨན་ཁང་།"</string>
+<string name="mhh_enable">"སྨན་བཅོས བདེ་ཐང་དང་སྨན་ཁང་གི་སྒུལ་བསླངས།"</string>
+<string name="mhh_disable">"སྨན་བཅོས བདེ་ཐང་དང་སྨན་ཁང་གི་སྒོ་སྟེམ།"</string>
+<string name="enable_disable_technology_news">"ལག་རྩལ་གསར་འགྱུར། "</string>
+<string name="technology_news_enable">"ལག་རྩལ་གསར་འགྱུར་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="technology_news_disable">"ལག་རྩལ་གསར་འགྱུར་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_disable_multi_category">"སྣ་མང་། "</string>
+<string name="multi_category_enable">"སྣ་མང་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="multi_category_disable">"སྣ་མང་སྤྱོད་མཚམས་བཞག"</string>
+<string name="prefer_2g">"2G དྲ་རྒྱ་ཁོ་ན་བཀོལ། "</string>
+<string name="prefer_2g_summary">"གློག་གྲོན་ཆུང་བྱེད། "</string>
+<string name="cdma_system_select_title">"རྒྱུད་ཁོངས་ཀྱི་འདམ་ག"</string>
+<string name="cdma_system_select_summary">"CDMA འཁྱམ་མྱུལ་རྣམ་པ་སྒྱུར་བཅོས་བྱེད། "</string>
+<string name="cdma_system_select_dialogtitle">"རྒྱུད་ཁོངས་ཀྱི་འདམ་ག"</string>
+<string-array name="cdma_system_select_choices">
+<item>"རང་གནས་ཁོ་ན།"</item>
+<item>"རང་འགུལ།"</item>
+</string-array>
+<string name="cdma_subscription_title">"CDMA མངགས་ཀློག"</string>
+<string name="cdma_subscription_summary">"RUIM/SIM དང་ NV ཡི་བར་བརྗེ་སྒྱུར་བྱེད། "</string>
+<string name="cdma_subscription_dialogtitle">"མངགས་ཀློག"</string>
+<string name="cdma_activate_device">"གྲུང་སྐུལ་སྒྲིག་ཆས།"</string>
+<string name="cdma_lte_data_service">"དན་གྲངས་ཞབས་ཞུ་སྒྲིག་འགོད་བྱེད།"</string>
+<string name="fdn">"གཏན་འཁེལ་ཨང་འབོད། "</string>
+<string name="manage_fdn_list">"གཏན་འཁེལ་ཨང་འབོད་སྟར་བྱང་།"</string>
+<string name="fdn_activation">"གཏན་འཁེལ་ཨང་འབོད་གྲུང་སྐུལ།"</string>
+<string name="fdn_enabled">"གཏན་འཁེལ་ཨང་འབོད་སྤྱོད་མགོ་བརྩམས། "</string>
+<string name="fdn_disabled">"གཏན་འཁེལ་ཨང་འབོད་སྤྱོད་མཚམས་བཞག"</string>
+<string name="enable_fdn">"གཏན་འཁེལ་ཨང་འབོད་ཀྱི་སྒུལ་སློང་།"</string>
+<string name="disable_fdn">"གཏན་འཁེལ་ཨང་འབོད་ཀྱི་སྒོ་སྟེམ།"</string>
+<string name="change_pin2">" PIN2 སྒྱུར་བཅོས་བྱེད། "</string>
+<string name="enable_fdn_ok">"གཏན་འཁེལ་ཨང་འབོད་ཀྱི་སྒོ་སྟེམ།"</string>
+<string name="disable_fdn_ok">"གཏན་འཁེལ་ཨང་འབོད་ཀྱི་སྒུལ་སློང་།"</string>
+<string name="sum_fdn">"གཏན་འཁེལ་ཨང་འབོད་དོ་དམ་བྱེད། "</string>
+<string name="sum_fdn_change_pin">"གཏན་འཁེལ་ཨང་འབོད་ལ་དགོས་པའི་PINསྒྱུར།"</string>
+<string name="sum_fdn_manage_list">"ཁ་པར་ཨང་བྱང་དོ་དམ་བྱེད། "</string>
+<string name="voice_privacy">"སྐད་སྒྲའི་སྒོས་གསང་དབང་ཆ། "</string>
+<string name="voice_privacy_summary">"ཇེ་དྲག་གཏོང་བའི་སྦས་གསང་རྣམ་པ་སྤྱོད་མགོ་རྩོམ། "</string>
+<string name="tty_mode_option_title">"TTY རྣམ་པ། "</string>
+<string name="tty_mode_option_summary">"TTY རྣམ་པ་སྒྲིག་འགོད་བྱེད། "</string>
+<string name="auto_retry_mode_title">"རང་འགུལ་སླར་འབོད།"</string>
+<string name="auto_retry_mode_summary">"རང་འགུལ་སླར་འབོད་རྣམ་པའི་སྒུལ་སློང་།"</string>
+<string name="menu_add">"འབྲེལ་གཏུག་པ་ཁ་སྣོན།"</string>
+<string name="menu_edit">"འབྲེལ་གཏུག་པ་རྩོམ་སྒྲིག"</string>
+<string name="menu_delete">"འབྲེལ་གཏུག་སུབ།"</string>
+<string name="get_pin2">"PIN2ནང་འཇུག་བྱེད།"</string>
+<string name="name">"རྟོག་བཟོའི་ཆེད་སྤྱོད་དྲ་རྒྱའི་མིང་།"</string>
+<string name="number">"ཨང་གྲངས། "</string>
+<string name="save">"ཉར་ཚགས།"</string>
+<string name="add_fdn_contact">"གཏན་འཁེལ་ཨང་གྲངས་ཁ་སྣོན་བྱེད། "</string>
+<string name="adding_fdn_contact">"གཏན་འཁེལ་ཨང་གྲངས་ཁ་སྣོན་བྱེད་བཞིན་འདུག"</string>
+<string name="fdn_contact_added">"གཏན་འཁེལ་ཨང་གྲངས་ཁ་བསྣན་བྱས་ཟིན། "</string>
+<string name="edit_fdn_contact">"གཏན་འཁེལ་ཨང་གྲངས་རྩོམ་སྒྲིག་བྱེད། "</string>
+<string name="updating_fdn_contact">"གཏན་འཁེལ་ཨང་ཨང་གྲངས་རིམ་སྤར་བྱེད་བཞིན་ཡོད། "</string>
+<string name="fdn_contact_updated">"གཏན་འཁེལ་ཨང་གྲངས་རིམ་སྤོར་བྱས་ཟིན། "</string>
+<string name="delete_fdn_contact">"གཏན་འཁེལ་ཨང་གྲངས་སུབ། "</string>
+<string name="deleting_fdn_contact">"གཏན་འཁེལ་ཨང་གྲངས་སུབ་བཞིན་འདུག"</string>
+<string name="fdn_contact_deleted">"གཏན་འཁེལཨང་གྲངས་བསུབས། "</string>
+<string name="pin2_invalid">"ཁྱེད་ཀྱིས་ནང་འཇུག་བྱས་པའི་PINནོར་བས་གཏན་འཁེལ་ཨང་འབོད་གསར་སྒྱུར་བྱས་མེད།"</string>
+<string name="fdn_invalid_number">"ཨང་གྲངས་གྲངས་གནས་20་ལས་བརྒལ་བས་གཏན་འཁེལ་ཨང་འབོད་གསར་སྒྱུར་བྱས་མེད།"</string>
+<string name="pin2_or_fdn_invalid">"FDNགསར་བཟོ་བྱས་མེད། PIN2ལ་སྐྱོན་འདུག་པའམ་ཁ་པར་མ་ཉན་པ། "</string>
+<string name="simContacts_emptyLoading">"SIM བྱང་བུ་ཀློག་བཞིན་འདུག \u2026"</string>
+<string name="simContacts_empty">"SIM བྱང་བུའི་སྟེང་འབྲེལ་གཏུག་མེད། "</string>
+<string name="simContacts_title">"ནང་འདྲེན་བྱེད་དགོས་བའི་འབྲེལ་གཏུག་འདམ། "</string>
+<string name="simContacts_airplaneMode">"SIMནས་འབྲེལ་གཏུག་ནང་འདྲེན་བྱེད་སྐབས་ཐོག་མར་འཕུར་སྐྱོད་རྣམ་པའི་སྒོ་སྟེམ།"</string>
+<string name="enable_pin">"SIM བྱང་བུའི་ PIN སྤྱོད་མགོ་རྩོམ་པ་དང་སྤྱོད་མཚམས་བཞག"</string>
+<string name="change_pin">"SIM ཁཱ་ PINབཟོ་བཅོས།"</string>
+<string name="enter_pin_text">"SIM PIN:"</string>
+<string name="oldPinLabel">"PIN རྙིང་བ། "</string>
+<string name="newPinLabel">"PIN གསར་བ། "</string>
+<string name="confirmPinLabel">"PIN གསར་བ་གཏན་འཁེལ་བྱེད། "</string>
+<string name="badPin">"PINརྙིང་བ་བཏགས་པ་ནོར། སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="mismatchPin">"ཁྱེད་ཀྱིས་བཏགས་པའི་PINགཅིག་མཐུན་མ་རེད། སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="invalidPin">"གྲངས་གནས་4ནས་8བར་གྱི་PINནང་འཇུག་བྱེད།"</string>
+<string name="disable_sim_pin">"SIM བྱང་བུའི་ PIN སྤྱོད་མཚམས་འཇོག"</string>
+<string name="enable_sim_pin">"SIM བྱང་བུའི་ PIN སྤྱོད་མགོ་རྩོམ། "</string>
+<string name="enable_in_progress">"ཕྲན་ཙམ་སྒུག་རོགས།..."</string>
+<string name="enable_pin_ok">"SIM PINཡི་སྒུལ་སློང་།"</string>
+<string name="disable_pin_ok">"SIM PINཡི་སྒུལ་བསླངས་མེད།"</string>
+<string name="pin_failed">"བཏགས་པའི་PINདག་པོ་མ་རེད།"</string>
+<string name="pin_changed">"SIM PINསྒྱུར་བ་འགྲུབ།"</string>
+<string name="puk_requested">"གསང་ཨང་ཡང་དག་མིན་པས་SIM སྒྲོག་བཟུང་བྱས།  PUK2 མཁོ། "</string>
+<string name="oldPin2Label">"PIN2 རྙིང་བ། "</string>
+<string name="newPin2Label">"PIN2 གསར་བ། "</string>
+<string name="confirmPin2Label">"PIN2 གསར་བ་གཏན་འཁེལ་བྱེད། "</string>
+<string name="badPuk2">"བཏགས་པའི་PUK2དག་པོ་མ་རེད། སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="badPin2">"བཏགས་པའི་PIN2རྙིང་བ་དག་པོ་མ་རེད། སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="mismatchPin2">"བཏགས་པའི་PIN2་གཅིག་མཐུན་མ་རེད། སླར་ཚོད་ལྟ་བྱེད་རོགས།"</string>
+<string name="invalidPin2">"གྲངས་གནས་4ནས་8བར་གྱི་PIN2བཏགས་རོགས།"</string>
+<string name="invalidPuk2">"གྲངས་གནས་8ཀྱི་PUK2ནང་བཏགས་རོགས།"</string>
+<string name="pin2_changed">"PIN2བསྒྱུར་བ་གྲུབ།"</string>
+<string name="label_puk2_code">"PUK2བཏགས།"</string>
+<string name="fdn_enable_puk2_requested">"གསང་ཨང་དག་པོ་མ་རེད། PIN2སྒྱུར་ནས་འགྱུར་ལྡོག་གཏོང་རོགས།"</string>
+<string name="puk2_requested">"གསང་ཨང་དག་པོ་མེད། SIMབསྒྲོགས་ཟིན། PUK2དགོས།"</string>
+<string name="doneButton">"ལེགས་གྲུབ།"</string>
+<string name="caller_manage_header">"ཁ་པར་གྲོས་ཚོགས<xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"སྐད་སྒྲའི་འཕྲིན་སྒམ་གྱི་ཨང་གྲངས། "</string>
+<string name="card_title_dialing">"ཨང་འབོད་བྱེད་བཞིན་འདུག"</string>
+<string name="card_title_redialing">"བསྐྱར་འབོད་བྱེད་བཞིན་འདུག"</string>
+<string name="card_title_conf_call">"ཁ་པར་གྲོས་ཚོགས།"</string>
+<string name="card_title_incoming_call">"བླངས་པའི་ཁ་པར།"</string>
+<string name="card_title_call_ended">"ཁ་བརྡ་རྫོགས། "</string>
+<string name="card_title_on_hold">"རྒྱུན་འཁྱོངས་བྱེད་བཞིན་ཡོད།"</string>
+<string name="card_title_hanging_up">"བཅད་བཞིན་འདུག"</string>
+<string name="card_title_in_call">"ཁ་བརྡ་བྱེད་བཞིན་འདུག"</string>
+<string name="card_title_my_phone_number">"ངའི་ཨང་གྲངས<xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"ཨང་འབོད་བྱེད་བཞིན་འདུག"</string>
+<string name="notification_missedCallTitle">"དང་ལེན་མ་བྱས་བའི་ཁ་པར། "</string>
+<string name="notification_missedCallsTitle">"མ་བླངས་པའི་ཁ་པར། "</string>
+<string name="notification_missedCallsMsg">"མ་ཉན་པའི་ཁ་པར<xliff:g id="num_missed_calls">%s</xliff:g> "</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g>ནས་ཐོན་པའི་མ་བླངས་པའི་ཁ་པར།"</string>
+<string name="notification_ongoing_call">"མིག་སྔར་གྱི་ཁ་པར།"</string>
+<string name="notification_on_hold">"རྒྱུན་འཁྱོངས་བྱེད་བཞིན་ཡོད།"</string>
+<string name="notification_incoming_call">"བླངས་པའི་ཁ་པར།"</string>
+<string name="notification_voicemail_title">"སྐད་སྒྲའི་སྦྲག་ཡིག་གསར་བ། "</string>
+<string name="notification_voicemail_title_count">"སྐད་སྒྲའི་སྦྲག་ཡིག་གསར་བ(<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">" <xliff:g id="voicemail_number">%s</xliff:g>ལ་འབོད་སྐུལ་བྱེད།"</string>
+<string name="notification_voicemail_no_vm_number">"སྐད་སྒྲའི་འཕྲིན་སྒམ་གྱི་ཨང་གྲངས་མི་ཤེས། "</string>
+<string name="notification_network_selection_title">"ཞབས་འདེགས་མི་འདུག"</string>
+<string name="notification_network_selection_text">"བདམས་པའི་དྲ་རྒྱ་གསར་བ་(<xliff:g id="operator_name">%s</xliff:g>) སྤྱོད་མི་ཐུབ།"</string>
+<string name="notification_action_end_call">"འགེལ་གཅོད་བྱེད། "</string>
+<string name="notification_missedCall_call_back">"ཕྱིར་ལོག་ཁ་པར།"</string>
+<string name="notification_missedCall_message">"འཕྲིན་ཐུང་། "</string>
+<string name="incall_error_power_off">"འབོད་དགོས་ན་སྔོན་ལ་འཕུར་རྣམ་པའི་སྒོ་སྟེམ་དགོས། "</string>
+<string name="incall_error_emergency_only">"དྲ་རྒྱ་ཐོ་འགོད་མ་བྱས། "</string>
+<string name="incall_error_out_of_service">"གནས་སྤོའི་དྲ་རྒྱར་འདྲི་གཏུག་བྱེད་ཐབས་མེད། "</string>
+<string name="incall_error_no_phone_number_supplied">"ཨང་འབོད་ཕྱིར་གཏོང་མ་ཐུབ། རྒྱུ་མཚན་ནི་ནང་འཇུག་བྱས་བའི་ཨང་གྲངས་ནུས་མེད་ཡིན། "</string>
+<string name="incall_error_call_failed">"ཨང་འབོད་ཕྱིར་གཏོང་མི་ཐུབ།"</string>
+<string name="incall_status_dialed_mmi">"MMI རིམ་སྟར་མགོ་སློང་བཞིན་འདུག \u2026"</string>
+<string name="incall_error_supp_service_unknown">"ཞབས་ཞུ་དེར་རྒྱབ་སྐྱོར་མི་བྱེད། "</string>
+<string name="incall_error_supp_service_switch">"ཁ་བརྡ་བརྗེ་སྒྱུར་བྱེད་ཐབས་མེད། "</string>
+<string name="incall_error_supp_service_separate">"ཁ་བརྡ་དབྱེ་ཕྲལ་བྱེད་ཐབས་མེད། "</string>
+<string name="incall_error_supp_service_transfer">"འབོད་བསྒྱུར་བྱེད་ཐབས་མེད། "</string>
+<string name="incall_error_supp_service_conference">"ཁ་པར་གྲོས་ཚོགས་འཚོགས་ཐབས་མེད། "</string>
+<string name="incall_error_supp_service_reject">"འབོད་པ་འགོག་ཐབས་མེད། "</string>
+<string name="incall_error_supp_service_hangup">"གཅོད་ཐབས་མེད། "</string>
+<string name="incall_call_type_label_sip">"དྲ་རྒྱའི་ཁ་པར།"</string>
+<string name="emergency_enable_radio_dialog_title">"ཛ་དྲག་སྐྱོབ་རོགས།"</string>
+<string name="emergency_enable_radio_dialog_message">"གནམ་སྐུད་ཀྱི་སྒོ་འབྱེད་བཞིན་ཡོད \u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"ཞབས་ཞུ་ཁུལ་ན་མེད་པས་སླར་ཚོད་ལྟ་བྱེད་བཞིན་འདུག \u2026"</string>
+<string name="dial_emergency_error">"མ་བའི་ཁ་པར། <xliff:g id="non_emergency_number">%s</xliff:g>ནི་འབྲེལ་འབོད་ཨང་གྲངས་མིན།"</string>
+<string name="dial_emergency_empty_error">"ཁ་པར་མ་བཏང་། བྲེལ་འབོད་ཁ་པར་གཏོང་རོགས།"</string>
+<string name="dialerKeyboardHintText">"མཐེབ་གཞོང་སྤྱད་ནས་ཨང་འབོད་བྱེད། "</string>
+<string name="onscreenHoldText">"རྒྱུན་འཁྱོངས་བྱེད།"</string>
+<string name="onscreenEndCallText">"མཇུག་རྫོགས།"</string>
+<string name="onscreenShowDialpadText">"ཨང་འབོད་མཐེབ་གཞོང་། "</string>
+<string name="onscreenMuteText">"སྒྲ་མེད།"</string>
+<string name="onscreenAddCallText">"ཁ་བརྡ་ཁ་སྣོན་བྱེད། "</string>
+<string name="onscreenMergeCallsText">"ཁ་བརྡ་ཟླ་སྒྲིལ་བྱེད།"</string>
+<string name="onscreenSwapCallsText">"བརྗེ་རེས། "</string>
+<string name="onscreenManageCallsText">"ཁ་བརྡར་དོ་དམ་བྱེད། "</string>
+<string name="onscreenManageConferenceText">"དོ་དམ་ཁ་པར།"</string>
+<string name="onscreenAudioText">"སྒྲ་ཟློས།"</string>
+<string name="onscreenVideoCallText">"བརྙན་ཟློས་ཁ་བརྡ། "</string>
+<string name="importSimEntry">"ནང་འདྲེན།"</string>
+<string name="importAllSimEntries">"ཚང་མ་ནང་འདྲེན་བྱེད། "</string>
+<string name="importingSimContacts">"SIM འབྲེལ་གཏུག་ནང་འདྲེན་བྱེད། "</string>
+<string name="importToFDNfromContacts">"འབྲེལ་གཏུག་རུ་ནང་འདྲེན་བྱེད། "</string>
+<string name="hac_mode_title">"རྣ་རོགས། "</string>
+<string name="hac_mode_summary">"རྣ་རོགས་འདྲེས་ཤོང་རྣམ་པ་སྤྱོད་མགོ་རྩོམ། "</string>
+<string-array name="tty_mode_entries">
+<item>"TTYཡི་སྒོ་སྟེམ།"</item>
+<item>"TTYཁེངས།"</item>
+<item>"TTY HCO"</item>
+<item>"TTY VCO"</item>
+</string-array>
+<string name="dtmf_tones_title">"DTMF སྒྲ། "</string>
+<string name="dtmf_tones_summary">"DTMF ཡི་སྒྲའི་རིང་ཚད་སྒྲིག་འགོད་བྱེད། "</string>
+<string-array name="dtmf_tone_entries">
+<item>"རྒྱུན་ལྡན།"</item>
+<item>"རིང་བ།"</item>
+</string-array>
+<string name="network_message">"དྲ་རྒྱའི་བརྡ་འཕྲིན། "</string>
+<string name="ota_title_activate">"ཁྱེད་ཀྱི་ཁ་པར་ནུས་སློང་དང་། "</string>
+<string name="ota_touch_activate">"དམིགས་བསལ་གྱི་ཁ་པར་བཏང་བ་ན་ད་གཟོད་ཁྱེད་ཀྱི་ཁ་པར་གྱི་ཞབས་ཞུ་གྲུང་པོར་སྐུལ་ཐུབ། \n\n\u201CAགྲུང་སྐུལ\u201Dབསྣན་པའི་རྗེས་སུ་སྐད་སྒྲའི་དྲན་སྐུལ་ལྟར་ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒུལ་སློང་།"</string>
+<string name="ota_skip_activation_dialog_title">"ནུས་སློང་བརྒྱུད་རིམ་བསྡུས། "</string>
+<string name="ota_skip_activation_dialog_message">"གལ་ཏེ་ཁྱེད་ཀྱིས་ནུས་སློང་བརྒྱུད་རིམ་བསྡུས་ན་ཁ་པར་གཏོང་མི་ཐུབ་ལ་གནས་སྤོ་དན་གྲངས་དྲ་རྒྱར་སྦྲེལ་མཐུད་ཀྱང་བྱེད་མི་ཐུབ（འོན་ཀྱང་Wi-Fiལ་སྦྲེལ་མཐུད་བྱེད་ཐུབ）། གལ་ཏེ་ཁ་པར་གྲུང་སྐུལ་མ་གཏོང་ན་ཁ་པར་སྒོ་འབྱེད་ཐེངས་རེར་གྲུང་སྐུལ་དྲན་བརྡ་སྡུད་སྲིད། "</string>
+<string name="ota_skip_activation_dialog_skip_label">"སྣང་མེད།"</string>
+<string name="ota_activate">"སྐུལ་སློང་།"</string>
+<string name="ota_title_activate_success">"ཁ་པར་གྱི་སྒུལ་བསླངས་ཟིན།"</string>
+<string name="ota_title_problem_with_activation">"ནུས་སློང་བྱེད་སྐབས་གནང་དོན་ལ་ཕྲད། "</string>
+<string name="ota_listen">"སྐད་སྒྲའི་སྣེ་སྟོན་ལྟར་ཁ་པར་ནུས་སློང་བྱས་བའི་དྲན་བརྡ་སྟོན་པའི་བར་དུ་སྒྲིག་བཀོལ་བྱེད།"</string>
+<string name="ota_speaker">"སྒྲ་དུང་།"</string>
+<string name="ota_progress">"ཁྱེད་ཀྱི་ཁ་པར་གྱི་ནང་དུ་སྒྲིག་རིམ་འགོད་བཞིན་འདུག ཅུང་ཙམ་སྒུག་རོགས།"</string>
+<string name="ota_failure">"བྱ་རིམ་སྒྲིག་པ་ལེགས་འགྲུབ་མ་བྱུང་། "</string>
+<string name="ota_successful">"ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒུལ་བསླངས་ཟིན། སྐར་མའ་15ཡི་རྗེས་སུ་ཞབས་ཞུ་སྤྱོད་ཐུབ།"</string>
+<string name="ota_unsuccessful">"ཁྱེད་ཀྱི་ཁ་པར་གྱི་སྒུལ་བསླངས་མེད།\nཁྱེད་ཀྱི་ཁ་པར་བརྡ་རྟགས་ལྷག་པར་ཡག་པའི་གནས་ཤིག་འདམ་ཆོག(སྒེའུ་ཁུང་གི་འགྲམ་དང་ཁང་པའི་ཕྱི་རོལ)།\n\nསླར་ཚོད་ལྟ་བྱེད་པའམ་ཚོང་མགྲོན་ཞབས་ཞུ་བའི་གནས་སུ་དེ་ལས་མང་བའི་འདམ་ག་འཚོལ།  "</string>
+<string name="ota_spc_failure">"SPC ལ་སྐྱོན་མང་དྲག"</string>
+<string name="ota_call_end">"ཕྱིར་ལོག"</string>
+<string name="ota_try_again">"བསྐྱར་ལྟ་གནང་རོགས།"</string>
+<string name="ota_next">"ཤོག་ལྷེ་རྗེས་མ།"</string>
+<string name="phone_entered_ecm_text">"བྲེལ་མྱུར་ཕྱིར་ལྡོག་རྣམ་པར་ཞུགས། "</string>
+<string name="phone_in_ecm_notification_title">"བྲེལ་མྱུར་ཕྱིར་ལྡོག་རྣམ་པ། "</string>
+<string name="phone_in_ecm_call_notification_text">"དན་གྲངས་སྦྲེལ་མཐུད་མཚམས་བཞག"</string>
+<plurals name="phone_in_ecm_notification_time">
+<item quantity="one">"སྐར་མ་<xliff:g id="count">%s</xliff:g>ཡི་རིང་ལ་དན་གྲངས་སྦྲེལ་མཐུད་མི་འདུག"</item>
+<item quantity="other">"སྐར་མ་<xliff:g id="count">%s</xliff:g>ཡི་རིང་ལ་དན་གྲངས་སྦྲེལ་མཐུད་མི་འདུག"</item>
+</plurals>
+<plurals name="alert_dialog_exit_ecm">
+<item quantity="one">"ཁ་པར་འདི་སྐར་མ་45ཡི་ནང་དུ་ལྡོག་འབོད་བྲེལ་མོའི་རྣམ་པར་གནས་ངེས་ཡིན། རྣམ་པ་འདིའི་འོག་ཏུ་ཉེར་སྤྱོད་ཀྱིས་དན་གྲངས་སྦྲེལ་མཐུད་སྤྱོད་ཐབས་མེད། ཕྱིར་འཐེན་བྱེད་རྒྱུ་ཡིན་ནམ།"</item>
+<item quantity="other">"ཁ་པར་འདི་སྐར་མ་45ཡི་ནང་དུ་ལྡོག་འབོད་བྲེལ་མོའི་རྣམ་པར་གནས་ངེས་ཡིན། རྣམ་པ་འདིའི་འོག་ཏུ་ཉེར་སྤྱོད་ཀྱིས་དན་གྲངས་སྦྲེལ་མཐུད་སྤྱོད་ཐབས་མེད། ཕྱིར་འཐེན་བྱེད་རྒྱུ་ཡིན་ནམ།"</item>
+</plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="one">"ལྡོག་འབོད་བྲེལ་མོའི་རྣམ་པའི་འོག་ཏུ་གནས་སྐབས་བདམས་ཟིན་པའི་སྒྲིག་བཀོལ་ལག་བསྟར་གནང་མི་ཐུབ། ཁ་པར་འདི་རྣམ་པ་འདི་འདྲའི་འོག་ཏུ་སྐར་མ་ <xliff:g id="count">%s</xliff:g>ལ་རྣམ་པ་པར་གནས་ངེས་ཡིན། ཕྱིར་འཐེན་བྱེད་རྒྱུ་ཡིན་ནམ།"</item>
+<item quantity="other">"ལྡོག་འབོད་བྲེལ་མོའི་རྣམ་པའི་འོག་ཏུ་གནས་སྐབས་བདམས་ཟིན་པའི་སྒྲིག་བཀོལ་ལག་བསྟར་གནང་མི་ཐུབ། ཁ་པར་འདི་རྣམ་པ་འདི་འདྲའི་འོག་ཏུ་སྐར་མ་ <xliff:g id="count">%s</xliff:g>ལ་རྣམ་པ་པར་གནས་ངེས་ཡིན། ཕྱིར་འཐེན་བྱེད་རྒྱུ་ཡིན་ནམ།"</item>
+</plurals>
+<string name="alert_dialog_in_ecm_call">"བྲེལ་འབོད་ཀྱི་གནས་ཚུལ་འོག་ཏུ་བདམས་ཟིན་པའི་སྒྲིག་བཀོལ་ལག་བསྟར་གནང་མི་ཐུབ།"</string>
+<string name="progress_dialog_exiting_ecm">"བྲེལ་མྱུར་ཕྱིར་ལྡོག་རྣམ་པ་ལས་ཕྱིར་ལོག་བཞིན་ཡོད། "</string>
+<string name="alert_dialog_yes">"རེད།"</string>
+<string name="alert_dialog_no">"མིན།"</string>
+<string name="alert_dialog_dismiss">"སྐྱུར་བ།"</string>
+<string name="voicemail_provider">"ཞབས་ཞུ།"</string>
+<string name="voicemail_settings">"སྒྲིག་འགོད།"</string>
+<string name="voicemail_number_not_set">"སྒྲིག་འགོད་བྱས་མེད"</string>
+<string name="other_settings">"ཁ་བརྡ་གཞན་པའི་སྒྲིག་འགོད། "</string>
+<string name="calling_via_template">" <xliff:g id="provider_name">%s</xliff:g>བརྒྱུད་ནས་ཁ་པར་གཏོང་།"</string>
+<string name="contactPhoto">"འབྲེལ་གཏུག་པའི་འདྲ་པར།"</string>
+<string name="goPrivate">"ལྐོག་ཏུ་ཁ་བརྡ་བྱེད། "</string>
+<string name="selectContact">"འབྲེལ་གཏུག་པ་འདེམས་པ།"</string>
+<string name="sip_settings">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་བརྡ་སྒྲིག་འགོད། "</string>
+<string name="sip_accounts">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་(SIP)རྩིས་ཐོ། "</string>
+<string name="sip_accounts_title">"བཀོལ་མིང་།"</string>
+<string name="sip_receive_calls">"ཚུར་ཐོན་ཁ་པར་ལ་ཉན།"</string>
+<string name="sip_receive_calls_summary">"གློག་སྨན་གྱི་འཁོར་སྒུག་དུས་ཚོད་ཇེ་ཐུང་དུ་གཏོང་སྲིད། "</string>
+<string name="sip_call_options_title">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་བཀོལ་སྤྱོད་བྱེད། "</string>
+<string name="sip_call_options_wifi_only_title">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་བཀོལ་སྤྱོད་བྱེད། (Wi-Fi རྐྱང་བ)"</string>
+<string name="sip_call_options_entry_1">"དན་གྲངས་དྲ་རྒྱ་སྦྲེལ་མཐུད་བྱུང་རྗེས་དེ་ཁ་བརྡ་ཚང་མར་སྤྱོད་འཐུས། "</string>
+<string name="sip_call_options_entry_2">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་བརྡ་ཁོ་ནར་སྤྱོད་འཐུས། "</string>
+<string name="sip_call_options_entry_3">"ཁ་བརྡ་ཐེངས་རེ་རེར་འདྲི། "</string>
+<string name="sip_call_options_wifi_only_entry_1">"ཁ་བརྡ་ཚང་མ། "</string>
+<string name="pick_outgoing_call_phone_type">"ཁ་པར་གཏོང་བཞིན་འདུག"</string>
+<string name="pick_outgoing_sip_phone">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་གྱི་རྩིས་ཐོ་བཀོལ་སྤྱོད་བྱེད། "</string>
+<string name="remember_my_choice">"ནམ་ཡང་སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་གཏོང་བར་བཀོལ་སྤྱོད་བྱེད། "</string>
+<string name="reset_my_choice_hint">"ཁྱེད་ཀྱིས་རང་ལེན་འོག་གི་ཁ་པར་སྟེང་དུ་སྤྱོད་པའི་སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་གྱི་རྩིས་ཐོ་སྒྱུར་ཆོག ཁ་པར སྒྲིག་འགོད སྦྲེལ་རེས་དྲ་རྒྱའི་སྒྲིག་འགོད འཆར་ཤེལ་བྱང་ངོ་།"</string>
+<string name="pstn_phone">"ཁ་པར་ཨང་འབོད། "</string>
+<string name="internet_phone">"དྲ་རྒྱའི་ཁ་པར།"</string>
+<string name="no_sip_account_found_title">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་རྩིས་ཐོ་མེད། "</string>
+<string name="no_sip_account_found">"ཁ་པར་འདིའི་སྟེང་དུ་སྦྲེལ་རེས་དྲ་རྒྱའི་འབོད་སྐུལ་རྩིས་ཐོ་མི་འདུག མྱུར་གྱིས་རྩིས་ཐོ་ཞིག་སྣོན་རྒྱུ་ཡིན་ནམ།"</string>
+<string name="sip_menu_add">"ཁ་སྣོན།"</string>
+<string name="add_sip_account">"རྩིས་ཐོ་ཁ་སྣོན།"</string>
+<string name="remove_sip_account">"བཀོལ་མིང་སུབ་པ།"</string>
+<string name="sip_account_list">"SIP ཡི་རྩིས་ཐོ། "</string>
+<string name="saving_account">"གསོག་ཉར་བྱེད་བཞིན་འདུག\u2026"</string>
+<string name="removing_account">"རྩིས་ཐོ་སྤོར་བཞིན་འདུག\u2026"</string>
+<string name="sip_menu_save">"ཉར་ཚགས།"</string>
+<string name="sip_menu_discard">"དོར་བ།"</string>
+<string name="alert_dialog_close">"མི་སྒེར་གྱི་ཆ་འཕྲིན་གྱི་སྒོ་སྟེམ། "</string>
+<string name="alert_dialog_ok">"གཏན་འཁེལ།"</string>
+<string name="close_profile">"ཁ་རྒྱག་པ།"</string>
+<string name="primary_account_summary_with">"རྩིས་ཐོ་གཙོ་བོ <xliff:g id="registration_status" example="Registering...">%s</xliff:g>"</string>
+<string name="registration_status_checking_status">"ཞིབ་བཤེར་རྣམ་པར་གནས་ཡོད། …"</string>
+<string name="registration_status_registering">"ཐོར་འགོད་བཞིན་འདུག\u2026"</string>
+<string name="registration_status_still_trying">"ད་དུང་ཚོད་ལྟ་བྱེད་བཞིན་འདུག\u2026"</string>
+<string name="registration_status_not_receiving">"ཁ་པར་ལ་མི་ཉན།"</string>
+<string name="registration_status_no_data">"སྦྲེལ་རེས་དྲ་རྒྱར་སྦྲེལ་མེད་པས་རྩིས་ཐོས་ཐོར་འགོད་མཚམས་བཞག"</string>
+<string name="registration_status_no_wifi_data">"Wi-Fiསྦྲེལ་མཐུད་མེད་པས་རྩིས་ཐོ་ཐོར་འགོད་ཀྱི་མཚམས་བཞག"</string>
+<string name="registration_status_not_running">"རྩིས་ཐོ་ཐོར་འགོད་ལེགས་འགྲུབ་མ་བྱུང་།"</string>
+<string name="registration_status_done">"ཁ་པར་ལ་ཉན།"</string>
+<string name="registration_status_failed_try_later">"རྩིས་ཐོ་ཐོར་འགོད་ལེགས་འགྲུབ་མ་བྱུང་།(<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>)ཅུང་ཙམ་གྱི་རྗེས་སུ་སླར་ཚོད་ལྟ་བྱེད།"</string>
+<string name="registration_status_invalid_credentials">"རྩིས་ཐོ་ཐོར་འགོད་ལེགས་འགྲུབ་མ་བྱུང་། བཀོལ་བདག་མིང་ངམ་གསང་ཨང་ནོར།"</string>
+<string name="registration_status_server_unreachable">"རྩིས་ཐོ་ཐོར་འགོད་ལེགས་འགྲུབ་མ་བྱུང་། ཞབས་ཞུ་ཆས་ཀྱི་མིང་ལ་ལྟ་བཤེར་བྱེད་རོགས།"</string>
+<string name="third_party_account_summary">"ད་སྐབས་རྩིས་ཐོ་འདི་ནི་ཉེར་སྤྱོད་<xliff:g id="account_owner" example="Google Talk">%s</xliff:g>ཡིས་སྤྱོད་བཞིན་བཞིན་འདུག"</string>
+<string name="sip_edit_title">"SIP རྩིས་ཐོ་ཞིབ་ཕྲ།"</string>
+<string name="sip_edit_new_title">"SIP རྩིས་ཐོ་ཞིབ་ཕྲ།"</string>
+<string name="domain_address_title">"ཞབས་ཞུ་ཆས།"</string>
+<string name="username_title">"བཀོལ་མིང་།"</string>
+<string name="password_title">"གསང་ཨང་།"</string>
+<string name="display_name_title">"འཆར་བའི་མིང་།"</string>
+<string name="proxy_address_title">"ཕྱིར་ཕྱོགས་ཀྱི་ཚབ་གཉེར་གནས་ས།"</string>
+<string name="port_title">"མཐུད་སྣེའི་ཨང་གྲངས།"</string>
+<string name="transport_title">"སྐྱེལ་འདྲེན་རིགས།"</string>
+<string name="send_keepalive_title">"རྒྱུན་མཐུད་ཀྱི་ཆ་འཕྲིན་གཏོང་།"</string>
+<string name="set_primary_title">"རྩིས་ཐོ་གཙོ་བོར་སྒྲིག་འགོད་བྱེད།"</string>
+<string name="set_primary_summary">"ཁ་པར་ཕྱིར་གཏོང་བར་བཀོལ། "</string>
+<string name="advanced_settings">"བཀོལ་ཐུབ་པའི་སྒྲིག་འགོད།"</string>
+<string name="auth_username_title">"ཐོབ་ཐང་ར་སྤྲོད་བྱས་པའི་བཀོལ་བདག་མིང་།"</string>
+<string name="auth_username_summary">"ཐོབ་ཐང་ར་སྤྲོད་བྱེད་པར་སྤྱོད་པའི་བཀོལ་བདག་མིང་།"</string>
+<string name="default_preference_summary">"སྒྲིག་འགོད་བྱས་མེད"</string>
+<string name="display_name_summary">"བཀོལ་བདག་མིང་དང་མཐུན།"</string>
+<string name="optional_summary">"འདམ་ཆོག"</string>
+<string name="advanced_settings_show">"▷རེག་ནས་ཚང་མ་འཆར་དུ་འཇུག"</string>
+<string name="advanced_settings_hide">"▽རེག་ནས་ཚང་མ་སྦ་རུ་འཇུག"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g>རུ་ཡིག་དུམ་འགོད་དགོས་ཤིང་སྟོང་བར་སྐྱུར་མི་རུང་།་"</string>
+<string name="not_a_valid_port">"སྦྲེལ་གནས་1000དང་65534བར་དུ་གནས་འོས།"</string>
+<string name="no_internet_available_title">"སྦྲེལ་རེས་དྲ་རྒྱའི་སྦྲེལ་མཐུད་མེད།"</string>
+<string name="no_wifi_available_title">"Wi-Fiསྦྲེལ་མཐུད་མེད།"</string>
+<string name="no_internet_available">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་གཏོང་དགོས་ན་ཐོག་མར་སྦྲེལ་རེས་དྲ་རྒྱ་སྦྲེལ་མཐུད་གནས་ཚུལ་ལྟ་བཤེར་བྱེད་དགོས།"</string>
+<string name="no_wifi_available">"ཁྱེད་ཀྱིས་Wi-Fiདྲ་བར་སྦྲེལ་ནས་སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་གཏོང་དགོས།(སྐུད་མེད་དྲ་རྒྱའི་སྒྲིག་འགོད་སྤྱོད།)"</string>
+<string name="no_voip">"སྦྲེལ་རེས་དྲ་རྒྱའི་ཁ་པར་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།"</string>
+<string name="sip_system_decide">"རང་འགུལ།"</string>
+<string name="sip_always_send_keepalive">"བསྐུར་ཟིན།"</string>
+<string name="not_voice_capable">"སྐད་སྒྲའི་ཁ་པར་ལ་རོགས་སྐྱོར་མི་བྱེད།"</string>
+<string name="respond_via_sms_canned_response_1">"ད་སྐབས་སྦྲེལ་ཐབས་མི་འདུག བྱ་བ་གང་འདུག"</string>
+<string name="respond_via_sms_canned_response_2">"ངས་ཁྱེད་ལ་ལམ་སེང་ཁ་པར་གཏོང་ངེས་ཡིན།"</string>
+<string name="respond_via_sms_canned_response_3">"ཅུང་ཙམ་གྱི་རྗེས་སུ་ངེས་ཁྱེད་ལ་ཁ་པར་གཏོང་ངེས་ཡིན།"</string>
+<string name="respond_via_sms_canned_response_4">"ད་སྐབས་བཤད་ཐབས་མི་འདུག ཅུང་ཙམ་གྱི་རྗེས་སུ་ངར་ཁ་པར་གཏོང་རོགས།"</string>
+<string name="respond_via_sms_custom_message">"རང་ཉིད་ཀྱིས་འབྲི..."</string>
+<string name="custom_message_cancel">"སྐྱུར་བ།"</string>
+<string name="custom_message_send">"བསྐུར་སྐྱེལ།"</string>
+<string name="respond_via_sms_setting_title">"མྱུར་ལན་འདེབས་པ།"</string>
+<string name="respond_via_sms_setting_title_2">"མྱུར་ལན་འདེབས་ཚུལ་སྒྲིག་པ།"</string>
+<string name="respond_via_sms_edittext_dialog_title">"མྱུར་ལན་འདེབས་ཚུལ་སྒྲིག་པ།"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"རང་ལེན་ཉེར་སྤྱོད་སླར་སྒྲིག་འགོད་བྱེད།"</string>
+<string name="respond_via_sms_confirmation_format">"<xliff:g id="phone_number">%s</xliff:g>ལ་འཕྲིན་ཐུང་སྐུར།"</string>
+<string name="description_image_button_one">"གཅིག"</string>
+<string name="description_image_button_two">"གཉིས། "</string>
+<string name="description_image_button_three">"གསུམ། "</string>
+<string name="description_image_button_four">"བཞི། "</string>
+<string name="description_image_button_five">"ལྔ། "</string>
+<string name="description_image_button_six">"དྲུག"</string>
+<string name="description_image_button_seven">"བདུན། "</string>
+<string name="description_image_button_eight">"བརྒྱད། "</string>
+<string name="description_image_button_nine">"དགུ"</string>
+<string name="description_image_button_star">"སྐར་མའི་རྟགས། "</string>
+<string name="description_image_button_zero">"ཐིག་ལེ། "</string>
+<string name="description_image_button_pound">"དབྱིན་སྒོར། "</string>
+<string name="description_dial_button">"འབོད།"</string>
+<string name="description_delete_button">"སྟོང་ཆ་ཕྱིར་འདེད། "</string>
+<string name="accessibility_speakerphone_enabled">"སྒྲ་སྒྲོག་ཆས་ཀྱི་སྒུལ་སློང་།"</string>
+<string name="accessibility_call_muted">"ན་བརྡ་ལྷིང་འཇགས་སུ་གཏོང་།"</string>
+<string name="description_target_answer">"ཉན།"</string>
+<string name="description_target_send_sms">"འཕྲིན་ཐུང་སྐུར།"</string>
+<string name="description_target_decline">"ཁས་ལེན་མི་བྱེད།"</string>
+<string name="description_direction_up">"ཡར་ཕྱོགས་སུ <xliff:g example="Unlock" id="target_description">%s</xliff:g>"</string>
+<string name="description_direction_left">""གཡོན་ཕྱོགས་སུ <xliff:g example="Unlock" id="target_description">%s</xliff:g>"</string>
+<string name="description_direction_right">"གཡས་ཕྱོགས་སུ <xliff:g example="Unlock" id="target_description">%s</xliff:g>"</string>
+<string name="voicemail_notification_vibrate_when_title">"འདར་འགུལ།"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"འདར་འགུལ།"</string>
+<string name="voicemail_notification_ringtone_title">"སྒྲའི་སྒྲིག་འགོད།"</string>
+<string name="default_notification_description">"རང་ལེན་དྲན་སྐུལ་སྒྲ།(<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"ཁ་པར་དྲིལ་སྒྲ།"</string>
+<string name="vibrate_on_ring_title">"དྲིལ་སྒྲ་གྲགས་སྐབས་འདར་འགུལ་བྱེད།"</string>
+<string name="dtmf_tone_enable_title">"མཐེན་གནོན་བཀོལ་བའི་སྒྲ།"</string>
+<string name="dial_pad_autocomplete">"ཨང་འབོད་མཐེབ་གནོན་རང་འགུལ་གྱིས་ཁ་ཚང་བར་འགྱུར།"</string>
+<string name="preference_category_ringtone">"དྲིལ་སྒྲ་དང་འདར་འགུལ།"</string>
+<string name="manageConferenceLabel">"ཁ་པར་གྲོས་ཚོགས་དོ་དམ་བྱེད།"</string>
+<string name="emergency_call_dialog_number_for_display">"མྱུར་སྐྱོབ་དང་ཉེན་བརྡའི་ཁ་པར།"</string>
+</resources>

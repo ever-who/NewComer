@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Doba nahrávání:"</string>
+<string name="onscreenShowRecodText">"Nahrávat"</string>
+<string name="recorderr">"uložení souboru záznamu se nepovedlo!"</string>
+<string name="audio_db_artist_name">"Vaše nahrávky"</string>
+<string name="audio_db_album_name">"Nahrávky hovoru"</string>
+<string name="audio_db_playlist_name">"Mé nahrávky"</string>
+<string name="app_name">"App telefonu"</string>
+<string name="error_mediadb_new_record">"Nepodařilo se uložit nahrané audio"</string>
+<string name="sdcard_access_error">"Není možný přístup k sdkartě"</string>
+<string name="no_sd_card">"ŽÁDNÁ SD karta anebo NEINSTALOVÁNA"</string>
+<string name="insert_sd_card">"Prosím, vložte SD kartu"</string>
+<string name="storage_is_full">"Úložiště je plné"</string>
+<string name="recording">"Nahrávání"</string>
+<string name="lockscreen_comments">"posouvání směrem dolů pro odpovědět anebo odmítnout"</string>
+<string name="lockscreen_comments_sms">"Odmítnutí  SMS"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"Nahraný soubor byl uložen do"</string>
+    <string name="unknown_area">"Neznámá oblast"</string>
+    <string name="unknown_contacts">"Neznámé kontakty"</string>
+
+</resources>

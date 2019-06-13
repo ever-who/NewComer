@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/smsRejectListLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/incoming_call_list_background_color_sprd"
+    android:orientation="vertical" >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:scaleType="center"
+        android:src="@drawable/sms_reject_indicator_down_sprd" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/incoming_call_list_text_color_sprd"
+        android:background="@drawable/sms_reject_title_sprd"
+        android:gravity="center"
+        android:text="@string/lockscreen_comments_sms"
+        android:textSize="18sp"/>
+
+    <ListView
+        android:id="@+id/sms_reject_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/incoming_call_list_text_color_sprd"
+        android:divider="@drawable/list_divider_sprd"
+        android:background="@drawable/sms_reject_bg_sprd" />
+
+</LinearLayout>

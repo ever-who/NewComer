@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Sprd Add-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!--  SPRD: add for Universe UI begin -->
+    <string name="lockscreen_comments">"向下拖曳接聽或拒接"</string>
+    <string name="lockscreen_comments_sms">"簡訊拒接"</string>
+    <string name="recording">"錄音" </string>
+    <string name="record_time">"記錄時間："</string>
+    <string name="onscreenShowRecodText">"錄音"</string>
+    <string name="onscreenShowStopRecodText">"停止錄音"</string>
+    <string name="recorderr">"記錄檔儲存失敗"</string>
+    <string name="audio_db_artist_name">"您的錄音"</string>
+    <string name="audio_db_album_name">"電話錄音"</string>
+    <string name="audio_db_playlist_name">"我的錄音"</string>
+    <string name="app_name">"手機應用程式"</string>
+    <string name="error_mediadb_new_record">"無法儲存錄製的音訊"</string>
+    <string name="sdcard_access_error">"無法訪問SD卡"</string>
+    <string name="no_sd_card">"無SD卡或未掛載"</string>
+    <string name="insert_sd_card">"請插入SD卡"</string>
+    <string name="storage_is_full">"儲存空間已滿"</string>
+    <string name="used_by_other_applications">"錄音裝置正在被其他程序使用中，請先關閉此類程序"</string>
+    <string name="onscreenSwitchCameraText">"切換相機"</string>
+    <string name="onscreenPauseVideoText">"暫停影片"</string>
+    <string name="onscreenChangeToVoiceText">"語音通話"</string>
+    <!--  SPRD: add for Universe UI end -->
+
+    <!-- SPRD: add for dsds to show which sim card is active -->
+    <string name="sim_reference">"卡%d"</string>
+    <!-- SPRD: add string begin -->
+    <string name="prompt_record_finish">"錄製檔案已儲存到"</string>
+    <!-- SPRD: add string end -->
+    <string name="unknown_area">"不明號碼區域"</string>
+    <string name="unknown_contacts">"陌生號碼"</string>
+
+    <string name="menu_add" msgid="1882023737425114762">"新增聯絡人"</string>
+    <string name="menu_edit" msgid="7143003705504672374">"編輯聯絡人"</string>
+    <string name="menu_delete" msgid="3977150783449642851">"刪除聯絡人"</string>
+    <string name="main_card_slot">"主卡 :"</string>
+    <string name="gsm_card_slot">"副卡 :"</string>
+    <string name="bottom_button_separate">"獨立通話"</string>
+    <string name="bottom_button_hangup">"掛斷"</string>
+    <!-- SPRD: add for send sms button. See Bug624151 -->
+    <string name="onscreenSendSMSText">"傳送訊息"</string>
+    <!-- SPRD: Add for displaying a pop up notify that the third calls is coming. See Bug623681 @{ -->
+    <string name="hangupcall_note_title">"警告"</string>
+    <string name="hangupcall_note_message">"此來電爲第三方電話，如果接聽當前來電，則將會掛斷當前活動的通話。"</string>
+    <!-- @} -->
+    <string name="onscreenVideoCallText">"視訊通話"</string>
+    <string name="onscreenResumeVideoText">"恢復視頻"</string>
+    <string name="onscreenHoldText_unselected">"保持"</string>
+    <string name="onscreenHoldText_selected">"恢復"</string>
+    <string name="onscreenStopMuteText">"取消靜音"</string>
+    <string name="onscreenAnswerText">"接聽"</string>
+    <string name="onscreenRejectMessageText">"簡訊拒接"</string>
+    <string name="onscreenHangupText">"掛斷"</string>
+    <string name="onscreenOptionText">"選項"</string>
+    <string name="onscreenBackText">"返回"</string>
+    <string name="conf_can_not_invite_more">與會者已達到最大個數，無法繼續邀請與會者。</string>
+    <!-- SPRD:Add for modify call type feature. -->
+    <string name="onscreenVideoCallRxText">視頻只接收</string>
+    <string name="onscreenVideoCallTxText">視頻只發送</string>
+    <!-- @} -->
+    <string name="onscreenChooseText">"選擇"</string>
+    <!-- SPRD: Add strings for Multi-Part-Call -->
+    <string name="hangup_hold_and_answer">"掛斷保持中電話並接聽"</string>
+    <string name="hangup_active_and_answer">"掛斷通話中電話並接聽"</string>
+    <string name="hold_current_call_and_answer">"保留目前通話並接聽"</string>
+    <string name="hangup_current_call_and_answer">"結束目前通話並接聽"</string>
+    <!-- @} -->
+</resources>

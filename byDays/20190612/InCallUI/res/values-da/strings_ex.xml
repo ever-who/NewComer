@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Optagelsestid:"</string>
+<string name="onscreenShowRecodText">"Optag"</string>
+<string name="recorderr">"At gemme den optagne fil mislykkedes"</string>
+<string name="audio_db_artist_name">"Dine optagelser"</string>
+<string name="audio_db_album_name">"Opkalds optagelser"</string>
+<string name="audio_db_playlist_name">"Mine optagelser"</string>
+<string name="app_name">"Telefon App"</string>
+<string name="error_mediadb_new_record">"Kan ikke gemme optagede lyd"</string>
+<string name="sdcard_access_error">"Kan ikke få adgang til sd kort"</string>
+<string name="no_sd_card">"Intet SD kort eller UMONTERET"</string>
+<string name="insert_sd_card">"Indsæt venligst et SD kort"</string>
+<string name="storage_is_full">"Lagring er fuld"</string>
+<string name="recording">"Optagelse"</string>
+<string name="lockscreen_comments">"glid nedad for at svare eller afvise"</string>
+<string name="lockscreen_comments_sms">"Afvis SMS"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">""Optager fil er blevet gemt til" "</string>
+    <string name="unknown_area">"Ukendt område"</string>
+    <string name="unknown_contacts">"Ukendte kontakter"</string>
+
+</resources>

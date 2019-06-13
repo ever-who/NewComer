@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"فون"</string>
+<string name="onHold">برقرار تھايتھ</string>
+<string name="unknown">"نامعلوم"</string>
+<string name="private_num">نجی نمبر</string>
+<string name="payphone">"پیفون"</string>
+<string name="callFailed_userBusy">"لائن مصروف"</string>
+<string name="callFailed_congestion">" نیٹورک گو ناکام"</string>
+<string name="callFailed_timedOut">"کہناہ جواب چھن، ٹائم آؤٹ"</string>
+<string name="callFailed_server_unreachable">"سرورس تام ہیکو ن واتتھ"</string>
+<string name="callFailed_number_unreachable">"نمبرس تام ہیکو ن واتتھ"</string>
+<string name="callFailed_invalid_credentials">"گیردرست استعمال کرن وول ناو یا پاس ورڈ"</string>
+<string name="callFailed_out_of_network">"نیبر \u2011 یم\u2011 نیٹورک کالء"</string>
+<string name="callFailed_server_error">"سرورک خرابی. پت پہن کرییو دبار كوشش۔"</string>
+<string name="callFailed_noSignal">"کہان سگنل چھنء"</string>
+<string name="callFailed_limitExceeded">"ACM حد گو تجویز"</string>
+<string name="callFailed_powerOff">"ریڈیو چھ بند"</string>
+<string name="callFailed_simError">"كاه SIM یا SIM خرابی چھنء"</string>
+<string name="callFailed_outOfService">"سرویس"</string>
+<string name="callFailed_fdn_only">اوٹگويگ كال چھ FDN ذري محدود كرن امژ۔"</string>
+<string name="callFailed_cb_enabled">" توہی ہیکیو نء نیبر کال کریتھ ییلء کال بارنگ یلء آسء تھاونء آمت۔"</string>
+<string name="callFailed_dsac_restricted">" تمام کالء چھء چلاونچ قوبوس تاحت رد کرنء آمت۔"</string>
+<string name="callFailed_dsac_restricted_emergency">" امرجنسی کالء چھء بند کرنء آمژ چلاونچ قوبوس تاحت۔"</string>
+<string name="callFailed_dsac_restricted_normal">" عام کالء چھء بند کرنء آمت چلاونچ قوبوس تاحت۔"</string>
+<string name="callFailed_unobtainable_number">"گیردرست نمبر"</string>
+<string name="confCall">کانفرنس کال</string>
+<string name="call_lost">" کال گۓ ضایع۔"</string>
+<string name="ok">"ٹھیک"</string>
+<string name="audio_mode_speaker">اسپیکر</string>
+<string name="audio_mode_earpiece">ہینڈسیٹ ایرپيس</string>
+<string name="audio_mode_wired_headset">تار وول ہیڈسیٹ</string>
+<string name="audio_mode_bluetooth">بلوٹوتھ</string>
+<string name="wait_prompt_str">سوذو يم سر؟ \n</string>
+<string name="pause_prompt_str">سوذنه يون سر \n</string>
+<string name="send_button">"سوذو"</string>
+<string name="pause_prompt_yes">"اوا"</string>
+<string name="pause_prompt_no">"نہ"</string>
+<string name="wild_prompt_str">بدلايو وائلڈ حرف سيتھ</string>
+<string name="caller_manage_header">کانفرنس کال <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">اواذ میل نمبر</string>
+<string name="card_title_dialing">رلاون</string>
+<string name="card_title_redialing">"دبار رلاون"</string>
+<string name="card_title_conf_call">کانفرنس کال</string>
+<string name="card_title_incoming_call">يینواجن کال</string>
+<string name="card_title_call_ended">کال گي ختم</string>
+<string name="card_title_on_hold">برقرار تھايتھ</string>
+<string name="card_title_hanging_up">هیوركن رٹتتھ</string>
+<string name="card_title_in_call">کال منز</string>
+<string name="card_title_my_phone_number">میون نمبر چھ <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">رلاون</string>
+<string name="notification_missedCallTitle">ذاييه گمژ کال</string>
+<string name="notification_missedCallsTitle">رامژ کال</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> رامژ کال"</string>
+<string name="notification_missedCallTicker">رامژ کال پیٹھ <xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">چلون کال</string>
+<string name="notification_on_hold">برقرار تھايتھ</string>
+<string name="notification_incoming_call">يینواجن کال</string>
+<string name="notification_voicemail_title">نو اواذمیل</string>
+<string name="notification_voicemail_title_count">نو اواذمیل (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">رلايو <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">اواذمیل نمبر علمس </string>
+<string name="notification_network_selection_title">"کہان سروس چھنء"</string>
+<string name="notification_network_selection_text">چنمت نیٹ ورک (<xliff:g id="operator_name">%s</xliff:g>) چھنء میسر"</string>
+<string name="notification_action_end_call">ركو</string>
+<string name="notification_missedCall_call_back">کال واپس</string>
+<string name="notification_missedCall_message">میسیج</string>
+<string name="incall_error_power_off">کال تھاون باپتھ، گوڑه کرییو بند آیرپلین تریقء.</string>
+<string name="incall_error_emergency_only">چھنء نیٹ ورکس پیٹھ تصدیق گمت.</string>
+<string name="incall_error_out_of_service">"سیلولر نیٹ ورک چھن دستياب"</string>
+<string name="incall_error_no_phone_number_supplied">" کال آینء سوزنء، کہان صحیح نمبر آونء دینء۔"</string>
+<string name="incall_error_call_failed">" کال آینء سوزنء۔"</string>
+<string name="incall_status_dialed_mmi">شروع کرن MMI سلسل ...</string>
+<string name="incall_error_supp_service_unknown">" نء ساتھ دینء واجن کاءم۔"</string>
+<string name="incall_error_supp_service_switch">"ہکنء کال پھرتھ."</string>
+<string name="incall_error_supp_service_separate">" چھنء ہیکان کال الگ کریتھ۔"</string>
+<string name="incall_error_supp_service_transfer">"ہکنء تبادل كریتھ."</string>
+<string name="incall_error_supp_service_conference">کانفرنس کال كرنه كھاتر ناكار.</string>
+<string name="incall_error_supp_service_reject">" چھنء ہیکان کال ژٹیتھ۔"</string>
+<string name="incall_error_supp_service_hangup">" چھنء ہیکان کال یلء تراویتھ۔"</string>
+<string name="incall_call_type_label_sip">" انٹرنیٹ کال"</string>
+<string name="emergency_enable_radio_dialog_title">ایمرجنسی کال</string>
+<string name="emergency_enable_radio_dialog_message">یلء تراون ریڈیو ...</string>
+<string name="emergency_enable_radio_dialog_retry">" کامء نیبر جاۓ منز، دبارء کران کوشش۔۔۔"</string>
+<string name="dial_emergency_error">" کال آینء سوزنء۔ <xliff:g id="non_emergency_number">%s</xliff:g> چھنء امرجنسی نمبر !"</string>
+<string name="dial_emergency_empty_error">" کال آینء سوزنء۔ ڈایل کرییو امرجنسی نمبر !"</string>
+<string name="dialerKeyboardHintText">استعمال کرییو بورڈ رلاون کھتر</string>
+<string name="onscreenHoldText">رٹو</string>
+<string name="onscreenEndCallText">مكلايو</string>
+<string name="onscreenShowDialpadText">ڈائل پیڈ</string>
+<string name="onscreenMuteText">"ژوپ"</string>
+<string name="onscreenAddCallText">جوڈو کال</string>
+<string name="onscreenMergeCallsText">ضم کرییو کال</string>
+<string name="onscreenSwapCallsText">تبادلہ</string>
+<string name="onscreenManageCallsText">چلايو کال</string>
+<string name="onscreenManageConferenceText">چلايو کانفرنس</string>
+<string name="onscreenAudioText">آواز</string>
+<string name="onscreenVideoCallText">"ویڈیو کال"</string>
+<string name="voicemail_provider">سہولیات</string>
+<string name="voicemail_settings">تھاون</string>
+<string name="voicemail_number_not_set">"&lt;چھن سیٹ&gt;"</string>
+<string name="other_settings">باقی کال ترتیبات</string>
+<string name="calling_via_template">کال يون كرن ذريي <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">رابتء تصویر</string>
+<string name="goPrivate">گسو ذاتی</string>
+<string name="selectContact">چنو ربت</string>
+<string name="respond_via_sms_canned_response_1">هیك نہ ونكین كتھ كرتھ. کیا دلیل؟</string>
+<string name="respond_via_sms_canned_response_2">ب كرر تهي واپس کال</string>
+<string name="respond_via_sms_canned_response_3">ب كرر تهي پت کال</string>
+<string name="respond_via_sms_canned_response_4">هیك نہ ونكین كتھ كرتھپت کر میں کال؟</string>
+<string name="respond_via_sms_custom_message">ليكھو تہند پنن ...</string>
+<string name="custom_message_cancel">"خائریج"</string>
+<string name="custom_message_send">"سوذو"</string>
+<string name="respond_via_sms_setting_title">فوری جواب</string>
+<string name="respond_via_sms_setting_title_2">درست کرییو تیز جواب</string>
+<string name="respond_via_sms_edittext_dialog_title">فوری جواب</string>
+<string name="respond_via_sms_menu_reset_default_activity">" دبارء تھایو پنن ایپ"</string>
+<string name="respond_via_sms_confirmation_format">میسیج آمدنی سوذنه <xliff:g id="phone_number">%s</xliff:g>."</string>
+<string name="description_image_button_one">1</string>
+<string name="description_image_button_two">2</string>
+<string name="description_image_button_three">3</string>
+<string name="description_image_button_four">4</string>
+<string name="description_image_button_five">5</string>
+<string name="description_image_button_six">6</string>
+<string name="description_image_button_seven">7</string>
+<string name="description_image_button_eight">8</string>
+<string name="description_image_button_nine">9</string>
+<string name="description_image_button_star">" تارک"</string>
+<string name="description_image_button_zero">" سفر"</string>
+<string name="description_image_button_pound">" پونڈ"</string>
+<string name="description_dial_button">ڈائل</string>
+<string name="description_delete_button">"بیكسپیس"</string>
+<string name="accessibility_speakerphone_enabled">سپیکر آمدنی هاونه.</string>
+<string name="accessibility_call_muted">کال آمدنی خاموش كرنه.</string>
+<string name="description_target_answer">جواب</string>
+<string name="description_target_send_sms">سوزیو SMS</string>
+<string name="description_target_decline">"زوال"</string>
+<string name="description_direction_up">پكنايو هيوركن کھتر <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="description_direction_left"> پكنايو كھووركن کھتر <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="description_direction_right">پكو دوچھن کھتر <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="voicemail_notification_vibrate_when_title">تھرتھر</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">تھرتھر</string>
+<string name="voicemail_notification_ringtone_title">آواز</string>
+<string name="default_notification_description">ڈفایلٹ آواز (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">فون رنگ ٹونز</string>
+<string name="vibrate_on_ring_title">تھرتھر ییلء بج</string>
+<string name="dtmf_tone_enable_title">ڈائل پیڈ ٹچ ٹونس</string>
+<string name="dial_pad_autocomplete">" ڈایل پیڈ گو پانۓ پورء"</string>
+<string name="preference_category_ringtone">"رنگ ٹونز ت تھرتھر"</string>
+<string name="manageConferenceLabel">چلايو کانفرنس کال</string>
+<string name="emergency_call_dialog_number_for_display">"مجبوری نمبر"</string>
+</resources>

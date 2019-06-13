@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"दूरभाषः"</string>
+<string name="onHold">"धृत्वा स्थापयतु"</string>
+<string name="unknown">"अज्ञातम्।"</string>
+<string name="private_num">"व्यक्तिगतक्रमाङ्कः"</string>
+<string name="payphone">"पे-दूरभाषः"</string>
+<string name="callFailed_userBusy">"पङ्क्तिः व्यस्ता"</string>
+<string name="callFailed_congestion">"जालस्य असिद्धिः"</string>
+<string name="callFailed_timedOut">"प्रत्युत्तरं नास्ति, समयः समाप्तः"</string>
+<string name="callFailed_server_unreachable">"वितरकः न प्राप्तः"</string>
+<string name="callFailed_number_unreachable">"क्रमाङ्कः न प्राप्तः"</string>
+<string name="callFailed_invalid_credentials">"अयोग्यं सदस्यनाम उत कूटशब्दः"</string>
+<string name="callFailed_out_of_network">"जालात् बहिः आह्वाहनम्"</string>
+<string name="callFailed_server_error">"वितरकदोषः। पुनः प्रयततु पश्चात्।"</string>
+<string name="callFailed_noSignal">"सङ्केतः नास्ति"</string>
+<string name="callFailed_limitExceeded">"ACM इत्यस्य सीमाविस्तारः"</string>
+<string name="callFailed_powerOff">"आकाशवाणी पिहिता"</string>
+<string name="callFailed_simError">"SIM नास्ति उत SIM दोषः अस्ति"</string>
+<string name="callFailed_outOfService">"सेवायां नास्ति"</string>
+<string name="callFailed_fdn_only">"FDN द्वारा बाह्याह्वाहनानि प्रतिबन्धितानि।"</string>
+<string name="callFailed_cb_enabled">"आह्वाहनसनिषेधस्य सक्रियतायां सत्यां भवान्/भवती बहिर्गताह्वाहनानि कर्तुं न प्रभवति।"</string>
+<string name="callFailed_dsac_restricted">"सर्वाणि आह्वाहनानि नियन्त्रणप्राप्तिद्वारा प्रतिबन्धितानि।"</string>
+<string name="callFailed_dsac_restricted_emergency">"आपत्काल-आह्वाहनानि नियन्त्रणप्राप्तिद्वारा प्रतिबन्धितानि।"</string>
+<string name="callFailed_dsac_restricted_normal">"सामान्य-आह्वाहनानि नियन्त्रणप्राप्तिद्वारा प्रतिबन्धितानि।"</string>
+<string name="callFailed_unobtainable_number">"अयोग्यः क्रमाङ्कः"</string>
+<string name="confCall">"सामुहिकाह्वाहनम्"</string>
+<string name="call_lost">"आह्वाहनं निरस्तमभवत्।"</string>
+<string name="ok">"बाढम्।"</string>
+<string name="audio_mode_speaker">"ध्वनिवर्धकम्"</string>
+<string name="audio_mode_earpiece">"श्रवणयन्त्रस्य कर्णभागः"</string>
+<string name="audio_mode_wired_headset">"तन्तुयुक्तं श्रवणयन्त्रम्"</string>
+<string name="audio_mode_bluetooth">"ब्लूटुथ"</string>
+<string name="wait_prompt_str">"निम्नाः रवाः प्रेषणीयाः?\n"</string>
+<string name="pause_prompt_str">"रवाः प्रेष्यन्ते\n"</string>
+<string name="send_button">"प्रेषयतु"</string>
+<string name="pause_prompt_yes">"आम्"</string>
+<string name="pause_prompt_no">"न"</string>
+<string name="wild_prompt_str">"द्वारा अनावश्यकाक्षराणि पुनस्स्थाप्यन्ते"</string>
+<string name="caller_manage_header">"सामुहिकाह्वाहनम् <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"ध्वनि-वि-पत्रस्य क्रमाङ्कः"</string>
+<string name="card_title_dialing">"आह्वयति"</string>
+<string name="card_title_redialing">"पुनराह्वयति"</string>
+<string name="card_title_conf_call">"सामुहिकाह्वाहनम्"</string>
+<string name="card_title_incoming_call">"आगतम् आह्वाहनम्"</string>
+<string name="card_title_call_ended">"आह्वाहनस्य समाप्तिः"</string>
+<string name="card_title_on_hold">"धृत्वा स्थापयतु"</string>
+<string name="card_title_hanging_up">"उद्बन्धनम्"</string>
+<string name="card_title_in_call">"अह्वाहने"</string>
+<string name="card_title_my_phone_number">"<xliff:g id="my_phone_number">%s</xliff:g> इति मम क्रमाङ्कः अस्ति"</string>
+<string name="notification_dialing">"आह्वयति"</string>
+<string name="notification_missedCallTitle">"त्यक्तम् आह्वाहनम्"</string>
+<string name="notification_missedCallsTitle">"त्यक्तानि आह्वाहनानि"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> त्यक्तानि आह्वाहनानि"</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g> तः त्यक्तानि आह्वाहनानि"</string>
+<string name="notification_ongoing_call">"बहिःकृतानि आह्वाहनानि"</string>
+<string name="notification_on_hold">"धृत्वा स्थापयतु"</string>
+<string name="notification_incoming_call">"आगतम् आह्वाहनम्"</string>
+<string name="notification_voicemail_title">"नवीनं ध्वनिपत्रम्"</string>
+<string name="notification_voicemail_title_count">"नवीनं ध्वनिपत्रम् (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"आह्वयतु <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"अज्ञातः ध्वनि-वि-पत्रस्य क्रमाङ्कः"</string>
+<string name="notification_network_selection_title">"सेवा नास्ति"</string>
+<string name="notification_network_selection_text">"चित्रं जालं (<xliff:g id="operator_name">%s</xliff:g>) अनुपलब्धम्"</string>
+<string name="notification_action_end_call">"उद्बन्धनम्"</string>
+<string name="notification_missedCall_call_back">"प्रत्याह्वाहनं करोतु"</string>
+<string name="notification_missedCall_message">"सन्देशः"</string>
+<string name="incall_error_power_off">"आह्वाहनं कर्तुं पूर्वं विमानावस्थां पिदधातु।"</string>
+<string name="incall_error_emergency_only">"जाले पञ्जीकृतं नास्ति।"</string>
+<string name="incall_error_out_of_service">"दूरसञ्चारजालम् अनुपलब्धम्"</string>
+<string name="incall_error_no_phone_number_supplied">"आह्वाहनं न प्रेषयितम्, योग्यः क्रमाङ्कः न निवेशितः।"</string>
+<string name="incall_error_call_failed">"आह्वाहनं न प्रेशितम्"</string>
+<string name="incall_status_dialed_mmi">"MMI श्रुङ्खलाम् आरभते..."</string>
+<string name="incall_error_supp_service_unknown">"असमर्थिता सेवा।"</string>
+<string name="incall_error_supp_service_switch">"आह्वानस्य स्थानान्तरणं न शक्यते।"</string>
+<string name="incall_error_supp_service_separate">"आह्वाहनानि विभक्तयितुं असमर्थः।"</string>
+<string name="incall_error_supp_service_transfer">"आह्वाहनं स्थानान्तिरं न शक्यते।"</string>
+<string name="incall_error_supp_service_conference">"सामुहिकाह्वाहनानि न शक्यन्ते।"</string>
+<string name="incall_error_supp_service_reject">"आह्वाहनानि निरस्तयितुं असमर्थः।"</string>
+<string name="incall_error_supp_service_hangup">"आह्वाहनानि प्रकाशितुं न शक्यन्ते।"</string>
+<string name="incall_call_type_label_sip">"अन्तर्जालीयाह्वाहनम्"</string>
+<string name="emergency_enable_radio_dialog_title">"आपत्कालीनम् आह्वाहनम्"</string>
+<string name="emergency_enable_radio_dialog_message">"आकशवाणीं आरभते..."</string>
+<string name="emergency_enable_radio_dialog_retry">"सेवाक्षेत्रात् बहिः, प्रयतते..."</string>
+<string name="dial_emergency_error">"आह्वाहनं न प्रेषितम्। <xliff:g id="non_emergency_number">%s</xliff:g> एत्येषः आपत्कालीनक्रमाङ्कः नास्ति!"</string>
+<string name="dial_emergency_empty_error">"आह्वाहनं न प्रेषितम्। आपत्कालीनं क्रमाङ्कम् आह्वयति!"</string>
+<string name="dialerKeyboardHintText">"कुञ्जिकाफलकस्य उपयोगन आह्वयतु"</string>
+<string name="onscreenHoldText">"धरतु"</string>
+<string name="onscreenEndCallText">"पिदधातु"</string>
+<string name="onscreenShowDialpadText">"आह्वाहनफलकम्"</string>
+<string name="onscreenMuteText">"मूकम्"</string>
+<string name="onscreenAddCallText">"आह्वाहनं योजयतु"</string>
+<string name="onscreenMergeCallsText">"आह्वाहनानि विलयतु"</string>
+<string name="onscreenSwapCallsText">"विच्छेदयतु"</string>
+<string name="onscreenManageCallsText">"आह्वाहनानि व्यवस्थाप्यन्ताम्"</string>
+<string name="onscreenManageConferenceText">"सामुहकाह्वाहनानि व्यवस्थाप्यन्ताम्"</string>
+<string name="onscreenAudioText">"श्रव्यः।"</string>
+<string name="onscreenVideoCallText">"दृश्यह्वाहनम्"</string>
+<string name="voicemail_provider">"सेवा"</string>
+<string name="voicemail_settings">"स्थापनम्"</string>
+<string name="voicemail_number_not_set">"&lt;स्थापनं नास्ति&gt;"</string>
+<string name="other_settings">"अन्ये आह्वाहनाभिविन्यासाः"</string>
+<string name="calling_via_template">" <xliff:g id="provider_name">%s</xliff:g> द्वारा आह्वाहनम्"</string>
+<string name="contactPhoto">"सम्पर्कस्य चित्रम्"</string>
+<string name="goPrivate">"गुप्ततया गच्छतु"</string>
+<string name="selectContact">"चयनमः सम्पर्क"</string>
+<string name="respond_via_sms_canned_response_1">"सम्प्रति वार्ता न क्रियते। What\'s up? "</string>
+<string name="respond_via_sms_canned_response_2">"सद्यः एव मया आह्वानं क्रियते।"</string>
+<string name="respond_via_sms_canned_response_3">"पश्चात् अहम आह्वानं करिष्यामि।"</string>
+<string name="respond_via_sms_canned_response_4">"सम्प्रति वार्ता न चेत्. पश्चात् मां आह्वयतु।"</string>
+<string name="respond_via_sms_custom_message">"स्वयं लिखतु..."</string>
+<string name="custom_message_cancel">"निरस्यताम्"</string>
+<string name="custom_message_send">"प्रेषयतु"</string>
+<string name="respond_via_sms_setting_title">"शीघ्र-प्रतिक्रियाः"</string>
+<string name="respond_via_sms_setting_title_2">"शीघ्र-प्रतिक्रियाः सम्पादय"</string>
+<string name="respond_via_sms_edittext_dialog_title">"शीघ्र-प्रतिक्रिया"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"उत्सर्गानुप्रयोगं पुनस्स्थापयतु"</string>
+<string name="respond_via_sms_confirmation_format">"सन्देशः <xliff:g id="phone_number">%s</xliff:g> एनं प्रेषितः।  "</string>
+<string name="description_image_button_one">"1"</string>
+<string name="description_image_button_two">"2"</string>
+<string name="description_image_button_three">"3"</string>
+<string name="description_image_button_four">"4"</string>
+<string name="description_image_button_five">"5"</string>
+<string name="description_image_button_six">"6"</string>
+<string name="description_image_button_seven">"7"</string>
+<string name="description_image_button_eight">"8"</string>
+<string name="description_image_button_nine">"9"</string>
+<string name="description_image_button_star">"तारकम्"</string>
+<string name="description_image_button_zero">"0"</string>
+<string name="description_image_button_pound">"पाउण्ड्"</string>
+<string name="description_dial_button">"आह्वयतु"</string>
+<string name="description_delete_button">"वामोच्छेदकम्"</string>
+<string name="accessibility_speakerphone_enabled">"ध्वनिवाचकः दूरभाषः सक्षमीकृतः।"</string>
+<string name="accessibility_call_muted">"आह्वानम् नीरवीकृतम्।"</string>
+<string name="description_target_answer">"उत्तरम्"</string>
+<string name="description_target_send_sms">"सन्देशं प्रेषयतु"</string>
+<string name="description_target_decline">"स्व्यक्रियताम्"</string>
+<string name="description_direction_up">"<xliff:g id="target_description" example="Unlock">%s</xliff:g> कृते उपरि घर्षतु।"</string>
+<string name="description_direction_left">""<xliff:g id="target_description" example="Unlock">%s</xliff:g> कृते वामतः घर्षतु।"</string>
+<string name="description_direction_right">"<xliff:g id="target_description" example="Unlock">%s</xliff:g> कृते दक्षिणतः घर्षतु।"</string>
+<string name="voicemail_notification_vibrate_when_title">"कम्पनम्"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"कम्पनम्"</string>
+<string name="voicemail_notification_ringtone_title">"ध्वनिः"</string>
+<string name="default_notification_description">"(<xliff:g id="default_sound_title">%1$s</xliff:g>) उत्सर्गः ध्वनिः"</string>
+<string name="ringtone_title">"दूरभाषस्य रवः"</string>
+<string name="vibrate_on_ring_title">"यदा रवते, तदा कम्पतु"</string>
+<string name="dtmf_tone_enable_title">"आह्वाहन-पट्टिका-स्पर्शस्य रवाः"</string>
+<string name="dial_pad_autocomplete">"आह्वाहनपटलं स्वतः पूर्णम्"</string>
+<string name="preference_category_ringtone">"रवः &amp; कम्पनम्"</string>
+<string name="manageConferenceLabel">"सामुहकाह्वाहनानि व्यवस्थाप्यन्ताम्"</string>
+<string name="emergency_call_dialog_number_for_display">"आपत्कालीनः क्रमाङ्कः"</string>
+</resources>

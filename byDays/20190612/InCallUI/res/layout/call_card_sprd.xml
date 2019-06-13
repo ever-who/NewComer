@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/call_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="@dimen/contact_photo_layout_size"
+        android:layout_height="@dimen/contact_photo_layout_size"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/in_call_photo_top_magin"
+        android:background="@drawable/in_call_photo_bg_sprd"
+        android:gravity="center" >
+
+        <ImageView
+            android:id="@+id/photo"
+            android:layout_width="@dimen/contact_photo_size"
+            android:layout_height="@dimen/contact_photo_size"
+            android:layout_gravity="center"
+            android:contentDescription="@string/contactPhoto"
+            android:scaleType="centerCrop"
+            android:src="@drawable/picture_unknown_sprd" />
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/primary_call_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent" >
+        <LinearLayout
+            android:id="@+id/callSimLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/hd_voice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="8dp"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:src="@drawable/ic_hd_audio" />
+        <TextView
+            android:id="@+id/callSimLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="8dp"
+            android:background="@android:color/transparent"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:singleLine="true"
+            android:textSize="@dimen/in_call_third_line_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/callStateLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginEnd="@dimen/in_call_side_magin"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+
+            <TextView
+                android:id="@+id/callStateLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginEnd="@dimen/in_call_side_magin"
+                android:background="@android:color/transparent"
+                android:ellipsize="end"
+                android:gravity="right|center_vertical"
+                android:singleLine="true"
+                android:textColor="@color/incall_call_button_text_color_sprd"
+                android:textSize="@dimen/in_call_third_line_text_size" />
+
+            <!-- talk time -->
+
+            <TextView
+                android:id="@+id/elapsedTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:singleLine="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/incall_call_button_text_color_sprd"
+                android:textSize="@dimen/in_call_third_line_text_size"
+                android:visibility="visible" />
+        </LinearLayout>
+        <!-- Contacts name -->
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/in_call_main_line_top_magin"
+            android:ellipsize="end"
+            android:maxEms="8"
+            android:singleLine="true"
+            android:textColor="@color/incall_main_info_text_color_sprd"
+            android:textSize="@dimen/in_call_main_line_text_size" />
+
+        <!-- Contacts detail -->
+
+
+        <!-- Phone type: Phone -->
+
+        <LinearLayout
+            android:id="@+id/callNumberLayout"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_below="@id/name"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginEnd="5dip"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:textColor="@color/incall_call_button_text_color_sprd"
+                android:textSize="@dimen/in_call_third_line_text_size" />
+
+            <!-- Phone number -->
+
+            <TextView
+                android:id="@+id/phoneNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxEms="8"
+                android:singleLine="true"
+                android:textColor="@color/incall_call_button_text_color_sprd"
+                android:textSize="@dimen/in_call_third_line_text_size" />
+        </LinearLayout>
+
+        <!-- recording label -->
+
+        <TextView
+            android:id="@+id/recordinglabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/callNumberLayout"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/in_call_side_magin"
+            android:drawableLeft="@drawable/call_record_sprd"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:text="@string/recording"
+            android:textColor="@color/incall_call_button_text_color_sprd"
+            android:textSize="@dimen/in_call_third_line_text_size"
+            android:visibility="gone" />
+
+        <!-- Incoming,HOLd and so on -->
+        <!--
+                 The "call state label": In some states, this shows a special
+                 indication like "Dialing" or "Incoming call" or "Call ended".
+                 It's unused for the normal case of an active ongoing call.
+        -->
+
+        <TextView
+            android:id="@+id/geocode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/callNumberLayout"
+            android:layout_toStartOf="@+id/secondary_call_info"
+            android:layout_marginEnd="@dimen/in_call_side_magin"
+            android:gravity="center"
+            android:minEms="5"
+            android:layout_centerHorizontal="true"
+            android:singleLine="true"
+            android:textColor="@color/incall_call_button_text_color_sprd"
+            android:textSize="@dimen/in_call_third_line_text_size" />
+
+        <ViewStub
+            android:id="@id/secondary_call_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/callNumberLayout"
+            android:layout="@layout/secondary_call_info_sprd" />
+
+        <LinearLayout
+            android:id="@+id/supplementary_info_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:animateLayoutChanges="true"
+            android:orientation="vertical" >
+
+            <!-- Shown when a gateway provider is used during any outgoing call. -->
+
+            <ViewStub
+                android:id="@+id/provider_info_stub"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout="@layout/provider_info_stub_sprd" />
+        </LinearLayout>
+
+        <!-- Internet call -->
+
+        <TextView
+            android:id="@+id/callTypeLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/supplementary_info_container"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/incall_call_button_text_color_sprd"
+            android:textSize="@dimen/in_call_secondary_line_text_size" />
+    </RelativeLayout>
+
+</RelativeLayout>

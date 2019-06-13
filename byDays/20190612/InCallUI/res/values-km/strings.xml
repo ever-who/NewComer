@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ទូរស័ព្ទ"</string>
+<string name="onHold">"បន្ត"</string>
+<string name="unknown">"មិន​ស្គាល់"</string>
+<string name="private_num">"លេខ​ឯកជន"</string>
+<string name="payphone">"ទូរស័ព្ទ​ប្រើ​កាក់"</string>
+<string name="callFailed_userBusy">"ជាប់រវល់"</string>
+<string name="callFailed_congestion">"បណ្តាញជាប់រវល់"</string>
+<string name="callFailed_timedOut">"គ្មានប្រតិកម្មទេហួសពេលហើយ"</string>
+<string name="callFailed_server_unreachable">"ភ្ជាប់ម៉ាស៊ីនបម្រើមិនបាន"</string>
+<string name="callFailed_number_unreachable">"លេខនេះមិនអាចហៅបាន"</string>
+<string name="callFailed_invalid_credentials">"ឈ្មោះនិងពាក្យសម្ងាត់ខុសហើយ"</string>
+<string name="callFailed_out_of_network">"ហៅពីក្រៅបណ្តាញ"</string>
+<string name="callFailed_server_error">"ម៉ាស៊ីនបម្រើខុសហើយ សូមតេស្តម្តងទៀតពេលក្រោយ"</string>
+<string name="callFailed_noSignal">"គ្មានសេវា។"</string>
+<string name="callFailed_limitExceeded">"ហួសពីកំរិតACM"</string>
+<string name="callFailed_powerOff">"បិទ​វិទ្យុ"</string>
+<string name="callFailed_simError">"គ្មានកាតSIMឬSIMខុស"</string>
+<string name="callFailed_outOfService">"មិនឋិតនៅតំបន់សេវាកម្ម"</string>
+<string name="callFailed_fdn_only">" ការហៅទូរស័ព្ទចេញត្រូវបានកំរិតដោយការកំណត់ បញ្ជីលេខទូរស័ព្ទហៅថេរ។"</string>
+<string name="callFailed_cb_enabled">"ពេលបើកការហាមឃាត់ហៅ លោកមិនអាចហៅចេញ។"</string>
+<string name="callFailed_dsac_restricted">"ការហៅទាំងអស់មានកំរិតពីការគ្រប់គ្រងចូលក្នុង។"</string>
+<string name="callFailed_dsac_restricted_emergency">"ការវាយទូរស័ព្ទសង្រ្គោះបន្ទាន់ត្រូវដាក់កំរិតដោយការត្រួតពិនិត្យនៃច្រកចូល។"</string>
+<string name="callFailed_dsac_restricted_normal">"ការហៅទទួលផលប៉ះពាល់ពីការគ្រប់គ្រងទស្សនា"</string>
+<string name="callFailed_unobtainable_number">"លេខគ្មានប្រសិទ្ធិភាព"</string>
+<string name="confCall">"សន្និសីទតាមហៅ"</string>
+<string name="call_lost">"ការហៅត្រូវផ្តាច់។"</string>
+<string name="ok">"បានហើយ"</string>
+<string name="audio_mode_speaker">"អូប៉ាល័រ"</string>
+<string name="audio_mode_earpiece">"ប្រដាប់ស្តាប់ទូរស័ព្ទ"</string>
+<string name="audio_mode_wired_headset">"កាសមានខ្សែ"</string>
+<string name="audio_mode_bluetooth">"ប៊្លូធូស"</string>
+<string name="wait_prompt_str">"ផ្ញើសម្លេងដូចខាងក្រោម？\n"</string>
+<string name="pause_prompt_str">"កំពុងផ្ញើសម្លេងមាន២ផ្លូវ"</string>
+<string name="send_button">"ផ្ញើ"</string>
+<string name="pause_prompt_yes">"បាទ/ចាស"</string>
+<string name="pause_prompt_no">"ទេ"</string>
+<string name="wild_prompt_str">"ជំនួសសញ្ញាអក្សរទៅជា"</string>
+<string name="no_vm_number">"បាត់លេខសារជាសម្លេង"</string>
+<string name="no_vm_number_msg">"មិនរក្សាទុកលេខសំបុត្រសំឡេងនៅកាតSIMទេ"</string>
+<string name="add_vm_number_str">"បន្ថែមលេខ"</string>
+<string name="puk_unlocked">"កាតSIMរបស់លោកបានដោះសោហើយ។កំពុងដោះសោទូរស័ព្ទរបស់លោក។"</string>
+<string name="label_ndp">"PINដោះសោបណ្តាញSIM"</string>
+<string name="sim_ndp_unlock_text">"ដោះ​សោ"</string>
+<string name="sim_ndp_dismiss_text">"បោះបង់"</string>
+<string name="requesting_unlock">"កំពុងស្នើសុំដោះសោបណ្តាញ\u2026"</string>
+<string name="unlock_failed">"ស្នើសុំដោះសោបណ្តាញទទួលបានបរាជ័យ"</string>
+<string name="unlock_success">"ដោះសោបណ្តាញដោយជោគជ័យ"</string>
+<string name="labelGSMMore">"ការកំណត់ហៅGSM"</string>
+<string name="labelCDMAMore">"ការកំណត់ហៅCDMA"</string>
+<string name="apn_settings">"ឈ្មោះនៃចំណុចតភ្ជាប់"</string>
+<string name="settings_label">"កំណត់បណ្តាញ"</string>
+<string name="voicemail">"សារ​ជា​សំឡេង"</string>
+<string name="voicemail_abbreviated">"VM:"</string>
+<string name="networks">"ក្រុមហ៊ុនប្រតិបត្តិការបណ្តាញ"</string>
+<string name="call_settings">"កំណត់​ការ​ហៅ"</string>
+<string name="additional_gsm_call_settings">"ការកំណត់បន្ថែម"</string>
+<string name="sum_gsm_call_settings">"ការកំណត់សម្រាប់តែការហៅGSMបន្ថែម"</string>
+<string name="additional_cdma_call_settings">"ការកំណត់ការហៅCDMAបន្ថែម"</string>
+<string name="sum_cdma_call_settings">"ការកំណត់សម្រាប់តែការហៅCDMAបន្ថែម"</string>
+<string name="labelNwService">"កំណត់សេវាកម្មបណ្តាញ"</string>
+<string name="labelCallerId">"IDរបស់ទូរស័ព្ទម្ចាស់"</string>
+<string name="sum_loading_settings">" កំពុងផ្ទុក\u2026"</string>
+<string name="sum_hide_caller_id">"លាក់លេខទូរស័ព្ទនៅពេលហៅទៅក្រៅ"</string>
+<string name="sum_show_caller_id">"បង្ហាញនូវលេខទូរស័ព្ទនៅពេលហៅទៅក្រៅ"</string>
+<string name="sum_default_caller_id">"ប្រើការកំណត់លំនាំដើមអ្នកផ្តល់សេវាបណ្តាញសម្រាប់បង្ហាញលេខទូរស័ព្ទខ្ញុំនៅពេលហៅចេញ"</string>
+<string name="labelCW">"រង់ចាំ​ការ​ហៅ"</string>
+<string name="sum_cw_enabled">"នៅពេលវាយទូរសព្ទ ជូនដំណឹងឲ្យខ្ញុំមាការហៅចូលមួយទៀត"</string>
+<string name="sum_cw_disabled">"នៅពេលវាយទូរសព្ទ ជូនដំណឹងឲ្យខ្ញុំមាការហៅចូលមួយទៀត"</string>
+<string name="call_forwarding_settings">"ការកំណត់ផ្ទេរការហៅ"</string>
+<string name="labelCF">"បញ្ជូន​ការ​ហៅ​បន្ត"</string>
+<string name="labelCFU">"ផ្ទេរហៅជាដរាប"</string>
+<string name="messageCFU">"ប្រើប្រាស់លេខនេះជាដរាប"</string>
+<string name="sum_cfu_enabled_indicator">"ទទួលបន្តទូរស័ព្ទទាំងអស់"</string>
+<string name="sum_cfu_enabled">"កំពុងបង្វែរការហៅទាំងអស់ទៅកាន់<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfu_enabled_no_number">"មិនផ្តល់លេខទូរស័ព្ទ"</string>
+<string name="sum_cfu_disabled">"បានបិទ"</string>
+<string name="labelCFB">"ទទួលបន្តទូរស័ព្ទនៅពេលកំពុងទទួលទូរស័ព្ទ"</string>
+<string name="messageCFB">"លេខបន្តនៅពេលជាប់រវល់"</string>
+<string name="sum_cfb_enabled">"កំពុងបង្វែរទៅកាន់<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfb_disabled">"បានបិទ"</string>
+<string name="disable_cfb_forbidden">"អ្នកផ្តល់សេវាបណ្តាញរបស់លោកមិនគាំទ្របិទមុខងារការផ្ទេការហៅនៅពេលទូរស័ព្ទ​របស់លោកជាប់រវល់។"</string>
+<string name="labelCFNRy">"ទទួលបន្តទូរស័ព្ទនៅពេលគ្មានមនុស្សទទួលទូរស័ព្ទ"</string>
+<string name="messageCFNRy">"លេខបន្តនៅពេលគ្មានមនុស្សទទួលទូរស័ព្ទ"</string>
+<string name="sum_cfnry_enabled">"កំពុងបង្វែរទៅកាន់<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnry_disabled">"បានបិទ"</string>
+<string name="disable_cfnry_forbidden">"អ្នកផ្តល់សេវាបណ្តាញរបស់លោកមិនគាំទ្របិទមុខងារការផ្ទេការហៅនៅពេលទូរស័ព្ទ​របស់លោកមិនបានឆ្លើយ។"</string>
+<string name="labelCFNRc">"ទទួលបន្តទូរស័ព្ទនៅពេលមិនអាចទាក់ទងទូរស័ព្ទទេ"</string>
+<string name="messageCFNRc">"លេខបន្តដែលទូរស័ព្ទមិនអាចទាក់ទងបាន"</string>
+<string name="sum_cfnrc_enabled">"កំពុងបង្វែរទៅកាន់<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnrc_disabled">"បានបិទ"</string>
+<string name="disable_cfnrc_forbidden">"អ្នកផ្តល់សេវាបណ្តាញរបស់លោកមិនគាំទ្រមុខងារបិទការផ្ទេការហៅនៅពេលទូរស័ព្ទ​របស់លោកមិនអាចទៅដល់។"</string>
+<string name="updating_title">"កំណត់​ការ​ហៅ"</string>
+<string name="error_updating_title">"ការកំណត់ហៅខុស"</string>
+<string name="reading_settings">"កំពុងអានកំណត់\u2026"</string>
+<string name="updating_settings">"កំពុងធ្វើឲ្យស្រស់នូវការកំណត់\u2026"</string>
+<string name="reverting_settings">"កំពុងស្តារកំណត់ឡើងវិញ\u2026"</string>
+<string name="response_error">"​មានការឆ្លើយតប​​ពី​បណ្តាញដែលមិនធម្មតាទេ។"</string>
+<string name="exception_error">"បណ្តាញឬកាតSIMខុសហើយ"</string>
+<string name="fdn_check_failure">" ការកំណត់លេខទូរស័ព្ទហៅថេររបស់កម្មវិធីហៅទូរស័ព្ទរបស់លោកអ្នកតត្រូវបានបើកប្រើបាស់។ដូច្នេះមុខងារពិសេសមួយចំនួនដែលទាក់ទងនឹងការ  ទូរស័ព្ទនឹងមិនដំណើការឡើយ។"</string>
+<string name="radio_off_error">"សូមបើកបញ្ជូនសារតាមវិទ្យុអត់ខ្សេសិន រួចមកត្រួតពិនិត្យកំណត់ទាំងនេះ"</string>
+<string name="close_dialog">"បានហើយ"</string>
+<string name="enable">"ដែលអាចដំណើរការបាន"</string>
+<string name="disable">"បិទ"</string>
+<string name="change_num">"ធ្វើ​បច្ចុប្បន្នភាព"</string>
+<string-array name="clir_display_values">
+<item>"បណ្តាញដែលបានកំណត់ទុក"</item>
+<item>"លាក់លេខ"</item>
+<item>"បង្ហាញលេខ"</item>
+</string-array>
+<string name="vm_changed">"លេខប្រអប់សារជាសម្លេងបានផ្លាស់ប្តូរហើយ។"</string>
+<string name="vm_change_failed">"ផ្លាស់ប្តូរលេខសារជាសម្លេងមិនបាន។ \n បើបញ្ហានេះ បន្ដមាន សូមទាក់ទងអ្នកផ្តល់សេវាបណ្តាញរបស់លោក។។"</string>
+<string name="fw_change_failed">"លេខទូរស័ព្ទបន្តទទួលកែប្រែមិនបាន។បើមានបញ្ហាដដែល ។ \n បើបញ្ហានេះ បន្ដមាន សូមទាក់ទងអ្នកផ្តល់សេវាបណ្តាញរបស់លោក។។"</string>
+<string name="fw_get_in_vm_failed">"មិនអាចទៅយកនិងរក្សាទុកការកំណត់បញ្ជូនបន្ដលេខ។\nប្ដរដល់អ្នកផ្គត់ផ្គង់ថ្មីតែ?"</string>
+<string name="no_change">"មិនដែលកែប្រែទេ"</string>
+<string name="sum_voicemail_choose_provider">"ជ្រើសរើសសេវាសារជាសម្លេង"</string>
+<string name="voicemail_default">"ក្រុមហ៊ុនអ៊ីនធើណែតរបស់ខ្ញុំ"</string>
+<string name="mobile_networks">"កំណត់បណ្តាញចល័ត"</string>
+<string name="label_available">"បណ្តាញមានប្រសិទ្ធិភាព"</string>
+<string name="load_networks_progress">"កំពុង​​ស្វែងរក..."</string>
+<string name="empty_networks_list">"មិនរកឃើញបណ្តាញ"</string>
+<string name="search_networks">"ស្វែងរកបណ្តាញ"</string>
+<string name="network_query_error">"មានកំហុសកាលរុករកបណ្ដាញ។"</string>
+<string name="register_on_network">"បានចុះបញ្ជីនៅលើ<xliff:g id="network">%s</xliff:g>\u2026"</string>
+<string name="not_allowed">"កាតSIMរបស់លោកមិនអនុញ្ញាតតភ្ជាប់ទៅបណ្ដាញនេះ។"</string>
+<string name="connect_later">"មិនអាចតភ្ជាប់ទៅកាន់​បណ្តាញ​នេះ​នៅពេលនេះ​។ សូមព្យាយាមម្ដងទៀត​នៅពេលក្រោយ។"</string>
+<string name="registration_done">"បានចុះបញ្ជីតាមអ៊ីនធើណែត"</string>
+<string name="sum_carrier_select">"ជ្រើស​ប្រតិបត្តិ​ករ​បណ្ដាញ"</string>
+<string name="sum_search_networks">"ស្វែងរកបណ្តាញទាំងអស់ដែលអាចប្រើប្រាស់បាន"</string>
+<string name="select_automatically">"ជ្រើសរើសដោយស្វ័យប្រវត្តិ"</string>
+<string name="sum_select_automatically">"ជ្រើសរើសបណ្តាញចំណូលចិត្តដោយស្វ័យប្រវត្តិ"</string>
+<string name="register_automatically">"ចុះបញ្ជីដោយស្វ័យប្រវត្តិ..."</string>
+<string name="preferred_network_mode_title">"រូបមន្តបណ្តាញ"</string>
+<string name="preferred_network_mode_summary">"ប្ដូរបៀបប្រតិបតិ្តការបណ្ដាញ"</string>
+<string name="preferred_network_mode_dialogtitle">"រូបមន្តបណ្តាញដែលជាជំរើសទី១"</string>
+<string name="preferred_network_mode_wcdma_perf_summary">"មូដបណ្តាញដែលជាជំរើសទី១:WCDMAដែលជាជំរើសទី១"</string>
+<string name="preferred_network_mode_gsm_only_summary">"មូដបណ្តាញដែលជាជំរើសទី១:សម្រាប់តែGSM"</string>
+<string name="preferred_network_mode_wcdma_only_summary">"មូដបណ្តាញដែលជាជំរើសទី១:សម្រាប់តែWCDMA"</string>
+<string name="preferred_network_mode_gsm_wcdma_summary">"រូបមន្តបណ្តាញដែលជាជំរើសទី១: GSM / WCDMA"</string>
+<string name="preferred_network_mode_cdma_summary">"រូបមន្តបណ្តាញដែលជាជំរើសទី១: CDMA"</string>
+<string name="preferred_network_mode_cdma_evdo_summary">"រូបមន្តបណ្តាញដែលជាជំរើសទី១: CDMA / EvDo"</string>
+<string name="preferred_network_mode_cdma_only_summary">"មូដបណ្តាញដែលជាជំរើសទី១:សម្រាប់តែ CDMA"</string>
+<string name="preferred_network_mode_evdo_only_summary">"មូដបណ្តាញដែលជាជំរើសទី១:សម្រាប់តែ EvDo"</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"រូបមន្តបណ្តាញដែលជាជំរើសទី១: CDMA/EvDo/GSM/WCDMA"</string>
+<string name="preferred_network_mode_lte_summary">"រូបមន្តបណ្តាញដែលជាជំរើសទី១: LTE"</string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">"រូបមន្តបណ្តាញដែលជាជំរើសទី១: GSM/WCDMA/LTE"</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">"រូបមន្តបណ្តាញដែលជាជំរើសទី១: CDMA+LTE/EVDO"</string>
+<string name="preferred_network_mode_global_summary">"ម៉ូដប្រើបណ្តាញអាទិភាព៖ ប្រើប្រាស់ទូទៅ"</string>
+<string name="preferred_network_mode_lte_wcdma_summary">"រូបមន្តបណ្តាញដែលជាជំរើសទី១: LTE / WCDMA"</string>
+<string-array name="preferred_network_mode_choices">
+<item>"LTE / WCDMA"</item>
+<item>"LTE"</item>
+<item>"ប្រើប្រាស់ទូទៅ"</item>
+<item>"GSM/WCDMA/LTE"</item>
+<item>"CDMA + LTE/EvDo"</item>
+<item>"CDMA/EvDo/GSM/WCDMA"</item>
+<item>"សម្រាប់តែEvDo"</item>
+<item>"CDMA w/o EvDo"</item>
+<item>"CDMA / EvDo ដោយស្វ័យប្រវត្តិ"</item>
+<item>"GSM/WCDMAដោយស្វ័យប្រវត្តិ"</item>
+<item>"សម្រាប់តែ WCDMA"</item>
+<item>"សម្រាប់តែ GSM"</item>
+<item>"GSM/WCDMA ដែលជាជំរើសទី១"</item>
+</string-array>
+<string name="data_enabled">"ទិន្នន័យបានបើក"</string>
+<string name="data_enable_summary">"អនុញ្ញាតច្រកចូលទិន្នន័យតាមបណ្តាញចល័ត​"</string>
+<string name="roaming">"ការ​រ៉ូមីង​ទិន្នន័យ"</string>
+<string name="roaming_enable">"តភ្ជាប់​សេវាកម្ម​ទិន្នន័យ​ ពេលរ៉ូមីង"</string>
+<string name="roaming_disable">"តភ្ជាប់​សេវាកម្ម​ទិន្នន័យ​ ពេលរ៉ូមីង"</string>
+<string name="roaming_reenable_message">"ការតភ្ជាប់ទិន្នន័យដាច់ហើយ ដោយសារលោកចេញពីបណ្ដាញផ្ទះរបស់លោកហើយបានបិទការនៅតំបន់ក្រៅទិន្នន័យ។"</string>
+<string name="roaming_warning">"អនុញ្ញាតឲ្យប្រើទិន្នន័យនៅតំបន់ក្រៅទេ?លោកប្រហែលនឹងបង់ប្រាក់ច្រើននៅតំបន់ក្រៅ!"</string>
+<string name="gsm_umts_options">"ជំរើស GSM/UMTS"</string>
+<string name="cdma_options">"ជំរើស CDMA"</string>
+<string name="throttle_data_usage">"ការ​ប្រើ​ទិន្នន័យ"</string>
+<string name="throttle_current_usage">"ទិន្នន័យប្រើកំពុង"</string>
+<string name="throttle_time_frame">"អំឡុងពេលទិន្នន័យប្រើ"</string>
+<string name="throttle_rate">"គោលនយោបាយអត្រទិន្នន័យ"</string>
+<string name="throttle_help">"ស្វែងយល់អំពីពត៌មានលំអិត"</string>
+<string name="throttle_status_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A)  ក្នុងចំណោម <xliff:g id="used">%3$s</xliff:g> អតិបរមាអំឡុងពេល\nអំឡុងពេលក្រោយនឹងចាប់ផ្តើមពី <xliff:g id="used">%4$d</xliff:g> ថ្ងៃ  (<xliff:g id="used">%5$s</xliff:g>)"</string>
+<string name="throttle_data_usage_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) ក្នុងចំណោម <xliff:g id="used">%3$s</xliff:g>អតិបរមាអំឡុងពេល"</string>
+<string name="throttle_data_rate_reduced_subtext">"<xliff:g id="used">%1$s</xliff:g> អតិបរមាហួសពី\nអត្រាទិន្នន័យចុះដល់ <xliff:g id="used">%2$d</xliff:g> Kb/s"</string>
+<string name="throttle_time_frame_subtext">"<xliff:g id="used">%1$d</xliff:g>\u066A អំឡុងពេលនេះបានកន្លងទៅ\nអំឡុងពេលក្រោយនឹងចាប់ផ្តើមពី <xliff:g id="used">%2$d</xliff:g> ថ្ងៃ (<xliff:g id="used">%3$s</xliff:g>)"</string>
+<string name="throttle_rate_subtext">"ល្បឿននៃការបញ្ជូនទិន្នន័យនឹងធ្លាក់ចុះដល់ <xliff:g id="used">%1$d</xliff:g> គ.ប/វ ប្រសិបើប្រើលើសទិន្នន័យកម្រិត។"</string>
+<string name="throttle_help_subtext">"ពត៌មានលំអិតអំពីគោលនយោបាយប្រើប្រាស់ទិន្នន័យបណ្តាញចល័តរបស់ក្រុមហ៊ុនអ៊ីនធើណែតរបស់លោកអ្នក"</string>
+<string name="cell_broadcast_sms">"SMSសមាគមន៍តូចវិទ្យុ"</string>
+<string name="enable_disable_cell_bc_sms">"SMSសមាគមន៍តូចវិទ្យុ"</string>
+<string name="cell_bc_sms_enable">"SMSសមាគមន៍តូចវិទ្យុបានបើក"</string>
+<string name="cell_bc_sms_disable">"SMSសមាគមន៍តូចវិទ្យុបានបិទ"</string>
+<string name="cb_sms_settings">"ការកំណត់SMSសមាគមន៍តូចវិទ្យុ"</string>
+<string name="enable_disable_emergency_broadcast">"ការផ្សាយសង្រ្គោះបន្ទាន់"</string>
+<string name="emergency_broadcast_enable">"ការផ្សាយសង្រ្គោះបន្ទាន់បានបើក"</string>
+<string name="emergency_broadcast_disable">"ការផ្សាយសង្រ្គោះបន្ទាន់បានបិទ"</string>
+<string name="enable_disable_administrative">"ការគ្រប់គ្រង"</string>
+<string name="administrative_enable">"ចាប់ផ្តើមប្រើការគ្រប់គ្រង"</string>
+<string name="administrative_disable">"ឈប់ប្រើការគ្រប់គ្រង"</string>
+<string name="enable_disable_maintenance">"ថែរក្សា"</string>
+<string name="maintenance_enable">"បានបើកថែរក្សា"</string>
+<string name="maintenance_disable">"បានឈប់ថែរក្សា"</string>
+<string name="general_news_settings">"ពត៌មានជាទួទៅ"</string>
+<string name="bf_news_settings">"ពត៌មានពាណិជ្ជកម្មនិងហិរញ្ញវត្ថុ"</string>
+<string name="sports_news_settings">"ពត៌មានកីឡា"</string>
+<string name="entertainment_news_settings">"ពត៌មានកំសាន្ត"</string>
+<string name="enable_disable_local">"នៅនឹងកន្លែង"</string>
+<string name="local_enable">"ចាប់ផ្តើមផ្សាយពត៌មានតាមតំបន់"</string>
+<string name="local_disable">"ឈប់ផ្សាយពត៌មានតាមតំបន់"</string>
+<string name="enable_disable_regional">"ថ្នាក់តំបន់"</string>
+<string name="regional_enable">"បានចាប់ផ្តើមផ្សាយពត៌មានក្នុងតំបន់"</string>
+<string name="regional_disable">"បានឈប់ផ្សាយពត៌មានក្នុងតំបន់"</string>
+<string name="enable_disable_national">"ក្នុងស្រុក"</string>
+<string name="national_enable">"បានចាប់ផ្តើមផ្សាយពត៌មានអន្តរជាតិ"</string>
+<string name="national_disable">"បានឈប់ផ្សាយពត៌មានក្នុងស្រុក"</string>
+<string name="enable_disable_international">"អន្តរជាតិ"</string>
+<string name="international_enable">"បានចាប់ផ្តើមផ្សាយពត៌មានអន្តរជាតិ"</string>
+<string name="international_disable">"បានឈប់ផ្សាយពត៌មានអន្តរជាតិ"</string>
+<string name="list_language_title">"ភាសា"</string>
+<string name="list_language_summary">"ជ្រើសរើសភាសាខាងពត៌មាន"</string>
+<string-array name="list_language_entries">
+<item>" ភាសាអង់គ្លេស"</item>
+<item>"ភាសាបារាំង"</item>
+<item>"ភាសាអេស្ប៉ាញ"</item>
+<item>"ភាសាជ៉បុន"</item>
+<item>"ភាសាកូរ៉េ"</item>
+<item>"ភាសាចិន"</item>
+<item>"ភាសាហ៊ីប្រ៊ូ"</item>
+</string-array>
+<string name="list_language_dtitle">"ភាសា"</string>
+<string name="enable_disable_local_weather">"អាកាសធាតុតាមតំបន់"</string>
+<string name="local_weather_enable">"បានចាប់ផ្តើមដំណើរការព្យាករណ៍អាកាសធាតុតាមតំបន់"</string>
+<string name="local_weather_disable">"បានឈប់ព្យាករណ៍អាកាសធាតុតាមតំបន់"</string>
+<string name="enable_disable_atr">"រាយការណ៍អំពីចរាចរណ៍តំបន់"</string>
+<string name="atr_enable">"រាយការណ៍អំពីចរាចរណ៍តំបន់បានបើក"</string>
+<string name="atr_disable">"រាយការណ៍អំពីចរាចរណ៍តំបន់បានបិទ"</string>
+<string name="enable_disable_lafs">"កាលវិភាគជើងយន្តហោះតាមតំបន់"</string>
+<string name="lafs_enable">"បានចាប់ផ្តើមប្រើប្រាស់កាលវិភាគជើងយន្តហោះតាមតំបន់"</string>
+<string name="lafs_disable">"បានឈប់កាលវិភាគជើងយន្តហោះតាមតំបន់"</string>
+<string name="enable_disable_restaurants">"ភោជនីយដ្ឋាន"</string>
+<string name="restaurants_enable">"បានចាប់ផ្តើមពត៌មានអំពីភោជនីយដ្ឋាន"</string>
+<string name="restaurants_disable">"បានឈប់ពត៌មានអំពីភោជនីយដ្ឋាន"</string>
+<string name="enable_disable_lodgings">"ពត៌មានអំពីការជួលផ្ទះ"</string>
+<string name="lodgings_enable">"ចាប់ផ្តើមផ្សាយពត៌មានអំពីការជួលផ្ទះ"</string>
+<string name="lodgings_disable">"ឈប់ផ្សាយពត៌មានអំពីការជួលផ្ទះ"</string>
+<string name="enable_disable_retail_directory">"បញ្ជីលក់រាយ"</string>
+<string name="retail_directory_enable">"បានចាប់ផ្តើមប្រើប្រាស់បញ្ជីលក់រាយ"</string>
+<string name="retail_directory_disable">"បានឈប់ប្រើប្រាស់បញ្ជីលក់រាយ"</string>
+<string name="enable_disable_advertisements">"ការផ្សាយពាណិជ្ជកម្ម"</string>
+<string name="advertisements_enable">"ចាប់ផ្តើមប្រើការផ្សាយពាណិជ្ជកម្ម"</string>
+<string name="advertisements_disable">"ឈប់ប្រើការផ្សាយពាណិជ្ជកម្ម"</string>
+<string name="enable_disable_stock_quotes">"តំលៃភាគហ៊ុន"</string>
+<string name="stock_quotes_enable">"បានចាប់ផ្តើមប្រើប្រាស់តំលៃភាគហ៊ុន"</string>
+<string name="stock_quotes_disable">"បានឈប់ប្រើប្រាស់តំលៃភាគហ៊ុន"</string>
+<string name="enable_disable_eo">"ឱកាសការជួល"</string>
+<string name="eo_enable">"ឱកាសការជួលបានបើក"</string>
+<string name="eo_disable">"ឱកាសការជួលបានបិទ"</string>
+<string name="enable_disable_mhh">"ការព្យាបាល សុខាភិបាល និងមន្ទីរពេទ្យ"</string>
+<string name="mhh_enable">"បានចាប់ផ្តើមផ្សាយពត៌មានអំពីការព្យាបាល សុខាភិបាល និងមន្ទីរពេទ្យ"</string>
+<string name="mhh_disable">"បានឈប់ផ្សាយពត៌មានអំពីការព្យាបាល សុខាភិបាល និងមន្ទីរពេទ្យ"</string>
+<string name="enable_disable_technology_news">"ពត៌មានបច្ចេកទេស"</string>
+<string name="technology_news_enable">"បានចាប់ផ្តើមប្រើប្រាស់ពត៌មានបច្ចេកទេស"</string>
+<string name="technology_news_disable">"បានឈប់ប្រើប្រាស់ពត៌មានបច្ចេកទេស"</string>
+<string name="enable_disable_multi_category">"ប្រភេទច្រើន"</string>
+<string name="multi_category_enable">"បានចាប់ផ្តើមច្រើនប្រភេទ"</string>
+<string name="multi_category_disable">"បានឈប់ច្រើនប្រភេទ"</string>
+<string name="prefer_2g">"ប្រើតែបណ្ដាញ 2G"</string>
+<string name="prefer_2g_summary">"សន្សំសំចៃថាមពល"</string>
+<string name="cdma_system_select_title">"ជ្រើសរើសដោយប្រព័ន្ធ"</string>
+<string name="cdma_system_select_summary">"ប្ដូររបៀបនៅតំបន់ក្រៅCDMA"</string>
+<string name="cdma_system_select_dialogtitle">"ជ្រើសរើសដោយប្រព័ន្ធ"</string>
+<string-array name="cdma_system_select_choices">
+<item>"ប្រើសំរាប់ប្រព័ន្ធនៅនឹងកន្លែង"</item>
+<item>"ស្វ័យប្រវត្តិ"</item>
+</string-array>
+<string name="cdma_subscription_title">"ការជាវប្រចាំCDMA"</string>
+<string name="cdma_subscription_summary">"កែរវាងRUIM/SIMនិងNV"</string>
+<string name="cdma_subscription_dialogtitle">"ជាវអាន"</string>
+<string name="cdma_activate_device">"ធ្វើឲ្យគ្រឿងបរិក្ខារសកម្ម"</string>
+<string name="cdma_lte_data_service">"កំណត់សេវាកម្មទិន្នន័យ"</string>
+<string name="fdn">"លេខទូរស័ព្ទហៅថេរ"</string>
+<string name="manage_fdn_list">" បញ្ជីលេខទូរស័ព្ទហៅថេរ"</string>
+<string name="fdn_activation">"ការបើកប្រើប្រាស់សេវាលេខទូរស័ព្ទហៅថេរ"</string>
+<string name="fdn_enabled">"សេវាលេខទូរស័ព្ទហៅថេរអាចប្រើប្រាស់បាន"</string>
+<string name="fdn_disabled">"សេវាលេខទូរស័ព្ទហៅថេរមិនអាចប្រើប្រាស់បាន"</string>
+<string name="enable_fdn">" បើកប្រើប្រាស់លេខទូរស័ព្ទហៅថេរ"</string>
+<string name="disable_fdn">" បិទការប្រើប្រាស់លេខទូរស័ព្ទហៅថេរ"</string>
+<string name="change_pin2">"កែPIN2"</string>
+<string name="enable_fdn_ok">" បិទការប្រើប្រាស់លេខទូរស័ព្ទហៅថេរ"</string>
+<string name="disable_fdn_ok">" បើកប្រើប្រាស់លេខទូរស័ព្ទហៅថេរ"</string>
+<string name="sum_fdn">"គ្រប់គ្រងលេខទូរស័ព្ទហៅថេរ"</string>
+<string name="sum_fdn_change_pin">" កែសម្រាប់ចូលទៅកានលេខទូរស័ព្ទហៅថេរ"</string>
+<string name="sum_fdn_manage_list">"គ្រប់គ្រងបញ្ជីលេខទូរស័ព្ទ"</string>
+<string name="voice_privacy">"ភាពឯកជនសម្លេង"</string>
+<string name="voice_privacy_summary">"បើករបៀបដាច់ពីគេដែលបន្ថែម"</string>
+<string name="tty_mode_option_title">"ម៉ូដTTY"</string>
+<string name="tty_mode_option_summary">"កំណត់ម៉ូដ TTY "</string>
+<string name="auto_retry_mode_title">"ហៅម្តងដោយស្វ័យប្រវត្តិ"</string>
+<string name="auto_retry_mode_summary">"បើករបៀបតេស្តថ្មីដោយស្វ័យប្រវត្តិ"</string>
+<string name="menu_add">"បន្ថែម​ទំនាក់ទំនង"</string>
+<string name="menu_edit">"កែសម្រួលអ្នកទាក់ទង"</string>
+<string name="menu_delete">"លុបចោលអ្នកទំនាក់ទំនង"</string>
+<string name="get_pin2">"បញ្ចូលPIN2"</string>
+<string name="name">"ឈ្មោះ"</string>
+<string name="number">"លេខ"</string>
+<string name="save">"រក្សាទុក"</string>
+<string name="add_fdn_contact">"បន្ថែមលេខទូរស័ព្ទហៅថេរ"</string>
+<string name="adding_fdn_contact">"កំពុងបន្ថែមលេខទូរស័ព្ទហៅថេរ \u2026"</string>
+<string name="fdn_contact_added">"បានបន្ថែមលេខទូរស័ព្ទហៅថេរ"</string>
+<string name="edit_fdn_contact">"កែសម្រួលលេខទូរស័ព្ទហៅថេរ"</string>
+<string name="updating_fdn_contact">"កំពុងបន្ទាន់សម័យលេខទូរស័ព្ទហៅថេរ... "</string>
+<string name="fdn_contact_updated">"បានធ្វើបន្ទាន់សម័យលេខទូរស័ព្ទហៅថេររួចរាល់។"</string>
+<string name="delete_fdn_contact">"លុបចោលលេខទូរស័ព្ទហៅថេរ"</string>
+<string name="deleting_fdn_contact">"កំពុងលុបចោលលេខទូរស័ព្ទហៅថេរ..."</string>
+<string name="fdn_contact_deleted">"បានលុបលេខទូរស័ព្ទហៅថេរចោលហើយ។"</string>
+<string name="pin2_invalid">" លេខទូរស័ព្ទហៅថេរមិនត្រូវបានធ្វើបន្ទាន់សម័យទេ ព្រោះលេខកូដ PINដែលលោកអ្នកបានបញ្ចូលមិនត្រឹមត្រូវទេ។"</string>
+<string name="fdn_invalid_number">"FDNមិនត្រូវបានកែប្រែទេ ព្រោះថាលេខទូរស័ព្ទមិនអាចលើសពី20ខ្ទង់ឡើយ។"</string>
+<string name="pin2_or_fdn_invalid">" លេខទូរស័ព្ទហៅថេរមិនត្រូវបានធ្វើបន្ទាន់សម័យទេ ព្រោះលេខកូដ PIN2មិនត្រឹមត្រូវ ឬមកពីលេខទូរស័ព្ទនេះត្រូវបានបដិសេធ។"</string>
+<string name="simContacts_emptyLoading">"កំពុងអានពីកាតSIM\u2026"</string>
+<string name="simContacts_empty">"នៅលើកាតSIMគ្មានអ្នកទំនាក់ទំនង"</string>
+<string name="simContacts_title">"ជ្រើសរើសអ្នកទំនាក់ទំនងដែលចង់បញ្ចូល"</string>
+<string name="simContacts_airplaneMode">"_x000D_
+
+​បើចង់​នាំចូលអ្នកទាក់ទង​ពីកាតSIM ​សូម​បិទ​ម៉ូដ​ហោះហើរ​។"</string>
+<string name="enable_pin">"បើក/បិទPINនៃកាតSIM"</string>
+<string name="change_pin">"ប្ដូរ​កូដ PIN ស៊ីម​កាត"</string>
+<string name="enter_pin_text">"SIM PIN:"</string>
+<string name="oldPinLabel">"PINចាស់"</string>
+<string name="newPinLabel">"កូដ PIN ថ្មី"</string>
+<string name="confirmPinLabel">"បញ្ជាក់​កូដ PIN ថ្មី"</string>
+<string name="badPin">"PINចាស់ដែលលោកអ្នកវាយបញ្ចូលមិនត្រឹមត្រូវទេ សូមតេស្តម្តងទៀត"</string>
+<string name="mismatchPin">"កូដលេខPINដែលលោកអ្នកវាយបញ្ចូលមិនសមស្របទេ សូមតេស្តម្តងទៀត"</string>
+<string name="invalidPin">"បញ្ចូល​កូដ PIN ដែល​មាន​ពី ៤ ដល់ ៨ លេខ។"</string>
+<string name="disable_sim_pin">"បិទPINនៃកាតSIM"</string>
+<string name="enable_sim_pin">"បើកPINនៃកាតSIM"</string>
+<string name="enable_in_progress">"សូម​រង់ចាំ…"</string>
+<string name="enable_pin_ok">"បើកដំណើរការកូដPINរបស់ស៊ីមកាត"</string>
+<string name="disable_pin_ok">"បិទដំណើរការកូដPINរបស់ស៊ីមកាត"</string>
+<string name="pin_failed">"កូដលេខPINដែលលោកអ្នកវាយបញ្ចូលមិនត្រឹមត្រូវទេ"</string>
+<string name="pin_changed">"កែប្រែPINកាតSIMដោយជោគជ័យ"</string>
+<string name="puk_requested">"ពាក្យសម្ងាត់មិនត្រឹមត្រូវទេ  SIM ត្រូវចាក់សោហើយ ត្រូវការPUK2។"</string>
+<string name="oldPin2Label">"PIN2ចាស់"</string>
+<string name="newPin2Label">"PINថ្មី"</string>
+<string name="confirmPin2Label">"បញ្ជាក់PIN2ថ្មី"</string>
+<string name="badPuk2">"កូដPUK2 ដែលលោកអ្នកបានបញ្ចូលមិនកំហុស។សូមបញ្ចូលម្តងទៀត"</string>
+<string name="badPin2">"PIN2ចាស់ដែលលោកអ្នកវាយបញ្ចូលមិនត្រឹមត្រូវទេ សូមតេស្តម្តងទៀត"</string>
+<string name="mismatchPin2">"កូដលេខPIN2ដែលលោកអ្នកវាយបញ្ចូលមិនសមស្របទេ សូមតេស្តម្តងទៀត"</string>
+<string name="invalidPin2">" សូមបញ្ចូលកូដPIN2ដែលមានចាប់ពី៤ដល់៨ខ្ទង់។"</string>
+<string name="invalidPuk2">" សូមបញ្ចូលកូដPIN2ដែលមាន៨ខ្ទង់។"</string>
+<string name="pin2_changed">"បានកែប្រែ PIN2ដោយជោគជ័យ"</string>
+<string name="label_puk2_code">"វាយបញ្ចូលកូដ PUK2 "</string>
+<string name="fdn_enable_puk2_requested">"ពាក្យសម្ងាត់មិនត្រឹមត្រូវទេ សូមកែប្រែPIN2 ហើយតេស្តម្តងទៀត"</string>
+<string name="puk2_requested">"ពាក្យសម្ងាត់មិនត្រឹមត្រូវទេ​​  SIM ត្រូវចាក់សោហើយ ត្រូវការPUK2។"</string>
+<string name="doneButton">"សំលាប់"</string>
+<string name="caller_manage_header">"សន្និសីទតាមការនិយាយទូរស័ព្ទ<xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"លេខសារជាសម្លេង"</string>
+<string name="card_title_dialing">"កំពុងហៅ"</string>
+<string name="card_title_redialing">"កំពុងហៅម្តងទៀត"</string>
+<string name="card_title_conf_call">"សន្និសីទតាមហៅ"</string>
+<string name="card_title_incoming_call">"ការ​ហៅ​ចូល"</string>
+<string name="card_title_call_ended">"ការហៅបានបញ្ចប់"</string>
+<string name="card_title_on_hold">"បន្ត"</string>
+<string name="card_title_hanging_up">" ផ្តាច់ទូរស័ព្ទ"</string>
+<string name="card_title_in_call">"កំពុងនិយាយ"</string>
+<string name="card_title_my_phone_number">"លេខទូរស័ព្ទរបស់ខ្ញុំ：<xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"កំពុងហៅ"</string>
+<string name="notification_missedCallTitle">"ខកខាន​ទទួល"</string>
+<string name="notification_missedCallsTitle">"ការហៅដែលមិនបានទទួល"</string>
+<string name="notification_missedCallsMsg">"ការហៅដែលមិនបានទទួលចំនួន<xliff:g id="num_missed_calls">%s</xliff:g>លើក"</string>
+<string name="notification_missedCallTicker">"មានការហៅដែលមិនបានទទួលពី<xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">" ការហៅដែលកំពុងទទួល"</string>
+<string name="notification_on_hold">"បន្ត"</string>
+<string name="notification_incoming_call">"ការ​ហៅ​ចូល"</string>
+<string name="notification_voicemail_title">"សារជាសម្លេងថ្មី"</string>
+<string name="notification_voicemail_title_count">"សារជាសម្លេងថ្មី (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"ហៅទូរស័ព្ទ<xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"លេខសារជាសម្លេងដែលមិនស្គាល់"</string>
+<string name="notification_network_selection_title">"គ្មាន​សេវា។"</string>
+<string name="notification_network_selection_text">"បណ្តាញ (<xliff:g id="operator_name">%s</xliff:g>) ដែលបានជ្រើសរើសមិនអាចប្រើប្រាស់បាន"</string>
+<string name="notification_action_end_call">"ផ្តាច់ទូរស័ព្ទ"</string>
+<string name="notification_missedCall_call_back">"ហៅទៅវិញ"</string>
+<string name="notification_missedCall_message">"សារ"</string>
+<string name="incall_error_power_off">"បើចង់វាយទូរស័ព្ទ សូមបិទ​ម៉ូដ​ហោះហើរ"</string>
+<string name="incall_error_emergency_only">"មិនទាន់ចុះបញ្ជីតាមអ៊ីនធើណែត"</string>
+<string name="incall_error_out_of_service">"ទស្សនាបណ្តាញចល័តមិនកើតទេ"</string>
+<string name="incall_error_no_phone_number_supplied">"ហៅមិនចេញ មកពីវាយបញ្ចូលលេខគ្មានប្រសិទ្ធិភាព។"</string>
+<string name="incall_error_call_failed">"ការហៅទូរស័ព្ទមិនបានបញ្ជូនចេញ"</string>
+<string name="incall_status_dialed_mmi">"កំពុងចាប់ផ្តើមដំណើរការលំដាប់MMI\u2026"</string>
+<string name="incall_error_supp_service_unknown">"មិនគាំទ្រសេវានេះ។"</string>
+<string name="incall_error_supp_service_switch">"មិនអាច​ប្តូរការ​ហៅ។"</string>
+<string name="incall_error_supp_service_separate">"មិនអាចដាច់ពីគ្នានូវការហៅ។"</string>
+<string name="incall_error_supp_service_transfer">"មិនអាច​ផ្ទេរ​ការហៅ​។"</string>
+<string name="incall_error_supp_service_conference">"មិនអាច​ហៅទូរស័ព្ទ​សន្និសីទ​។"</string>
+<string name="incall_error_supp_service_reject">"មិនអាច​បដិសេធការ​ហៅ។"</string>
+<string name="incall_error_supp_service_hangup">"មិនអាច​លែងការ​ហៅ។"</string>
+<string name="incall_call_type_label_sip">"ហៅតាមអ៊ីនធើណែត"</string>
+<string name="emergency_enable_radio_dialog_title">"ការ​ហៅ​​ពេល​អាសន្ន"</string>
+<string name="emergency_enable_radio_dialog_message">"កំពុងបើកវិទ្យុ\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"មិនឋិតនៅតំបន់សេវាកម្ម សូមសាកល្បងម្តងទៀត\u2026"</string>
+<string name="dial_emergency_error">"ហៅមិនចេញ <xliff:g id="non_emergency_number">%s</xliff:g> មកពីមិនមែនលេខជាបន្ទាន់ទេ!"</string>
+<string name="dial_emergency_empty_error">"ហៅមិនចេញ សូមវាយលេខជាបន្ទាន់!"</string>
+<string name="dialerKeyboardHintText">"ប្រើ​ក្ដារ​ចុច ​ដើម្បី​ចុច​លេខ"</string>
+<string name="onscreenHoldText">"ចាំ"</string>
+<string name="onscreenEndCallText">"ហង្សចឡើង"</string>
+<string name="onscreenShowDialpadText">"ទ្រនាប់ហៅ"</string>
+<string name="onscreenMuteText">"ស្ងាត់"</string>
+<string name="onscreenAddCallText">"បន្ថែម​ការ​ហៅ"</string>
+<string name="onscreenMergeCallsText">"រួមការហៅ"</string>
+<string name="onscreenSwapCallsText">"ផ្លាស់ប្តូ"</string>
+<string name="onscreenManageCallsText">"គ្រប់គ្រងការហៅ"</string>
+<string name="onscreenManageConferenceText">"គ្រប់គ្រងកិច្ចប្រជុំ"</string>
+<string name="onscreenAudioText">"សំឡេង"</string>
+<string name="onscreenVideoCallText">"ការហៅវីដេអូ"</string>
+<string name="importSimEntry">"នាំចូល"</string>
+<string name="importAllSimEntries">"បញ្ចូលទាំងអស់"</string>
+<string name="importingSimContacts">"កំពុងបញ្ចូលអ្នកទំនាក់ទំនងកាតSIM"</string>
+<string name="importToFDNfromContacts">"បញ្ចូលតាមអ្នកទំនាក់ទំនង"</string>
+<string name="hac_mode_title">"ប្រដាប់ជួយស្តាប់"</string>
+<string name="hac_mode_summary">"បើកម៉ូដ​ឆបគ្នាសវនាការ​ជំនួយ"</string>
+<string-array name="tty_mode_entries">
+<item>"TTYបានបិទហើយ"</item>
+<item>"TTYពេញហើយ"</item>
+<item>"TTY HCO"</item>
+<item>"TTY VCO"</item>
+</string-array>
+<string name="dtmf_tones_title">"សូរសម្លេងDTMF"</string>
+<string name="dtmf_tones_summary">"កំណត់រយៈពេលសម្លេងDTMF"</string>
+<string-array name="dtmf_tone_entries">
+<item>"ធម្មតា"</item>
+<item>"វែង"</item>
+</string-array>
+<string name="network_message">"ពត៌មានបណ្តាញ"</string>
+<string name="ota_title_activate">"ធ្វើឲ្យទូរស័ព្ទរបស់លោកសកម្ម"</string>
+<string name="ota_touch_activate">"ត្រូវការការហៅពិសេសមួយសម្រាប់បើកសេវាទូរស័ព្ទរបស់លោក។\n\nក្រោយពីចុច \u201Cបើក\u201D ស្តាប់សេចក្តីណែនាំសម្រាប់បើកទូរស័ព្ទរបស់លោក។"</string>
+<string name="ota_skip_activation_dialog_title">"ផុតដំណើរការធើ្វឲ្យសកម្ម?"</string>
+<string name="ota_skip_activation_dialog_message">"បើលោកអ្នកផុតដំណើរការធ្វើឲ្យសកម្ម អាចហៅឬភ្ជាប់បណ្តាញទិន្នន័យចល័ត(តែលោកអ្នកអាចភ្ជាប់បណ្តាញ)។បើលោកអ្នកមិនចុះបញ្ជីសម្រាប់ទូរស័ព្ទ នោះរាល់បើកទូរស័ព្ទនឹងទទួលសេចក្តីជូនដំណឹងឲ្យចុះបញ្ជីសម្រាប់ទូរស័ព្ទ។"</string>
+<string name="ota_skip_activation_dialog_skip_label">"រំលង"</string>
+<string name="ota_activate">"ធ្វើ​ឲ្យ​សកម្ម"</string>
+<string name="ota_title_activate_success">"ធ្វើឲ្យទូរស័ព្ទដៃសកម្ម"</string>
+<string name="ota_title_problem_with_activation">"ជួបបញ្ហានៅពេលធ្វើឲ្យសកម្ម"</string>
+<string name="ota_listen">"តាមដានសេចក្ដីនែនាំនិយាយរហូតដល់លោកស្ដាប់សកម្មភាពបញ្ចប់ទាំងស្រុង។"</string>
+<string name="ota_speaker">"អូប៉ាល័រ"</string>
+<string name="ota_progress">"កំពុងដំឡើងកម្មវិធីដល់ទូរស័ព្ទដៃ ​សូមចាំបន្តិច"</string>
+<string name="ota_failure">"ការសរសេរកម្មវិធីទទួលបានបរាជ័យ។"</string>
+<string name="ota_successful">"ទូរស័ព្ទរបស់លោកកំពុងបើក។ វានឹងអស់រយៈពេល15នាទី ក៏អាចផ្តើមផ្តល់សេវា។"</string>
+<string name="ota_unsuccessful">"ទូរស័ព្ទរបស់លោកអ្នកមិនទាន់បានធ្វើអោយសកម្មនោះទេ\nលោកអ្នកអាចនឹងត្រូវការស្វែងរកតំបន់ដែលទទួលសេវាបានល្អ (នៅជិតបង្អួច ឬនៅក្រៅផ្ទះ)។ \n\nសូមព្យាយាមម្តងទៀតឬទូរស័ព្ទទៅកាន់ផ្នែកសេវាកម្មអតិថិជនដើម្បីជម្រើសផ្សេងទៀត។"</string>
+<string name="ota_spc_failure">"ចំនួនលើសSPCបរាជ័យ"</string>
+<string name="ota_call_end">"ត្រឡប់ទៅ"</string>
+<string name="ota_try_again">"ព្យាយាមម្ដងទៀត"</string>
+<string name="ota_next">"បន្ទាប់"</string>
+<string name="phone_entered_ecm_text">"ចូលម៉ូដដែលវាយទូរស័ព្ទបន្ទាន់ត្រឡប់"</string>
+<string name="phone_in_ecm_notification_title">"របៀបដែលវាយទូរស័ព្ទសង្រ្គោះបន្ទាន់ត្រឡប់"</string>
+<string name="phone_in_ecm_call_notification_text">"តភ្ជាប់ទិន្នន័យបានបិទ"</string>
+<plurals name="phone_in_ecm_notification_time">
+<item quantity="one">"មាន <xliff:g id="count">%s</xliff:g> នាទីមិនអាចភ្ជាប់ទិន្នន័យ"</item>
+<item quantity="other">"មាន <xliff:g id="count">%s</xliff:g> នាទីមិនអាចភ្ជាប់ទិន្នន័យ"</item>
+</plurals>
+<plurals name="alert_dialog_exit_ecm">
+<item quantity="one">"រស័ព្ទនឹងបន្ត <xliff:g id="count">%s</xliff:g> នាទីហើយស្ថិតនៅក្នុងរូបមន្តហៅជាបន្ទាន់ នៅក្នុងរូបមន្តនេះ មិនអាចប្រើប្រាស់កម្មវិធីដែលកំពុងភ្ជាប់ទិន្នន័យ។តើត្រូវចាកចេញជាបន្ទាន់ទេ?"</item>
+<item quantity="other">"រស័ព្ទនឹងបន្ត <xliff:g id="count">%s</xliff:g> នាទីហើយស្ថិតនៅក្នុងរូបមន្តហៅជាបន្ទាន់ នៅក្នុងរូបមន្តនេះ មិនអាចប្រើប្រាស់កម្មវិធីដែលកំពុងភ្ជាប់ទិន្នន័យ។តើត្រូវចាកចេញជាបន្ទាន់ទេ?"</item>
+</plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="one">"មិនអនុវត្តកាយវិការនេះទេនៅក្នុងករណីហៅត្រឡប់វិញជាបន្ទាន់។ទូរស័ព្ទនឹងបន្ត <xliff:g id="count">%s</xliff:g> នាទីក្នុងរូបមន្តនេះ តើត្រូវចាកចេញជាបន្ទាន់ដែរឬទេ?"</item>
+<item quantity="other">"មិនអនុវត្តកាយវិការនេះទេនៅក្នុងករណីហៅត្រឡប់វិញជាបន្ទាន់។ទូរស័ព្ទនឹងបន្ត <xliff:g id="count">%s</xliff:g>នាទីក្នុងរូបមន្តនេះ តើត្រូវចាកចេញជាបន្ទាន់ដែរឬទេ?"</item>
+</plurals>
+<string name="alert_dialog_in_ecm_call">"នៅពេលជួយសង្រ្គោះជាបន្ទាន់ ជំរើសរបស់លោកអ្នកមិនអាចអនុវត្តបានទេ"</string>
+<string name="progress_dialog_exiting_ecm">"កំពុងចេញបែបហៅវិលត្រឡប់ទៅក្នុងគ្រាអាសន្ន"</string>
+<string name="alert_dialog_yes">"បាទ/ចាស"</string>
+<string name="alert_dialog_no">"ទេ"</string>
+<string name="alert_dialog_dismiss">"បោះបង់"</string>
+<string name="voicemail_provider">" សេវាកម្ម"</string>
+<string name="voicemail_settings">"កំណត់"</string>
+<string name="voicemail_number_not_set">"មិនបានកំណត់"</string>
+<string name="other_settings">"កំណត់ហៅទូរស័ព្ទផ្សេងទៀត"</string>
+<string name="calling_via_template">"ហៅដោយ<xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"រូបថតអ្នកទំនាក់ទំនង"</string>
+<string name="goPrivate">"និយាយដោយឯកជន"</string>
+<string name="selectContact">"ជ្រើសរើសយកទំនាក់ទំនង"</string>
+<string name="sip_settings">"ការកំណត់ហៅតាមអ៊ីនធើណែត"</string>
+<string name="sip_accounts">"គណនីហៅ(SIP)ទូរស័ព្ទតាមអ៊ីនធើណែត"</string>
+<string name="sip_accounts_title">"គណនី"</string>
+<string name="sip_receive_calls">"ស្តាប់ទូរស័ព្ទហៅចូល"</string>
+<string name="sip_receive_calls_summary">"បន្ថយអាយុជិវិតប្រើរបស់ថ្ម"</string>
+<string name="sip_call_options_title">"ប្រើទូរស័ព្ទអ៊ីធឺណិត"</string>
+<string name="sip_call_options_wifi_only_title">"ប្រើទូរស័ព្ទអ៊ីធឺណិត (សម្រាប់តែWi-Fi)"</string>
+<string name="sip_call_options_entry_1">"សម្រាប់ហៅទាំងអស់កាលបណ្ដាញទិន្នន័យអាចប្រើបា្រសបាន"</string>
+<string name="sip_call_options_entry_2">"ប្រើសម្រាប់ហៅទូរស័ព្ទតាមអ៊ីនធើណែត"</string>
+<string name="sip_call_options_entry_3">"សួរនៅពេលហៅរាល់ដង"</string>
+<string name="sip_call_options_wifi_only_entry_1">"សម្រាប់ហៅទាំងអស់"</string>
+<string name="pick_outgoing_call_phone_type">"សូមហៅ"</string>
+<string name="pick_outgoing_sip_phone">"ប្រើគណនីទូរស័ព្ទអ៊ីធឺណិត:"</string>
+<string name="remember_my_choice">"ប្រើប្រាស់ការហៅតាមអ៊ីនធើណែតជាដរាប"</string>
+<string name="reset_my_choice_hint">"លោកអ្នកអាចកែប្រែគណនេយ្យការហៅចេញតាមបណ្តាញដែលបានកំណត់តាមលំនាំដើមដោយចូលទៅកាន់ ទូរស័ព្ទ ការកំណត់ ការកំណត់ការហៅតាមអ៊ីនធឺនែត ស្គ្រីនគណនេយ្យ។"</string>
+<string name="pstn_phone">"ការហៅទូរស័ព្ទ"</string>
+<string name="internet_phone">"ហៅតាមអ៊ីនធើណែត"</string>
+<string name="no_sip_account_found_title">"គ្មានគណនីទូរស័ព្ទតាមអ៊ីនធើណែត"</string>
+<string name="no_sip_account_found">"នៅក្នុងទូរស័ព្ទដៃនេះគ្មានគណនីទូរស័ព្ទតាមអ៊ីនធើណែតទេ ត្រូវបន្ថែមគណនីមួយទេ?"</string>
+<string name="sip_menu_add">"បន្ថែម"</string>
+<string name="add_sip_account">"បន្ថែម​គណនី"</string>
+<string name="remove_sip_account">"លុប​គណនី"</string>
+<string name="sip_account_list">"គណនីSIP"</string>
+<string name="saving_account">"កំពុងរក្សាទុកគណនី\u2026"</string>
+<string name="removing_account">"កំពុងលុបចោលគណនី\u2026"</string>
+<string name="sip_menu_save">"រក្សាទុក"</string>
+<string name="sip_menu_discard">"បោះបង់"</string>
+<string name="alert_dialog_close">"បិទទម្រង់"</string>
+<string name="alert_dialog_ok">"បានហើយ"</string>
+<string name="close_profile">"បិទ"</string>
+<string name="primary_account_summary_with">"គណនេយ្យគោល <xliff:g id="registration_status" example="Registering...">%s</xliff:g>"</string>
+<string name="registration_status_checking_status">"កំពុងពិនិត្យស្ថានភាព…"</string>
+<string name="registration_status_registering">"កំពុងចុះបញ្ជី\u2026"</string>
+<string name="registration_status_still_trying">"នៅតែតេស្ត\u2026"</string>
+<string name="registration_status_not_receiving">"មិនទទួលទូរស័ព្ទ"</string>
+<string name="registration_status_no_data">"ដោយសារមិនតភ្ជាប់ជាមួយអ៊ីនធើណែត ការចុះបញ្ជីគណនីបានឈប់"</string>
+<string name="registration_status_no_wifi_data">"ដោយសារមិនតភ្ជាប់ជាមួយWi-Fi ការចុះបញ្ជីគណនីបានឈប់"</string>
+<string name="registration_status_not_running">"ការចុះបញ្ជីគណនីបរាជ័យ"</string>
+<string name="registration_status_done">"ស្តាប់ទូរស័ព្ទ"</string>
+<string name="registration_status_failed_try_later">"ការចុះឈ្មោះបង្កើតគណនេយ្យលើកនេះបានបរាជ័យ៖(<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>); នឹងសាកល្បងលើកជាថ្មីម្តងទៀត"</string>
+<string name="registration_status_invalid_credentials">"ការចុះបញ្ជីគណនីបរាជ័យ: ឈ្មោះអ្នកប្រើប្រាស់ឬពាក្យសម្ងាត់មិនត្រឹមត្រូវ"</string>
+<string name="registration_status_server_unreachable">"ការចុះបញ្ជីគណនីបរាជ័យ: ពិនិត្យឈ្មោះម៉ាស៊ីនបម្រើ"</string>
+<string name="third_party_account_summary">"កម្មវិធីអាប្ប<xliff:g id="account_owner" example="Google Talk">%s</xliff:g> កំពុងប្រើប្រាស់គណនេយ្យនេះ។"</string>
+<string name="sip_edit_title">"ពត៌មានលំអិតអំពីគណនីSIP"</string>
+<string name="sip_edit_new_title">"ពត៌មានលំអិតអំពីគណនីSIP"</string>
+<string name="domain_address_title">"ម៉ាស៊ីន​មេ"</string>
+<string name="username_title">"ឈ្មោះ​អ្នក​ប្រើ"</string>
+<string name="password_title">"ពាក្យសម្ងាត់"</string>
+<string name="display_name_title">"បង្ហាញនាម"</string>
+<string name="proxy_address_title">"អាសយដ្ឋានប្រូកស៊ីទៅខាងក្រៅ"</string>
+<string name="port_title">"លេខច្រក"</string>
+<string name="transport_title">"​ប្រភេទដឹកជញ្ជូន"</string>
+<string name="send_keepalive_title">"ផ្ញើសារអំពីការតភ្ជាប់ជាបន្តបន្ទាប់"</string>
+<string name="set_primary_title">"កំណត់ទៅជាគណនីសំខាន់"</string>
+<string name="set_primary_summary">"ប្រើសម្រាប់ហៅចេញក្រៅ"</string>
+<string name="advanced_settings">"កំណត់ដែលអាចជ្រើសរើសបាន"</string>
+<string name="auth_username_title">"ផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវនៃឈ្មោះអ្នកប្រើប្រាស់"</string>
+<string name="auth_username_summary">"ឈ្មោះអ្នកប្រើសម្រាប់ការផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវ"</string>
+<string name="default_preference_summary">"មិនបានកំណត់"</string>
+<string name="display_name_summary">"ដូចនឹងឈ្មោះអ្នកប្រើប្រាស់"</string>
+<string name="optional_summary">"ដែលអាចជ្រើសបាន"</string>
+<string name="advanced_settings_show">"▷ ពាល់អាចបង្ហាញទាំងអស់"</string>
+<string name="advanced_settings_hide">"▽ ពាល់អាចលាក់បាំងទាំងអស់"</string>
+<string name="empty_alert">"តម្រូវអោយបំពេញ<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> មិនអាចចំហទទេបានទេ។""</string>
+<string name="not_a_valid_port">"លេខចក្រនៅចន្លោះពី1000ដល់65534"</string>
+<string name="no_internet_available_title">"គ្មានភ្ជាប់អ៊ីនធើណែតទេ"</string>
+<string name="no_wifi_available_title">"គ្មានWi-Fiតភ្ជាប់"</string>
+<string name="no_internet_available">"បើចង់វាយទូរស័ព្ទអ៊ីធឺណិត​ សូម​ពិនិត្យមើល​ការតភ្ជាប់​អ៊ីនធឺណិតរបស់លោកសិន"</string>
+<string name="no_wifi_available">"លោកអ្នកត្រូវការភ្ជាប់បណ្តាញWi-Fiដើម្បីធ្វើការទូរស័ព្ទតាមប្រព័ន្ធអ៊ីនធឺនែត(ប្រើប្រាស់ ការកំណត់បណ្តាញអ៊ីនធឺនែតឥតខ្សែនិងបណ្តាញ)។"</string>
+<string name="no_voip">"មិនគាំទ្រហៅតាមអ៊ីនធើណែត"</string>
+<string name="sip_system_decide">"ស្វ័យប្រវត្តិ"</string>
+<string name="sip_always_send_keepalive">"ផ្ញើជូនជាដរាប"</string>
+<string name="not_voice_capable">"មិនគាំទ្រការហៅតាមសម្លេង"</string>
+<string name="respond_via_sms_canned_response_1">"មិនអាចនិយាយឥឡូវនេះ។មានការអ្វី?"</string>
+<string name="respond_via_sms_canned_response_2">"ខ្ញុំនឹងហៅអ្នកភ្លាម"</string>
+<string name="respond_via_sms_canned_response_3">"ខ្ញុំនឹងហៅឲ្យអ្នកពេលក្រោយ"</string>
+<string name="respond_via_sms_canned_response_4">"មិនអាចនិយាយឥឡូវនេះ។ហៅខ្ញុំពេលក្រោយ?"</string>
+<string name="respond_via_sms_custom_message">"សរសេរពីខ្លួនឯង..."</string>
+<string name="custom_message_cancel">"បោះបង់"</string>
+<string name="custom_message_send">"ផ្ញើ"</string>
+<string name="respond_via_sms_setting_title">"ឆ្លើយតប​រហ័ស"</string>
+<string name="respond_via_sms_setting_title_2">"កែសម្រួលចម្លើយតបរហ័ស"</string>
+<string name="respond_via_sms_edittext_dialog_title">"កែ​កា​រ​ឆ្លើយតប​​រហ័ស"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"កំណត់កម្មវិធីអាប្បតាមលំនាំដើមឡើងវិញ"</string>
+<string name="respond_via_sms_confirmation_format">"សារត្រូវផ្ញើទៅកាន់ <xliff:g id="phone_number">%s</xliff:g>"</string>
+<string name="description_image_button_one">"មួយ"</string>
+<string name="description_image_button_two">"ពីរ"</string>
+<string name="description_image_button_three">"បី"</string>
+<string name="description_image_button_four">"បួន"</string>
+<string name="description_image_button_five">"ប្រាំ"</string>
+<string name="description_image_button_six">"ប្រាំមួយ"</string>
+<string name="description_image_button_seven">"ប្រាំពីរ"</string>
+<string name="description_image_button_eight">"ប្រាំបី"</string>
+<string name="description_image_button_nine">"ប្រាំបួន"</string>
+<string name="description_image_button_star">"ផ្កាយ"</string>
+<string name="description_image_button_zero">"សូន្យ"</string>
+<string name="description_image_button_pound">"ផោន"</string>
+<string name="description_dial_button">"dial"</string>
+<string name="description_delete_button">"backspace"</string>
+<string name="accessibility_speakerphone_enabled">"អូប៉ាល័របានដំណើរការហើយ"</string>
+<string name="accessibility_call_muted">"ការហៅនៅស្ងៀម។"</string>
+<string name="description_target_answer">"ឆ្លើយ"</string>
+<string name="description_target_send_sms">"ផ្ញើ​សារ SMS"</string>
+<string name="description_target_decline">"បដិសេធ"</string>
+<string name="description_direction_up">"រុញ​ឡើង​លើ​ដើម្បី <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> ។"</string>
+<string name="description_direction_left">"រុញ​ទៅ​ឆ្វេង​ដើម្បី <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> ។"</string>
+<string name="description_direction_right">"រុញ​​ទៅ​ស្ដាំ​ដើម្បី <xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> ។"</string>
+<string name="voicemail_notification_vibrate_when_title">"ញ័រ"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"ញ័រ"</string>
+<string name="voicemail_notification_ringtone_title">"សំឡេង"</string>
+<string name="default_notification_description">" សម្លេងដែលកំណត់ទុកមុន (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"សំឡេង​រោទ៍​ទូរស័ព្ទ"</string>
+<string name="vibrate_on_ring_title">"ញ័រ​ពេល​រោទ៍"</string>
+<string name="dtmf_tone_enable_title">"សំឡេង​ប៉ះ​បន្ទះលេខ"</string>
+<string name="dial_pad_autocomplete">"ប៊ូតុងចុចបំពេញដោយស្វ័យប្រវត្តិ"</string>
+<string name="preference_category_ringtone">"សម្លេងរោទិ៍និងរំញ័រ"</string>
+<string name="manageConferenceLabel">"គ្រប់គ្រងទូរស័ព្ទតាមទូរស័ព្ទ"</string>
+<string name="emergency_call_dialog_number_for_display">"លេខ​ពេល​អាសន្ន"</string>
+</resources>

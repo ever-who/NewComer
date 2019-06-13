@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"የመቅጃ ጊዜ:"</string>
+<string name="onscreenShowRecodText">"ቅዳ "</string>
+<string name="recorderr">" የተቀዳ ፋይል መመዝገብ አልተሳካም!"</string>
+<string name="audio_db_artist_name">"ቅጂዎችዎ"</string>
+<string name="audio_db_album_name">"የጥሪ ቅጂዎችዎ"</string>
+<string name="audio_db_playlist_name">"የእኔ መቅጃዎች "</string>
+<string name="app_name">"የስልክ መተግበርያ"</string>
+<string name="error_mediadb_new_record">"የተቀዳው ድምጽ ማስገባት አልቻለም "</string>
+<string name="sdcard_access_error">"sd ካርድ መድረስ አይችልም"</string>
+<string name="no_sd_card">"SD ካርድ የለም ወይም የማይነቀል"</string>
+<string name="insert_sd_card">"እባክዎ SD ካርድ ያስገቡ"</string>
+<string name="storage_is_full">"ማካማቻ ሙሉ ነው"</string>
+<string name="recording">"በመቅዳት"</string>
+<string name="lockscreen_comments">" ለመመለስ ወይም ለመነፈግ ወደ ታች ስላይድ አድርግ"</string>
+<string name="lockscreen_comments_sms">"SMS ጣል"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"መቅጃው ፋይል ወደ ማስገባት"</string>
+    <string name="unknown_area">"ያልታወቀ ቦታ"</string>
+    <string name="unknown_contacts">"ያልታወቁ ዕውቂያዎች"</string>
+
+</resources>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ফোন"</string>
+<string name="onHold">"পায়দুনা থম্লি"</string>
+<string name="unknown">"মশক খঙদবা"</string>
+<string name="private_num">"লনাই নম্বর"</string>
+<string name="payphone">"পেফোন"</string>
+<string name="callFailed_userBusy">"লাইন চিল্লি"</string>
+<string name="callFailed_congestion">"নেটৱার্ক য়াদবা"</string>
+<string name="callFailed_timedOut">"পাওখুম লাক্তে, টাইম আওট"</string>
+<string name="callFailed_server_unreachable">"সার্ভর য়ৌবা ঙমদে"</string>
+<string name="callFailed_number_unreachable">"নম্বর য়ৌবা ঙমদে"</string>
+<string name="callFailed_invalid_credentials">"চুমদবা য়ুজরমমিং নত্ত্রগা পাসৱার্দ"</string>
+<string name="callFailed_out_of_network">"আওট-ওফ-নেটৱার্ক কোল"</string>
+<string name="callFailed_server_error">"সার্ভর অশোয়বা. কোন্না হন্না হোৎনৌ."</string>
+<string name="callFailed_noSignal">"সিগ্নেল ফংদে"</string>
+<string name="callFailed_limitExceeded">"ACM ঙমখৈ হেল্লে"</string>
+<string name="callFailed_powerOff">"রেদিও থাদে"</string>
+<string name="callFailed_simError">"SIM য়াওদে নত্ত্রগা SIM অশোয়বা"</string>
+<string name="callFailed_outOfService">"সার্ভিস তৌদ্রবা"</string>
+<string name="callFailed_fdn_only">"চৎথোকখিবা কোলশীং FDN না থিংঙি."</string>
+<string name="callFailed_cb_enabled">"কোল থিংবা লৈরিঙৈদা নহাক চৎথোকখিবা কোলশীং তৌবা য়াদে."</string>
+<string name="callFailed_dsac_restricted">"কোলশীং লোইনমক এক্সেস কন্ত্রোলনা অথিংবা পী."</string>
+<string name="callFailed_dsac_restricted_emergency">"ইমর্জেন্সি কোলশীং এক্সেস কন্ত্রোলনা অথিংবা পী."</string>
+<string name="callFailed_dsac_restricted_normal">"সধারন কোলশীং এক্সেস কন্ত্রোলনা অথিংবা পী."</string>
+<string name="callFailed_unobtainable_number">"চৎনদবা নম্বর"</string>
+<string name="confCall">"কনফরেন্স কোল"</string>
+<string name="call_lost">"কোল মাংখ্রে."</string>
+<string name="ok">"ওকে"</string>
+<string name="audio_mode_speaker">"স্পীকর"</string>
+<string name="audio_mode_earpiece">"হেন্দসেট ইয়ারপিস"</string>
+<string name="audio_mode_wired_headset">"ৱায়র য়াওবা হেদসেট"</string>
+<string name="audio_mode_bluetooth">"ব্লুটুথ"</string>
+<string name="wait_prompt_str">"মখাগী টোনশীং থাগদ্রা?\n"</string>
+<string name="pause_prompt_str">"টোনশীং থারি\n"</string>
+<string name="send_button">"থাও"</string>
+<string name="pause_prompt_yes">"হোই"</string>
+<string name="pause_prompt_no">"নত্তে"</string>
+<string name="wild_prompt_str">"ৱাইল্দ কেরেক্তর মহুৎ শিল্লু"</string>
+<string name="caller_manage_header">"কনফরেন্স কোল <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"ভোইসমেল নম্বর"</string>
+<string name="card_title_dialing">"দাইল তৌরি"</string>
+<string name="card_title_redialing">"হন্না দাইল তৌরি"</string>
+<string name="card_title_conf_call">"কনফরেন্স কোল"</string>
+<string name="card_title_incoming_call">"চংলকপা কোল"</string>
+<string name="card_title_call_ended">"কোল লোইরে"</string>
+<string name="card_title_on_hold">"পায়দুনা থম্লি"</string>
+<string name="card_title_hanging_up">"ফোন থম্লগনি"</string>
+<string name="card_title_in_call">"কোল তৌরি"</string>
+<string name="card_title_my_phone_number">"ঐহাক্কি নম্বর অসিনি <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"দাইল তৌরি"</string>
+<string name="notification_missedCallTitle">"মিস তৌবা কোল"</string>
+<string name="notification_missedCallsTitle">"পায়হৌদবা কোলশীং"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> মিস কোলশীং"</string>
+<string name="notification_missedCallTicker">"মিস কোল দগী <xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">"চত্থরিবা কোল"</string>
+<string name="notification_on_hold">"পায়দুনা থম্লি"</string>
+<string name="notification_incoming_call">"চংলকপা কোল"</string>
+<string name="notification_voicemail_title">"অনৌবা ভোইসমেল"</string>
+<string name="notification_voicemail_title_count">"অনৌবা ভোইসমেল (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"দাইল তৌ <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"ভোইসমেল নম্বর মশক খঙদবা"</string>
+<string name="notification_network_selection_title">"সার্ভিস লৈতে"</string>
+<string name="notification_network_selection_text">"খল্লবা নেটৱার্ক (<xliff:g id="operator_name">%s</xliff:g>) ফংদে"</string>
+<string name="notification_action_end_call">"ফোন থম্লে"</string>
+<string name="notification_missedCall_call_back">"কোল হনবা"</string>
+<string name="notification_missedCall_message">"মেসেজ"</string>
+<string name="incall_error_power_off">"কোল অমা থম্নবা, অহানবদা এয়রপ্লেন মোদ মুথৎলু."</string>
+<string name="incall_error_emergency_only">"নেটৱার্কতা রেজিস্টর তৌদে."</string>
+<string name="incall_error_out_of_service">"সেল্লুলর নেটৱার্ক ফংদে"</string>
+<string name="incall_error_no_phone_number_supplied">"কোল থাদে, চৎনবা নম্বর মেনশিন্দে."</string>
+<string name="incall_error_call_failed">"কোল থাদে."</string>
+<string name="incall_status_dialed_mmi">"MMI মথং মনাও স্টার্ট তৌরি..."</string>
+<string name="incall_error_supp_service_unknown">"সপোর্ট তৌদবা সার্ভিস."</string>
+<string name="incall_error_supp_service_switch">"কোলশীং ওন্থোক্নবা য়াদে."</string>
+<string name="incall_error_supp_service_separate">"কোল খায়দোকপা ঙমদে."</string>
+<string name="incall_error_supp_service_transfer">"ত্রানস্ফর তৌবা ঙমদে."</string>
+<string name="incall_error_supp_service_conference">"কনফরেন্স কোলশীং তৌবা য়াদে."</string>
+<string name="incall_error_supp_service_reject">"কোল ককথৎপা ঙমদে."</string>
+<string name="incall_error_supp_service_hangup">"কোল(শীং) থাদোকপা ঙমদে."</string>
+<string name="incall_call_type_label_sip">"ইন্টরনেত কোল"</string>
+<string name="emergency_enable_radio_dialog_title">"ইমর্জেন্সি কোল"</string>
+<string name="emergency_enable_radio_dialog_message">"রেদিও থারি..."</string>
+<string name="emergency_enable_radio_dialog_retry">"সার্ভিসকি ৱাংমগী এরিয়া, হন্না হোৎনরি..."</string>
+<string name="dial_emergency_error">"কোল থাদে. <xliff:g id="non_emergency_number">%s</xliff:g> ইমর্জেন্সি নম্বর অমা নত্তে!"</string>
+<string name="dial_emergency_empty_error">"কোল থাদে. ইমর্জেন্সি নম্বর অমা দাইল তৌ!"</string>
+<string name="dialerKeyboardHintText">"দাইল তৌনবা কীবোর্দ শীজিন্নৌ"</string>
+<string name="onscreenHoldText">"পায়রগা থম্মু"</string>
+<string name="onscreenEndCallText">"লোইবা"</string>
+<string name="onscreenShowDialpadText">"দাইলপেদ"</string>
+<string name="onscreenMuteText">"মখোল থোকহন্দবা"</string>
+<string name="onscreenAddCallText">"কোল হাপচিল্লু"</string>
+<string name="onscreenMergeCallsText">"কোলশীং পুনশিন্নৌ"</string>
+<string name="onscreenSwapCallsText">"ওন্থোক্নৌ"</string>
+<string name="onscreenManageCallsText">"কোলশীং মেনেজ তৌ"</string>
+<string name="onscreenManageConferenceText">"কনফরেন্স মেনেজ তৌ"</string>
+<string name="onscreenAudioText">"ওদিও"</string>
+<string name="onscreenVideoCallText">"ভিদিও কোল"</string>
+<string name="voicemail_provider">"সার্ভিস"</string>
+<string name="voicemail_settings">"সেটঅপ"</string>
+<string name="voicemail_number_not_set">"&lt;সেট তৌদে&gt;"</string>
+<string name="other_settings">"অতোপ্পা কোল সেটিংশীং"</string>
+<string name="calling_via_template">"ফাওনা কোল তৌরি <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"ফোটো কন্টেক্ত তৌ"</string>
+<string name="goPrivate">"লনাই চৎলু"</string>
+<string name="selectContact">"কন্টেক্ত খল্লু"</string>
+<string name="respond_via_sms_canned_response_1">"হৌজিক ৱারি শান্নবা য়াদে. করি তৌরে?"</string>
+<string name="respond_via_sms_canned_response_2">"ঐহাক নহাকপু হৌজিকমক কোল তৌরক্কে."</string>
+<string name="respond_via_sms_canned_response_3">"ঐহাক নহাকপু কোন্না কোল তৌরক্কে."</string>
+<string name="respond_via_sms_canned_response_4">"হৌজিক ৱারি শান্নবা য়াদে. ঐহাকপু কেন্না কোল তৌরক্কদ্রা?"</string>
+<string name="respond_via_sms_custom_message">"নহাক নশাগী ইয়ু..."</string>
+<string name="custom_message_cancel">"ককথৎলু"</string>
+<string name="custom_message_send">"থাও"</string>
+<string name="respond_via_sms_setting_title">"অথুবা পাওখুমশীং"</string>
+<string name="respond_via_sms_setting_title_2">"অথুবা পাওখুমশীং এদিত তৌ"</string>
+<string name="respond_via_sms_edittext_dialog_title">"অথুবা পাওখুম"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"দিফাওল্ট এপ হন্না সেট তৌ"</string>
+<string name="respond_via_sms_confirmation_format">"মেসেজ থারে দা <xliff:g id="phone_number">%s</xliff:g>."</string>
+<string name="description_image_button_one">"অমা"</string>
+<string name="description_image_button_two">"অনি"</string>
+<string name="description_image_button_three">"অহুম"</string>
+<string name="description_image_button_four">"মরি"</string>
+<string name="description_image_button_five">"মঙা"</string>
+<string name="description_image_button_six">"তরুক"</string>
+<string name="description_image_button_seven">"তরেত"</string>
+<string name="description_image_button_eight">"নিপাল"</string>
+<string name="description_image_button_nine">"মাপল"</string>
+<string name="description_image_button_star">"থৱানমিচাক"</string>
+<string name="description_image_button_zero">"শুন্য"</string>
+<string name="description_image_button_pound">"পাওন্দ"</string>
+<string name="description_dial_button">"দাইল তৌ"</string>
+<string name="description_delete_button">"বেকস্পেস"</string>
+<string name="accessibility_speakerphone_enabled">"স্পীকরফোন য়াহল্লে."</string>
+<string name="accessibility_call_muted">"কোল মখোল থোকহন্দ্রে."</string>
+<string name="description_target_answer">"পাওখুম"</string>
+<string name="description_target_send_sms">"SMS থাও"</string>
+<string name="description_target_decline">"লৌ য়াগনু"</string>
+<string name="description_direction_up">"চিংখৎলু গী <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="description_direction_left">"ওইরোমদা চিংঙু গী <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="description_direction_right">"য়েৎলোমদা চিংঙু গী <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="voicemail_notification_vibrate_when_title">"নিকপা-হাইবা তৌই"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"নিকপা-হাইবা তৌই"</string>
+<string name="voicemail_notification_ringtone_title">"খোনজেল"</string>
+<string name="default_notification_description">"দিফাওল্ট সাওন্দ (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"ফোন রিংতোন"</string>
+<string name="vibrate_on_ring_title">"রিং তৌরিঙৈ মনুংদা হাইয়ু"</string>
+<string name="dtmf_tone_enable_title">"দাইল পেদ শোকপগী তোনশীং"</string>
+<string name="dial_pad_autocomplete">"দাইল পেদ মশা মথন্তা মপুং ফাই"</string>
+<string name="preference_category_ringtone">"রিংতোন &amp; নিকপা-হাইবা"</string>
+<string name="manageConferenceLabel">"কনফরেন্স কোল মেনেজ তৌ"</string>
+<string name="emergency_call_dialog_number_for_display">"ইমর্জেন্সি নম্বর"</string>
+</resources>

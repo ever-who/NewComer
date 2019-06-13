@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"فون"</string>
+<string name="onHold">"ہولڈ پر ہے"</string>
+<string name="unknown">"نامعلوم"</string>
+<string name="private_num">"ذاتی نمبر"</string>
+<string name="payphone">"ادائیگی والا فون "</string>
+<string name="callFailed_userBusy">"لائن مصروف ہے"</string>
+<string name="callFailed_congestion">"نیٹ ورک کی ناکامی"</string>
+<string name="callFailed_timedOut">"کوئی جواب نہیں، وقت ختم ہو گیا"</string>
+<string name="callFailed_server_unreachable">"سرور ناقابل پہنچ"</string>
+<string name="callFailed_number_unreachable">"نمبر ناقابل پہنچ"</string>
+<string name="callFailed_invalid_credentials">"غلط صارف نام یا پاس ورڈ"</string>
+<string name="callFailed_out_of_network">"نیٹ ورک کے باہر سے کال کی"</string>
+<string name="callFailed_server_error">"سرور نقص۔ دوبارہ کوشش کریں۔"</string>
+<string name="callFailed_noSignal">"کوئی سگنل نہیں"</string>
+<string name="callFailed_limitExceeded">"ACM کی حد متجاوز ہوگئی یے"</string>
+<string name="callFailed_powerOff">"ریڈیو بند"</string>
+<string name="callFailed_simError">"کوئی SIM نہیں یا SIM میں خرابی یے "</string>
+<string name="callFailed_outOfService">"سروس علاقہ سے باہر"</string>
+<string name="callFailed_fdn_only">"اخراجی کالز مقررہ ڈائل نمبر سے پابند ہیں۔"</string>
+<string name="callFailed_cb_enabled">"جب کال رکاوٹ آن ہو تو آپ اخراجی کالز نہیں کر سکتے۔"</string>
+<string name="callFailed_dsac_restricted">"تمام کالز رسائی کنٹرول سے محدود کردہ ہیں۔"</string>
+<string name="callFailed_dsac_restricted_emergency">"ہنگامی کالز رسائی کنٹرول سے محدود کردہ ہیں۔"</string>
+<string name="callFailed_dsac_restricted_normal">"عمومی کالز رسائی کنٹرول سے محدود کردہ ہیں۔"</string>
+<string name="callFailed_unobtainable_number">"بے جواز نمبر"</string>
+<string name="confCall">"کانفرنس کال"</string>
+<string name="call_lost">"کال کھو گئی ہے۔"</string>
+<string name="ok">"ٹھیک ہے"</string>
+<string name="audio_mode_speaker">"اسپیکر"</string>
+<string name="audio_mode_earpiece">"دستی سیٹ ایئر پیس"</string>
+<string name="audio_mode_wired_headset">"تار والا ہیڈسیٹ"</string>
+<string name="audio_mode_bluetooth">"بلوٹوتھ"</string>
+<string name="wait_prompt_str">"مندرجہ ذیل ٹونز بھیجیں؟n\"</string>
+<string name="pause_prompt_str">"ٹونز بھیج رہا ہے؟n\"</string>
+<string name="send_button">"بھیجیں"</string>
+<string name="pause_prompt_yes">"ہاں"</string>
+<string name="pause_prompt_no">"نہیں"</string>
+<string name="wild_prompt_str">"کے ساتھ والڈ کیریکٹر بدلیں"</string>
+<string name="caller_manage_header">"کانفرنس کال <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"صوتی میل نمبر"</string>
+<string name="card_title_dialing">"ڈائل کر رہا ہے"</string>
+<string name="card_title_redialing">"دوبارہ کوشش کر رہا ہے"</string>
+<string name="card_title_conf_call">"کانفرنس کال"</string>
+<string name="card_title_incoming_call">"کال آرہی ہے"</string>
+<string name="card_title_call_ended">"کال ختم ہوئی"</string>
+<string name="card_title_on_hold">"ہولڈ پر ہے"</string>
+<string name="card_title_hanging_up">"فون رکھنا"</string>
+<string name="card_title_in_call">"کال میں"</string>
+<string name="card_title_my_phone_number">"میرا نمبر ہے <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"ڈائل کر رہا ہے"</string>
+<string name="notification_missedCallTitle">"مسڈ کال"</string>
+<string name="notification_missedCallsTitle">"ان سنی کالز"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> ان سنی کالز"</string>
+<string name="notification_missedCallTicker">"کیطرف سےان سنی کال <xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">"جاری کال"</string>
+<string name="notification_on_hold">"ہولڈ پر ہے"</string>
+<string name="notification_incoming_call">"کال آرہی ہے"</string>
+<string name="notification_voicemail_title">"نئی وائس میل"</string>
+<string name="notification_voicemail_title_count">"نئی وائس میل (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"ڈائل کریں <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"وائس میل نمبر نامعلوم"</string>
+<string name="notification_network_selection_title">"کوئی سروس نہیں ہے"</string>
+<string name="notification_network_selection_text">"منتخب شدہ نیٹ ورک (<xliff:g id="operator_name">%s</xliff:g>) میسر نہیں ہے"</string>
+<string name="notification_action_end_call">"فون رکھا"</string>
+<string name="notification_missedCall_call_back">"واپس کال کریں"</string>
+<string name="notification_missedCall_message">"پیغام"</string>
+<string name="incall_error_power_off">"ایک کال کرنے کیلئے، پہلے ایئرپلین موڈ آف کریں۔"</string>
+<string name="incall_error_emergency_only">"نیٹ ورک پر رجسٹر شدہ نہیں۔"</string>
+<string name="incall_error_out_of_service">"موبائل نیٹ ورک دستیاب نہیں ہے۔"</string>
+<string name="incall_error_no_phone_number_supplied">"کال نہیں بھیجی گئی، کوئی درست نمبر داخل نہیں کیا۔"</string>
+<string name="incall_error_call_failed">"کال نہیں بھیجی گئی۔"</string>
+<string name="incall_status_dialed_mmi">"MMI تسلسل شروع کر رہا ہے\u2026"</string>
+<string name="incall_error_supp_service_unknown">"غیرمعاون خدمت۔"</string>
+<string name="incall_error_supp_service_switch">"کالز سوئچ کرنے سے قاصر۔"</string>
+<string name="incall_error_supp_service_separate">"کال الگ کرنے سے قاصر۔"</string>
+<string name="incall_error_supp_service_transfer">"کال منتقل کرنے سے قاصر۔"</string>
+<string name="incall_error_supp_service_conference">"کانفرنس کالز کرنے سے قاصر۔"</string>
+<string name="incall_error_supp_service_reject">"کال مسترد کرنے سے قاصر۔"</string>
+<string name="incall_error_supp_service_hangup">"کال (کالز) جاری سے قاصر۔"</string>
+<string name="incall_call_type_label_sip">"انٹرنیٹ کال"</string>
+<string name="emergency_enable_radio_dialog_title">"ہنگامی کال"</string>
+<string name="emergency_enable_radio_dialog_message">"ریڈیو آن کر رہا ہے\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"سروس علاقہ سے باہر،پھر کوشش کر رہا ہے\u2026"</string>
+<string name="dial_emergency_error">"کال نہیں بھیجی گئی۔ <xliff:g id="non_emergency_number">%s</xliff:g> ایک ہنگامی نمبر نہیں ہے۔"</string>
+<string name="dial_emergency_empty_error">"کال نہیں بھیجی گئی۔ ایک ہنگامی نمبر ڈائل کریں!"</string>
+<string name="dialerKeyboardHintText">"ڈائل کرنے کے لئے کلیدی تختے کا استعمال کریں"</string>
+<string name="onscreenHoldText">"تھام کر رکھیں"</string>
+<string name="onscreenEndCallText">"ختم کریں"</string>
+<string name="onscreenShowDialpadText">"ڈائل پیڈ"</string>
+<string name="onscreenMuteText">"خاموش کریں"</string>
+<string name="onscreenAddCallText">"فون میں شامل کریں"</string>
+<string name="onscreenMergeCallsText">"کالز ضم کریں"</string>
+<string name="onscreenSwapCallsText">"ادل بدل کریں"</string>
+<string name="onscreenManageCallsText">"کالز کا بندوبست کریں"</string>
+<string name="onscreenManageConferenceText">"کانفرنس کا بندوبست کریں"</string>
+<string name="onscreenAudioText">"آڈیو"</string>
+<string name="onscreenVideoCallText">"ویڈیو کال"</string>
+<string name="voicemail_provider">"خدمت"</string>
+<string name="voicemail_settings">"سیٹ اپ"</string>
+<string name="voicemail_number_not_set">"&lt;یہ;سیٹ نہیں&gt;"</string>
+<string name="other_settings">"دیگر کالترتیبات"</string>
+<string name="calling_via_template">"کالنگ بذریعہ <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"تصویر سے رابطہ کریں"</string>
+<string name="goPrivate">"نجی ہو جائیں"</string>
+<string name="selectContact">"رابطہ منتخب کریں"</string>
+<string name="respond_via_sms_canned_response_1">"ابھی بات نہیں کر سکتا/سکتی۔ کیا ہو رہا ہے؟"</string>
+<string name="respond_via_sms_canned_response_2">"میں فوراً ہی آپ کو دوبارہ کال کروں گا/گی۔"</string>
+<string name="respond_via_sms_canned_response_3">"میں بعد میں آپ کو کال کروں گا/گی۔"</string>
+<string name="respond_via_sms_canned_response_4">"ابھی بات نہیں کر سکتا/سکتی۔ بعد میں مجھے کال کریں؟"</string>
+<string name="respond_via_sms_custom_message">"اپنا لکھیں "</string>
+<string name="custom_message_cancel">"منسوخ کریں"</string>
+<string name="custom_message_send">"بھیجیں"</string>
+<string name="respond_via_sms_setting_title">"فوری جوابات"</string>
+<string name="respond_via_sms_setting_title_2">"فوری جوابات میں ترمیم کریں"</string>
+<string name="respond_via_sms_edittext_dialog_title">"فوری جواب"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"ڈیفالٹ ایپلی کیشن ری سیٹ کریں "</string>
+<string name="respond_via_sms_confirmation_format">"کیطرف پیغام بھیجا گیا  <xliff:g id="phone_number">%s</xliff:g>"</string>
+<string name="description_image_button_one">"ایک"</string>
+<string name="description_image_button_two">"دو"</string>
+<string name="description_image_button_three">"تین"</string>
+<string name="description_image_button_four">"چار"</string>
+<string name="description_image_button_five">"پانچ"</string>
+<string name="description_image_button_six">"چھ"</string>
+<string name="description_image_button_seven">"سات"</string>
+<string name="description_image_button_eight">"آٹھ"</string>
+<string name="description_image_button_nine">"نو"</string>
+<string name="description_image_button_star">"ستارہ"</string>
+<string name="description_image_button_zero">"صفر"</string>
+<string name="description_image_button_pound">"پونڈ"</string>
+<string name="description_dial_button">"ڈائل کریں"</string>
+<string name="description_delete_button">"ایک حرف واپس جائیں"</string>
+<string name="accessibility_speakerphone_enabled">"سپیکرفون فعال ہوا۔"</string>
+<string name="accessibility_call_muted">"کال خاموش کی گئی۔"</string>
+<string name="description_target_answer">"جواب"</string>
+<string name="description_target_send_sms">"SMS بھیجیں"</string>
+<string name="description_target_decline">"مسترد کریں"</string>
+<string name="description_direction_up">"<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> کیلئے اوپر سلائیڈ کریں۔"</string>
+<string name="description_direction_left">"<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> کیلئے بائیں سلائیڈ کریں۔"</string>
+<string name="description_direction_right">"<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> کیلئے دائیں سلائیڈ کریں۔"</string>
+<string name="voicemail_notification_vibrate_when_title">"وائبریٹ"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"وائبریٹ"</string>
+<string name="voicemail_notification_ringtone_title">"آواز"</string>
+<string name="default_notification_description">"طے شدہ آواز (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"فون رنگ ٹون"</string>
+<string name="vibrate_on_ring_title">"بجنے ۔پر کامپے"</string>
+<string name="dtmf_tone_enable_title">"ڈائل پیڈ ٹچ ٹونز"</string>
+<string name="dial_pad_autocomplete">"ڈایل پیڈ آٹو مکمّل"</string>
+<string name="preference_category_ringtone">"رنگ ٹون وائبریٹ"</string>
+<string name="manageConferenceLabel">"کانفرنس کال منتظم کریں"</string>
+<string name="emergency_call_dialog_number_for_display">"ایمرجنسی نمبر"</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"خاتىرلىگەن ۋاقت:"</string>
+<string name="onscreenShowRecodText">"خاتىرلەش"</string>
+<string name="recorderr">"خاتىرلەنگەن ھۆججەتنى ساقلاش مەغلۇپ بولدى!"</string>
+<string name="audio_db_artist_name">"سىزنىڭ خاتىرىلىرىڭىز"</string>
+<string name="audio_db_album_name">"چاقىرىش خاتىرىلىرى"</string>
+<string name="audio_db_playlist_name">"مىنىڭ خاتىرىلىرىم"</string>
+<string name="app_name">"تېلېفۇن ئېپى"</string>
+<string name="error_mediadb_new_record">"خاتىرلەنگەن ئۈننى ساقلىغىلى بولمىدى"</string>
+<string name="sdcard_access_error">"sd كارتىنى زىيارەت قىلغىلى بولمىدى"</string>
+<string name="no_sd_card">"SD كارتا يوق ياكى سەپلەنمىگەن"</string>
+<string name="insert_sd_card">"SD كارتا قىستۇرۇڭ."</string>
+<string name="storage_is_full">"ساقلىغۇچ توشۇپ كەتكەن""</string>
+<string name="recording">"خاتىرلەۋاتىدۇ"</string>
+<string name="lockscreen_comments">"پەسكە سىيرىپ جاۋاپ بىرىڭ ياكى رەت قىلىڭ"</string>
+<string name="lockscreen_comments_sms">"قىسقا ئۇچۇرنى تاپشۇرىۋالماي قايتۇرىۋېتىش"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"خاتىرلەنگەن ھۆججەت ساقلانغان ئورۇن"</string>
+    <string name="unknown_area">"نامەلۇم رايۇن"</string>
+    <string name="unknown_contacts">"نامەلۇم ئالاقىداش"</string>
+
+</resources>

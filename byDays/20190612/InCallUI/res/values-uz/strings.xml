@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"फन"</string>
+<string name="onHold">"हल्ड आव"</string>
+<string name="unknown">"मिथियि"</string>
+<string name="private_num">"गावारि नाम्बार"</string>
+<string name="payphone">"पेफन"</string>
+<string name="callFailed_userBusy">"लाइना मुखुब दं"</string>
+<string name="callFailed_congestion">"नेटवार्क फेल जादों"</string>
+<string name="callFailed_timedOut">"जेबो फिननाय गैया, सम बारबाय"</string>
+<string name="callFailed_server_unreachable">"सारभार मोनहायाखै"</string>
+<string name="callFailed_number_unreachable">"नामबारखौ मोनहायाखै"</string>
+<string name="callFailed_invalid_credentials">"गोरोन्थि इउजार मुं आरो पासवार्ट"</string>
+<string name="callFailed_out_of_network">"नेटवार्क कलनि बायजोआव"</string>
+<string name="callFailed_server_error">"सारभाराव गोरोन्थि दं। उनाव नाजाफिन"</string>
+<string name="callFailed_noSignal">"जेबो सिगनेल गैया"</string>
+<string name="callFailed_limitExceeded">"ACM सिमा बारबाय"</string>
+<string name="callFailed_powerOff">"रेडिअ अफ दं"</string>
+<string name="callFailed_simError">"SIM गैया एबा SIM आ गाज्रि"</string>
+<string name="callFailed_outOfService">"सार्भिसाव गैया"</string>
+<string name="callFailed_fdn_only">"आउटगइं कला FDN जों होबथाजानाय।"</string>
+<string name="callFailed_cb_enabled">"कल बेरिंआ अन थायोब्ला नोंथाङा आउटगइं कल खालामनो हानाय नङा।"</string>
+<string name="callFailed_dsac_restricted">"एक्सेस सामलायग्राजों गासैबो कलफोरानो हेंथा होजानाय।"</string>
+<string name="callFailed_dsac_restricted_emergency">"एक्सेस सामलायग्राजों नांगौ समनि कलफोरा हेंथा होजानाय।"</string>
+<string name="callFailed_dsac_restricted_normal">"एक्सेस सामलायग्राजों सरासनस्रा कलफोरा हेंथा होजानाय।"</string>
+<string name="callFailed_unobtainable_number">"गनायजायै नाम्बार"</string>
+<string name="confCall">"जुथुमथाय कल"</string>
+<string name="call_lost">"कल हरनाया गोमाबाय।"</string>
+<string name="ok">"अके"</string>
+<string name="audio_mode_speaker">"स्पिकार"</string>
+<string name="audio_mode_earpiece">"हेन्डसेटनि इयारपिस"</string>
+<string name="audio_mode_wired_headset">"हेडसेटनि तार"</string>
+<string name="audio_mode_bluetooth">"ब्लुटुथ"</string>
+<string name="wait_prompt_str">"गाहायनि तनफोरखौ हरनो?\n"</string>
+<string name="pause_prompt_str">"तनफोरखौ हरगासिनो\n"</string>
+<string name="send_button">"दैथाय हर"</string>
+<string name="pause_prompt_yes">"नंगौ"</string>
+<string name="pause_prompt_no">"नङा"</string>
+<string name="wild_prompt_str">"वाइल्ड केरेक्टारजों सोलाय"</string>
+<string name="caller_manage_header">"<xliff:g id="conf_call_time">%s</xliff:g> जुथुममा कल"</string>
+<string name="voicemail_settings_number_label">"भइचमेल नामबार"</string>
+<string name="card_title_dialing">"डायेलिन"</string>
+<string name="card_title_redialing">"रिडायेलिन"</string>
+<string name="card_title_conf_call">"जुथुमथाय कल"</string>
+<string name="card_title_incoming_call">"फैनाय कल"</string>
+<string name="card_title_call_ended">"कल जोबबाय"</string>
+<string name="card_title_on_hold">"हल्ड आव"</string>
+<string name="card_title_hanging_up">"दोनथ\'नाय\'"</string>
+<string name="card_title_in_call">"कल आव"</string>
+<string name="card_title_my_phone_number">"आंनि नामबारा <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"डायेलिन"</string>
+<string name="notification_missedCallTitle">"नायजायै कल"</string>
+<string name="notification_missedCallsTitle">"मिस कल्स"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> मिस कल्स"</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g> निफ्राय मिस कल"</string>
+<string name="notification_ongoing_call">"सोलिबाय थानाय कल"</string>
+<string name="notification_on_hold">"हल्ड आव"</string>
+<string name="notification_incoming_call">"फैनाय कल"</string>
+<string name="notification_voicemail_title">"गोदान भइचमेल"</string>
+<string name="notification_voicemail_title_count">"(<xliff:g id="count">%d</xliff:g>) गोदान भइचमेल"</string>
+<string name="notification_voicemail_text_format">"डायेल <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"भइचमेल नामबार सिनायै"</string>
+<string name="notification_network_selection_title">"सिबिथा गैया"</string>
+<string name="notification_network_selection_text">"(<xliff:g id="operator_name">%s</xliff:g>) सायख\'नाय नेटवार्कखौ मोननो हाया"</string>
+<string name="notification_action_end_call">"फन दोननाय"</string>
+<string name="notification_missedCall_call_back">"कल हरफिन"</string>
+<string name="notification_missedCall_message">"मेसेज"</string>
+<string name="incall_error_power_off">"कल खालामनो थाखाय, एयारप्लेन मडखौ सिगां बन्द खालाम"</string>
+<string name="incall_error_emergency_only">"नेटवार्कआ रेजिस्टार खालाम जायाखै"</string>
+<string name="incall_error_out_of_service">"चेकुलार नेटवार्क गैया"</string>
+<string name="incall_error_no_phone_number_supplied">"कला हरजायाखै, थार नामबार सोसनाखै।"</string>
+<string name="incall_error_call_failed">"कल थाङाखै"</string>
+<string name="incall_status_dialed_mmi">"MMI  जाथाय फारिखौ जागायदों..."</string>
+<string name="incall_error_supp_service_unknown">"मददथि होयि सार्भिस।"</string>
+<string name="incall_error_supp_service_switch">"कल्सखौ सोलायनो हाया"</string>
+<string name="incall_error_supp_service_separate">"कलखौ आलादा खालामनो हाया।"</string>
+<string name="incall_error_supp_service_transfer">"बदलायनो हाया"</string>
+<string name="incall_error_supp_service_conference">"कनफारेन्स कल खालामनो हायाखै।"</string>
+<string name="incall_error_supp_service_reject">"कलखौ दानगारनो हाया।"</string>
+<string name="incall_error_supp_service_hangup">"कल (फोर) खौ हगारनो हाया।"</string>
+<string name="incall_call_type_label_sip">"इन्टारनेट कल"</string>
+<string name="emergency_enable_radio_dialog_title">"नांथारगौनि थाखाय कल"</string>
+<string name="emergency_enable_radio_dialog_message">"रेडिअखौ अन जागासिनो..."</string>
+<string name="emergency_enable_radio_dialog_retry">"सार्भिस ओनसोलनि बायजोआव दं, नाजाफिन्दों..."</string>
+<string name="dial_emergency_error">"कल हरजायाखै। <xliff:g id="non_emergency_number">%s</xliff:g> आ इमारजेनसि नामबार नङा!"</string>
+<string name="dial_emergency_empty_error">"कल हरजायाखै। मोनसे इमारजेनसि नामबार डाइल खालाम!"</string>
+<string name="dialerKeyboardHintText">"डायेल खालामनो कोबर्डखौ बाहाय"</string>
+<string name="onscreenHoldText">"हमथ\' "</string>
+<string name="onscreenEndCallText">"जोबबाय"</string>
+<string name="onscreenShowDialpadText">"डायेलपेड"</string>
+<string name="onscreenMuteText">"मिउट"</string>
+<string name="onscreenAddCallText">"गुबुन कल खालामबाव"</string>
+<string name="onscreenMergeCallsText">"कल्सखौ मिलाय"</string>
+<string name="onscreenSwapCallsText">"सोलाय सोल\' "</string>
+<string name="onscreenManageCallsText">"मेनेज कल्स"</string>
+<string name="onscreenManageConferenceText">"कनफारेन्सखौ सामलाय"</string>
+<string name="onscreenAudioText">"अडिअ\'"</string>
+<string name="onscreenVideoCallText">"भिडिअ\' कल"</string>
+<string name="voicemail_provider">"सिबिथा"</string>
+<string name="voicemail_settings">"सेटआप"</string>
+<string name="voicemail_number_not_set">"&lt;सेट नङा&gt;"</string>
+<string name="other_settings">"गुबुननि कल सेटिं"</string>
+<string name="calling_via_template">"कललिन भाइआ <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"सावगारि मुं बिलाय"</string>
+<string name="goPrivate">"प्रायभेटयाव थां"</string>
+<string name="selectContact">"कन्टेकखौ सायख\'"</string>
+<string name="respond_via_sms_canned_response_1">"दा रायलायनो हाथया। माब्रै दं?"</string>
+<string name="respond_via_sms_canned_response_2">"आं दानो कल खालामफिनगासिनो।"</string>
+<string name="respond_via_sms_canned_response_3">"आं उनाव कल खालामगोन।"</string>
+<string name="respond_via_sms_canned_response_4">"दा रायलायनो हाया।उनाव कल खालामगोन्ना?"</string>
+<string name="respond_via_sms_custom_message">"गावबा गावनियाव लिर..."</string>
+<string name="custom_message_cancel">"केन्चेल"</string>
+<string name="custom_message_send">"दैथाय हर"</string>
+<string name="respond_via_sms_setting_title">"गोख्रै फिननायफोर"</string>
+<string name="respond_via_sms_setting_title_2">"गोख्रै फिननायफोरखौ इडिट खालाम"</string>
+<string name="respond_via_sms_edittext_dialog_title">"गोख्रै फिननाय"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"डिफल्ट एपखौ रिसेट खालाम"</string>
+<string name="respond_via_sms_confirmation_format">"सिम रादाब हरबाय <xliff:g id="phone_number">%s</xliff:g>।"</string>
+<string name="description_image_button_one">"1"</string>
+<string name="description_image_button_two">"2"</string>
+<string name="description_image_button_three">"3"</string>
+<string name="description_image_button_four">"4"</string>
+<string name="description_image_button_five">"5"</string>
+<string name="description_image_button_six">"6"</string>
+<string name="description_image_button_seven">"7"</string>
+<string name="description_image_button_eight">"8"</string>
+<string name="description_image_button_nine">"9"</string>
+<string name="description_image_button_star">"हाथरखि"</string>
+<string name="description_image_button_zero">"0"</string>
+<string name="description_image_button_pound">"पाउन्ड"</string>
+<string name="description_dial_button">"डाइल"</string>
+<string name="description_delete_button">"बेकस्पेस"</string>
+<string name="accessibility_speakerphone_enabled">"सिफिकार फन\' इनेबोल जाबाय।"</string>
+<string name="accessibility_call_muted">"सिरि कल "</string>
+<string name="description_target_answer">"फिननाय"</string>
+<string name="description_target_send_sms">"SMS हर"</string>
+<string name="description_target_decline">"डिक्लाइन"</string>
+<string name="description_direction_up">"<xliff:g id="target_description" example="Unlock">%s</xliff:g> नो गोजौफारसे स्लाइड खालाम।"</string>
+<string name="description_direction_left">"<xliff:g id="target_description" example="Unlock">%s</xliff:g> नो आगसिफारसे स्लाइड खालाम।"</string>
+<string name="description_direction_right">"<xliff:g id="target_description" example="Unlock">%s</xliff:g> नो आगदाफारसे स्लाइड खालाम।"</string>
+<string name="voicemail_notification_vibrate_when_title">"भाइब्रेट"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"भाइब्रेट"</string>
+<string name="voicemail_notification_ringtone_title">"साउन्द"</string>
+<string name="default_notification_description">"(<xliff:g id="default_sound_title">%1$s</xliff:g>) डिफल्ट सोदोब"</string>
+<string name="ringtone_title">"फन रिंटन"</string>
+<string name="vibrate_on_ring_title">"रिं जाबल्बा मावग्लुं"</string>
+<string name="dtmf_tone_enable_title">"डाइल पेडखौ दांनायनि टन"</string>
+<string name="dial_pad_autocomplete">"डाइल पेडआ गावनो गाव फुरायबाय"</string>
+<string name="preference_category_ringtone">"रिंटन &amp; मावग्लुं"</string>
+<string name="manageConferenceLabel">"मेनेज जुथुममा कल"</string>
+<string name="emergency_call_dialog_number_for_display">"नांथारगौ समनि नामबार"</string>
+</resources>

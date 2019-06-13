@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"Rekord ang Oras:"</string>
+<string name="onscreenShowRecodText">"Rekord"</string>
+<string name="recorderr">"irekord ang payl ang pagtigum kay napakyas!"</string>
+<string name="audio_db_artist_name">"Ang imong mga gipangrekord"</string>
+<string name="audio_db_album_name">"Tawagi ang mga gipangrekord"</string>
+<string name="audio_db_playlist_name">"Akong mga gipangrekord"</string>
+<string name="app_name">"App sa Telepono"</string>
+<string name="error_mediadb_new_record">"Dili mahimo sa pagtigom sa narekord nga awdyo"</string>
+<string name="sdcard_access_error">"Dili ma gamit ang sdkard"</string>
+<string name="no_sd_card">"Walay SD kard o wala nagmontar"</string>
+<string name="insert_sd_card">"Palihug sa pagsuksok sa SD kard"</string>
+<string name="storage_is_full">"Puno ang sudlanan"</string>
+<string name="recording">"Gipangrekord"</string>
+<string name="lockscreen_comments">"Pagkarga sa pagpadailos paubos para sa pagtubag o pagsalikwway or reject"</string>
+<string name="lockscreen_comments_sms">"SMS ayawan"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"Recorder nga file natiggum ngadto sa "</string>
+    <string name="unknown_area">"Wala mailhi nga lugar"</string>
+    <string name="unknown_contacts">"Wala mailhi nga mga kontak"</string>
+
+</resources>

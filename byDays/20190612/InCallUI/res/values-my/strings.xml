@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">ဖုန္း</string>
+<string name="onHold">ကိုင္ထားလွ်င္</string>
+<string name="unknown">"မသိ"</string>
+<string name="private_num">သီးသန္႔ကိုယ္ပိုင္နံပါတ္</string>
+<string name="payphone">ၾကိဳတင္ေငြေပးဖုန္း</string>
+<string name="callFailed_userBusy">လိုင္းမအားပါ</string>
+<string name="callFailed_congestion">ကြန္ရက္မအား</string>
+<string name="callFailed_timedOut">တုန္႔ျပန္မႈမ႐ွိ၊ အခ်ိန္ျပည့္သြားျပီ</string>
+<string name="callFailed_server_unreachable">ဆာဗာသို႔ မေရာက္႐ွိႏိုင္ပါ</string>
+<string name="callFailed_number_unreachable">နံပါတ္သို႔ မေရာက္႐ွိႏိုင္ပါ</string>
+<string name="callFailed_invalid_credentials">အသံုးျပဳသူအမည္ႏွင့္ စကားဝွက္ မမွန္ကန္ပါ</string>
+<string name="callFailed_out_of_network">"ကြန္ရက္ ျပင္ပမွ ဖုန္းေခၚသည္"</string>
+<string name="callFailed_server_error">ဆာဗာအမွားျပေနသည္၊ ေနာက္မွတစ္ဖန္ၾကိဳးစားၾကည့္ပါ</string>
+<string name="callFailed_noSignal">အခ်က္ျပခ်က္သေကၤတမ႐ွိ</string>
+<string name="callFailed_limitExceeded">ACM ကန္႔သတ္ခ်က္ထက္ေက်ာ္လြန္ေနသည္</string>
+<string name="callFailed_powerOff">ေရဒီယိုပိတ္ထားသည္</string>
+<string name="callFailed_simError">"SIM မရွိပါ (သို႕) SIM အမွား"</string>
+<string name="callFailed_outOfService">ဆားဗစ္ဧရိယာတြင္းမ႐ွိ</string>
+<string name="callFailed_fdn_only">ပံုေသနံပါတ္ေခၚဆိုမႈက အထြက္ေခၚဆိုမႈမ်ားကို တားျမစ္ထားသည္</string>
+<string name="callFailed_cb_enabled">"ဖုန္းဘဲရင္းရွိလွ်င္၊ အထြက္ဖုန္းေခၚ၍မရပါ."</string>
+<string name="callFailed_dsac_restricted">၀င္ေရာက္ျခင္းထိန္းခ်ဳပ္မႈမွ ဖုန္းေခၚဆိုမႈအားလံုးကို ကန္႔သတ္ထားသည္</string>
+<string name="callFailed_dsac_restricted_emergency">၀င္ေပါက္ထိန္းခ်ဳပ္မႈက အေရးေပၚဖုန္းေခၚဆိုမႈမ်ားကို ကန္႔သတ္ထားသည္</string>
+<string name="callFailed_dsac_restricted_normal">ပံုမွန္ေခၚဆိုမႈမ်ားကို ၀င္ခြင့္ထိန္းခ်ဳပ္မႈက တားျမစ္ထားသည္</string>
+<string name="callFailed_unobtainable_number">အသံုးမရှိေသာနံပါတ်</string>
+<string name="confCall">ညီလာခံcall</string>
+<string name="call_lost">ဖုန္းေခၚဆိုမႈေပ်ာက္ဆံုး</string>
+<string name="ok">"လုပ္မည္"</string>
+<string name="audio_mode_speaker">စပီကာ</string>
+<string name="audio_mode_earpiece">ဟန္းဆက္နားၾကပ္</string>
+<string name="audio_mode_wired_headset">ၾကိဳးပါနားၾကပ္</string>
+<string name="audio_mode_bluetooth">ဘလူတူး</string>
+<string name="wait_prompt_str">ေအာက္ပါတီးလံုးမ်ားပို႔မလား?\n</string>
+<string name="pause_prompt_str">တီးလံုးမ်ားေပးပို႔ေနဆဲ \n</string>
+<string name="send_button">ပို ့</string>
+<string name="pause_prompt_yes">လုပ္မည္</string>
+<string name="pause_prompt_no">"မလုပ္ပါ"</string>
+<string name="wild_prompt_str">"အကၡရာႏွင့္ အစားထိုးပါ"</string>
+<string name="no_vm_number">အသံေမးလ္နံပါတ္ေပ်ာက္ဆံုးေနသည္</string>
+<string name="no_vm_number_msg">SIM ကဒ္တြင္ သိမ္းထားေသာ အသံေမးလ္နံပါတ္မ႐ွိပါ</string>
+<string name="add_vm_number_str">နံပါတ္ထည့္မည္</string>
+<string name="puk_unlocked">သင့္ SIM ကဒ္အား ပိတ္ဆို႔ထားျခင္းမွ ပယ္ဖ်က္ျပီး၊ သင့္ဖုန္းအား ေသာ့ဖြင့္ေနဆဲ \u2026</string>
+<string name="label_ndp">SIM ကြန္ယက္ ျဖင့္ PIN ေသာ့ဖြင့္ျခင္း</string>
+<string name="sim_ndp_unlock_text">ေသာ့ဖွင့်ြခင်း</string>
+<string name="sim_ndp_dismiss_text">ခ်န္လွပ္ထားသည္</string>
+<string name="requesting_unlock">ကြန္ယက္ေသာ့ဖြင့္ရန္ ေတာင္းဆိုေနဆဲ\u2026</string>
+<string name="unlock_failed">ကြန္ယက္ေသာ့ဖြင့္ရန္ ေတာင္းဆိုခ်က္မေအာင္ျမင္</string>
+<string name="unlock_success">ကြန္ယက္ေသာ့ဖြင့္ျခင္းေအာင္ျမင္</string>
+<string name="labelGSMMore">GSM ဖုန္းေခၚဆိုမႈအဆင္အျပင္မ်ား</string>
+<string name="labelCDMAMore">CDMA ဖုန္းေခၚဆိုမႈအဆင္အျပင္မ်ား</string>
+<string name="apn_settings">၀င္ေပါက္အမည္မ်ား</string>
+<string name="settings_label">အင္တာနက္တပ္ဆင္ၿခင္း</string>
+<string name="voicemail">အသံေမးလ္</string>
+<string name="voicemail_abbreviated">အသံေမးလ္:</string>
+<string name="networks">ကြန္ယက္ဖြင့္စက္မ်ား</string>
+<string name="call_settings">ဖုန္း ဆက္တင္မ်ား</string>
+<string name="additional_gsm_call_settings">အပိုအဆင္အျပင္မ်ား</string>
+<string name="sum_gsm_call_settings">အပို GSM ဖုန္းေခၚဆိုမႈတစ္ခုတည္းအတြက္အဆင္အျပင္မ်ား</string>
+<string name="additional_cdma_call_settings">အပို CDMA ဖုန္းေခၚဆိုမႈအဆင္အျပင္မ်ား</string>
+<string name="sum_cdma_call_settings">အပို CDMA ဖုန္းေခၚဆိုမႈတစ္ခုတည္းအတြက္အဆင္အျပင္မ်ား</string>
+<string name="labelNwService">ကြန္ယက္၀န္ေဆာင္မႈအဆင္အျပင္မ်ား</string>
+<string name="labelCallerId">Idနံပါတ်</string>
+<string name="sum_loading_settings">"ဆက္တင္မ်ား တင္ေနသည္..."</string>
+<string name="sum_hide_caller_id">အထြက္ေခၚဆိုမႈမ်ားတြင္ ေဖ်ာက္ထားေသာ နံပါတ္</string>
+<string name="sum_show_caller_id">အထြက္ေခၚဆိုမႈမ်ားတြင္ ျပသထားေသာ နံပါတ္</string>
+<string name="sum_default_caller_id">မူလလုပ္ေဆာင္ခ်က္အဆင္အျပင္မ်ားကို သံုးျပီး အထြက္ေခၚဆိုမႈတြင္ မိမိနံပါတ္ကို ျပသမည္</string>
+<string name="labelCW">ေကျးဇူးြပု၍ခဏေဆာင့်ပါ</string>
+<string name="sum_cw_enabled">ဖုန္းေျပာေနစဥ္ ဖုန္း၀င္လာပါက သတိေပးပါ</string>
+<string name="sum_cw_disabled">ဖုန္းေျပာေနစဥ္ ဖုန္း၀င္လာပါက သတိေပးပါ</string>
+<string name="call_forwarding_settings">လိုင္းလႊဲသည့္အဆင္အျပင္မ်ား</string>
+<string name="labelCF">လိုင္းလႊဲေနဆဲ</string>
+<string name="labelCFU">အျမဲတမ္းလိုင္းလႊဲမည္</string>
+<string name="messageCFU">အျမဲတမ္းဤနံပါတ္ကို သံုးမည္</string>
+<string name="sum_cfu_enabled_indicator">ေခၚဆိုမႈအားလံုးကို လိုင္းလႊဲေနဆဲ</string>
+<string name="sum_cfu_enabled">ဖုန္းေခၚဆိုမႈအားလံုးကို <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> သို႔ လႊဲေနဆဲ</string>
+<string name="sum_cfu_enabled_no_number">နံပါတ္ကို ေခၚဆို၍ မရ႐ွိႏုိင္ပါ</string>
+<string name="sum_cfu_disabled">ပိတ္ထားျပီး</string>
+<string name="labelCFB">မအားပါက လုိင္းလႊဲပါ</string>
+<string name="messageCFB">မအားပါက</string>
+<string name="sum_cfb_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> သို႔ လႊဲေနဆဲ</string>
+<string name="sum_cfb_disabled">ပိတ္ထားျပီး</string>
+<string name="disable_cfb_forbidden">"သင့္ဖုန္း မအားလွ်င္၊ ေအာ္ပေရတာမွ ဖုန္းေခၚဆိုမႈကိုေရွ႕သို႕သိမ္းရန္ မေထာက္ပံ့ ႏိုင္ပါ."</string>
+<string name="labelCFNRy">မေျဖဆိုပါက လုိင္းလႊဲပါ</string>
+<string name="messageCFNRy">မေျဖဆိုပါက </string>
+<string name="sum_cfnry_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> သို႔ လႊဲေနဆဲ</string>
+<string name="sum_cfnry_disabled">ပိတ္ထားျပီး</string>
+<string name="disable_cfnry_forbidden">"သင့္ဖုန္းမွ မေျဖလွ်င္၊ ေအာ္ပေရတာမွ ဖုန္းေခၚဆိုမႈကိုေရွ႕သို႕သိမ္းရန္ မေထာက္ပံ့ ႏိုင္ပါ."</string>
+<string name="labelCFNRc">ေခၚဆို၍မရပါက လုိင္းလႊဲပါ</string>
+<string name="messageCFNRc">ေခၚဆို၍မရပါက </string>
+<string name="sum_cfnrc_enabled"><xliff:g id="phonenumber" example="555-1212">{0}</xliff:g> သို႔ လႊဲေနဆဲ</string>
+<string name="sum_cfnrc_disabled">ပိတ္ထားျပီး</string>
+<string name="disable_cfnrc_forbidden">"သင္ဖုန္းထံမေရာက္ႏိုင္လွ်င္၊ ဖုန္းေခၚဆိုမႈကိုေရွ႕သို႕သိမ္းရန္ သင္၏ ကယ္ရီယာမွ မေထာက္ပံ့ ႏိုင္ပါ"</string>
+<string name="updating_title">Call တပ်ဆင်ြခင်း</string>
+<string name="error_updating_title">ေခၚဆိုမႈအဆင္အျပင္အမွားမ်ား</string>
+<string name="reading_settings">အဆင္အျပင္မ်ားဖတ္ျခင္း\u2026</string>
+<string name="updating_settings">အဆင္အျပင္မ်ားကို အဆင့္ျမွင့္ေနဆဲ\u2026</string>
+<string name="reverting_settings">ျပန္သြားျခင္းအဆင္အျပင္မ်ား\u2026</string>
+<string name="response_error">ကြန္ယက္မွ မေမွ်ာ္လင့္ထားေသာ တုန္႔ျပန္ခ်က္</string>
+<string name="exception_error">ကြန္ယက္ သို႔မဟုတ္ SIM ကဒ္ အမွားျပေနသည္</string>
+<string name="fdn_check_failure">"ဖုန္းေအပီပီႏွင့္ ခ်ိတ္ထားသည့္နံပါတ္ ဆက္တင္က ိုဖြင့္ထားသည္. အက်ိဳးရလဒ္အျဖစ္ ဖုန္းနွင့္ ပတ္သက္သည့္ လကၡဏာမ်ားမ်ား အလုပ္လုပ္ေနမည္."</string>
+<string name="radio_off_error">"ဤ ဆက္တင္မ်ားကို မၾကည့္ရွဳခင္ ေရဒီယိုကို ဖြင့္ပါ."</string>
+<string name="close_dialog">"လုပ္မည္"</string>
+<string name="enable">ဖြင့္</string>
+<string name="disable">ကို ျဖဳတ္ပါ</string>
+<string name="change_num">"အပ္ဒိတ္"</string>
+<string-array name="clir_display_values">
+<item>ကြန္ယက္မူလပံုစံ</item>
+<item>နံပါတ္ကို ေဖ်ာက္ထားမည္</item>
+<item>နံပါတ္ျပသပါ</item>
+</string-array>
+<string name="vm_changed">အသံေမးလ္နံပါတ္ေျပာင္းျပီး</string>
+<string name="vm_change_failed">"အသံေမးလ္နံပါတ္ ေျပာင္း၍ မရႏိုင္ပါ.\n အကယ္၍ ဤသို႕ အခက္အခဲရွိလွ်င္၊ သင္၏ ကယ္ရီယာျဖင့္ ဆက္သြယ္ပါ. "</string>
+<string name="fw_change_failed">"ေရွ႕သို႕သိမ္းရန္နံပါတ္ ေျပာင္း၍ မရႏိုင္ပါ .\n အကယ္၍ ဤသို႕ အခက္အခဲရွိလွ်င္၊ သင္၏ ကယ္ရီယာျဖင့္ ဆက္သြယ္ပါ."</string>
+<string name="fw_get_in_vm_failed">လက္႐ွိလုိင္းလႊဲေသာ နံပါတ္အဆင္အျပင္မ်ားကို ျပန္လည္ရယူရန္ႏွင့္ သိမ္းဆည္းရန္ မေအာင္ျမင္။ \n အေထာက္အပံ့ေပးမႈအသစ္ကို ေျပာင္းခ်င္ပါသလား?</string>
+<string name="no_change">မည္သည့္ေျပာင္းလဲမႈမွ မလုပ္ပါ</string>
+<string name="sum_voicemail_choose_provider">အသံေမးလ္၀န္ေဆာင္မႈကို ေ႐ြးခ်ယ္ပါ</string>
+<string name="voicemail_default">မိမိ</string>
+<string name="mobile_networks">မုိဘိုင္းကြန္ယက္အဆင္အျပင္မ်ား</string>
+<string name="label_available">ရႏိုင္ေသာ ကြန္ယက္မ်ား</string>
+<string name="load_networks_progress">ရှာေဖွ...</string>
+<string name="empty_networks_list">ကြန္ယက္မ်ားမ႐ွိ</string>
+<string name="search_networks">ကြန္ယက္မ်ား႐ွာမည္</string>
+<string name="network_query_error">ကြန္ယက္႐ွာေဖြေနစဥ္ အမွားျပေနသည္</string>
+<string name="register_on_network"><xliff:g id="network">%s</xliff:g> တြင္ မွတ္ပံုတင္မည္\u2026</string>
+<string name="not_allowed">"ဤကြန္ရက္ျဖင့္ခ်ိတ္ဆက္ရန္ သင္၏ SIM ကဒ္ ကခြင့္မျပဳပါ."</string>
+<string name="connect_later">"ယခု ဤကြန္ရက္ႏွင့္ မွန္ကန္စြာ မဆက္သြယ္ ႏိုင္ပါ. ေနာက္မွ ထပ္ ဆက္သြယ္ပါ."</string>
+<string name="registration_done">ကြန္ယက္တြင္ စာရင္းသြင္းျပီး</string>
+<string name="sum_carrier_select">ကြန္ယက္အေထာက္အပံ့ကို ေ႐ြးခ်ယ္ပါ</string>
+<string name="sum_search_networks">ရႏိုင္ေသာကြန္ယက္အားလံုး ႐ွာမည္</string>
+<string name="select_automatically">"ေအာ္တိုျဖစ္ျခင္းကို ေရြးခ်ယ္ပါ"</string>
+<string name="sum_select_automatically">"ၾကိဳက္ႏွစ္သက္ရာ ကြန္ရက္ကို ေအာ္တို ေရြးခ်ယ္ပါ"</string>
+<string name="register_automatically">"ေအာ္တို မွတ္ပံုတင္ျခင္း…"</string>
+<string name="preferred_network_mode_title">ကြန္ယက္ပံုစံ</string>
+<string name="preferred_network_mode_summary">ကြန္ယက္အဖြင့္ပံုစံေျပာင္းမည္</string>
+<string name="preferred_network_mode_dialogtitle">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ</string>
+<string name="preferred_network_mode_wcdma_perf_summary">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ: WCDMA preferred</string>
+<string name="preferred_network_mode_gsm_only_summary">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ: GSM only</string>
+<string name="preferred_network_mode_wcdma_only_summary">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ: WCDMA only</string>
+<string name="preferred_network_mode_gsm_wcdma_summary">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ: GSM / WCDMA</string>
+<string name="preferred_network_mode_cdma_summary">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ: CDMA</string>
+<string name="preferred_network_mode_cdma_evdo_summary">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ CDMA / EvDo</string>
+<string name="preferred_network_mode_cdma_only_summary">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ CDMA only</string>
+<string name="preferred_network_mode_evdo_only_summary">သြင္းခ်င္သည့္ကြန္ယက္ပံုစံ</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"နွစ္သက္သည့္ကြန္ရက္မုတ္: CDMA/EvDo/GSM/WCDMA"</string>
+<string name="preferred_network_mode_lte_summary">"နွစ္သက္သည့္ကြန္ရက္မုတ္: LTE"</string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">"နွစ္သက္သည့္ကြန္ရက္မုတ္: GSM/WCDMA/LTE"</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">"နွစ္သက္သည့္ကြန္ရက္မုတ္: CDMA+LTE/EVDO"</string>
+<string name="preferred_network_mode_global_summary">"နွစ္သက္သည့္ကြန္ရက္မုတ္: ကမ္ဘာအနွံ"</string>
+<string name="preferred_network_mode_lte_wcdma_summary">"နွစ္သက္သည့္ကြန္ရက္မုတ္: LTE / WCDMA"</string>
+<string-array name="preferred_network_mode_choices">
+<item>"LTE / WCDMA"</item>
+<item>"LTE"</item>
+<item>"ကမ္ဘာအနွံ"</item>
+<item>"GSM/WCDMA/LTE"</item>
+<item>"CDMA + LTE/EvDo"</item>
+<item>"CDMA/EvDo/GSM/WCDMA"</item>
+<item>EvDo သာ</item>
+<item>Auto</item>
+<item>"CDMA/EvDo ေအာ္ဒီယို"</item>
+<item>" GSM / WCDMA ေအာ္တို"</item>
+<item>WCDMA သာ</item>
+<item>GSM သာ</item>
+<item>"GSM / WCDMA ရည္ညႊန္းသည့္"</item>
+</string-array>
+<string name="data_enabled">ေဒတာဖြင့္ျပီး</string>
+<string name="data_enable_summary">မိုဘိုင္းကြန္ယက္တြင္ ေဒတာ၀င္ေရာက္ၾကည့္႐ႈျခင္းကို ဖြင့္မည္</string>
+<string name="roaming">ျပင္ပကြန္ယက္ေဒတာသို႔ဝင္ေရာက္ျခင္း</string>
+<string name="roaming_enable">ျပင္ပကြန္ယက္ေဒတာသို႔ဝင္ေရာက္စဥ္ ေဒတာဝန္ေဆာင္မႈသို႔ ခ်ိတ္ဆက္ပါ</string>
+<string name="roaming_disable">ျပင္ပကြန္ယက္ေဒတာသို႔ဝင္ေရာက္စဥ္ ေဒတာဝန္ေဆာင္မႈသို႔ ခ်ိတ္ဆက္ပါ</string>
+<string name="roaming_reenable_message">"သင္၏မူလကြန္ရက္ကို ေဒတာ ေလွ်ာက္သြားျခင္း ပိတ္ထားျပီး ခ်န္ထားေသာေျကာင့္ ေဒတာ ခ်ိတ္ဆက္မႈ ေပ်ာက္ဆံုး ေနသည္."</string>
+<string name="roaming_warning">ျပင္ပကြန္ယက္ေဒတာသို႔ ဝင္ေရာက္ရန္ ခြင့္ျပဳမလား? သိသာေသာ ျပင္ပကြန္ယက္ေဒတာဝင္ေရာက္မႈအခေၾကးေငြမ်ား ကုန္က်လိမ့္မည္!</string>
+<string name="gsm_umts_options">GSM/UMTS ေ႐ြးစရာမ်ား</string>
+<string name="cdma_options">CDMA ေ႐ြးစရာမ်ား</string>
+<string name="throttle_data_usage">ေဒတာအသံုးျပဳမႈ</string>
+<string name="throttle_current_usage">လက္႐ွိကာလတြင္ အသံုးျပဳေသာ ေဒတာ</string>
+<string name="throttle_time_frame">ေဒတာအသံုးျပဳမႈကာလ</string>
+<string name="throttle_rate">ေဒတာႏႈန္းထားမူ</string>
+<string name="throttle_help">ထပ္မံ၍ေလ့လာပါ</string>
+<string name="throttle_status_subtext">အမ်ားဆံုးသတ္မွတ္ခ်က္အပိုင္း<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) ၏ <xliff:g id="used">%3$s</xliff:g> \nေနာက္တစ္ပိုင္းမွာ<xliff:g id="used">%4$d</xliff:g> ရက္ၾကာလွ်င္ စမည္(<xliff:g id="used">%5$s</xliff:g>)</string>
+<string name="throttle_data_usage_subtext">အမ်ားဆံုးသတ္မွတ္ခ်က္အပိုင္း<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) ၏ <xliff:g id="used">%3$s</xliff:g> </string>
+<string name="throttle_data_rate_reduced_subtext">အမ်ားဆံုးကန္႔သတ္ခ်က္<xliff:g id="used">%1$s</xliff:g> ေက်ာ္လြန္\nေဒတာႏႈန္း <xliff:g id="used">%2$d</xliff:g> Kb/s သို႔ေလွ်ာ့ခ်ျပီး</string>
+<string name="throttle_time_frame_subtext"><xliff:g id="used">%1$d</xliff:g>\u066A ကုန္လြန္သြားေသာ အပတ္ေပါင္း\nေနာက္တစ္ပိုင္းမွာ <xliff:g id="used">%2$d</xliff:g> ရက္ၾကာလွ်င္စမည္ (<xliff:g id="used">%3$s</xliff:g>)</string>
+<string name="throttle_rate_subtext">ေဒတာအသံုးျပဳမႈကန္႔သတ္ခ်က္ထက္ ပိုပါက <xliff:g id="used">%1$d</xliff:g> Kb/s သို႔ ေဒတာႏႈန္းကို ေလွ်ာ့ခ်မည္</string>
+<string name="throttle_help_subtext">သင့္မိုဘိုင္းကြန္ယက္ေဒတာက အသံုးျပဳေသာမူမ်ားႏွင့္ပတ္သက္သည့္ ေနာက္ထပ္အခ်က္အလက္မ်ား</string>
+<string name="cell_broadcast_sms">ဆဲလ္ထုတ္လႊင့္မႈ SMS</string>
+<string name="enable_disable_cell_bc_sms">ဆဲလ္ထုတ္လႊင့္မႈ SMS</string>
+<string name="cell_bc_sms_enable">ဆဲလ္ထုတ္လႊင့္မႈ SMS ဖြင့္ျပီး</string>
+<string name="cell_bc_sms_disable">ဆဲလ္ထုတ္လႊင့္မႈ SMS ပိတ္ျပီး</string>
+<string name="cb_sms_settings">ဆဲလ္ထုတ္လႊင့္မႈ SMS အဆင္အျပင္မ်ား</string>
+<string name="enable_disable_emergency_broadcast">အေရးေပၚထုတ္လႊင့္မႈ</string>
+<string name="emergency_broadcast_enable">အေရးေပၚထုတ္လႊင့္မႈဖြင့္ျပီး</string>
+<string name="emergency_broadcast_disable">အေရးေပၚထုတ္လႊင့္မႈပိတ္ျပီး</string>
+<string name="enable_disable_administrative">ထိန္းခ်ဳပ္စီမံမႈ</string>
+<string name="administrative_enable">ထိန္းခ်ဳပ္စီမံမႈ ဖြင့္ျပီး</string>
+<string name="administrative_disable">ထိန္းခ်ဳပ္စီမံမႈ ပိတ္ျပီး</string>
+<string name="enable_disable_maintenance">ျပဳျပင္ထိန္းသိမ္းခ်က္</string>
+<string name="maintenance_enable">ျပဳျပင္ထိန္းသိမ္းခ်က္ဖြင့္ျပီး</string>
+<string name="maintenance_disable">ျပဳျပင္ထိန္းသိမ္းခ်က္ပိတ္ျပီး</string>
+<string name="general_news_settings">အေထြေထြသတင္းမ်ား</string>
+<string name="bf_news_settings">စီးပြားေရးႏွင့္ ဘ႑ာေရးသတင္းမ်ား</string>
+<string name="sports_news_settings">အားကစားသတင္းမ်ား</string>
+<string name="entertainment_news_settings">ေဖ်ာ္ေျဖေရးသတင္းမ်ား</string>
+<string name="enable_disable_local">ဖုန္းတြင္း</string>
+<string name="local_enable">ျပည္တြင္းသတင္းမ်ားဖြင့္ျပီး</string>
+<string name="local_disable">ျပည္တြင္းသတင္းမ်ားပိတ္ျပီး</string>
+<string name="enable_disable_regional">ေဒသဆိုင္ရာ</string>
+<string name="regional_enable">ေဒသဆိုင္ရာသတင္းမ်ား ဖြင့္ျပီး</string>
+<string name="regional_disable">ေဒသဆိုင္ရာသတင္းမ်ား ပိတ္ျပီး</string>
+<string name="enable_disable_national">ျပည္တြင္း</string>
+<string name="national_enable">ျပည္တြင္းသတင္းမ်ားဖြင့္ျပီး</string>
+<string name="national_disable">ျပည္တြင္းသတင္းမ်ားပိတ္ျပီး</string>
+<string name="enable_disable_international">ႏိုင္ငံတကာ</string>
+<string name="international_enable">ႏိုင္ငံတကာသတင္းမ်ားဖြင့္ျပီး</string>
+<string name="international_disable">ႏိုင္ငံတကာသတင္းမ်ားပိတ္ျပီး</string>
+<string name="list_language_title">တည္ေနရာ</string>
+<string name="list_language_summary">သတင္းမ်ားအတြက္ ဘာသာစကားေ႐ြးခ်ယ္ပါ</string>
+<string-array name="list_language_entries">
+<item>အဂၤလိပ္ဘာသာ</item>
+<item>ျပင္သစ္</item>
+<item>စပိန္</item>
+<item>ဂျာပန် ဘာသာစကား</item>
+<item>ကိုရီးယားဘာသာ</item>
+<item>တရုပ်စာ</item>
+<item> ေဟြဗဲ ဘာသာစကား</item>
+</string-array>
+<string name="list_language_dtitle">ဘာသာစကားအလုံး</string>
+<string name="enable_disable_local_weather">ျပည္တြင္းမိုးေလ၀သအေျခအေန</string>
+<string name="local_weather_enable">ျပည္တြင္းမိုးေလ၀သအေျခအေနဖြင့္ျပီး</string>
+<string name="local_weather_disable">ျပည္တြင္းမိုးေလ၀သအေျခအေနပိတ္ျပီး</string>
+<string name="enable_disable_atr">လုိင္းက်ပ္သည့္ဧရိယာသတင္းေပးပို႔ခ်က္</string>
+<string name="atr_enable">လုိင္းက်ပ္သည့္ဧရိယာသတင္းေပးပို႔ခ်က္ဖြင့္ထားျပီး</string>
+<string name="atr_disable">လုိင္းက်ပ္သည့္ဧရိယာသတင္းေပးပို႔ခ်က္ပိတ္ထားျပီး</string>
+<string name="enable_disable_lafs">ျပည္တြင္းေလယာဥ္ပ်ံသန္းမႈအခ်ိန္ဇယား</string>
+<string name="lafs_enable">ျပည္တြင္းေလယာဥ္ပ်ံသန္းမႈအခ်ိန္ဇယားဖြင့္ျပီး</string>
+<string name="lafs_disable">ျပည္တြင္းေလယာဥ္ပ်ံသန္းမႈအခ်ိန္ဇယားပိတ္ျပီး</string>
+<string name="enable_disable_restaurants">စားေသာက္ဆိုင္မ်ား</string>
+<string name="restaurants_enable">စားေသာက္ဆိုင္မ်ား ဖြင့္ထားျပီး</string>
+<string name="restaurants_disable">စားေသာက္ဆိုင္မ်ား ပိတ္ထားျပီး</string>
+<string name="enable_disable_lodgings">လက္ခံသိမ္းဆည္းထားမႈမ်ား</string>
+<string name="lodgings_enable">လက္ခံသိမ္းဆည္းထားမႈမ်ားဖြင့္ျပီး</string>
+<string name="lodgings_disable">လက္ခံသိမ္းဆည္းထားမႈမ်ားပိတ္ျပီး</string>
+<string name="enable_disable_retail_directory">လက္လီေရာင္းခ်မႈလမ္းညႊန္</string>
+<string name="retail_directory_enable">လက္လီေရာင္းခ်မႈလမ္းညႊန္ဖြင့္ျပီး</string>
+<string name="retail_directory_disable">လက္လီေရာင္းခ်မႈလမ္းညႊန္ပိတ္ျပီး</string>
+<string name="enable_disable_advertisements">ေၾကာ္ျငာမ်ား</string>
+<string name="advertisements_enable">ေၾကာ္ျငာမ်ားဖြင့္ျပီး</string>
+<string name="advertisements_disable">ေၾကာ္ျငာမ်ားပိတ္ျပီး</string>
+<string name="enable_disable_stock_quotes">႐ွယ္ယာတန္ဖိုးမ်ား</string>
+<string name="stock_quotes_enable">႐ွယ္ယာတန္ဖိုးမ်ားဖြင့္ျပီး</string>
+<string name="stock_quotes_disable">႐ွယ္ယာတန္ဖိုးမ်ားပိတ္ျပီး</string>
+<string name="enable_disable_eo">အလုပ္အကိုင္ရ႐ွိေရးအခြင့္အလမ္းမ်ား</string>
+<string name="eo_enable">အလုပ္အကိုင္ရ႐ွိေရးအခြင့္အလမ္းမ်ားဖြင့္ျပီး</string>
+<string name="eo_disable">အလုပ္အကိုင္ရ႐ွိေရးအခြင့္အလမ္းမ်ားပိတ္ျပီး</string>
+<string name="enable_disable_mhh">"ေဆး၀ါး၊ က်န္းမာေရးႏွင့္ ေဆးရံု"</string>
+<string name="mhh_enable">"ေဆး၀ါး၊ က်န္းမာေရးႏွင့္ ေဆးရံု ေထာက္ပ့ံသည္ "</string>
+<string name="mhh_disable">"ေဆး၀ါး၊ က်န္းမာေရးႏွင့္ ေဆးရံု မေထာက္ပ့ံပါ"</string>
+<string name="enable_disable_technology_news">နည္းပညာဆိုင္ရာသတင္းမ်ား</string>
+<string name="technology_news_enable">နည္းပညာဆိုင္ရာသတင္းမ်ားဖြင့္ျပီး</string>
+<string name="technology_news_disable">နည္းပညာဆိုင္ရာသတင္းမ်ားပိတ္ျပီး</string>
+<string name="enable_disable_multi_category">အမ်ိဳးမ်ိဳးေသာအုပ္စုမ်ား</string>
+<string name="multi_category_enable">အမ်ိဳးမ်ိဳးေသာအုပ္စုမ်ားဖြင့္ျပီး</string>
+<string name="multi_category_disable">အမ်ိဳးမ်ိဳးေသာအုပ္စုမ်ားပိတ္ျပီး</string>
+<string name="prefer_2g">2G ကြန္ယက္မ်ားသာ သံုးမည္</string>
+<string name="prefer_2g_summary">ဘက္ထရီသိမ္းမည္</string>
+<string name="cdma_system_select_title">စစ္စတမ္္ေ႐ြးခ်ယ္မႈ</string>
+<string name="cdma_system_select_summary">cdma ျပည္ပကြန္ယက္သို႔ ၀င္ေရာက္သည့္ပံုစံကို ေျပာင္းမည္</string>
+<string name="cdma_system_select_dialogtitle">စစ္စတမ္္ေ႐ြးခ်ယ္မႈ</string>
+<string-array name="cdma_system_select_choices">
+<item>အိမ္သာလွ်င္</item>
+<item>"အလိုအေလ်ာက္"</item>
+</string-array>
+<string name="cdma_subscription_title">CDMA ဝင္ေရာက္ခြင့္</string>
+<string name="cdma_subscription_summary">RUIM/SIM ႏွင့္ NV အၾကား ေျပာင္းမည္</string>
+<string name="cdma_subscription_dialogtitle">မွာယူျခင္း</string>
+<string name="cdma_activate_device">ပစၥည္းကိုစတင္ပါ</string>
+<string name="cdma_lte_data_service">ေဒတာဝန္ေဆာင္မႈအဆင္အျပင္ထား႐ွိပါ</string>
+<string name="fdn">ပံုေသေခၚဆိုမႈနံပါတ္မ်ား</string>
+<string name="manage_fdn_list">ပံုေသေခၚဆိုမႈနံပါတ္စာရင္း</string>
+<string name="fdn_activation">ပံုေသေခၚဆိုမႈနံပါတ္ဖြင့္ျခင္း</string>
+<string name="fdn_enabled">ပံုေသေခၚဆိုမႈနံပါတ္မ်ားဖြင့္ျပီး</string>
+<string name="fdn_disabled">ပံုေသေခၚဆိုမႈနံပါတ္မ်ားပိတ္ျပီး</string>
+<string name="enable_fdn">ပံုေသေခၚဆိုမႈနံပါတ္ကို ဖြင့္မည္</string>
+<string name="disable_fdn">ပံုေသေခၚဆိုမႈနံပါတ္မ်ားကို ပိတ္မည္</string>
+<string name="change_pin2">PIN2 ကို ေျပာင္းမည္</string>
+<string name="enable_fdn_ok">ပံုေသေခၚဆိုမႈနံပါတ္မ်ားကို ပိတ္မည္</string>
+<string name="disable_fdn_ok">ပံုေသေခၚဆိုမႈနံပါတ္ကို ဖြင့္မည္</string>
+<string name="sum_fdn">ပံုေသေခၚဆိုမႈနံပါတ္မ်ားကို စီစဥ္ပါ</string>
+<string name="sum_fdn_change_pin">ပံုေသေခၚဆိုမႈနံပါတ္၀င္ေရာက္မႈအတြက္ PIN ကုိ ေျပာင္းမည္</string>
+<string name="sum_fdn_manage_list">ဖုန္းနံပါတ္စာရင္းကို စီစဥ္ပါ</string>
+<string name="voice_privacy">အသံကိုယ္ပိုင္ကိုယ္ေရးကိုယ္တာ</string>
+<string name="voice_privacy_summary">အဆင့္ျမင့္တစ္ကိုယ္ရည္သီးသန္႔ပံုစံကို ဖြင့္မည္</string>
+<string name="tty_mode_option_title">TTY ပံုစံ</string>
+<string name="tty_mode_option_summary">TTY ပံုစံထား႐ွိပါ</string>
+<string name="auto_retry_mode_title">"ေအာ္တို ထပ္ၾကိဳးစားပါ"</string>
+<string name="auto_retry_mode_summary">"ေအာ္တို-ထပ္ၾကိဳးစားမႈ မုတ္ ရွိသည္"</string>
+<string name="menu_add">ဖုန္းလိပ္စာထည့္မည္</string>
+<string name="menu_edit">ဖုန္းလိပ္စာကို တည္းျဖတ္မည္</string>
+<string name="menu_delete">ဖုန္းလိပ္စာမ်ားကို ဖ်က္မည္</string>
+<string name="get_pin2">"PIN ၂  ရိုက္ပါ"</string>
+<string name="name">နာမည်</string>
+<string name="number">ဂဏန်း</string>
+<string name="save">စုထားသည်</string>
+<string name="add_fdn_contact">ပံုေသေခၚဆိုမႈနံပါတ္ထည့္မည္</string>
+<string name="adding_fdn_contact">ပံုေသေခၚဆိုမႈနံပါတ္ထည့္ေနဆဲ\u2026</string>
+<string name="fdn_contact_added">ပံုေသေခၚဆိုမႈနံပါတ္ထည့္ျပီး</string>
+<string name="edit_fdn_contact">ပံုေသေခၚဆိုမႈနံပါတ္ကို တည္းျဖတ္မည္</string>
+<string name="updating_fdn_contact">ပံုေသနံပါတ္ေခၚဆိုမႈကို အဆင့္ျမွင့္ေနဆဲ\u2026</string>
+<string name="fdn_contact_updated">ပံုေသေခၚဆိုမႈနံပါတ္အဆင္ျမွင့္ျပီး</string>
+<string name="delete_fdn_contact">ပံုေသေခၚဆိုမႈနံပါတ္ကို ဖ်က္မည္</string>
+<string name="deleting_fdn_contact">ပံုေသေခၚဆိုမႈနံပါတ္ကို ဖ်က္ေနဆဲ\u2026</string>
+<string name="fdn_contact_deleted">ပံုေသေခၚဆိုမႈနံပါတ္ဖ်က္ျပီး</string>
+<string name="pin2_invalid">"သင္ ရိုက္ထည့္သည့္ PIN မမွန္ ျခင္းေၾကာင့္ ဖုန္းေခၚဆိုလိုသည့္နံပါတ္ အပ္ဒိတ္ လုပ္၍မရပါ."</string>
+<string name="fdn_invalid_number">"သင္ ရိုက္ထည့္သည့္ ဂဏန္းနံပါတ္ ၂၀ လံုး အထက္မရွိ ျခင္းေၾကာင့္ ဖုန္းေခၚဆိုလိုသည့္နံပါတ္ကို အပ္ဒိတ္ လုပ္၍မရပါ."</string>
+<string name="pin2_or_fdn_invalid">"PIN ၂ မွားေနသည္၊ (သို႕) ဖုန္းနံပါတ္ ပယ္ခ်ခံရ ျခင္းေၾကာင့္ ဖုန္းေခၚဆိုလိုသည့္ နံပါတ္ကို အပ္ဒိတ္ လုပ္၍မရပါ."</string>
+<string name="simContacts_emptyLoading">SIM ကဒ္မွ ဖတ္ျခင္း\u2026</string>
+<string name="simContacts_empty">သင့္ SIM ကဒ္တြင္ ဖုန္းလိပ္စာမ်ားမ႐ွိပါ</string>
+<string name="simContacts_title">သြင္းယူရန္ လိပ္စာအုပ္စုကုိ ေ႐ြးခ်ယ္ပါ</string>
+<string name="simContacts_airplaneMode">"SIM ကဒ္ မွ ဆက္သြယ္သူမ်ားကို သြင္းရန္ ေလယာဥ္မုတ္ကို ပထမဦးဆံုးပိတ္ပါ."</string>
+<string name="enable_pin">SIM PIN ကို ဖြင့္မည္/ပိတ္မည္</string>
+<string name="change_pin">SIM PIN ကို ေျပာင္းမည္</string>
+<string name="enter_pin_text">SIM PIN:</string>
+<string name="oldPinLabel">္PIN အေဟာင္း</string>
+<string name="newPinLabel">PIN အသစ္</string>
+<string name="confirmPinLabel">PINအသစ်ကိုအတည်ြပု</string>
+<string name="badPin">"သင္ရိုက္သည့္ PIN အေဟာင္းသည္ မမွန္ပါ. ထပ္ၾကိဳးစားပါ"</string>
+<string name="mismatchPin">"သင္ရိုက္သည့္ PINs ကို လိုက္ဖက္ ကိုက္ညီေအာင္ယွဥ္တြဲ၍ မရပါ ေနာက္မွ ထပ္ၾကိဳးစားပါ"</string>
+<string name="invalidPin">နံပါတ္ 4 မွ 8 အထိ႐ွိေသာ PIN ကို ႐ိုက္ပါ</string>
+<string name="disable_sim_pin">SIM PIN ကို ပိတ္မည္</string>
+<string name="enable_sim_pin">SIM PIN ကို ဖြင့္မည္</string>
+<string name="enable_in_progress">ေကျးဇူးြပု၍ခဏေဆာင်ပါ\u2026</string>
+<string name="enable_pin_ok">"SIM PIN ေထာက္ပ့ံသည္ "</string>
+<string name="disable_pin_ok">"SIM PIN မေထာက္ပ့ံပါ"</string>
+<string name="pin_failed">"သင္ရိုက္သည့္ PIN သည္ မမွန္ပါ"</string>
+<string name="pin_changed">"SIM PIN ေအာင္ျမင္စြာေျပာင္းလဲခဲ့သည္"</string>
+<string name="puk_requested">စကားဝွက္မမွန္ကန္ပါ၊ SIM ေသာ့ခတ္ထားသည္! PUK2 ေတာင္းဆိုျပီး</string>
+<string name="oldPin2Label">္PIN2 အေဟာင္း</string>
+<string name="newPin2Label">PIN2 အသစ္</string>
+<string name="confirmPin2Label">PIN2အသစ်ကိုအတည်ြပု</string>
+<string name="badPuk2">"သင္ရိုက္သည့္ PUK2 မမွန္.ထပ္ျကိုးစားပါ."</string>
+<string name="badPin2">" သင္ရိုက္သည့္  အေဟာင္း PIN ၂ သည္ မွားသည္ ထပ္ၾကိဳးစားပါ "</string>
+<string name="mismatchPin2">"သင္ရိုက္သည့္ PIN2s ကို လိုက္ဖက္ ကိုက္ညီေအာင္ ယွဥ္တြဲ၍ မရပါ ေနာက္မွ ထပ္ၾကိဳးစားပါ"</string>
+<string name="invalidPin2">နံပါတ္ 4 မွ 8 အထိ႐ွိေသာ PIN2 ကို ႐ိုက္ပါ</string>
+<string name="invalidPuk2">နံပါတ္ 8 အထိ႐ွိေသာ PUK2 ကို ႐ိုက္ပါ</string>
+<string name="pin2_changed">"PIN ၂ ေအာင္ျမင္စြာေျပာင္းလဲခဲ့သည္"</string>
+<string name="label_puk2_code">PUK2 ကုဒ္ကို ႐ိုက္ပါ</string>
+<string name="fdn_enable_puk2_requested">"စကား၀ွက္ မမွန္ပါ PUK ၂ ကို ေျပာင္းလဲၿပီး ထပ္ၾကိဳးစားပါ"</string>
+<string name="puk2_requested">"စကား၀ွက္ မမွန္ပါ SIM ေလာ့ခ္ထားသည္ PUK ၂ ကို ေတာင္းဆိုသည္"</string>
+<string name="doneButton">"ျပီးျပီ"</string>
+<string name="caller_manage_header">အုပ္စုလိုက္ ဖုန္းေခၚဆိုမႈ <xliff:g id="conf_call_time">%s</xliff:g></string>
+<string name="voicemail_settings_number_label">အသံေမးလ္နံပါတ္</string>
+<string name="card_title_dialing">ေခၚဆိုေနဆဲ</string>
+<string name="card_title_redialing">ျပန္ၾကိဳးစားဆဲ</string>
+<string name="card_title_conf_call">ညီလာခံcall</string>
+<string name="card_title_incoming_call">ဖုန်းအဝင်</string>
+<string name="card_title_call_ended">ေြပာြပီး</string>
+<string name="card_title_on_hold">ကိုင္ထားလွ်င္</string>
+<string name="card_title_hanging_up">ဖုန္းခ်လိုက္</string>
+<string name="card_title_in_call">ဖုန္းေျပာေနသည္</string>
+<string name="card_title_my_phone_number">ကၽြႏ္ုပ္၏ နံပါတ္မွာ <xliff:g id="my_phone_number">%s</xliff:g> ျဖစ္သည္</string>
+<string name="notification_dialing">ေခၚဆိုေနဆဲ</string>
+<string name="notification_missedCallTitle">မေျဖဆိုထားေသာဖုန္း</string>
+<string name="notification_missedCallsTitle">လြတ္သြားေသာဖုန္း</string>
+<string name="notification_missedCallsMsg">မေျဖဆိုထားေသာ ဖုန္းမ်ား <xliff:g id="num_missed_calls">%s</xliff:g></string>
+<string name="notification_missedCallTicker"><xliff:g id="missed_call_from">%s</xliff:g> ထံမွ မကိုင္ထားေသာ ဖုန္း</string>
+<string name="notification_ongoing_call">"အထြက္ေခၚဆိုမႈဖုန္း"</string>
+<string name="notification_on_hold">ကိုင္ထားလွ်င္</string>
+<string name="notification_incoming_call">ဖုန်းအဝင်</string>
+<string name="notification_voicemail_title">အသံေမးလ္အသစ္</string>
+<string name="notification_voicemail_title_count">အသံေမးလ္အသစ္ (<xliff:g id="count">%d</xliff:g>) ခု</string>
+<string name="notification_voicemail_text_format"><xliff:g id="voicemail_number">%s</xliff:g> ကို ေခၚဆိုမည္</string>
+<string name="notification_voicemail_no_vm_number">အမည္မသိအသံေမးလ္နံပါတ္</string>
+<string name="notification_network_selection_title">ဝန်ေဆာင်မှုအင်တာနက်မရှိ</string>
+<string name="notification_network_selection_text">ေ႐ြးခ်ယ္ထားေသာ (<xliff:g id="operator_name">%s</xliff:g>)ကြန္ယက္ မရ႐ွိႏုိင္ပါ</string>
+<string name="notification_action_end_call">"ဖုန္းခ်မည္"</string>
+<string name="notification_missedCall_call_back">ျပန္ေခၚမည္</string>
+<string name="notification_missedCall_message">မက္ေဆ့ခ်္</string>
+<string name="incall_error_power_off">ဖုန္းေခၚဆုိမႈထား႐ွိရန္ ဦးစြာ ေလယာဥ္ပ်ံသန္းစဥ္ပံုစံကို အရင္ပိတ္ပါ</string>
+<string name="incall_error_emergency_only">ကြန္ယက္တြင္ စာရင္းမသြင္းရေသးပါ</string>
+<string name="incall_error_out_of_service">မိုဘိုင္းကြန္ယက္မရ႐ွိႏုိင္ပါ</string>
+<string name="incall_error_no_phone_number_supplied">မေခၚဆိုပါ၊ မမွန္ကန္ေသာ နံပါတ္အ၀င္ျဖစ္သည္</string>
+<string name="incall_error_call_failed">ဖုန္းေခၚဆုိမႈမပို႔ပါ</string>
+<string name="incall_status_dialed_mmi">MMI အတြဲစတင္ေနဆဲ\u2026</string>
+<string name="incall_error_supp_service_unknown">အေထာက္အပံ့မေပးေသာ ၀န္ေဆာင္မႈ</string>
+<string name="incall_error_supp_service_switch">ေခၚဆိုမႈမ်ား ေျပာင္းလဲရန္ မျဖစ္ႏုိင္ပါ</string>
+<string name="incall_error_supp_service_separate">ေခၚဆိုမႈခြဲျခားရန္ မျဖစ္ႏုိင္ပါ</string>
+<string name="incall_error_supp_service_transfer">ေခၚဆိုမႈေပးပို႔ရန္ မျဖစ္ႏုိင္ပါ</string>
+<string name="incall_error_supp_service_conference">မျဖစ္ႏုိင္ပါ</string>
+<string name="incall_error_supp_service_reject">ေခၚဆိုမႈပယ္ခ်ရန္ မျဖစ္ႏုိင္ပါ</string>
+<string name="incall_error_supp_service_hangup">ေခၚဆိုမႈ ရန္ မျဖစ္ႏုိင္ပါ</string>
+<string name="incall_call_type_label_sip">အင္တာနက္ဖုန္းေခၚဆိုမႈ</string>
+<string name="emergency_enable_radio_dialog_title">အေရးေပါ ္ဖုန္း</string>
+<string name="emergency_enable_radio_dialog_message">ေရဒီယိုဖြင့္ေနဆဲ\u2026 </string>
+<string name="emergency_enable_radio_dialog_retry">ဆားဗစ္ဧရိယာတြင္းမ႐ွိ၊ ျပန္ၾကိဳးစားဆဲ\u2026</string>
+<string name="dial_emergency_error">"ဖုန္းေခၚ၍ မရပါ <xliff:g id="non_emergency_number">%s</xliff:g> အေရးေပၚနံပါတ္ မဟုတ္ပါ!"</string>
+<string name="dial_emergency_empty_error">"ဖုန္းေခၚ၍ မရပါ အေရးေပၚနံပါတ္ သို႕ ဆက္သြယ္ပါ!"</string>
+<string name="dialerKeyboardHintText">ႏွိပ္ရန္ ကီးဘုတ္ကို သံုးမည္</string>
+<string name="onscreenHoldText">ေစာင့်ဆိုင်းေန</string>
+<string name="onscreenEndCallText">ၿပီးဆုံး</string>
+<string name="onscreenShowDialpadText">ဖုန္းေခါ ္ပက္</string>
+<string name="onscreenMuteText">အသံတိတ်</string>
+<string name="onscreenAddCallText">ေခၚဆိုမႈထည့္မည္</string>
+<string name="onscreenMergeCallsText">အတူတကြေချေသာ</string>
+<string name="onscreenSwapCallsText">ေျပာင္းလျ</string>
+<string name="onscreenManageCallsText">ဖုန္းေခၚဆိုမႈမ်ားကို စီစဥ္ပါ</string>
+<string name="onscreenManageConferenceText">စီစဥ္ပါ</string>
+<string name="onscreenAudioText">"အသံ"</string>
+<string name="onscreenVideoCallText">ဗီဖုန္း</string>
+<string name="importSimEntry">Import</string>
+<string name="importAllSimEntries">အားလံုးကို သြင္းယူမည္</string>
+<string name="importingSimContacts">SIM လိပ္စာမ်ားကို သြင္းယူေနဆဲ</string>
+<string name="importToFDNfromContacts">လိပ္စာမ်ားမွ သြင္းယူပါ</string>
+<string name="hac_mode_title">အေထာက္အကူျပဳနားၾကပ္မ်ား</string>
+<string name="hac_mode_summary">အၾကားဆိုင္ရာေထာက္ပံ့မႈကို ဖြင့္ပါ</string>
+<string-array name="tty_mode_entries">
+<item>TTY ပိတ္ထားသည္</item>
+<item>TTY ျပည့္သည္</item>
+<item>"TTY HCO"</item>
+<item>"TTY VCO"</item>
+</string-array>
+<string name="dtmf_tones_title">ီDTMF တီးလံုးမ်ား</string>
+<string name="dtmf_tones_summary">DTMF တီးလံုးမ်ား၏ ၾကာခ်ိန္ကို ထား႐ွိပါ</string>
+<string-array name="dtmf_tone_entries">
+<item>ပံုမွန္</item>
+<item>႐ွည္</item>
+</string-array>
+<string name="network_message">ကြန္ယက္မက္ေဆ့ခ်္</string>
+<string name="ota_title_activate">သင့္ဖုန္းကို ဖြင့္ပါ</string>
+<string name="ota_touch_activate">"သင့္ဖုန္း ၀န္ေဆာင္မွုကို တုန့္ျပန္ရန္ အထူးဖုန္း ေခါ ္ဆိုမွု တစ္ခု ျပဳလုပ္ရန္လိုအပ္သည္. \n\nနွိပ္ဖိျခင္း ျပီးေနာက္ \U201C အတည္ျပဳသည္ \u201D သင့္ဖုန္းကို အသက္သြင္းရန္ ေဖါ ္ျပသည့္ သင္ျကားပို့ခ်မွုမ်ားကို နားေထာင္ပါ."</string>
+<string name="ota_skip_activation_dialog_title">လုပ္ေဆာင္ခ်က္ကို ေက်ာ္မလား?</string>
+<string name="ota_skip_activation_dialog_message">ဖြင့္ျခင္းကို ေက်ာ္မည္ဆိုပါက ေခၚဆိုမႈမ်ားကို ထား၍မရပါ။ မိုဘိုင္းေဒတာကြန္ယက္မ်ားသို႔ ခ်ိတ္ဆက္၍မရပါ (Wi-Fi ကြန္ယက္မ်ားသို႔ ခ်ိတ္ဆက္၍ရေသာ္လည္း)။ သင့္ဖုန္းကို မဖြင့္မီ အျမဲတမ္းဖြင့္ရန္ ေမးလိမ့္မည္။</string>
+<string name="ota_skip_activation_dialog_skip_label">ေက်ာ္မည္</string>
+<string name="ota_activate">"စလုပ်"</string>
+<string name="ota_title_activate_success">"ဖုန္းကို အသက္သြင္းသည္."</string>
+<string name="ota_title_problem_with_activation">ဖြင့္ရာတြင္ ျပႆနာ႐ွိသည္</string>
+<string name="ota_listen">၄င္းလုပ္ေဆာင္ခ်က္ျပီးဆံုးျပီဟု မၾကားမခ်င္း စကားေျပာလမ္းညႊန္ခ်က္မ်ားကို လုိက္နာပါ</string>
+<string name="ota_speaker">စပီကာ</string>
+<string name="ota_progress">"သင့္ဖုန္းအား ဟတ္ဒ္၀ဲလ္ပရိုဂရမ္ဆြဲေနခ်ိန္တြင္ ေစာင့္ပါ."</string>
+<string name="ota_failure">အစီအစဥ္ျပဳလုပ္ျခင္းမေအာင္ျမင္ပါ</string>
+<string name="ota_successful">"သင့္ဖုန္းကို ယခု အသက္သြင္းေနသည္. ၀န္ေဆာင္မႈျပန္စတင္ရန္ ၁၅မိနစ္ခန့္ အခ်ိန္ယူလိမ့္မည္."</string>
+<string name="ota_unsuccessful">"ဖုန္းအသက္သြင္း၍မရပါ \n (၀င္းဒိုးပတ္၀န္းက်င္ သို့မဟုတ္ ျပင္ပတြင္) အကာအကြယ္ ေနရာကို ရွာရန္လိုအပ္သည္. \n\n ေရြးခ်ယ္စရာမ်ား အတြက္ ထပ္ျကိဳးစားပါ (သို့) ေဖာက္သည္ ၀န္ေဆာင္မွု ကို ဖုန္းေခါ ္ဆိုပါ.."</string>
+<string name="ota_spc_failure">SPC အေျမာက္အျမား မေအာင္ျမင္မႈမ်ား </string>
+<string name="ota_call_end">"ေနာက္သို႔"</string>
+<string name="ota_try_again">ျပန္ၾကိဳးစားပါ</string>
+<string name="ota_next">ေနာက်တစ်လမ်း</string>
+<string name="phone_entered_ecm_text">အေရးေပၚျပန္လည္ေခၚဆိုသည့္ ပံုစံကို ထည့္ျပီး</string>
+<string name="phone_in_ecm_notification_title">အေရးေပၚျပန္လည္ေခၚဆိုသည့္ပံုစံ</string>
+<string name="phone_in_ecm_call_notification_text">ေဒတာခ်ိတ္ဆက္မႈပိတ္ျပီး</string>
+<plurals name="phone_in_ecm_notification_time">
+<item quantity="one"><xliff:g id="count">%s</xliff:g> မိနစ္တြင္း ေဒတာခ်ိတ္ဆက္မႈမ႐ွိပါ</item>
+<item quantity="other"><xliff:g id="count">%s</xliff:g> မိနစ္တြင္း ေဒတာခ်ိတ္ဆက္မႈမ႐ွိပါ</item>
+</plurals>
+<plurals name="alert_dialog_exit_ecm">
+<item quantity="one">"ဤဖုန္းသည္ အေရးေပၚဖုန္း ျပန္ေခၚသည့္ မုတ္အတြက္ ျဖစ္လိမ့္မည္ <xliff:g id="count">%s</xliff:g> မိနစ္. ဤမုတ္ ေဒတာ ခ်ိတ္ဆက္မႈကို သံုးႏိုင္သည့္ ေအပီပီမ်ား မရွိလွ်င္ သံုးႏိုင္သည္. ယခု သင္ပိတ္လိုပါသလား?"</item>
+<item quantity="other">"ဤဖုန္းသည္ အေရးေပၚဖုန္း ျပန္ေခၚသည့္ မုတ္အတြက္ ျဖစ္လိမ့္မည္ <xliff:g id="count">%s</xliff:g> မိနစ္မ်ား. ဤမုတ္ေဒတာခ်ိတ္ဆက္မႈကို သံုးႏိုင္သည့္ ေအပီပီမ်ား မရွိလွ်င္သံုးႏိုင္သည္. ယခု သင္ပိတ္လိုပါသလား?"</item>
+</plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="one">"အေရးေပၚဖုန္း ျပန္ေခၚသည့္ မုတ္သံုးခ်ိန္တြင္ ေရြးခ်ယ္ထားသည့္ကိစၥကို မေထာက္ပံ့ႏိုင္ပါ. ဖုန္းသည္ ဤမုတ္တြင္ရွိလိမ့္မည္ အတြက္  <xliff:g id="count">%s</xliff:g>  မိနစ္. ယခု သင္ပိတ္လိုပါသလား?"</item>
+<item quantity="other">"အေရးေပၚဖုန္း ျပန္ေခၚသည့္ မုတ္သံုးခ်ိန္တြင္ ေရြးခ်ယ္ထားသည့္ကိစၥကို မေထာက္ပံ့ႏိုင္ပါ. ဖုန္းသည္ ဤမုတ္တြင္ရွိလိမ့္မည္ အတြက္  <xliff:g id="count">%s</xliff:g> မိနစ္မ်ား. ယခု သင္ပိတ္လိုပါသလား?"</item>
+</plurals>
+<string name="alert_dialog_in_ecm_call">"အေရးေပၚဖုန္းေခၚဆိုခ်ိန္တြင္ ဤကိစၥကို မေဆာင္ရြက္ႏိုင္ပါ"</string>
+<string name="progress_dialog_exiting_ecm">လက္႐ွိအေရးေပၚျပန္လည္ေခၚဆိုမႈပံုစံ</string>
+<string name="alert_dialog_yes">လုပ္မည္</string>
+<string name="alert_dialog_no">"မလုပ္ပါ"</string>
+<string name="alert_dialog_dismiss">ခ်န္လွပ္ထားသည္</string>
+<string name="voicemail_provider">"၀န္ေဆာင္မႈ "</string>
+<string name="voicemail_settings">"အသံေမးလ္အဆင္အျပင္မ်ား"</string>
+<string name="voicemail_number_not_set">"ဆက္တင္မရွိ"</string>
+<string name="other_settings">အျခားဖုန္းေခၚဆိုမႈအဆင္အျပင္မ်ား</string>
+<string name="calling_via_template">"မွတစ္ဆင့္ ေခၚျခင္း <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">ဖုန္းလိပ္စာဓာတ္ပံု</string>
+<string name="goPrivate">သီးသန္႔ သို႔သြားပါ</string>
+<string name="selectContact">"လိပ္စာေ႐ြးခ်ယ္ပါ"</string>
+<string name="sip_settings">အင္တာနက္ဖုန္းေခၚဆိုမႈအဆင္အျပင္မ်ား</string>
+<string name="sip_accounts">အင္တာနက္ဖုန္းေခၚဆိုျခင္း(SIP)အေကာင့္မ်ား</string>
+<string name="sip_accounts_title">အေကာင့္မ်ား</string>
+<string name="sip_receive_calls">အဝင္ေခၚဆိုမႈမ်ားကို လက္ခံမည္</string>
+<string name="sip_receive_calls_summary">ဘက္ထရီသက္တမ္းေလွ်ာ့ခ်ေစသည္</string>
+<string name="sip_call_options_title">အင္တာနက္ျဖင့္ ေခၚဆိုမႈကို အသံုးျပဳပါ</string>
+<string name="sip_call_options_wifi_only_title">အင္တာနက္ေခၚဆိုမႈ (Wi-Fi သာ) အသံုးျပဳပါ</string>
+<string name="sip_call_options_entry_1">ေဒတာကြန္ယက္ရ႐ွိႏုိင္ပါက ဖုန္းေခၚဆိုမႈအားလံုးအတြက္</string>
+<string name="sip_call_options_entry_2">အင္တာနက္ေခၚဆိုမႈမ်ားအတြက္သာ</string>
+<string name="sip_call_options_entry_3">ေခၚဆိုမႈတိုင္းကို ေမးပါ</string>
+<string name="sip_call_options_wifi_only_entry_1">ဖုန္းေခၚဆိုမႈအားလံုးအတြက္</string>
+<string name="pick_outgoing_call_phone_type">ဖုန္းေခၚဆိုမႈထား႐ွိခ်က္</string>
+<string name="pick_outgoing_sip_phone">အင္တာနက္ေခၚဆိုမႈအေကာင့္အသံုးျပဳပါ:</string>
+<string name="remember_my_choice">အင္တာနက္ေခၚဆိုမႈျပဳလုပ္ရန္ အျမဲတမ္းသံုးပါ</string>
+<string name="reset_my_choice_hint">"ဖုန္း &amp;gt; ဆက္တင္မ်ား &amp;gt; အင္တာနက္ဖုန္း ဆက္တင္မ်ား &amp;gt;အေကာင့္မ်ား လိုက္ကာ မွ ဒီေဖါ့အားျဖင့္ သံုးရန္ အင္တာနက္ ေခါ ္ဆိုမွု အေကာင့္ ကို ေျပာင္းနိုင္သည္."</string>
+<string name="pstn_phone">ဆဲလ္ဖုန္းေခၚဆိုမႈ</string>
+<string name="internet_phone">အင္တာနက္ဖုန္းေခၚဆိုမႈ</string>
+<string name="no_sip_account_found_title">အင္တာနက္ေခၚဆိုမႈအေကာင့္မ႐ွိပါ</string>
+<string name="no_sip_account_found">"ဤဖုန္းတြင္ အင္တာနက္ ဖုန္းအေကာင့္ မရွိပါ. ယခု တစ္ခု ထည့္လိုပါသလား?"</string>
+<string name="sip_menu_add">ထည့္ပါ</string>
+<string name="add_sip_account">အေကာင့္ကို ထည့္မည္</string>
+<string name="remove_sip_account">အေကာင့္ကို ဖယ္႐ွားမည္</string>
+<string name="sip_account_list">SIP အေကာင့္မ်ား</string>
+<string name="saving_account">"အေကာင့္ကို သိမ္းျခင္း…"</string>
+<string name="removing_account">"အေကာင့္ကို ဖယ္ျခင္း…"</string>
+<string name="sip_menu_save">စုထားသည်</string>
+<string name="sip_menu_discard">"ျဖတ္ခ်မည္"</string>
+<string name="alert_dialog_close">ပ႐ိုဖိုင္ကို ပိတ္ပါ</string>
+<string name="alert_dialog_ok">"လုပ္မည္"</string>
+<string name="close_profile">"ပိတ္ပါ။"</string>
+<string name="primary_account_summary_with">ပထမဦးစားေပးအေကာင့္  <xliff:g id="registration_status" example="Registering...">%s</xliff:g></string>
+<string name="registration_status_checking_status">အေျခအေနကို စစ္ေဆးေနဆ...</string>
+<string name="registration_status_registering">"မွတ္ပံုတင္ျခင္း…"</string>
+<string name="registration_status_still_trying">"ၾကိဳးစားေနတုန္း…"</string>
+<string name="registration_status_not_receiving">"လက္ခံထားသည့္ဖုန္းမ်ား မရွိပါ."</string>
+<string name="registration_status_no_data">"အင္တာနက္ ခ်ိတ္ဆက္မႈမရွိေသာေၾကာင့္ အေကာင့္ မွတ္ပံုတင္ျခင္း ပိတ္ထားသည္."</string>
+<string name="registration_status_no_wifi_data">"Wi-Fi  ခ်ိတ္ဆက္မႈ မရွိေသာေၾကာင့္ အေကာင့္ မွတ္ပံုတင္ျခင္း ပိတ္ထားသည္. "</string>
+<string name="registration_status_not_running">"အေကာင့္ မွတ္ပံုတင္ျခင္း မေအာင္ျမင္ပါ."</string>
+<string name="registration_status_done">"ဖုန္းေခၚဆိုမႈမ်ားကို လက္ခံျခင္း."</string>
+<string name="registration_status_failed_try_later">အေကာင့္မွတ္ပံုတင္ျခင္းမေအာင္ျမင္: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>)၊ ေနာက္မွျပန္ၾကိဳးစားၾကည့္ပါ</string>
+<string name="registration_status_invalid_credentials">"အေကာင့္ မွတ္ပံုတင္ျခင္း မေအာင္ျမင္ပါ: သံုးစြဲသူအမည္ (သို႕) စကား၀ွက္မမွန္ပါ."</string>
+<string name="registration_status_server_unreachable">"အေကာင့္ မွတ္ပံုတင္ျခင္း မေအာင္ျမင္ပါ: ဆာဗာအမည္ကို စစ္ေဆးပါ."</string>
+<string name="third_party_account_summary">"ဤအေကာင့္ကိုယခုသံုးစြဲေန <xliff:g id="account_owner" example="Google Talk">%s</xliff:g> ေအပီပီ."</string>
+<string name="sip_edit_title">SIP အေကာင့္အေသးစိတ္</string>
+<string name="sip_edit_new_title">SIP အေကာင့္အေသးစိတ္</string>
+<string name="domain_address_title">ဆာဗာ</string>
+<string name="username_title">အသံုးျပဳသူအမည္</string>
+<string name="password_title">စကား၀ွက္</string>
+<string name="display_name_title">အမည္ျပသပါ</string>
+<string name="proxy_address_title">ျပင္ပအထြက္ၾကားခံလိပ္စာ</string>
+<string name="port_title">ဝင္ေပါက္နံပါတ္</string>
+<string name="transport_title">ေပးပို႔သည့္ အမ်ိဳးအစား</string>
+<string name="send_keepalive_title">ပစၥည္းႏွစ္ခုအၾကားခ်ိတ္ဆက္မႈအေျခအေနကို စစ္ေဆးသည့္မက္ေဆ့ခ်္ပို႔မည္</string>
+<string name="set_primary_title">ပထမဦးစားေပးအေကာင့္အျဖစ္ထား႐ွိပါ</string>
+<string name="set_primary_summary">ဖုန္းစင္တာအစား ဖုန္းစင္တာေအးဂ်င့္မွ ေဖာက္သည္ဆီသို႔ ဖုန္းေခၚဆိုျခင္းကို အသံုးျပဳျပီး</string>
+<string name="advanced_settings">ေ႐ြးခ်ယ္မႈအဆင္အျပင္မ်ား</string>
+<string name="auth_username_title">အတည္ျပဳမည့္ အသံုးျပဳသူအမည္</string>
+<string name="auth_username_summary">အတည္ျပဳခ်က္အတြက္ အသံုးျပဳသူအမည္ကို အသံုးျပဳျပီး</string>
+<string name="default_preference_summary"></string>
+<string name="display_name_summary">"သံုးစြဲသူအမည္တူ"</string>
+<string name="optional_summary">"ရြးခ်ယ္၍"</string>
+<string name="advanced_settings_show">▷ အားလံုးကို ျပသရန္ ႏွိပ္ပါ</string>
+<string name="advanced_settings_hide">▽ အားလံုးကို ေဖ်ာက္ထားရန္ ႏွိပ္ပါ</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> လိုအပ္သည္ ဗလာထားမရ."</string>
+<string name="not_a_valid_port">"ေပါ့နံပါတ္ ၁၀၀၀ မွ ၆၅၅၃၄ အတြင္း ျဖစ္သင့္သည္."</string>
+<string name="no_internet_available_title">အင္တာနက္ခ်ိတ္ဆက္မႈမ႐ွိပါ</string>
+<string name="no_wifi_available_title">Wi-Fi ခ်ိတ္ဆက္မႈမ႐ွိ</string>
+<string name="no_internet_available">"အင္တာနက္ဖုန္းေခၚဆိုရန္၊ ပထမဦးဆံုး အင္တာနက္ ကြန္ရက္ ခ်ိတ္ဆက္ထား ရွိမႈကို စစ္ေဆးပါ."</string>
+<string name="no_wifi_available">" အင္တာနက္ဖုန္းအတြက္ Wi-Fi ကြန္ရက္လိုအပ္ (ျကိုးမဲ့ &amp; ကြန္ရက္ဆက္တင္မ်ား သံုးပါ)."</string>
+<string name="no_voip">အင္တာနက္ဖုန္းေခၚဆိုမႈအား အေထာက္အပံ့မေပးပါ</string>
+<string name="sip_system_decide">"အလိုအေလ်ာက္"</string>
+<string name="sip_always_send_keepalive">အျမဲေပးပို႔ပါ</string>
+<string name="not_voice_capable">အသံေခၚဆိုမႈအား အေထာက္အပံ့မေပးပါ</string>
+<string name="respond_via_sms_canned_response_1">အခုစကားေျပာလို႔မရေသးဘူး။ ဘာကိစၥ႐ွိလို႔လဲ?</string>
+<string name="respond_via_sms_canned_response_2">ခ်က္ခ်င္းျပန္ေခၚလိုက္မယ္။</string>
+<string name="respond_via_sms_canned_response_3">ေနာက္မွျပန္ေခၚလိုက္မယ္။</string>
+<string name="respond_via_sms_canned_response_4">အခုစကားေျပာလို႔မရေသးဘူး။ ေနာက္မွျပန္ေခၚမလား?</string>
+<string name="respond_via_sms_custom_message">"ေရးပါ သင့္ကိုယ္ပိုင္ ..."</string>
+<string name="custom_message_cancel">"မလုပ္ပါ"</string>
+<string name="custom_message_send">ပို ့</string>
+<string name="respond_via_sms_setting_title">အျမန္ေျဖၾကားခ်က္မ်ား</string>
+<string name="respond_via_sms_setting_title_2">အျမန္ျပန္ၾကားခ်က္မ်ားတည္းျဖတ္ပါ</string>
+<string name="respond_via_sms_edittext_dialog_title">"အျမန္ေျဖၾကားခ်က္မ်ား"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"ဒီေဖါ့ ေအပီပီ ဆက္တင္ျပန္လုပ္"</string>
+<string name="respond_via_sms_confirmation_format"><xliff:g id="phone_number">%s</xliff:g> သို႔ ေပးပို႔ျပီး။</string>
+<string name="description_image_button_one">တစ္ခု</string>
+<string name="description_image_button_two">ႏွစ္</string>
+<string name="description_image_button_three">သံုး</string>
+<string name="description_image_button_four">ေလး</string>
+<string name="description_image_button_five">ငါး</string>
+<string name="description_image_button_six">ေျခာက္</string>
+<string name="description_image_button_seven">ခုနစ္</string>
+<string name="description_image_button_eight">ၢ႐ွစ္</string>
+<string name="description_image_button_nine">ကိုး</string>
+<string name="description_image_button_star">ၾကယ္</string>
+<string name="description_image_button_zero">သုည</string>
+<string name="description_image_button_pound">ေပါင္</string>
+<string name="description_dial_button">ဖုန္းေခါ ္</string>
+<string name="description_delete_button">ေနာက္သို႔</string>
+<string name="accessibility_speakerphone_enabled">စပီကာဖုန္းဖြင့္ျပီး။</string>
+<string name="accessibility_call_muted">ေခၚဆိုမႈအား အသံတိတ္ထားသည္။</string>
+<string name="description_target_answer">တံု့ျပန္မှု။ </string>
+<string name="description_target_send_sms">SMS ပို႔ပါ</string>
+<string name="description_target_decline">ပယ္ခ်ပါ</string>
+<string name="description_direction_up">"<xliff:g example="Unlock" id="target_description">%s</xliff:g>အတြက္။"</string>
+<string name="description_direction_left">""<xliff:g example="Unlock" id="target_description">%s</xliff:g>အတြက္ ဘယ္ဘက္။"</string>
+<string name="description_direction_right">"<xliff:g example="Unlock" id="target_description">%s</xliff:g> အတြက္ ညာဘက္။"</string>
+<string name="voicemail_notification_vibrate_when_title">Vibrate</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">Vibrate</string>
+<string name="voicemail_notification_ringtone_title">အသံ</string>
+<string name="default_notification_description">"ဒီေဖါ့ အသံ (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">ဖုန္းတီးလံုး</string>
+<string name="vibrate_on_ring_title">"အသံျမည္လွ်င္တုန္ျခင္း"</string>
+<string name="dtmf_tone_enable_title">ထိသည့္အသံမ်ားၾကားႏိုင္မႈ</string>
+<string name="dial_pad_autocomplete">"ဖုန္းေခါ ္ပက္ ေအာ္တိုျဖည့္"</string>
+<string name="preference_category_ringtone">"ဖုန္းျမည္သံတုန္ခါသံ"</string>
+<string name="manageConferenceLabel">ႏွစ္ဦးအထက္ေျပာဆိုႏိုင္ေသာ ဖုန္းေခၚဆိုမႈကို စီစဥ္ပါ</string>
+<string name="emergency_call_dialog_number_for_display">အေရးေပၚနံပါတ္</string>
+ 
+ 
+</resources>

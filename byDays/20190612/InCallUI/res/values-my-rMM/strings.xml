@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">ဖုန္း</string>
+<string name="onHold">"ကိုင္ထားလွ်င္"</string>
+<string name="unknown">"မသိ"</string>
+<string name="private_num">"သီးသန္႔ကိုယ္ပိုင္ နံပါတ္"</string>
+<string name="payphone">"ၾကိဳတင္ေငြေပးဖုန္း"</string>
+<string name="callFailed_userBusy">"လိုင္းမအားပါ"</string>
+<string name="callFailed_congestion">"ကြန္ရက္မရွိ"</string>
+<string name="callFailed_timedOut">"တုန္႔ျပန္မႈမ႐ွိ၊ အခ်ိန္ျပည့္သြားျပီ"</string>
+<string name="callFailed_server_unreachable">"ဝန္ေဆာင္မႈ မေရာက္ရွိႏိုင္ပါ"</string>
+<string name="callFailed_number_unreachable">"နံပါတ္ ဖတ္၍မရပါ"</string>
+<string name="callFailed_invalid_credentials">"သံုးစြဲသူ အမည္ (သို႕) စကားဝွက္ မမွန္ပါ"</string>
+<string name="callFailed_out_of_network">"ကြန္ရက္ ျပင္ပမွ ဖုန္းေခၚသည္"</string>
+<string name="callFailed_server_error">"ဆာဗာအမွားျပေနသည္၊ ေနာက္မွတစ္ဖန္ၾကိဳးစားၾကည့္ပါ"</string>
+<string name="callFailed_noSignal">"အခ်က္ျပျခင္းမရွိပါ"</string>
+<string name="callFailed_limitExceeded">"ACM ကန္႕သတ္ခ်က္ ထက္ ေက်ာ္ေနသည္"</string>
+<string name="callFailed_powerOff">"ေရဒီယိုပိတ္ထားသည္"</string>
+<string name="callFailed_simError">"SIM မရွိပါ (သို႕) SIM အမွား"</string>
+<string name="callFailed_outOfService">"၀န္ေဆာင္မႈ ဧရိယာျပင္ပ"</string>
+<string name="callFailed_fdn_only">"ပံုေသနံပါတ္ေခၚဆိုမႈက အထြက္ေခၚဆိုမႈမ်ားကို တားျမစ္ထားသည္"</string>
+<string name="callFailed_cb_enabled">"ဖုန္းဘဲရင္းဖြင့္ထားလွ်င္၊ အထြက္ဖုန္းေခၚဆို၍မရႏုိင္ပါ."</string>
+<string name="callFailed_dsac_restricted">"၀င္ခြင့္ ထိန္းခ်ဳပ္သူမွ ဖုန္းမ်ားအားလံုးကို ကန္႕သတ္ ထားသည္ ."</string>
+<string name="callFailed_dsac_restricted_emergency">"ဝင္ခြင့္ ထိန္းခ်ဳပ္သူမွ အေရးေပၚ ဖုန္းမ်ားကို ကန္႕သတ္ထားသည္."</string>
+<string name="callFailed_dsac_restricted_normal">"ပံုမွန္ေခၚဆိုမႈမ်ားကို 1င္ခြင့္ထိန္းခ်ဳပ္မႈက တားျမစ္ထားသည္"</string>
+<string name="callFailed_unobtainable_number">"နံပါတ္ တရားမ2င္ပါ"</string>
+<string name="confCall">"ကြန္ဖရင့္ ဖုန္း"</string>
+<string name="call_lost">"ဖုန်းခေါ်မု ပျောက်ဆုံးသွားပါသည်"</string>
+<string name="ok">"အိုေက"</string>
+<string name="audio_mode_speaker">"စပီကာ"</string>
+<string name="audio_mode_earpiece">"ဟန္းဆက္နားၾကပ္"</string>
+<string name="audio_mode_wired_headset">"ၾကိဳးပါနားၾကပ္"</string>
+<string name="audio_mode_bluetooth">"ဘလူးတုသ္"</string>
+<string name="wait_prompt_str">"ေအာက္ပါတီးလံုးမ်ားပို႔မလား?\n"</string>
+<string name="pause_prompt_str">"တီးလံုးမ်ားေပးပို႔ေနသည္ \n"</string>
+<string name="send_button">"ပို ့"</string>
+<string name="pause_prompt_yes">"မွန္သည္"</string>
+<string name="pause_prompt_no">မဟုတ္ပါ</string>
+<string name="wild_prompt_str">"အကၡရာႏွင့္ အစားထိုးပါ"</string>
+<string name="caller_manage_header">"အုပ္စုလိုက္ ဖုန္းေခၚဆိုမႈ <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"အသံေမးလ္နံပါတ္"</string>
+<string name="card_title_dialing">"ေခၚဆိုေနဆဲ"</string>
+<string name="card_title_redialing">"ျပန္ႀကိဳစားေနသည္"</string>
+<string name="card_title_conf_call">"ကြန္ဖရင့္ ဖုန္း"</string>
+<string name="card_title_incoming_call">"ဖုန်းအဝင်"</string>
+<string name="card_title_call_ended">"ေခၚဆိုျခင္းျပီးဆံုး"</string>
+<string name="card_title_on_hold">"ကိုင္ထားလွ်င္"</string>
+<string name="card_title_hanging_up">"ဖုန္းခ်ေနသည္"</string>
+<string name="card_title_in_call">"ဖုန္းေျပာေနသည္"</string>
+<string name="card_title_my_phone_number">"ကၽြႏ္ုပ္၏ နံပါတ္မွာ <xliff:g id="my_phone_number">%s</xliff:g> ျဖစ္သည္"</string>
+<string name="notification_dialing">"ေခၚဆိုေနဆဲ"</string>
+<string name="notification_missedCallTitle">"မေျဖဆိုထားေသာဖုန္း"</string>
+<string name="notification_missedCallsTitle">"လြတ္သြားေသာဖုန္း"</string>
+<string name="notification_missedCallsMsg">"မေျဖဆိုထားေသာ ဖုန္းမ်ား <xliff:g id="num_missed_calls">%s</xliff:g>"</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g> ထံမွ ဖုန္းလြတ္သြားသည္။"</string>
+<string name="notification_ongoing_call">"အထြက္ေခၚဆိုမႈဖုန္း"</string>
+<string name="notification_on_hold">"ကိုင္ထားလွ်င္"</string>
+<string name="notification_incoming_call">"ဖုန်းအဝင်"</string>
+<string name="notification_voicemail_title">"အသံေမးလ္အသစ္"</string>
+<string name="notification_voicemail_title_count">"အသံေမးလ္အသစ္ (<xliff:g id="count">%d</xliff:g>) ခု"</string>
+<string name="notification_voicemail_text_format">"<xliff:g id="voicemail_number">%s</xliff:g> ကို ေခၚဆိုမည္"</string>
+<string name="notification_voicemail_no_vm_number">"အသံေမးလ္နံပါတ္ကိုမသိပါ"</string>
+<string name="notification_network_selection_title">"၀န္ေဆာင္မႈ မရွိ"</string>
+<string name="notification_network_selection_text">"ေ႐ြးခ်ယ္ထားေသာ (<xliff:g id="operator_name">%s</xliff:g>)ကြန္ယက္ မရ႐ွိႏုိင္ပါ"</string>
+<string name="notification_action_end_call">"ဖုန္းခ်မည္"</string>
+<string name="notification_missedCall_call_back">"ဖုန္းျပန္လည္"</string>
+<string name="notification_missedCall_message">မက္ေဆ့(ခ်္)</string>
+<string name="incall_error_power_off">"ဖုန္းေခၚဆုိမႈထား႐ွိရန္ ဦးစြာ ေလယာဥ္ပ်ံသန္းမႈပံုစံကို အရင္ပိတ္ပါ"</string>
+<string name="incall_error_emergency_only">"ကြန္ယက္တြင္ စာရင္းမသြင္းရေသးပါ"</string>
+<string name="incall_error_out_of_service">"မိုဘိုင္းကြန္ယက္ မရ႐ွိႏုိင္ပါ"</string>
+<string name="incall_error_no_phone_number_supplied">"ထည့္သည့္ နံပါတ္ မမွန္ျခင္းေၾကာင့္ ဖုန္းေခၚ၍ မရပါ "</string>
+<string name="incall_error_call_failed">"ေခၚဆိုမႈမေရာက္ရွိပါ"</string>
+<string name="incall_status_dialed_mmi">"MMI အတြဲစတင္ေနဆဲ\u2026"</string>
+<string name="incall_error_supp_service_unknown">"အေထာက္အပံ့မေပးေသာ 1န္ေဆာင္မႈ"</string>
+<string name="incall_error_supp_service_switch">"ေခၚဆိုမႈမ်ား ေျပာင္းလဲရန္ မျဖစ္ႏုိင္ပါ"</string>
+<string name="incall_error_supp_service_separate">"ေခၚဆိုမႈခြဲျခားရန္ မျဖစ္ႏုိင္ပါ"</string>
+<string name="incall_error_supp_service_transfer">"ေခၚဆိုမႈေပးပို႔ရန္ မျဖစ္ႏုိင္ပါ"</string>
+<string name="incall_error_supp_service_conference">"အုပ္စုလိုက္ဖုန္းေခၚဆိုမႈ မျဖစ္ႏုိင္ပါ"</string>
+<string name="incall_error_supp_service_reject">"ေခၚဆိုမႈပယ္ခ်ရန္ မျဖစ္ႏုိင္ပါ"</string>
+<string name="incall_error_supp_service_hangup">"ေခၚဆိုမႈ ရန္ မျဖစ္ႏုိင္ပါ"</string>
+<string name="incall_call_type_label_sip">"အင္တာနက္ဖုန္းေခၚဆိုမႈ"</string>
+<string name="emergency_enable_radio_dialog_title">"အေရးေပၚ ဖုန္းေခၚဆုိမႈမ်ား"</string>
+<string name="emergency_enable_radio_dialog_message">"ေရဒီယိုဖြင့္ေနသည္\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"ဆားဗစ္ဧရိယာတြင္းမ႐ွိ၊ ျပန္ၾကိဳးစားဆဲ\u2026"</string>
+<string name="dial_emergency_error">"ဖုန္းေခၚ၍ မရပါ <xliff:g id="non_emergency_number">%s</xliff:g> အေရးေပၚနံပါတ္ မဟုတ္ပါ!"</string>
+<string name="dial_emergency_empty_error">"ဖုန္းေခၚ၍ မရပါ အေရးေပၚနံပါတ္ သို႕ ဆက္သြယ္ပါ!"</string>
+<string name="dialerKeyboardHintText">"ႏွိပ္ရန္ ကီးဘုတ္ကို သံုးမည္"</string>
+<string name="onscreenHoldText">"ေစာင့်ဆိုင်းေန"</string>
+<string name="onscreenEndCallText">"ၿပီးဆုံး"</string>
+<string name="onscreenShowDialpadText">"နံပါတ္မ်က္နွာျပင္"</string>
+<string name="onscreenMuteText">"အသံတိတ်"</string>
+<string name="onscreenAddCallText">"ေခၚဆိုမႈေပါင္းထည့္မည္"</string>
+<string name="onscreenMergeCallsText">"ေခၚဆိုမႈ ေပါင္းစည္း"</string>
+<string name="onscreenSwapCallsText">"ေျပာင္းလဲ"</string>
+<string name="onscreenManageCallsText">"ဖုန္းေခၚဆိုမႈမ်ားကို စီစဥ္မည္"</string>
+<string name="onscreenManageConferenceText">"ႏွစ္ဦးအထက္ေျပာဆိုႏိုင္ျခင္းကို စီမံပါ"</string>
+<string name="onscreenAudioText">"အသံ"</string>
+<string name="onscreenVideoCallText">ဗီဒီယိုဖုန္းေခၚမႈ</string>
+<string name="voicemail_provider">"ဝန္ေဆာင္မႈ"</string>
+<string name="voicemail_settings">"အသံေမးလ္အဆင္အျပင္မ်ား"</string>
+<string name="voicemail_number_not_set">"&lt;ဆက္တင္ မလုပ္ &gt;"</string>
+<string name="other_settings">"အျခားဖုန္းေခၚဆိုမႈအဆင္အျပင္မ်ား"</string>
+<string name="calling_via_template">"မွတဆင့္ေခၚယူသည္။<xliff:g id= "provider_name" >%s</xliff:g>"</string>
+<string name="contactPhoto">"ဖုန္းအဆက္အသြယ္ဓာတ္ပံု"</string>
+<string name="goPrivate">"သီးသန္႔ သို႔သြားပါ"</string>
+<string name="selectContact">"အဆက္အသြယ္ေရြးခ်ယ္ပါ"</string>
+<string name="respond_via_sms_canned_response_1">"အခုစကားေျပာလို႔မရေသးဘူး။ ဘာကိစၥ႐ွိလို႔လဲ?"</string>
+<string name="respond_via_sms_canned_response_2">"ခ်က္ခ်င္းျပန္ေခၚလိုက္မယ္။"</string>
+<string name="respond_via_sms_canned_response_3">"ေနာက္မွျပန္ေခၚလိုက္မယ္."</string>
+<string name="respond_via_sms_canned_response_4">"အခုစကားေျပာလို႔မရေသးဘူး။ ေနာက္မွျပန္ေခၚမလား?"</string>
+<string name="respond_via_sms_custom_message">"သင့္ကိုယ္ပိုင္ ေရးပါ..."</string>
+<string name="custom_message_cancel">"မလုပ္ပါ"</string>
+<string name="custom_message_send">"ပို ့"</string>
+<string name="respond_via_sms_setting_title">"အျမန္ေျဖၾကားခ်က္မ်ား"</string>
+<string name="respond_via_sms_setting_title_2">"အျမန္ျပန္ၾကားခ်က္မ်ားကိုတည္းျဖတ္ပါ"</string>
+<string name="respond_via_sms_edittext_dialog_title">"အျမန္ေျဖၾကားခ်က္မ်ား"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"ဒီေဖါ့ ေအပီပီ ျပန္တပ္ဆင္"</string>
+<string name="respond_via_sms_confirmation_format">"<xliff:g id="phone_number">%s</xliff:g> သို႔ ေပးပို႔ျပီး။"</string>
+<string name="description_image_button_one">"တစ်"</string>
+<string name="description_image_button_two">"ႏွစ္"</string>
+<string name="description_image_button_three">"သုံး"</string>
+<string name="description_image_button_four">"လေး"</string>
+<string name="description_image_button_five">"ငါး"</string>
+<string name="description_image_button_six">"ခြောက်"</string>
+<string name="description_image_button_seven">"ခုနစ္"</string>
+<string name="description_image_button_eight">"ၢ႐ွစ္"</string>
+<string name="description_image_button_nine">"ကိုး"</string>
+<string name="description_image_button_star">"ကြယ်ခုလုတ်"</string>
+<string name="description_image_button_zero">"သုံည"</string>
+<string name="description_image_button_pound">"စတာလင်ပေါင်"</string>
+<string name="description_dial_button">"ေခၚဆိုမႈ"</string>
+<string name="description_delete_button">"ဘက္စ္စေပ့စ္"</string>
+<string name="accessibility_speakerphone_enabled">"စပီကာဖုန္းဖြင့္ျပီး။"</string>
+<string name="accessibility_call_muted">"ေခၚဆိုမႈအား အသံတိတ္ထားသည္။"</string>
+<string name="description_target_answer">"ေျဖၾကား"</string>
+<string name="description_target_send_sms">"SMS ပို႔ပါ"</string>
+<string name="description_target_decline">"ျငင္းပယ္ပါ"</string>
+<string name="description_direction_up">"<xliff:g example="Unlock" id="target_description">%s</xliff:g>အတြက္။"</string>
+<string name="description_direction_left">"<xliff:g example="Unlock" id="target_description">%s</xliff:g>အတြက္ ဘယ္ဘက္ကိုပြတ္ဆြဲပါ။"</string>
+<string name="description_direction_right">"<xliff:g example="Unlock" id="target_description">%s</xliff:g> အတြက္ ညာဘက္။"</string>
+<string name="voicemail_notification_vibrate_when_title">"တုန္ခါ"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"တုန္ခါ"</string>
+<string name="voicemail_notification_ringtone_title">"အသံ"</string>
+<string name="default_notification_description">"မူလသတ္မွတ္ အသံ (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"ဖုန္းတီးလံုး"</string>
+<string name="vibrate_on_ring_title">"အသံျမည္လွ်င္တုန္ခါျခင္း"</string>
+<string name="dtmf_tone_enable_title">"ထိသည့္အသံမ်ားၾကား"</string>
+<string name="dial_pad_autocomplete">"ဖုန္းကီးပက္ ေအာ္တိုျဖည့္"</string>
+<string name="preference_category_ringtone">"ဖုန္းျမည္သံ တုန္ခါသံ"</string>
+<string name="manageConferenceLabel">"ႏွစ္ဦးအထက္ေျပာဆိုႏိုင္ေသာ ဖုန္းေခၚဆိုမႈကို စီစဥ္ပါ"</string>
+<string name="emergency_call_dialog_number_for_display">"အေရးေပၚနံပါတ္"</string>
+</resources>

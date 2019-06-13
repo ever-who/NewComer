@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"تىلفۇن"</string>
+<string name="onHold">"داۋاملاشتۇرۇش"</string>
+<string name="unknown">"بىلىنمىگەن"</string>
+<string name="private_num">"خاس نۇمۇر"</string>
+<string name="payphone">"ئاممىۋىي تېلېفون"</string>
+<string name="callFailed_userBusy">"لىنىيە ئالدىراش"</string>
+<string name="callFailed_congestion">"تور ئالدىراش"</string>
+<string name="callFailed_timedOut">"جاۋاب يوق، ۋاقىت ئېشىپ كەتتى"</string>
+<string name="callFailed_server_unreachable">"مۇلازىمېتىرغا ئۇلىنالمىدى"</string>
+<string name="callFailed_number_unreachable">"بۇ نۇمۇرغا ئۇرغىلى بولمىدى"</string>
+<string name="callFailed_invalid_credentials">"خاتا بولغان ئىشلەتكۈچى ئىسمى ياكى مەخپىي نۇمۇر"</string>
+<string name="callFailed_out_of_network">"تور سىرتىدىن چاقىرىلىش"</string>
+<string name="callFailed_server_error">"مۇلازىمېتىر خاتا. بىر ئازدىن كېيىن قايتا سىناڭ"</string>
+<string name="callFailed_noSignal">"سىگنال يوق"</string>
+<string name="callFailed_limitExceeded">"چەكلىمىسىدىن ئېشىپ كەتتىACM"</string>
+<string name="callFailed_powerOff">"رادىئونى ئېتىش"</string>
+<string name="callFailed_simError">"كارتىدا خاتالىق كۆرۈلدىSIMكارتا يوق ياكى SIM"</string>
+<string name="callFailed_outOfService">"مۇلازىمەت رايونىدا ئەمەس"</string>
+<string name="callFailed_fdn_only">"سىرتقا ئۇرۇلغان تېلېفون مۇقىم نۇمۇر بۇرىغۇچنىڭ چەكلىمىسىگە ئۇچرايدۇ"</string>
+<string name="callFailed_cb_enabled">"سۆزلىشىش چەكلىمىسى ئۇچۇق ئەھۋالدا سىز سىرتقا تېلېفون ئۇرالمايسىز"</string>
+<string name="callFailed_dsac_restricted">"بارلىق سۆزلىشىش زىيارەت كونتىروللىقىنىڭ چەكلىمىسىگە ئۇچرايدۇ"</string>
+<string name="callFailed_dsac_restricted_emergency">"جىددىي سۆزلىشىش زىيارەت كونتىروللىقىنىڭ چەكلىمىسىگە ئۇچرايدۇ"</string>
+<string name="callFailed_dsac_restricted_normal">"نورمال سۆزلىشىش زىيارەت كونتىروللىقىنىڭ چەكلىمىسىگە ئۇچرايدۇ"</string>
+<string name="callFailed_unobtainable_number">"ئىناۋەتسىز نۇمۇر"</string>
+<string name="confCall">"تېلېفون يىغىنى"</string>
+<string name="call_lost">"سۆزلىشىش ئۈزۈلدى"</string>
+<string name="ok">"مۇقىملاش"</string>
+<string name="audio_mode_speaker">"ياڭراتقۇ"</string>
+<string name="audio_mode_earpiece">"تېلېفون تىڭشىغۇچى"</string>
+<string name="audio_mode_wired_headset">"سىملىق تىڭشىغۇچ"</string>
+<string name="audio_mode_bluetooth">"يېشىل چىش"</string>
+<string name="wait_prompt_str">"\nتۆۋەندىكى ئاۋازلارنى ئەۋەتەمسىز؟"</string>
+<string name="pause_prompt_str">"\nئاۋازلارنى ئەۋەتىش"</string>
+<string name="send_button">"4 minutes"</string>
+<string name="pause_prompt_yes">"ھەئە"</string>
+<string name="pause_prompt_no">"ياق"</string>
+<string name="wild_prompt_str">"ئورتاق بەلگىنى ئۆزگەرتىش"</string>
+<string name="no_vm_number">"ئاۋازلىق ئېلىخەت نۇمۇرى كەمچىل"</string>
+<string name="no_vm_number_msg">"كارتىدا ھېچقانداق ساقلانغان ئاۋازلىق ئېلىخەت نۇمۇرى يوق SIM"</string>
+<string name="add_vm_number_str">"نۇمۇر قوشۇش"</string>
+<string name="puk_unlocked">"كارتىڭىز يېشىلدى، تېلېفونىڭىزنى يېشىۋاتىدۇSIM"</string>
+<string name="label_ndp">"نۇمۇرىنى يېشىدۇPINتورىSIM"</string>
+<string name="sim_ndp_unlock_text">"قولۇپنى ئېچىش"</string>
+<string name="sim_ndp_dismiss_text">"تارقىلىش"</string>
+<string name="requesting_unlock">"...تورنىڭ يېشىلىشىنى تەلەپ قىلىۋاتىدۇ"</string>
+<string name="unlock_failed">"تور يېشىلىش تەلىپى ئۇتۇقسىز بولدى"</string>
+<string name="unlock_success">"تور يېشىلىش تەلىپى ئۇتۇقلۇق بولدى"</string>
+<string name="labelGSMMore">"كارتا سۆزلىشىش تەڭشىكى GSM"</string>
+<string name="labelCDMAMore">"كارتا سۆزلىشىش تەڭشىكى CDMA"</string>
+<string name="apn_settings">"چېتىلىش نۇقتىسى ئىسمى"</string>
+<string name="settings_label">"تور تەڭشىكى"</string>
+<string name="voicemail">"ئۈنخەت"</string>
+<string name="voicemail_abbreviated">":ئاۋازلىق ئېلىخەت"</string>
+<string name="networks">"تور يولغا قويغۇچىلىرى"</string>
+<string name="call_settings">"سۆزلىشىش چېكى"</string>
+<string name="additional_gsm_call_settings">"قۇشۇمچە تەڭشەكلەر"</string>
+<string name="sum_gsm_call_settings">"كارتا سۆزلىشىشىگە ماس كېلىدىغان تەڭشەكلەرGSMباشقا پەقەتلا"</string>
+<string name="additional_cdma_call_settings">"سۆزلىشىش تەڭشەكلىرىCDMAقوشۇمچە"</string>
+<string name="sum_cdma_call_settings">"كارتا سۆزلىشىشىگە ماس كېلىدىغان تەڭشەكلەرCDMAباشقا پەقەتلا"</string>
+<string name="labelNwService">"تور مۇلازىمىتى تەڭشىكى"</string>
+<string name="labelCallerId">"ئۆز نۇمۇرى"</string>
+<string name="sum_loading_settings">"تەڭشەكلەرنى يۈكلەۋاتىدۇ\u2026"</string>
+<string name="sum_hide_caller_id">"سىرتقا تېلېفون ئۇرغاندا ئۆز نۇمۇرىنى يۇشۇرۇش"</string>
+<string name="sum_show_caller_id">"سىرتقا تېلېفون ئۇرغاندا ئۆز نۇمۇرىنى كۆرسىتىش"</string>
+<string name="sum_default_caller_id">"سىرتقا تېلېفون ئۇرغاندا سۈكۈتلۈك يولغا قويغۇچى تەڭشىكىنى ئىشلىتىپ ئۆز نۇمۇرىنى كۆرسىتىش"</string>
+<string name="labelCW">"چاقىرىشىنى ساقلاش"</string>
+<string name="sum_cw_enabled">"سۆزلىشىش جەريانىدا باشقا نۇمۇردىن تېلېفون كەلگىنىنى ماڭا ئۇقتۇرۇڭ"</string>
+<string name="sum_cw_disabled">"سۆزلىشىش جەريانىدا باشقا نۇمۇردىن تېلېفون كەلگىنىنى ماڭا ئۇقتۇرۇڭ"</string>
+<string name="call_forwarding_settings">"كەلگەن تېلېفوننى ئالماشتۇرۇپ قۇبۇل قىلىش تەڭشىكى"</string>
+<string name="labelCF">"چاقىرىش يۆتكەلدى"</string>
+<string name="labelCFU">"دائىم ئالماشتۇرۇپ قۇبۇل قىلىش"</string>
+<string name="messageCFU">"دائىم بۇ نۇمۇرنى ئىشلىتىش"</string>
+<string name="sum_cfu_enabled_indicator">"كەلگەن بارلىق تېلېفوننى ئالماشتۇرۇپ قۇبۇل قىلىش"</string>
+<string name="sum_cfu_enabled">"غا ئۆزگەرتىپ قۇبۇل قىلىش<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>كەلگەن بارلىق تېلېفوننى"</string>
+<string name="sum_cfu_enabled_no_number">"تەمىنلەنمىگەن تېلېفون نۇمۇرى"</string>
+<string name="sum_cfu_disabled">"چەكلەش"</string>
+<string name="labelCFB">"ئالدىراش ۋاقىتتا ئالماشتۇرۇپ قۇبۇل قىلىش"</string>
+<string name="messageCFB">"ئالدىراش ۋاقىتتىكى ئالماشتۇرىدىغان نۇمۇر"</string>
+<string name="sum_cfb_enabled">"غا ئالماشتۇرۇپ ئۇلاۋاتىدۇ<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfb_disabled">"چەكلەش"</string>
+<string name="disable_cfb_forbidden">"سىزنىڭ يولغا قويغۇچىڭىز يانفۇنىڭىز ئالدىراش ۋاقىتتا ئالماشتۇرۇپ قۇبۇل قىلىش ئىقتىدارىنى ئەمەلدىن قالدۇرۇشنى قوللىمايدۇ"</string>
+<string name="labelCFNRy">"ئالغىلى ئادەم بولمىغاندا ئالماشتۇرۇپ قۇبۇل قىلىش"</string>
+<string name="messageCFNRy">"ئالغىلى ئادەم بولمىغاندا ئالماشتۇرۇپ قۇبۇل قىلىنغان نۇمۇر"</string>
+<string name="sum_cfnry_enabled">"غا ئالماشتۇرۇپ ئۇلاۋاتىدۇ<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnry_disabled">"چەكلەش"</string>
+<string name="disable_cfnry_forbidden">"سىزنىڭ يولغا قويغۇچىڭىز ئالغىلى ئادەم بولمىغاندا  ئالماشتۇرۇپ قۇبۇل قىلىش ئىقتىدارىنى ئەمەلدىن قالدۇرۇشنى قوللىمايدۇ"</string>
+<string name="labelCFNRc">"ئۇلانمىغاندا ئالماشتۇرۇپ قۇبۇل قىلىش"</string>
+<string name="messageCFNRc">"ئۇلانمىغاندا ئالماشتۇرۇپ قۇبۇل قىلىنغان نۇمۇر"</string>
+<string name="sum_cfnrc_enabled">"غا ئالماشتۇرۇپ ئۇلاۋاتىدۇ<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnrc_disabled">"چەكلەش"</string>
+<string name="disable_cfnrc_forbidden">"سىزنىڭ يولغا قويغۇچىڭىز ئۇلانمىغاندا  ئالماشتۇرۇپ قۇبۇل قىلىش ئىقتىدارىنى ئەمەلدىن قالدۇرۇشنى قوللىمايدۇ"</string>
+<string name="updating_title">"سۆزلىشىش چېكى"</string>
+<string name="error_updating_title">"سۆزلىشىش تەڭشىكىدىن خاتالىق چىقتى"</string>
+<string name="reading_settings">"...تەڭشەكنى ئوقۇۋاتىدۇ"</string>
+<string name="updating_settings">"...تەڭشەكنى يېڭىلاۋاتىدۇ"</string>
+<string name="reverting_settings">"...تەڭشەكنى ئەسلىگە قايتۇرىۋاتىدۇ"</string>
+<string name="response_error">"توردىن نورمال بولمىغان جاۋاب تاپشۇرىۋېلىش"</string>
+<string name="exception_error">"كارتىدا خاتالىق كۆرۈلدىSIMتوردا ياكى"</string>
+<string name="fdn_check_failure">"تېلېفۇن ئېپىنىڭ مۇقۇم نومۇر بۇراش تەڭشىكى ئوچۇقكەن. شۇڭا چاقىرىشقا مۇناسىۋەتلىك ئىقتىدارلار ئىشلىمىدى. "</string>
+<string name="radio_off_error">"بۇ تەڭشەكلەرنى كۆرۈشتىن ئاۋۋال رادىئونى ئېچىڭ"</string>
+<string name="close_dialog">"مۇقىملاش"</string>
+<string name="enable">"ئېچىق"</string>
+<string name="disable">"چەكلەش"</string>
+<string name="change_num">"يېڭىلاش"</string>
+<string-array name="clir_display_values">
+<item>"سۈكۈتلۈك تور تەڭشىكى"</item>
+<item>"نۇمۇرنى يۇشۇرۇش"</item>
+<item>"نۇمۇرنى كۆرسىتىش"</item>
+</string-array>
+<string name="vm_changed">"ئاۋازلىق ئېلىخەت نۇمۇرى ئۆزگەردى"</string>
+<string name="vm_change_failed">"بۇ مەسىلە داۋاملاشسا يولغا قويغۇچىڭىز بىلەن ئالاقىلىشىڭ\n .ئاۋازلىق ئېلىخەت نۇمۇرىنى ئۆزگەرتكىلى بولمىدى"</string>
+<string name="fw_change_failed">"بۇ مەسىلە داۋاملاشسا يولغا قويغۇچىڭىز بىلەن ئالاقىلىشىڭ\n .ئالماشتۇرۇپ ئۇلايدىغان نۇمۇرنى ئۆزگەرتكىلى بولمىدى"</string>
+<string name="fw_get_in_vm_failed">"داۋاملىق يېڭى مۇلازىمەت تەمىنلىگۈچىگە ئۆزگەرتەمسىز؟\n .ھازىر ئالماشتۇرۇپ ئۇلايدىغان نۇمۇر تەڭشىكىنى ئىزدىگىلى ھەم ساقلىغىلى بولمىدى"</string>
+<string name="no_change">"ھېچقانداق ئۆزگىرىش بولمىدى"</string>
+<string name="sum_voicemail_choose_provider">"ئاۋازلىق ئېلىخەت مۇلازىمىتىنى تاللاش"</string>
+<string name="voicemail_default">"مېنىڭ يولغا قويغۇچۇم"</string>
+<string name="mobile_networks">"كۆچمە تور تەڭشىكى"</string>
+<string name="label_available">"ئىشلەتكىلى بولىدىغان تور"</string>
+<string name="load_networks_progress">"ئىزدەش\u2026"</string>
+<string name="empty_networks_list">"تور تېپىلمىدى"</string>
+<string name="search_networks">"تور ئىزدەش"</string>
+<string name="network_query_error">"تور ئىزدەۋاتقاندا خاتالىق كۆرۈلدى"</string>
+<string name="register_on_network">"...دا تىزىملىتىۋاتىدۇ<xliff:g id="network">%s</xliff:g>"</string>
+<string name="not_allowed">"كارتىڭىز بۇ تورغا ئۇلىنىشنى رەت قىلدىSIM"</string>
+<string name="connect_later">"بۇ تورغا ھازىر ئۇلىنالمايدۇ. بىر ئازدىن كېيىن قايتا سىناڭ"</string>
+<string name="registration_done">"توردا تىزىملىنىپ بولغان"</string>
+<string name="sum_carrier_select">"تور مەشغۇلاتچىنى تاللاش"</string>
+<string name="sum_search_networks">"بارلىق ئىشلەتكىلى بولىدىغان تورلارنى ئىزدەش"</string>
+<string name="select_automatically">"ئاپتوماتىك تاللاش"</string>
+<string name="sum_select_automatically">"ئاپتوماتىك ھالدا ئالدىن تاللايدىغان تورنى تاللاش"</string>
+<string name="register_automatically">"...ئاپتوماتىك تىزىملىتىش"</string>
+<string name="preferred_network_mode_title">"تور شەكلى"</string>
+<string name="preferred_network_mode_summary">"تور مەشغۇلات شەكلىنى ئۆزگەرتىش"</string>
+<string name="preferred_network_mode_dialogtitle">"ئالدىن تاللىنىدىغان تور شەكلى"</string>
+<string name="preferred_network_mode_wcdma_perf_summary">"نى ئالدىن تاللاشWCDMA:ئاۋۋال تاللىنىدىغان تور ھالىتى"</string>
+<string name="preferred_network_mode_gsm_only_summary">"نىلا تاللاشGSM:ئاۋۋال تاللىنىدىغان تور ھالىتى"</string>
+<string name="preferred_network_mode_wcdma_only_summary">"نىلا تاللاشWCDMA:ئاۋۋال تاللىنىدىغان تور ھالىتى"</string>
+<string name="preferred_network_mode_gsm_wcdma_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: GSM / WCDMA"</string>
+<string name="preferred_network_mode_cdma_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: CDMA"</string>
+<string name="preferred_network_mode_cdma_evdo_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: CDMA / EvDo"</string>
+<string name="preferred_network_mode_cdma_only_summary">"نىلا تاللاشCDMA:ئاۋۋال تاللىنىدىغان تور ھالىتى"</string>
+<string name="preferred_network_mode_evdo_only_summary">"نىلا تاللاشEvDo:ئاۋۋال تاللىنىدىغان تور ھالىتى"</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: CDMA/EvDo/GSM/WCDMA"</string>
+<string name="preferred_network_mode_lte_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: LTE"</string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: GSM/WCDMA/LTE"</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: CDMA+LTE/EVDO"</string>
+<string name="preferred_network_mode_global_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: ئومۇملاشقاننىلا تاللاش"</string>
+<string name="preferred_network_mode_lte_wcdma_summary">"ئاۋۋال تاللىنىدىغان تور ھالىتى: LTE / WCDMA"</string>
+<string-array name="preferred_network_mode_choices">
+<item>"LTE / WCDMA"</item>
+<item>"LTE"</item>
+<item>"ئومۇملاشتۇرۇلغان"</item>
+<item>"GSM/WCDMA/LTE"</item>
+<item>"CDMA + LTE/EvDo"</item>
+<item>"CDMA/EvDo/GSM/WCDMA"</item>
+<item>"EvDoپەقەت"</item>
+<item>" ئىقتىدارى يوقEvDoنىڭ CDMA"</item>
+<item>"نى ئاپتوماتىك تاللاشCDMA/EvDo"</item>
+<item>"نى ئاپتوماتىك تاللاشGSM/WCDMA"</item>
+<item>"WCDMAپەقەتلا"</item>
+<item>"GSMپەقەتلا"</item>
+<item>"نى ئالدىن تاللاشGSM/WCDMA"</item>
+</string-array>
+<string name="data_enabled">"سانلىق مەلۇمات تورى قوزغىتىلدى"</string>
+<string name="data_enable_summary">"كۆچمە تور ئارقىلىق سانلىق مەلۇماتلارنى زىيارەت قىلىشقا رۇخسەت قىلىش"</string>
+<string name="roaming">"سانلىق مەلومات كىزىش"</string>
+<string name="roaming_enable">"سەيلە قىلىش ۋاقتىدا سانلىق مەلۇمات مۇلازىمىتىگە ئۇلاش"</string>
+<string name="roaming_disable">"سەيلە قىلىش ۋاقتىدا سانلىق مەلۇمات مۇلازىمىتىگە ئۇلاش"</string>
+<string name="roaming_reenable_message">"سانلىق مەلۇمات ئۇلىنىشى ئۈزۈلدى، چۈنكى سىز يەرلىك توردىن ئايرىلدىڭىز ھەمدە سانلىق مەلۇمات كەزمە ئىقتىدارىنى ئېتىۋەتتىڭىز"</string>
+<string name="roaming_warning">"!سانلىق مەلۇماتنىڭ كەزمە ھالەتكە ئۆتۈشىگە رۇخسەت قىلامسىز؟ بۇ بەلكىم كۆپ مىقداردا كەزمە ھەققى كەلتۈرۈپ چىقىرىشى مۇمكىن"</string>
+<string name="gsm_umts_options">"تاللىشىGSM/UMTS"</string>
+<string name="cdma_options">"تاللىشىCDMA"</string>
+<string name="throttle_data_usage">"سانلىق مەلۇماتنىڭ ئىشلىتىلىشى"</string>
+<string name="throttle_current_usage">"ھازىرقى ۋاقىتتا ئىشلىتىلىۋاتقان سانلىق مەلۇمات"</string>
+<string name="throttle_time_frame">"سانلىق مەلۇمات ئىشلىتىش ۋاقىت بۆلىكى"</string>
+<string name="throttle_rate">"سانلىق مەلۇمات يوللىنىش سۈرئىتىنىڭ سىتراتېگىيەسى"</string>
+<string name="throttle_help">"تەپسىلاتىنى چۈشىنىش"</string>
+<string name="throttle_status_subtext">"باشلىنىدۇ(<xliff:g id="used">%5$s</xliff:g>)كۈندىن كېيىن<xliff:g id="used">%4$d</xliff:g>كېيىنكى ۋاقىت بۆلىكى .<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) ھازىرقى قىممىتى بولسا،<xliff:g id="used">%3$s</xliff:g>ۋاقىت بۆلىكىنىڭ ئۈستىنكى چەكلىمىسى بولسا"</string>
+<string name="throttle_data_usage_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) ھازىرقى قىممىتى بولسا،<xliff:g id="used">%3$s</xliff:g>ۋاقىت بۆلىكىنىڭ ئۈستىنكى چەكلىمىسى بولسا"</string>
+<string name="throttle_data_rate_reduced_subtext">"گە چۈشۈردى<xliff:g id="used">%2$d</xliff:g> Kb/sسانلىق مەلۇمات يوللاش سۈرئىتىنى\n.دىن ئېشىپ كەتتى<xliff:g id="used">%1$s</xliff:g>سۈرئەت چەكلىمىسى "</string>
+<string name="throttle_time_frame_subtext">"باشلىنىدۇ (<xliff:g id="used">%3$s</xliff:g>)كۈندىن كېيىن<xliff:g id="used">%2$d</xliff:g>كېلەر قېتىملىق ۋاقىت بۆلىكى\n.ۋاقىت ئۆتۈپ بولدى<xliff:g id="used">%1$d</xliff:g>بۇ دەۋىر ئاللىبرۇن "</string>
+<string name="throttle_rate_subtext">"گە چۈشۈرۈش<xliff:g id="used">%1$d</xliff:g> Kb/sئەگەردە سانلىق مەلۇمات چەكلىمىسىدىن ئېشىپ كەتسە، سانلىق مەلۇمات يوللاش سۈرئىتىنى "</string>
+<string name="throttle_help_subtext">"سىزنىڭ يولغا قويغۇچىڭىزنىڭ كۆچمە تور ئىشلىتىش سىتراتېگىيەسىگە ئالاقىدار تېخىمۇ كۆپ مەزمۇنلار"</string>
+<string name="cell_broadcast_sms">"كىچىك دائىرىلىك رادىئو ئاڭلىتىش قىسقا ئۇچۇرى"</string>
+<string name="enable_disable_cell_bc_sms">"كىچىك دائىرىلىك رادىئو ئاڭلىتىش قىسقا ئۇچۇرى"</string>
+<string name="cell_bc_sms_enable">"كىچىك دائىرىلىك رادىئو ئاڭلىتىش قىسقا ئۇچۇرى قوزغىتىلدى"</string>
+<string name="cell_bc_sms_disable">"كىچىك دائىرىلىك رادىئو ئاڭلىتىش قىسقا ئۇچۇرى ئۆچۈرۈلدى"</string>
+<string name="cb_sms_settings">"كىچىك دائىرىلىك رادىئو ئاڭلىتىش قىسقا ئۇچۇر تەڭشىكى"</string>
+<string name="enable_disable_emergency_broadcast">"جىددىي رادىئو ئاڭلىتىش"</string>
+<string name="emergency_broadcast_enable">"جىددىي رادىئو ئاڭلىتىش قوزغىتىلدى"</string>
+<string name="emergency_broadcast_disable">"جىددىي رادىئو ئاڭلىتىش ئۆچۈرۈلدى"</string>
+<string name="enable_disable_administrative">"باشقۇرۇش"</string>
+<string name="administrative_enable">"باشقۇرۇش قوزغىتىلدى"</string>
+<string name="administrative_disable">"باشقۇرۇش ئۆچۈرۈلدى"</string>
+<string name="enable_disable_maintenance">"پەرۋىش قىلىش"</string>
+<string name="maintenance_enable">"پەرۋىش قىلىشنى قوزغىتىش"</string>
+<string name="maintenance_disable">"پەرۋىش قىلىشنى ئۆچۈرۈش"</string>
+<string name="general_news_settings">"ئادەتتىكى خەۋەرلەر"</string>
+<string name="bf_news_settings">"سودا-ئىقتىساد خەۋەرلىرى"</string>
+<string name="sports_news_settings">"تەنتەربىيە خەۋەرلىرى"</string>
+<string name="entertainment_news_settings">"كۆڭۈل ئېچىش خەۋەرلىرى"</string>
+<string name="enable_disable_local">"يەرلىك"</string>
+<string name="local_enable">"يەرلىك خەۋەرلەر قوزغىتىلدى"</string>
+<string name="local_disable">"يەرلىك خەۋەرلەر ئۆچۈرۈلدى"</string>
+<string name="enable_disable_regional">"رايون"</string>
+<string name="regional_enable">"رايون خەۋەرلىرى قوزغىتىلدى"</string>
+<string name="regional_disable">"رايون خەۋەرلىرى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_national">"دۆلەت ئىچى"</string>
+<string name="national_enable">"دۆلەت ئىچىدىكى خەۋەرلەر قوزغىتىلدى"</string>
+<string name="national_disable">"دۆلەت ئىچىدىكى خەۋەرلەر ئۆچۈرۈلدى"</string>
+<string name="enable_disable_international">"خەلقئارا"</string>
+<string name="international_enable">"خەلقئارا خەۋەرلەر قوزغىتىلدى"</string>
+<string name="international_disable">"خەلقئارا خەۋەرلەر ئۆچۈرۈلدى"</string>
+<string name="list_language_title">"تىل"</string>
+<string name="list_language_summary">"خەۋەر تىلىنى تاللاش"</string>
+<string-array name="list_language_entries">
+<item>"Uighur; Uyghur"</item>
+<item>"فرانسۇز تىلى"</item>
+<item>"ئىسپان تىلى "</item>
+<item>"ياپۇنچە"</item>
+<item>"كورىيەچە"</item>
+<item>"خەنزۇچە"</item>
+<item>"ئىبرانچە"</item>
+</string-array>
+<string name="list_language_dtitle">"تىللار"</string>
+<string name="enable_disable_local_weather">"يەرلىك ھاۋارايى"</string>
+<string name="local_weather_enable">"يەرلىك ھاۋارايىدىن ئالدىن مەلۇمات بېرىش قوزغىتىلدى"</string>
+<string name="local_weather_disable">"يەرلىك ھاۋارايىدىن ئالدىن مەلۇمات بېرىش ئۆچۈرۈلدى"</string>
+<string name="enable_disable_atr">"رايون قاتنىشى ئەھۋالى"</string>
+<string name="atr_enable">"رايون قاتنىشى ئەھۋالىنى ئېچىش"</string>
+<string name="atr_disable">"رايون قاتنىشى ئەھۋالىنى ئۆچۈرۈش"</string>
+<string name="enable_disable_lafs">"يەرلىك ئايروپورت ئۇچۇش كۈنتەرتىپى"</string>
+<string name="lafs_enable">"يەرلىك ئايروپورت ئۇچۇش كۈنتەرتىپىنى قوزغىتىش"</string>
+<string name="lafs_disable">"يەرلىك ئايروپورت ئۇچۇش كۈنتەرتىپىنى ئۆچۈرۈش"</string>
+<string name="enable_disable_restaurants">"ئاشخانىلار"</string>
+<string name="restaurants_enable">"ئاشخانىلار ئۇچۇرى قوزغىتىلدى"</string>
+<string name="restaurants_disable">"ئاشخانىلار ئۇچۇرى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_lodgings">"تۇرار-جاي ئۇچۇرلىرى"</string>
+<string name="lodgings_enable">"تۇرار-جاي ئۇچۇرلىرى قوزغىتىلدى"</string>
+<string name="lodgings_disable">"تۇرار-جاي ئۇچۇرلىرى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_retail_directory">"پارچە سېتىش قوللانمىسى"</string>
+<string name="retail_directory_enable">"پارچە سېتىش قوللانمىسى قوزغىتىلدى"</string>
+<string name="retail_directory_disable">"پارچە سېتىش قوللانمىسى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_advertisements">"ئېلانلار"</string>
+<string name="advertisements_enable">"ئېلان ئۇچۇرى قوزغىتىلدى"</string>
+<string name="advertisements_disable">"ئېلان ئۇچۇرى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_stock_quotes">"پايچىك باھا ئۇچۇرلىرى"</string>
+<string name="stock_quotes_enable">"پايچىك باھا ئۇچۇرلىرى قوزغىتىلدى"</string>
+<string name="stock_quotes_disable">"پايچىك باھا ئۇچۇرلىرى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_eo">"ئىشقا ئورۇنلىشىش ئۇچۇرلىرى"</string>
+<string name="eo_enable">"ئىشقا ئورۇنلىشىش ئۇچۇرلىرى قوزغىتىلدى"</string>
+<string name="eo_disable">"ئىشقا ئورۇنلىشىش ئۇچۇرلىرى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_mhh">"داۋالاش، ساغلاملىق ۋە دوختۇرخانا ئۇچۇرلىرى"</string>
+<string name="mhh_enable">"داۋالاش، ساغلاملىق ۋە دوختۇرخانا ئۇچۇرلىرى قوزغىتىلدى"</string>
+<string name="mhh_disable">"داۋالاش، ساغلاملىق ۋە دوختۇرخانا ئۇچۇرلىرى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_technology_news">"پەن-تېخنىكا خەۋەرلىرى"</string>
+<string name="technology_news_enable">"پەن-تېخنىكا خەۋەرلىرى قوزغىتىلدى"</string>
+<string name="technology_news_disable">"پەن-تېخنىكا خەۋەرلىرى ئۆچۈرۈلدى"</string>
+<string name="enable_disable_multi_category">"ھەر-تۈرلۈك"</string>
+<string name="multi_category_enable">"ھەر-تۈرلۈك ئۇچۇرلار قوزغىتىلدى"</string>
+<string name="multi_category_disable">"ھەر-تۈرلۈك ئۇچۇرلار ئۆچۈرۈلدى"</string>
+<string name="prefer_2g">"2تورىنىلا ئىشلىتىشG"</string>
+<string name="prefer_2g_summary">"توك تېجەش"</string>
+<string name="cdma_system_select_title">"سىستىما تاللىغان"</string>
+<string name="cdma_system_select_summary">"نىڭ كەزمە ھالىتىنى ئۆزگەرتىشCDMA"</string>
+<string name="cdma_system_select_dialogtitle">"سىستىما تاللىغان"</string>
+<string-array name="cdma_system_select_choices">
+<item>"پەقەتلا يەرلىك سىستىما"</item>
+<item>"ئاپتۇماتىك"</item>
+</string-array>
+<string name="cdma_subscription_title">"مۇشتەرى بولۇشCDMA"</string>
+<string name="cdma_subscription_summary">"ئارىسىدا ئالماشتۇرۇش ئېلىپ بېرىشNVبىلەنRUIM/SIM "</string>
+<string name="cdma_subscription_dialogtitle">"مۇشتەر بولۇش"</string>
+<string name="cdma_activate_device">"ئۈسكىنىنى ئاكتىپلاشتۇرۇش"</string>
+<string name="cdma_lte_data_service">"سانلىق مەلۇمات مۇلازېمىتىنى تەڭشەش"</string>
+<string name="fdn">"مۇقىم تېلېفون نۇمۇرىنى بۇراش"</string>
+<string name="manage_fdn_list">"مۇقىم تېلېفون نۇمۇرىنى بۇراش تىزىملىكلى"</string>
+<string name="fdn_activation">"مۇقىم تېلېفون نۇمۇرىنى بۇراشنى ئاكتىپلاشتۇرۇش"</string>
+<string name="fdn_enabled">"مۇقىم تېلېفون نۇمۇرىنى بۇراش قوزغىتىلدى"</string>
+<string name="fdn_disabled">"مۇقىم تېلېفون نۇمۇرىنى بۇراش ئۆچۈرۈلدى"</string>
+<string name="enable_fdn">"مۇقىم تېلېفون نۇمۇرىنى بۇراشنى قوزغىتىش"</string>
+<string name="disable_fdn">"مۇقىم تېلېفون نۇمۇرىنى بۇراشنى ئۆچۈرۈش"</string>
+<string name="change_pin2">"نۇمۇرىنى ئۆزگەرتىشPIN2"</string>
+<string name="enable_fdn_ok">"مۇقىم تېلېفون نۇمۇرىنى بۇراشنى ئۆچۈرۈش"</string>
+<string name="disable_fdn_ok">"مۇقىم تېلېفون نۇمۇرىنى بۇراشنى قوزغىتىش"</string>
+<string name="sum_fdn">"مۇقىم تېلېفون نۇمۇرىنى بۇراشنى باشقۇرۇش"</string>
+<string name="sum_fdn_change_pin">" نۇمۇرىنى ئۆزگەرتىشPIN مۇقىم تېلېفون نۇمۇرىنى بۇراشنى زىيارەت قىلىش ھوقۇقىغا ئېرىشىش ئۈچۈن"</string>
+<string name="sum_fdn_manage_list">"يان تېلېفون تىزىملىكىنى باشقۇرۇش"</string>
+<string name="voice_privacy">"ئاۋاز مەخپىيەتلىكى"</string>
+<string name="voice_privacy_summary">"كۈچلەندۈرۈلگەن مەخپىيەتلىك ھالىتىنى قوزغىتىش"</string>
+<string name="tty_mode_option_title">"ھالىتىTTY"</string>
+<string name="tty_mode_option_summary">"ھالىتىنى تەڭشەشTTY"</string>
+<string name="auto_retry_mode_title">"ئۆزلىكىدىن قايتا سىناش"</string>
+<string name="auto_retry_mode_summary">"ئۆزلىكىدىن قايتا سىناش ھالىتىنى قوزغىتىش"</string>
+<string name="menu_add">"ئالاقلاشقۇچى كۆپەيتىش"</string>
+<string name="menu_edit">"ئالاقىلاشقۇچىنى تەھرىرلەش"</string>
+<string name="menu_delete">"ئالاقىلاشقۇچىنى يۇيۇش"</string>
+<string name="get_pin2">"نى كىرگۈزۈشPIN2"</string>
+<string name="name">"ئىسم - فامىلە"</string>
+<string name="number">"نۇمۇر"</string>
+<string name="save">"ساقلاش"</string>
+<string name="add_fdn_contact">"مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرىنى قوشۇش"</string>
+<string name="adding_fdn_contact">"...مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرىنى قوشۇۋاتىدۇ"</string>
+<string name="fdn_contact_added">"مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرى قوشۇلۇپ بولدى"</string>
+<string name="edit_fdn_contact">"مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرىنى تەھرىرلەش"</string>
+<string name="updating_fdn_contact">"...مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرىنى يېڭىلاۋاتىدۇ"</string>
+<string name="fdn_contact_updated">"مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرى يېڭىلاندى"</string>
+<string name="delete_fdn_contact">"مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرىنى يۇيۇش"</string>
+<string name="deleting_fdn_contact">"...مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرىنى يۇيۇۋاتىدۇ"</string>
+<string name="fdn_contact_deleted">"مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرىنى يۇيۇلدى"</string>
+<string name="pin2_invalid">"نۇمۇرىنى خاتا كىرگۈزگەنلىكىڭىز ئۈچۈن مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرىنى يېڭىلىيالمىدىPIN"</string>
+<string name="fdn_invalid_number">"مۇقىم ئۇرۇلىدىغان تېلېفون نۇمۇرى يېڭىلانمىدى، چۈنكى سىز كىرگۈزگەن سان 20 خانىدىن ئېشىپ كەتتى"</string>
+<string name="pin2_or_fdn_invalid">"FDN يېڭىلانمىدى. PIN2 خاتا ياكى تېلېفۇن نومۇرى رەت قىلىندى."</string>
+<string name="simContacts_emptyLoading">"...كارتىدىن ئوقۇۋاتىدۇSIM"</string>
+<string name="simContacts_empty">"كارتىدا ئالاقىلاشقۇچىلار يوقSIM"</string>
+<string name="simContacts_title">"كىرگۈزۈدىغان ئالاقىلاشقۇچىلارنى تاللاڭ"</string>
+<string name="simContacts_airplaneMode">" كارتىدىن ئالاقىلاشقۇچىلارنى كىرگۈزۈڭSIMئايروپىلان ھالىتىنى ئېتىۋېتىپ ئاندىن"</string>
+<string name="enable_pin">"نۇمۇرىنى قوزغىتىش/ئۆچۈرۈشPINكارتا SIM"</string>
+<string name="change_pin">"SIMكارتىنىڭ PIN نى ئۆزگەرتىش"</string>
+<string name="enter_pin_text">":نۇمۇرىPINكارتا SIM"</string>
+<string name="oldPinLabel">":نۇمۇرىPINكونا"</string>
+<string name="newPinLabel">"نۇمۇرىPINيېڭى"</string>
+<string name="confirmPinLabel">"نۇمۇرىنى دەلىللەشPINيېڭى"</string>
+<string name="badPin">"نۇمۇرى توغرا ئەمەس. قايتا سىناڭPINسىز كىرگۈزگەن كونا"</string>
+<string name="mismatchPin">"نۇمۇرلىرى ماسلاشمىدى. قايتا سىناڭPINسىز كىرگۈزگەن "</string>
+<string name="invalidPin">"4تىن 8گىچە ساندىن تۈۈلگەن PINشېفىرىنى كىرگۈزۈڭ."</string>
+<string name="disable_sim_pin">"نۇمۇرىنى ئۆچۈرۈشPINكارتا SIM"</string>
+<string name="enable_sim_pin">"نۇمۇرىنى قوزغىتىشPINكارتا SIM"</string>
+<string name="enable_in_progress">"ساقلاڭ\u2027"</string>
+<string name="enable_pin_ok">"نۇمۇرىنى قوزغىتىلدىPINكارتا SIM"</string>
+<string name="disable_pin_ok">"نۇمۇرىنى ئۆچۈرۈلدىPINكارتا SIM"</string>
+<string name="pin_failed">"نۇمۇرى خاتاPINسىز كىرگۈزگەن"</string>
+<string name="pin_changed">"نۇمۇرىنى ئۆزگەرتىش ئۇتۇقلۇق بولدىPINكارتا SIM"</string>
+<string name="puk_requested">"نۇمۇرىنى كىرگۈزۈشنى تەلەپ قىلىدۇPUK2.كارتا قۇلۇپلاندىSIM،مەخپىي نۇمۇر خاتا"</string>
+<string name="oldPin2Label">"نۇمۇرىPINكونا2"</string>
+<string name="newPin2Label">"نۇمۇرىPINيېڭى2"</string>
+<string name="confirmPin2Label">"نۇمۇرىنى مۇقىملاشPINيېڭى2"</string>
+<string name="badPuk2">"نۇمۇرى خاتا. قايتا سىناڭ PUKسىز كىرگۈزگەن 2"</string>
+<string name="badPin2">" نۇمۇرى خاتا. قايتا سىناڭ PINسىز كىرگۈزگەن كونا 2"</string>
+<string name="mismatchPin2">"نۇمۇرلىرى ماسلاشمىدى. قايتا سىناڭ PINسىز كىرگۈزگەن 2"</string>
+<string name="invalidPin2">"نۇمۇرى كىرگۈزۈڭPIN4تىن8خانىغىچە ساندىن تۈزۈلگەن2"</string>
+<string name="invalidPuk2">"نۇمۇرىنى كىرگۈزۈڭPUK8خانىلىق ساندىن تۈزۈلگەن2"</string>
+<string name="pin2_changed">"نۇمۇرى مۇۋەپپىقىيەتلىك ئۆزگەرتىلدىPIN2"</string>
+<string name="label_puk2_code">"نۇمۇرىنى كىرگۈزۈشPUK2"</string>
+<string name="fdn_enable_puk2_requested">"نۇمۇرىنى ئۆزگەرتىپ قايتا سىناڭPIN2.مەخپىي نۇمۇر خاتا"</string>
+<string name="puk2_requested">"نۇمۇرىنى كىرگۈزۈشنى تەلەپ قىلىدۇPUK2.كارتا قۇلۇپلاندىSIM،مەخپىي نۇمۇر خاتا"</string>
+<string name="doneButton">"تامام"</string>
+<string name="caller_manage_header">"<xliff:g id="conf_call_time">%s</xliff:g>:تېلېفون يىغىنى"</string>
+<string name="voicemail_settings_number_label">"ئاۋازلىق ئېلىخەت نۇمۇرى"</string>
+<string name="card_title_dialing">"ئۇرىۋاتىدۇ"</string>
+<string name="card_title_redialing">"قايتا سىناۋاتىدۇ"</string>
+<string name="card_title_conf_call">"تېلېفون يىغىنى"</string>
+<string name="card_title_incoming_call">"كەلگەن تېلېفون"</string>
+<string name="card_title_call_ended">"چاقىرىش ئاخىرلاشتى"</string>
+<string name="card_title_on_hold">"داۋاملاشتۇرۇش"</string>
+<string name="card_title_hanging_up">"قويۇلىۋاتىدۇ"</string>
+<string name="card_title_in_call">"سۆزلىشىۋاتىدۇ"</string>
+<string name="card_title_my_phone_number">"<xliff:g id="my_phone_number">%s</xliff:g>:مېنىڭ تېلېفون نۇمۇرۇم بولسا"</string>
+<string name="notification_dialing">"ئۇرىۋاتىدۇ"</string>
+<string name="notification_missedCallTitle">"ئېلىنمىغان تېلېفون"</string>
+<string name="notification_missedCallsTitle">"قۇبۇل قىلىنمىغان تېلېفۇنلار"</string>
+<string name="notification_missedCallsMsg">"دانە قۇبۇل قىلىنمىغان تېلېفونلار<xliff:g id="num_missed_calls">%s</xliff:g>"</string>
+<string name="notification_missedCallTicker">"دىن كەلگەن قۇبۇل قىلىنمىغان تېلېفون<xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">"نۈۋەتتىكى چاقىرىش"</string>
+<string name="notification_on_hold">"داۋاملاشتۇرۇش"</string>
+<string name="notification_incoming_call">"كەلگەن تېلېفون"</string>
+<string name="notification_voicemail_title">"يېڭى ئاۋازلىق ئېلىخەت"</string>
+<string name="notification_voicemail_title_count">"(<xliff:g id="count">%d</xliff:g>)يېڭى ئاۋازلىق ئېلىخەت"</string>
+<string name="notification_voicemail_text_format">"غا ئۇرۇش<xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"ئاۋازلىق ئېلىخەت نۇمۇرى ناتۇنۇش"</string>
+<string name="notification_network_selection_title">"ھېچقانداق مۇلازىمەت يوق"</string>
+<string name="notification_network_selection_text">"نى ئىشلەتكىلى بولمايدۇ(<xliff:g id="operator_name">%s</xliff:g>)تاللانغان تور"</string>
+<string name="notification_action_end_call">"ئۈزۈش"</string>
+<string name="notification_missedCall_call_back">"تىلفۇن قايتۇرۇش"</string>
+<string name="notification_missedCall_message">"قىسقا ئۇچۇر"</string>
+<string name="incall_error_power_off">"تېلېفون ئۇرۇش ئۈچۈن ئالدى بىلەن ئايروپىلان ھالىتىنى ئېتىش لازىم"</string>
+<string name="incall_error_emergency_only">"تېخى توردا تىزىملانمىدى"</string>
+<string name="incall_error_out_of_service">"كۆچمە تورنى ئىشلەتكىلى بولمايدۇ"</string>
+<string name="incall_error_no_phone_number_supplied">"چاقىرىش يوللانمىدى، ئۇرۇلغان نۇمۇر ئىناۋەتسىز"</string>
+<string name="incall_error_call_failed">"چاقىرىشقا ئامالسىز."</string>
+<string name="incall_status_dialed_mmi">"...تەرتىپىنى قوزغىتىۋاتىدۇMMI"</string>
+<string name="incall_error_supp_service_unknown">"بۇ مۇلازىمەت قوللانمايدۇ"</string>
+<string name="incall_error_supp_service_switch">"سۆزلىشىشنى ئالماشتۇرالمىدى"</string>
+<string name="incall_error_supp_service_separate">"سۆزلىشىشنى ئايرىيالمىدى"</string>
+<string name="incall_error_supp_service_transfer">"سۆزلىشىشنى يۆتكىيەلمىدى"</string>
+<string name="incall_error_supp_service_conference">"تېلېفون يىغىنى ئۆتكۈزگىلى بولمىدى"</string>
+<string name="incall_error_supp_service_reject">"سۆزلىشىشنى رەت قىلالمىدى"</string>
+<string name="incall_error_supp_service_hangup">"سۆزلىشىشنى ئۈزەلمىدى"</string>
+<string name="incall_call_type_label_sip">"تور تىلفۇنى"</string>
+<string name="emergency_enable_radio_dialog_title">"جىددى تېلېفون"</string>
+<string name="emergency_enable_radio_dialog_message">"...رادىئو ئالاقىسىنى ئېچىۋاتىدۇ"</string>
+<string name="emergency_enable_radio_dialog_retry">"...مۇلازىمەت رايونىدا ئەمەس، قايتا سىناۋاتىدۇ"</string>
+<string name="dial_emergency_error">"بولسا جىددىي چاقىرىش نۇمۇرى ئەمەس<xliff:g id="non_emergency_number">%s</xliff:g>.چاقىرىش يوللانمىدى"</string>
+<string name="dial_emergency_empty_error">"چاقىرىش يوللانمىدى. جىددىي چاقىرىش نۇمۇرىغا ئۇرۇڭ"</string>
+<string name="dialerKeyboardHintText">"كۇنۇپكا تاختىسى ئارقىلىق تېلېفون قىلىش"</string>
+<string name="onscreenHoldText">"ساقلاش"</string>
+<string name="onscreenEndCallText">"ئاخىرلاشتۇرۇش"</string>
+<string name="onscreenShowDialpadText">"تېلېفون ئۇرۇش كۇنۇپكىسى"</string>
+<string name="onscreenMuteText">"ئاۋازسىز"</string>
+<string name="onscreenAddCallText">"سۆزلىشىشنى قېتىش"</string>
+<string name="onscreenMergeCallsText">"چاقىرىشلارنى بىرىكتۈرۈش"</string>
+<string name="onscreenSwapCallsText">"ئالماشتۇرۇش"</string>
+<string name="onscreenManageCallsText">"سۆزلىشىشنى باشقۇرۇش"</string>
+<string name="onscreenManageConferenceText">"يىغىننى باشقۇرۇش"</string>
+<string name="onscreenAudioText">"ئۈن"</string>
+<string name="onscreenVideoCallText">"سىنلىق سۆزلىشىش"</string>
+<string name="importSimEntry">"كىرگۈزۈش"</string>
+<string name="importAllSimEntries">"ھەممىسىنى كىرگۈزۈش"</string>
+<string name="importingSimContacts">"كارتا ئالاقىلاشقۇچىلىرىنى كىرگۈزۈۋاتىدۇSIM"</string>
+<string name="importToFDNfromContacts">"ئالاقىلاشقۇچىلاردىن كىرگۈزۈۋاتىدۇ"</string>
+<string name="hac_mode_title">"ياردەمچى ئاڭلىغۇچ"</string>
+<string name="hac_mode_summary">"ياردەمچى ئاڭلىغۇچ ماسلىشىشچانلىقىنى ئېچىش"</string>
+<string-array name="tty_mode_entries">
+<item>"ئېتىك TTY"</item>
+<item>"تولۇق TTY"</item>
+<item>"TTY HCO"</item>
+<item>"TTY VCO"</item>
+</string-array>
+<string name="dtmf_tones_title">"ئاۋازلىرى DTMF"</string>
+<string name="dtmf_tones_summary">"ئاۋازلىرىنىڭ ئۇزۇنلىقىنى تەڭشەش DTMF"</string>
+<string-array name="dtmf_tone_entries">
+<item>"نورمال"</item>
+<item>"ئۇزۇن"</item>
+</string-array>
+<string name="network_message">"تور ئۇچۇرلىرى"</string>
+<string name="ota_title_activate">"تېلېفونىڭىزنى ئاكتىپلاشتۇرۇڭ"</string>
+<string name="ota_touch_activate">"سىز "ئاكتىپلاشتۇرۇش"نى باسقاندىن كېيىن تەمىنلەنگەن ئاۋازلىق كۆرسەتمىلەرگە ئاساسەن تېلېفونىڭىزنى ئاكتىپلاشتۇرۇڭ\n\n.تېلېفونىڭىزنى ئاكتىپلاشتۇرۇش ئۈچۈن ئالاھىدە بىر نۇمۇرغا تېلېفون قىلىشىڭىز تەلاپ قىلىنىدۇ"</string>
+<string name="ota_skip_activation_dialog_title">"ئاكتىپلاشتۇرۇش باسقۇچىدىن ئۆتۈپ كېتەمسىز؟"</string>
+<string name="ota_skip_activation_dialog_message">"ئاكتىپلاشتۇرۇش باسقۇچىدىن ئۆتۈپ كەتسىڭىز، سىز تېلېفون قىلالمايسىز ياكى كۆچمە سانلىق مەلۇمات تورىغا ئۇلىنالمايسىز. (بىراق سىز سىمسىز تورغا ئۇلىنالايسىز) سىز تېلېفونىڭىزنى ئاكتىپلاشتۇرغانغا قەدەر ھەر قېتىم تېلېفون ئېچىلغاندا ئاكتىپلاشتۇرۇش ئەسكەرتىشى ئەۋەتىلىدۇ"</string>
+<string name="ota_skip_activation_dialog_skip_label">"يۆتكەش"</string>
+<string name="ota_activate">"قوزغۇتۇش"</string>
+<string name="ota_title_activate_success">"تېلېفون ئاكتىپلاشتۇرۇلدى"</string>
+<string name="ota_title_problem_with_activation">"ئاكتىپلاشتۇرۇلغاندا مەسىلە كۆرۈلدى"</string>
+<string name="ota_listen">"ئاكتىپلاشتۇرۇش تاماملاندى دېگەننى ئاڭلىغانغا قەدەر ئاۋازلىق كۆرسەتمىلەر بويىچە مەشغۇلات قىلىڭ"</string>
+<string name="ota_speaker">"ياڭراتقۇ"</string>
+<string name="ota_progress">"تېلېفونىڭىزغا سىستىما يېزىلىۋاتقاندا سەل تەخىر قىلىڭ"</string>
+<string name="ota_failure">"سىستىما يېزىش مەغلۇب بولدى"</string>
+<string name="ota_successful">"سىزنىڭ تېلېفونىڭىز ھازىر ئاكتىپلاندى. ئەڭ كۆپ بولسا 15 مىنۇتتىن كېيىن ئىشلىتىش مۇلازىمىتى باشلىنىدۇ"</string>
+<string name="ota_unsuccessful">""قايتا سىناپ كۆرۈڭ ياكى خېرىدار مۇلازىمەت ئورنىغا تېلېفون قىلىپ تېخىمۇ كۆپ بىر تەرەپ قىلىش ئۇسۇلى سۈرۈشتۈرۈڭ\n\n. (سىز بەلكىم سىگنال تېخىمۇ ياخشى قاپلىغان بىر رايوننى تېپىشىڭىز لازىم (دېرىزە يېنى ياكى سىرت\n.سىزنىڭ تېلېفونىڭىز ئاكتىپلانمىدى\'"</string>
+<string name="ota_spc_failure">"دا كاشلا بەك كۆپSPC"</string>
+<string name="ota_call_end">"قايتىش"</string>
+<string name="ota_try_again">"قايتا سىناپ بېقىڭ"</string>
+<string name="ota_next">"كېيىنكى"</string>
+<string name="phone_entered_ecm_text">"جىددىي تېلېفون قايتۇرۇش ھالىتىگە كىرىپ بولدى"</string>
+<string name="phone_in_ecm_notification_title">"جىددىي تېلېفون قايتۇرۇش ھالىتى"</string>
+<string name="phone_in_ecm_call_notification_text">"سانلىق مەلۇمات ئۇلىنىشى ئۈزۈلدى"</string>
+<plurals name="phone_in_ecm_notification_time">
+<item quantity="one">"مىنۇت سانلىق مەلۇمات ئۇلىنىشى يوق<xliff:g id="count">%s</xliff:g>"</item>
+<item quantity="other">"مىنۇتلار سانلىق مەلۇمات ئۇلىنىشى يوق<xliff:g id="count">%s</xliff:g>"</item>
+</plurals>
+<plurals name="alert_dialog_exit_ecm">
+<item quantity="one">"مىنۇت ئىچىدە جىددىي تېلېفون قايتۇرۇش ھالىتىدە بولىدۇ. بۇخىل ھالەتتە تورغا ئۇلىنىش ئۈچۈن ئىشلىتىلىدىغان ئەپلەرنى ئىشلەتكىلى بولمايدۇ. دەرھال چېكىنەمسىز؟ <xliff:g id="count">%s</xliff:g>تېلېفونىڭىز"</item>
+<item quantity="other">"مىنۇتلار ئىچىدە جىددىي تېلېفون قايتۇرۇش ھالىتىدە بولىدۇ. بۇخىل ھالەتتە تورغا ئۇلىنىش ئۈچۈن ئىشلىتىلىدىغان ئەپلەرنى ئىشلەتكىلى بولمايدۇ. دەرھال چېكىنەمسىز؟<xliff:g id="count">%s</xliff:g>تېلېفونىڭىز"</item>
+</plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="one">"مىنۇت ئىچىدە بۇ خىل ھالەتتە بولىدۇ.  دەرھال چېكىنەمسىز؟<xliff:g id="count">%s</xliff:g>جىددىي تېلېفون قايتۇرۇش ھالىتىدە تاللانغان مەشغۇلاتنى ئېلىپ بارغىلى بولمايدۇ، بىراق تېلېفونىڭىز "</item>
+<item quantity="other">"مىنۇتلار ئىچىدە بۇ خىل ھالەتتە بولىدۇ.  دەرھال چېكىنەمسىز؟<xliff:g id="count">%s</xliff:g>جىددىي تېلېفون قايتۇرۇش ھالىتىدە تاللانغان مەشغۇلاتنى ئېلىپ بارغىلى بولمايدۇ، بىراق تېلېفونىڭىز "</item>
+</plurals>
+<string name="alert_dialog_in_ecm_call">"جىددىي تېلېفون قايتۇرۇش ھالىتىدە تاللانغان مەشغۇلاتنى ئېلىپ بارغىلى بولمايدۇ"</string>
+<string name="progress_dialog_exiting_ecm">"جىددىي تېلېفون قايتۇرۇش ھالىتىدىن چېكىنىش"</string>
+<string name="alert_dialog_yes">"ھەئە"</string>
+<string name="alert_dialog_no">"ياق"</string>
+<string name="alert_dialog_dismiss">"تارقىلىش"</string>
+<string name="voicemail_provider">"مۇلازىمەت"</string>
+<string name="voicemail_settings">"تەڭشەش"</string>
+<string name="voicemail_number_not_set">"تەڭشەلمىگەن"</string>
+<string name="other_settings">"باشقا سۆزلىشىش تەڭشەكلىرى"</string>
+<string name="calling_via_template">"ئارقىلىق سۆزلىشىش<xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"ئالاقە سۈرىتى"</string>
+<string name="goPrivate">"خاس پاراڭلىشىش"</string>
+<string name="selectContact">"ئالاقىلاشقۇچىنى تاللاڭ"</string>
+<string name="sip_settings">"تور تېلېفون تەڭشىكى"</string>
+<string name="sip_accounts">"ھېسابات نۇمۇرى (SIP) تور تېلېفونى"</string>
+<string name="sip_accounts_title">"ھېسابات"</string>
+<string name="sip_receive_calls">"كەلگەن تېلىفوننى ئېلىش"</string>
+<string name="sip_receive_calls_summary">"باتارىيە ھاياتىنى قىسقارتىدۇ"</string>
+<string name="sip_call_options_title">"تور تېلېفونىنى ئىشلىتىش"</string>
+<string name="sip_call_options_wifi_only_title">" (تور تېلېفونىنى ئىشلىتىش (پەقەت سىمسىز تور بار ئەھۋالدا"</string>
+<string name="sip_call_options_entry_1">"سانلىق مەلۇمات تورى ئۇچۇق ۋاقىتتا بارلىق سۆزلىشىشلەرگە ئىشلىتىش"</string>
+<string name="sip_call_options_entry_2">"پەقەتلا تور تېلېفونىغا ئىشلىتىش"</string>
+<string name="sip_call_options_entry_3">"ھەر قېتىم چاقىرغاندا سوراش"</string>
+<string name="sip_call_options_wifi_only_entry_1">"بارلىق سۆزلىشىشلەر ئۈچۈن"</string>
+<string name="pick_outgoing_call_phone_type">"تېلېفون ئۇرۇش"</string>
+<string name="pick_outgoing_sip_phone">":تور تېلېفونى ھېسابات نۇمۇرىنى ئىشلىتىش"</string>
+<string name="remember_my_choice">"داۋاملىق تور تېلېفونىنى ئۇرۇش ئۈچۈن ئىشلىتىش"</string>
+<string name="reset_my_choice_hint">"سىز سۈكۈتلۈك تور تېلېفون قىلىش نىشانىنى تېلېفون  تەڭشەك  تور تېلېفون تەڭشىكى ھېسابات نۇمۇر قاتارلىق ئېكرانلاردا ئۆزگەرتەلەيسىز"</string>
+<string name="pstn_phone">"يان تېلېفوندا چاقىرىش"</string>
+<string name="internet_phone">"تور تىلفۇنى"</string>
+<string name="no_sip_account_found_title">"تور تېلېفونى ھېسابات نۇمۇرى"</string>
+<string name="no_sip_account_found">"بۇ تېلېفوندا تور تېلېفون ھېسابات نۇمۇرى يوق ئىكەن. سىز بىرنى قوشۇمسىز؟"</string>
+<string name="sip_menu_add">"قوشۇش"</string>
+<string name="add_sip_account">"سچوت قۇشۇپ كۆپەيتىش"</string>
+<string name="remove_sip_account">"سانلىق مەلۇماتنى ئۈچۈرۈش"</string>
+<string name="sip_account_list">"ھېسابات نۇمۇرىSIP"</string>
+<string name="saving_account">"...ھېسابات نۇمۇرىنى ساقلاۋاتىدۇ"</string>
+<string name="removing_account">"...ھېسابات نۇمۇرىنى يۇيۇۋاتىدۇ"</string>
+<string name="sip_menu_save">"ساقلاش"</string>
+<string name="sip_menu_discard">"تاشلىۋىتىش"</string>
+<string name="alert_dialog_close">"شەخسىي ماتېرىيالىنى ئېتىۋېتىش"</string>
+<string name="alert_dialog_ok">"مۇقىملاش"</string>
+<string name="close_profile">"ئىتىۋېتىش"</string>
+<string name="primary_account_summary_with">"<xliff:g id="registration_status" example="Registering...">%s</xliff:g>.تۇنجى ھېسابات نۇمۇرى"</string>
+<string name="registration_status_checking_status">"...ھالەتنى تەكشۈرۈۋاتىدۇ"</string>
+<string name="registration_status_registering">"...تىزىملىتىۋاتىدۇ"</string>
+<string name="registration_status_still_trying">"...داۋاملىق سىناۋاتىدۇ"</string>
+<string name="registration_status_not_receiving">"تېلېفون قۇبۇل قىلمايۋاتىدۇ"</string>
+<string name="registration_status_no_data">"تورغا ئۇلانمىغانلىقى ئۈچۈن ھېسابات نۇمۇرىنى تىزىملاش توختىتىلدى"</string>
+<string name="registration_status_no_wifi_data">"سىمسىز تور ئۇلىنىشى بولمىغانلىقى ئۈچۈن ھېسابات نۇمۇرىنى تىزىملاش توختىتىلدى"</string>
+<string name="registration_status_not_running">"ھېسابات نۇمۇرىنى تىزىملاش مەغلۇب بولدى"</string>
+<string name="registration_status_done">"تېلېفون ئېلىنىۋاتىدۇ"</string>
+<string name="registration_status_failed_try_later">""؛قايتا سېنىلىدۇ(<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>):ھېسابات نۇمۇرىنى تىزىملاش مەغلۇب بولدى\'"</string>
+<string name="registration_status_invalid_credentials">" ھېسابات نۇمۇرىنى تىزىملاش مەغلۇب بولدى : ئىشلەتكۈچى نامى ياكى مەخپىي نۇمۇر خاتا"</string>
+<string name="registration_status_server_unreachable">" ھېسابات نۇمۇرىنى تىزىملاش مەغلۇب بولدى :مۇلازېمەتچى نامىنى تەكشۈرۈڭ"</string>
+<string name="third_party_account_summary">"ئەپ تەرىپىدىن ئىشلىتىلىۋاتىدۇ<xliff:g id="account_owner" example="Google Talk">%s</xliff:g>بۇ ھېسابات نۇمۇرى ھازىر "</string>
+<string name="sip_edit_title">"ھېسابات نۇمۇر تەپسىلاتىSIP"</string>
+<string name="sip_edit_new_title">"ھېسابات نۇمۇر تەپسىلاتىSIP"</string>
+<string name="domain_address_title">"مۇلازىمەت ئۈسكۈنىسى"</string>
+<string name="username_title">"ئابونت ئىسمى"</string>
+<string name="password_title">"شىفىر"</string>
+<string name="display_name_title">"ئىسىمنى كۆرسىتىش"</string>
+<string name="proxy_address_title">"چىقىش ۋاكالەت ئادرېسى"</string>
+<string name="port_title">"‏‏ئېغىز نومۇرى"</string>
+<string name="transport_title">"ئەۋەتىش تۈرى"</string>
+<string name="send_keepalive_title">"داۋاملىق ئۇلىنىش ھالىتىدە تۇرۇشنى يوللاش"</string>
+<string name="set_primary_title">"تۇنجى ھېسابات نۇمۇرى قىلىپ تەڭشەش"</string>
+<string name="set_primary_summary">"ئۇرۇلغان سۆزلىشىشلەرگە ئىشلىتىلىدۇ"</string>
+<string name="advanced_settings">"تاللاشقا بولىدىغان تەڭشەك"</string>
+<string name="auth_username_title">"ئىشلەتكۈچى نامىنى ئىسپاتلاش"</string>
+<string name="auth_username_summary">"ئىسپاتلاش ئۈچۈن ئىشلىتىلگەن ئىشلەتكۈچى نامى"</string>
+<string name="default_preference_summary">"تەڭشەلمىگەن"</string>
+<string name="display_name_summary">"ئىشلەتكۈچى نامى بىلەن ئوخشاش"</string>
+<string name="optional_summary">"تاللاشقا بولىدىغا "</string>
+<string name="advanced_settings_show">" چىكىپ ھەممىنى كۆرسىتىش▷"</string>
+<string name="advanced_settings_hide">"چېكىپ ھەممىنى يۇشۇرۇش▽"</string>
+<string name="empty_alert">"بولسا چوقۇم تولدۇرىدىغان رايۇن ، بوش قالدۇرۇلسا بولمايدۇ<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g>"</string>
+<string name="not_a_valid_port">"ئېغىز نۇمۇرى  1000 بىلەن  65534 ئارىلىقىدا بولۇشى كېرەك"</string>
+<string name="no_internet_available_title">"تور ئۇلىنىش يوق"</string>
+<string name="no_wifi_available_title">"سىمسىز تور ئۇلىنىشى يوق"</string>
+<string name="no_internet_available">"تور تېلېفونىنى ئىشلىتىش ئۈچۈن ئالدى بېلەن تور ئۇلىنىشىڭىزنى تەكشۈرۈڭ"</string>
+<string name="no_wifi_available">"تور سۆزلىشىشى سىزنىڭ سىمسىز تورغا ئۇلىنىشڭىزنى تەلەپ قىلىدۇ (سىمسىز ۋە تور تەڭشىكىنى ئىشلىتىڭ)""</string>
+<string name="no_voip">"تور سۆزلىشىشىنى قوللىمايدۇ"</string>
+<string name="sip_system_decide">"ئاپتۇماتىك"</string>
+<string name="sip_always_send_keepalive">"داۋاملىق يوللاش"</string>
+<string name="not_voice_capable">"ئاۋازلىق چاقىرىشنى قوللىمايدۇ"</string>
+<string name="respond_via_sms_canned_response_1">"ھازىر سۆزلىشەلمەيمەن، بىر ئىش بارمۇ؟"</string>
+<string name="respond_via_sms_canned_response_2">"ھېلى سىزگە تېلېفون قايتۇراي"</string>
+<string name="respond_via_sms_canned_response_3">"بىر ئازدىن كېيىن سىزگە تېلېفون قىلاي"</string>
+<string name="respond_via_sms_canned_response_4">"ھازىر سۆزلىشەلمەيمەن، بىر ئازدىن كېيىن تېلېفون قىلامسىز؟"</string>
+<string name="respond_via_sms_custom_message">"...ئۆزى يېزىپ قايتۇرۇش"</string>
+<string name="custom_message_cancel">"4 x 3"</string>
+<string name="custom_message_send">"4 minutes"</string>
+<string name="respond_via_sms_setting_title">"تېز سۈرئەتتە قايتۇرۇش"</string>
+<string name="respond_via_sms_setting_title_2">"تېز قايتۇرۇشنى تۈزىتىش"</string>
+<string name="respond_via_sms_edittext_dialog_title">"تېز قايتۇرۇشنى تەھرىرلەش"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"سۈكۈتلۈك ئەپنى قايتا تەڭشەش"</string>
+<string name="respond_via_sms_confirmation_format">"غا يوللاندى<xliff:g id="phone_number">%s</xliff:g>ئۇچۇر "</string>
+<string name="description_image_button_one">"بىر"</string>
+<string name="description_image_button_two">"ئىككى"</string>
+<string name="description_image_button_three">"ئۈچ"</string>
+<string name="description_image_button_four">"تۆت"</string>
+<string name="description_image_button_five">"بەش"</string>
+<string name="description_image_button_six">"ئالتە"</string>
+<string name="description_image_button_seven">"يەتتە"</string>
+<string name="description_image_button_eight">"سەككىز"</string>
+<string name="description_image_button_nine">"توققۇز"</string>
+<string name="description_image_button_star">"يۇلتۇز"</string>
+<string name="description_image_button_zero">"نۆل"</string>
+<string name="description_image_button_pound">"پوند ستېرلىڭ"</string>
+<string name="description_dial_button">"ئۇرۇش"</string>
+<string name="description_delete_button">"ئارقىغا قايتىش كۇنۇپكىسى"</string>
+<string name="accessibility_speakerphone_enabled">"ئاۋاز ياڭراتقۇ قوزغىتىلدى"</string>
+<string name="accessibility_call_muted">"سۆزلىشىش ئاۋازسىزلاندۇرۇلدى"</string>
+<string name="description_target_answer">"قۇبۇل قىلىش"</string>
+<string name="description_target_send_sms">"قسقا ئۇچۇر يوللاش"</string>
+<string name="description_target_decline">"چۈشۈش"</string>
+<string name="description_direction_up">"<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> نى ئۈستىگە يۆتكەش"</string>
+<string name="description_direction_left">"<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> نى سولغا سېرىلدۈرۈڭ."</string>
+<string name="description_direction_right">"<xliff:g id="TARGET_DESCRIPTION">%s</xliff:g> نى ئوڭغا سۈرۈش."</string>
+<string name="voicemail_notification_vibrate_when_title">"تىترەش"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"تىترەش"</string>
+<string name="voicemail_notification_ringtone_title">"ئاۋاز تەڭشەش"</string>
+<string name="default_notification_description">"(<xliff:g id="default_sound_title">%1$s</xliff:g>)سۈكۈتلۈك ئاۋاز"</string>
+<string name="ringtone_title">"تېلفۇن قۇڭغۇرۇقى"</string>
+<string name="vibrate_on_ring_title">"قوڭغۇراق چىلىنغاندا تىترەش"</string>
+<string name="dtmf_tone_enable_title">"ئاۋاز ئارقىلىق قوڭغۇراق ئاېازىغا تىگىش"</string>
+<string name="dial_pad_autocomplete">"نۇمۇر كىرگۈزۈش كۇنۇپكىسىنىڭ ئاپتوماتىك تولۇقلىنىشى"</string>
+<string name="preference_category_ringtone">"قوڭغىراقلىق ئاۋاز ۋە تىترەش"</string>
+<string name="manageConferenceLabel">"تېلېفون يىغىنىنى باشقۇرۇش"</string>
+<string name="emergency_call_dialog_number_for_display">"جىددى ئەھۋال نومۇر"</string>
+</resources>

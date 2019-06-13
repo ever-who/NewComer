@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+     <!-- SPRD: Add for recorder. @{ -->
+    <string name="record_time">Record Time:</string>
+    <string name="onscreenShowRecodText">Record</string>
+    <string name="onscreenShowStopRecodText">Stop recording</string>
+    <string name="recorderr">Record file save fail! </string>
+    <string name="audio_db_artist_name">Your recordings</string>
+    <string name="audio_db_album_name">Call recordings</string>
+    <string name="audio_db_playlist_name">My recordings</string>
+    <string name="app_name">Phone App</string>
+    <string name="error_mediadb_new_record">Unable to save recorded audio</string>
+    <string name="sdcard_access_error">"Can\'t access sdcard"</string>
+    <string name="no_sd_card">NO SD card or UNMOUNTED</string>
+    <string name="insert_sd_card">Please insert an SD card</string>
+    <string name="storage_is_full">Storage is full</string>
+    <string name="recording">Recording </string>
+    <string name="used_by_other_applications">Recording equipment are used by other programs, please shut down the program </string>
+    <!-- @} -->
+
+    <!-- SPRD: add for Universe UI begin -->
+    <string name="lockscreen_comments">Downward sliding to answer or reject</string>
+    <string name="lockscreen_comments_sms">SMS Reject</string>
+    <!-- SPRD: add for Universe UI end -->
+
+    <!-- SPRD: add for dsds to show which sim card is active -->
+    <string name="sim_reference">SIM%d</string>
+    <!-- SPRD: add string begin -->
+    <string name="prompt_record_finish">Recorder file has been save to </string>
+    <!-- SPRD: add string end -->
+    <string name="unknown_area">Unknown area</string>
+    <string name="unknown_contacts">Unknown contacts</string>
+
+    <!-- FDN list screen: menu item label -->
+    <string name="menu_add">Add contact</string>
+    <!-- FDN list screen: menu item label -->
+    <string name="menu_edit">Edit contact</string>
+    <!-- FDN list screen: menu item label -->
+    <string name="menu_delete">Delete contact</string>
+    <string name="main_card_slot">"Main Card :"</string>
+    <string name="gsm_card_slot">"Vice Card :"</string>
+    <!-- Text for the onscreen overflow button, to see additional actions which can be done. -->
+    <string name="onscreenOverflowText">More options</string>
+    <string name="bottom_button_separate">"Separate call"</string>
+    <string name="bottom_button_hangup">"Hang up"</string>
+    <!-- SPRD: add for send sms button. See Bug624151 -->
+    <string name="onscreenSendSMSText">"Send message"</string>
+    <!-- SPRD: Add for displaying a pop up notify that the third calls is coming. See Bug623681 @{ -->
+    <string name="hangupcall_note_title">Attention</string>
+    <string name="hangupcall_note_message">The incoming call is the third call, if answered, the current active call will be disconnected.</string>
+    <!-- @} -->
+    <string name="onscreenVideoCallText">Video call</string>
+    <string name="onscreenChangeToVoiceText">Voice call</string>
+    <string name="onscreenPauseVideoText">Pause video</string>
+    <string name="onscreenSwitchCameraText">Switch camera</string>
+    <string name="onscreenResumeVideoText">"Resume video"</string>
+    <string name="onscreenHoldText_unselected">"Hold"</string>
+    <string name="onscreenHoldText_selected">Resume</string>
+    <string name="onscreenStopMuteText">"Unmute"</string>
+    <string name="onscreenAnswerText">"Answer"</string>
+    <string name="onscreenRejectMessageText">"Reject message"</string>
+    <string name="onscreenHangupText">"Hang up"</string>
+    <string name="onscreenOptionText">"Options"</string>
+    <string name="onscreenBackText">"Back"</string>
+    <string name="onscreenChooseText">"Choose"</string>
+    <!-- SPRD:bug651194 fail reject to send sms @{ -->
+    <string name="fail_reject_to_send_sms">"Invalid number, can not reject by SMS"</string>
+    <string name="wifi_call">"Wi-Fi Call"</string>
+    <!-- UNISOC:bug899333 @{ -->
+    <string name="anritsu_wifi_call">"T-Mobile CZ Wi-Fi"</string>
+    <!-- @} -->
+    <string name="conf_can_not_invite_more">Can not invite another participant to the conference as it already contains 5 participants.</string>
+    <!-- SPRD:Add for modify call type feature. -->
+    <string name="onscreenVideoCallRxText">Received video only</string>
+    <string name="onscreenVideoCallTxText">Broadcast video only</string>
+    <!-- @} -->
+    <!-- Add strings for Multi-Part-Call -->
+    <string name="hangup_hold_and_answer">Hang up held call and Answer</string>
+    <string name="hangup_active_and_answer">Hang up active call and Answer</string>
+    <string name="hold_current_call_and_answer">"Hold current call and Answer"</string>
+    <string name="hangup_current_call_and_answer">"Hang up current call and Answer"</string>
+    <!-- @} -->
+</resources>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ಫೋನ್"</string>
+<string name="onHold">"ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="unknown">"ಪರಿಚಿತವಲ್ಲದ್ದು"</string>
+<string name="private_num">"ಖಾಸಗಿ ಸಂಖ್ಯೆ"</string>
+<string name="payphone">"ಪಾವತಿ ಫೋನ್"</string>
+<string name="callFailed_userBusy">"ಲೈನ್ ವ್ಯಸ್ಥವಾಗಿದೆ"</string>
+<string name="callFailed_congestion">"ನೆಟ್ವರ್ಕ್ ವೈಫಲ್ಯ"</string>
+<string name="callFailed_timedOut">"ಯಾವುದೇ ಉತ್ತರವಿಲ್ಲ, ಸಮಯ ಮೀರಿದೆ"</string>
+<string name="callFailed_server_unreachable">"ಸರ್ವರ್ ಸಿಗುತ್ತಿಲ್ಲ"</string>
+<string name="callFailed_number_unreachable">"ಸಂಖ್ಯೆ ಸಿಗುತ್ತಿಲ್ಲ"</string>
+<string name="callFailed_invalid_credentials">"ಯುಸರ್ ಹೆಸರು ಮತ್ತು ಪಾಸ್ವರ್ಡ್ ಸರಿಯಾಗಿಲ್ಲ"</string>
+<string name="callFailed_out_of_network">"ನೆಟ್ವರ್ಕ್ ಸಿಗದಿರುವೆಡೆಯಿಂದ ಕರೆ ಮಾಡಲ್ಪಟ್ಟಿದೆ"</string>
+<string name="callFailed_server_error">"ಸರ್ವರ್ ದೋಷ. ಮತ್ತೆ ಮರು ಪ್ರಯತ್ನಿಸಿ."</string>
+<string name="callFailed_noSignal">"ಸಂಕೇತ ಇಲ್ಲ"</string>
+<string name="callFailed_limitExceeded">"ACM ಮಿತಿ ದಾಟಿದೆ"</string>
+<string name="callFailed_powerOff">"ರೇಡಿಯೋ ಆಫ್"</string>
+<string name="callFailed_simError">"SIM ಇಲ್ಲ ಅಥವಾ SIM ದೋಷ"</string>
+<string name="callFailed_outOfService">"ಸೇವಾ ಕ್ಷೇತ್ರದ ಹೊರಗಿದೆ"</string>
+<string name="callFailed_fdn_only">"ಹೊರ ಹೋಗುವ ಕರೆಗಳು FDN ನಿಂದ ನಿರ್ಬಂಧಿತವಾಗಿವೆ."</string>
+<string name="callFailed_cb_enabled">"ಕರೆ ತಡೆಯುವಿಕೆ ಆನ್ ಇರುವಾಗ ನೀವು ಹೊರಹೋಗುವ ಕರೆ ಮಾಡುವಂತಿಲ್ಲ."</string>
+<string name="callFailed_dsac_restricted">"ಎಲ್ಲ ಕರೆಗಳೂ ಅವಕಾಶ ನಿಯಂತ್ರಣದಿಂದ ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ."</string>
+<string name="callFailed_dsac_restricted_emergency">"ತುರ್ತು ಕರೆಗಳು ಅವಕಾಶ ನಿಯಂತ್ರಣದಿಂದ ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ."</string>
+<string name="callFailed_dsac_restricted_normal">"ಸಾಮಾನ್ಯ ಕರೆಗಳು ಅವಕಾಶ ನಿಯಂತ್ರಣದಿಂದ ನಿರ್ಬಂಧಿಸಲ್ಪಟ್ಟಿವೆ."</string>
+<string name="callFailed_unobtainable_number">"ಅಸಿಂಧು ಸಂಖ್ಯೆ"</string>
+<string name="confCall">"ಅಧಿವೇಶನ ಕರೆ"</string>
+<string name="call_lost">"ಕರೆಯು ಕಳೆದುಹೋಗಿದೆ"</string>
+<string name="ok">"ಸರಿ"</string>
+<string name="audio_mode_speaker">"ಧ್ವನಿ ವರ್ಧಕ"</string>
+<string name="audio_mode_earpiece">"ಹ್ಯಾಂಡ್ ಸೆಟ್ ಇಯರ್ ಪೀಸ್"</string>
+<string name="audio_mode_wired_headset">"ವಯರ್ಡ್ ಹೆಡ್ ಸೆಟ್"</string>
+<string name="audio_mode_bluetooth">"ಬ್ಲೂಟೂತ್"</string>
+<string name="wait_prompt_str">"ಈ ಕೆಳಗಿನ ಟೋನುಗಳನ್ನು ಕಳುಹಿಸುವುದೇ?\n"</string>
+<string name="pause_prompt_str">"ಟೋನುಗಳನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ\n"</string>
+<string name="send_button">"ಕಳುಹಿಸಿ"</string>
+<string name="pause_prompt_yes">"ಹೌದು"</string>
+<string name="pause_prompt_no">"ಇಲ್ಲ"</string>
+<string name="wild_prompt_str">"ವನ್ಯ ಪದವನ್ನು ಇದರಿಂದ ಬದಲಿಸಿ"</string>
+<string name="caller_manage_header">"ಅಧಿವೇಶನ ಕರೆ <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"ವಾಯ್ಸ್ ಮೇಲ್ ಸಂಖ್ಯೆ"</string>
+<string name="card_title_dialing">"ಡಯಲ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="card_title_redialing">"ಮರುಪ್ರಯತ್ನ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="card_title_conf_call">"ಅಧಿವೇಶನ ಕರೆ"</string>
+<string name="card_title_incoming_call">"ಒಳಬರುವ ಕರೆ"</string>
+<string name="card_title_call_ended">"ಕರೆ ಕೊನೆಗೊಂಡಿದೆ"</string>
+<string name="card_title_on_hold">"ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="card_title_hanging_up">"ಕರೆ ಮುಕ್ತಾಯಗೊಳಿಸುತ್ತಿದೆ"</string>
+<string name="card_title_in_call">"ಕರೆಯಲ್ಲಿದೆ"</string>
+<string name="card_title_my_phone_number">"ನನ್ನ ಸಂಖ್ಯೆಯು <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"ಡಯಲ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
+<string name="notification_missedCallTitle">"ಬಿಟ್ಟಿಹೋಗಿರುವ ಕರೆ’</string>
+<string name="notification_missedCallsTitle">"ತಪ್ಪಿಹೋಗಿರುವ ಕರೆಗಳು"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> ತಪ್ಪಿಹೋಗಿರುವ ಕರೆ"</string>
+<string name="notification_missedCallTicker">"ಇಲ್ಲಿಂದ ತಪ್ಪಿಹೋಗಿರುವ ಕರೆ <xliff:g id="missed_call_from">%s</xliff:g>"</string>
+<string name="notification_ongoing_call">"ನಡೆಯುತ್ತಿರುವ ಕರೆ"</string>
+<string name="notification_on_hold">"ತಡೆ ಹಿಡಿಯಲಾಗಿದೆ"</string>
+<string name="notification_incoming_call">"ಒಳಬರುವ ಕರೆ"</string>
+<string name="notification_voicemail_title">"ಹೊಸ ವಾಯ್ಸ್ ಮೇಲ್"</string>
+<string name="notification_voicemail_title_count">"ಹೊಸ ವಾಯ್ಸ್ ಮೇಲ್ (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"ಡಯಲ್ ಮಾಡಿ <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"ವಾಯ್ಸ್ ಮೇಲ್ ಸಂಖ್ಯೆ ಅಪರಿಚಿತವಾದುದು"</string>
+<string name="notification_network_selection_title">"ಯಾವುದೇ ಸೇವೆ ಇಲ್ಲ"</string>
+<string name="notification_network_selection_text">"ಆಯ್ಕೆ ಮಾಡಿದ ನೆಟ್ವರ್ಕ್ (<xliff:g id="operator_name">%s</xliff:g>) ಲಭ್ಯವಿಲ್ಲ"</string>
+<string name="notification_action_end_call">"ಹ್ಯಾಂಗ್ ಅಪ್"</string>
+<string name="notification_missedCall_call_back">"ಮತ್ತೆ ಕರೆ ಮಾಡಿ"</string>
+<string name="notification_missedCall_message">"ಸಂದೇಶ"</string>
+<string name="incall_error_power_off">"ಕರೆ ಮಾಡಲು, ಮೊದಲು ವೈಮಾನಿಕ ಮೋಡ್ ಆಫ್ ಮಾಡಿ"</string>
+<string name="incall_error_emergency_only">"ನೆಟ್ವರ್ಕ್ ನಲ್ಲಿ ನೋಂದಾಯಿಸಿಲ್ಲ."</string>
+<string name="incall_error_out_of_service">"ಮೊಬೈಲ್ ನೆಟ್ವರ್ಕ್ ಲಭ್ಯವಿಲ್ಲ."</string>
+<string name="incall_error_no_phone_number_supplied">"ಕರೆ ಕಳುಹಿಸಿಲ್ಲ. ಸಿಂಧುವಾದ ಸಂಖ್ಯೆ ನಮೂದಿಸಿಲ್ಲ."</string>
+<string name="incall_error_call_failed">"ಕರೆ ಕಳುಹಿಸಿಲ್ಲ"</string>
+<string name="incall_status_dialed_mmi">"MMI ಸರಣಿ ಆರಂಭಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="incall_error_supp_service_unknown">"ಬೆಂಬಲಿತವಲ್ಲದ ಸರ್ವೀಸ್."</string>
+<string name="incall_error_supp_service_switch">"ಕರೆ ಬದಲಾವಣೆ ಅಸಾಧ್ಯವಾಗಿದೆ"</string>
+<string name="incall_error_supp_service_separate">"ಕರೆ ಪ್ರತ್ಯೇಕಿಸುವುದು ಅಸಾಧ್ಯವಾಗಿದೆ"</string>
+<string name="incall_error_supp_service_transfer">"ಕರೆ ವರ್ಗಾವಣೆ ಅಸಾಧ್ಯವಾಗಿದೆ"</string>
+<string name="incall_error_supp_service_conference">"ಕರೆ ಅಧಿವೇಶನ ಅಸಾಧ್ಯವಾಗಿದೆ"</string>
+<string name="incall_error_supp_service_reject">"ಕರೆಯನ್ನು ತಿರಸ್ಕರಿಸಲಾಗುತ್ತಿಲ್ಲ."</string>
+<string name="incall_error_supp_service_hangup">"ಕರೆಯ(ಗಳ)ನ್ನು ಬಿಡುಗಡೆಗೊಳಿಸಲಾಗುತ್ತಿಲ್ಲ."</string>
+<string name="incall_call_type_label_sip">"ಅಂತರ್ಜಾಲ ಕರೆ"</string>
+<string name="emergency_enable_radio_dialog_title">"ತುರ್ತು ಕರೆ"</string>
+<string name="emergency_enable_radio_dialog_message">"ರೇಡಿಯೊ ಟರ್ನ್ ಆನ್ ಮಾಡಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"ಸೇವಾ ಕ್ಷೇತ್ರದಿಂದ ಹೊರಗೆ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಲಾಗುತ್ತಿದೆ\u2026"</string>
+<string name="dial_emergency_error">"ಕರೆ ಕಳುಹಿಸಿಲ್ಲ. <xliff:g id="non_emergency_number">%s</xliff:g> ಇದು ತುರ್ತು ಸಂಖ್ಯೆಯಲ್ಲ!"</string>
+<string name="dial_emergency_empty_error">"ಕರೆ ಕಳುಹಿಸಿಲ್ಲ. ತುರ್ತು ಸಂಖ್ಯೆಯೊಂದನ್ನು ಡಯಲ್ ಮಾಡಿ!"</string>
+<string name="dialerKeyboardHintText">"ಡಯಲ್ ಮಾಡಲು ಕೀಪ್ಯಾಡ್ ಬಳಸಿ"</string>
+<string name="onscreenHoldText">"ಹಿಡಿದಿರಿಸು"</string>
+<string name="onscreenEndCallText">"ಕೊನೆಗೊಳಿಸು"</string>
+<string name="onscreenShowDialpadText">"ಡಯಲ್ ಪ್ಯಾಡ್"</string>
+<string name="onscreenMuteText">"ಮೌನ"</string>
+<string name="onscreenAddCallText">"ಕರೆಯನ್ನು ಸೇರಿಸಿ"</string>
+<string name="onscreenMergeCallsText">"ಕರೆಗಳನ್ನು ಜೊತೆಗೂಡಿಸು"</string>
+<string name="onscreenSwapCallsText">"ಅದಲು ಬದಲು ಮಾಡು"</string>
+<string name="onscreenManageCallsText">"ಕರೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ"</string>
+<string name="onscreenManageConferenceText">"ಅಧಿವೇಶನವನ್ನು ನಿರ್ವಹಿಸಿ"</string>
+<string name="onscreenAudioText">"ಶ್ರವ್ಯ"</string>
+<string name="onscreenVideoCallText">"ವಿಡಿಯೋ ಕರೆ"</string>
+<string name="voicemail_provider">"ಸರ್ವೀಸ್"</string>
+<string name="voicemail_settings">"ಸೆಟ್ ಅಪ್"</string>
+<string name="voicemail_number_not_set">"&lt;ಸೆಟ್ ಆಗಿಲ್ಲ&gt;"</string>
+<string name="other_settings">"ಇತರೆ ಕರೆ ಸೆಟ್ಟಿಂಗ್ ಗಳು"</string>
+<string name="calling_via_template">"<xliff:g id="provider_name">%s</xliff:g> ಈ ಮೂಲಕ ಕರೆ"</string>
+<string name="contactPhoto">"ಸಂಪರ್ಕದ ಭಾವಚಿತ್ರ"</string>
+<string name="goPrivate">"ಖಾಸಗಿಯಾಗು"</string>
+<string name="selectContact">"ಸಂಪರ್ಕ ಆಯ್ಕೆ ಮಾಡಿ"</string>
+<string name="respond_via_sms_canned_response_1">"ಈಗ ಮಾತನಾಡಲಾಗುವುದಿಲ್ಲ. ಏನು ಸಮಾಚಾರ?"</string>
+<string name="respond_via_sms_canned_response_2">"ನಾನು ಕೂಡಲೆ ನಿಮಗೆ ಕರೆ ನೀಡುತ್ತೇನೆ."</string>
+<string name="respond_via_sms_canned_response_3">"ನಾನು ನಿಮಗೆ ಆಮೇಲೆ ಕರೆ ಮಾಡುತ್ತೇನೆ."</string>
+<string name="respond_via_sms_canned_response_4">"ಈಗ ಮಾತನಾಡಲಾಗುವುದಿಲ್ಲ. ಆಮೇಲೆ ಕರೆ ಮಾಡುವಿರೆ?"</string>
+<string name="respond_via_sms_custom_message">"ನಿಮ್ಮದೇ ಸ್ವಂತದ್ದನ್ನು ಬರೆಯಿರಿ..."</string>
+<string name="custom_message_cancel">"ರದ್ದು"</string>
+<string name="custom_message_send">"ಕಳುಹಿಸಿ"</string>
+<string name="respond_via_sms_setting_title">"ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆಗಳು"</string>
+<string name="respond_via_sms_setting_title_2">"ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಪರಿಷ್ಕರಿಸಿ"</string>
+<string name="respond_via_sms_edittext_dialog_title">"ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆ"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"ಡಿಫಾಲ್ಟ್ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರುಸ್ಥಾಪಿಸಿ"</string>
+<string name="respond_via_sms_confirmation_format">"<xliff:g id="phone_number">%s</xliff:g> ಗೆ ಸಂದೇಶ ಕಳುಹಿಸಲಾಗಿದೆ"</string>
+<string name="description_image_button_one">"ಒಂದು"</string>
+<string name="description_image_button_two">"ಎರಡು"</string>
+<string name="description_image_button_three">"ಮೂರು"</string>
+<string name="description_image_button_four">"ನಾಲ್ಕು"</string>
+<string name="description_image_button_five">"ಐದು"</string>
+<string name="description_image_button_six">"ಆರು"</string>
+<string name="description_image_button_seven">"ಏಳು"</string>
+<string name="description_image_button_eight">"ಎಂಟು"</string>
+<string name="description_image_button_nine">"ಒಂಬತ್ತು"</string>
+<string name="description_image_button_star">"ತಾರೆ"</string>
+<string name="description_image_button_zero">"ಶೂನ್ಯ"</string>
+<string name="description_image_button_pound">"ಪೌಂಡ್"</string>
+<string name="description_dial_button">"ಡಯಲ್"</string>
+<string name="description_delete_button">"ಬ್ಯಾಕ್ ಸ್ಪೇಸ್"</string>
+<string name="accessibility_speakerphone_enabled">"ಸ್ಪೀಕರ್ ಫೋನ್ ಸಕ್ರಿಯವಾಗಿದೆ."</string>
+<string name="accessibility_call_muted">"ಕರೆ ನಿಃಶಬ್ದಗೊಳಿಸಲಾಗಿದೆ."</string>
+<string name="description_target_answer">"ಉತ್ತರಿಸಿ"</string>
+<string name="description_target_send_sms">"SMS ಕಳುಹಿಸಿ"</string>
+<string name="description_target_decline">"ನಿರಾಕರಿಸಿ"</string>
+<string name="description_direction_up">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>.ಕ್ಕಾಗಿ ಮೇಲಕ್ಕೆ ಜಾರಿಸಿ"</string>
+<string name="description_direction_left">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>.ಕ್ಕಾಗಿ ಕೆಳೆಡಕ್ಕೆ ಜಾರಿಸಿ"</string>
+<string name="description_direction_right">" <xliff:g id="target_description" example="Unlock">%s</xliff:g>ಗಾಗಿ ಬಲಕ್ಕೆ ಜಾರಿಸಿ"</string>
+<string name="voicemail_notification_vibrate_when_title">"ಕಂಪನ"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"ಕಂಪನ"</string>
+<string name="voicemail_notification_ringtone_title">"ಸದ್ದು"</string>
+<string name="default_notification_description">"ಡಿಫಾಲ್ಟ್ ಸದ್ದು (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"ಫೋನ್ ರಿಂಗ್ ಟೋನ್"</string>
+<string name="vibrate_on_ring_title">"ರಿಂಗ್ ಆಗುವಾಗ ಕಂಪಿಸಲಿ"</string>
+<string name="dtmf_tone_enable_title">"ಡಯಲ್ ಪ್ಯಾಡ್ ಸ್ಪರ್ಶ ಟೋನ್ ಗಳು"</string>
+<string name="dial_pad_autocomplete">"ಡಯಲ್ ಪ್ಯಾಡ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಂಪೂರ್ಣಗೊಂಡಿದೆ"</string>
+<string name="preference_category_ringtone">"ರಿಂಗ್ ಟೋನ್ ಕಂಪನ"</string>
+<string name="manageConferenceLabel">"ಸಮ್ಮೇಲನ ಕರೆಯನ್ನು ನಿರ್ವಹಿಸಿ"</string>
+<string name="emergency_call_dialog_number_for_display">"ತುರ್ತು ಸಂಖ್ಯೆ"</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"salvestuse aeg:"</string>
+<string name="onscreenShowRecodText">"Salvestus"</string>
+<string name="recorderr">"Salvesta salvestise fail!"</string>
+<string name="audio_db_artist_name">"Sinu salvestised"</string>
+<string name="audio_db_album_name">"Kõne salvestised"</string>
+<string name="audio_db_playlist_name">"Minu salvestised"</string>
+<string name="app_name">"Telefoni Rakendus"</string>
+<string name="error_mediadb_new_record">"Ei saa salvestatud audiot salvestada"</string>
+<string name="sdcard_access_error">"Puudub ligipääs asukohale sdkaart"</string>
+<string name="no_sd_card">"SD kaart PUUDUB või PAIGAST LIIGUTATUD"</string>
+<string name="insert_sd_card">"Palun sisesta SD kaart"</string>
+<string name="storage_is_full">"Mälu on täis"</string>
+<string name="recording">"Salvestamine"</string>
+<string name="lockscreen_comments">"libista alla et vastata või keelduda"</string>
+<string name="lockscreen_comments_sms">"SMS tõrge"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"Salvestise fail salvestati asukohta"</string>
+    <string name="unknown_area">"Tundmatu ala"</string>
+    <string name="unknown_contacts">"Tundmatu kontaktid"</string>
+
+</resources>

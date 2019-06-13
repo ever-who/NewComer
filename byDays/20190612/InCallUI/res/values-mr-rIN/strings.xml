@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"फोन"</string>
+<string name="onHold">"ऑन होल्ड"</string>
+<string name="unknown">"अज्ञात"</string>
+<string name="private_num">"खासगी क्रमांक"</string>
+<string name="payphone">"फोनचे पैसे भरा"</string>
+<string name="callFailed_userBusy">"लाइन व्यस्त"</string>
+<string name="callFailed_congestion">"नेटवर्क विफल"</string>
+<string name="callFailed_timedOut">"उत्तर नाही, कालबाह्य"</string>
+<string name="callFailed_server_unreachable">"सर्व्हरपर्यंत पोहोचू शकत नाही"</string>
+<string name="callFailed_number_unreachable">"नंबरपर्यंत पोहोचू शकत नाही"</string>
+<string name="callFailed_invalid_credentials">"चूकीचे युझरनांव किंवा पासवर्ड"</string>
+<string name="callFailed_out_of_network">"नेटवर्कच्या बाहेरून कॉल केला"</string>
+<string name="callFailed_server_error">"सर्व्हर त्रुटी. नंतर पुन्हा प्रयत्न करा"</string>
+<string name="callFailed_noSignal">"सिग्नल नाही"</string>
+<string name="callFailed_limitExceeded">"ACM सीमा ओलांडली"</string>
+<string name="callFailed_powerOff">"रेडिओ बंद"</string>
+<string name="callFailed_simError">"SIM नाही किंवा SIM मध्ये त्रुटी" </string>
+<string name="callFailed_outOfService">"एरिया सेवेच्या बाहेर"</string>
+<string name="callFailed_fdn_only">"बाहेर जाणारे कॉल FDN द्वारे मर्यादित केले गेले आहेत" </string>
+<string name="callFailed_cb_enabled">"कॉलवर प्रतिबंध चालू असतो तेव्हा आपण बाहेर जाणारे कॉल करू शकत नाही"</string>
+<string name="callFailed_dsac_restricted">"सर्व कॉल एक्सेस कंट्रोल द्वारे मर्यादित केले गेले आहेत." </string>
+<string name="callFailed_dsac_restricted_emergency">"इमर्जन्सी वेळेसाठी असलेले कॉल एक्सेस कंट्रोल द्वारे मर्यादित केले गेले आहेत."</string>
+<string name="callFailed_dsac_restricted_normal">"सामान्य कॉल एक्सेस कंट्रोल द्वारे मर्यादित केले गेले आहेत."</string>
+<string name="callFailed_unobtainable_number">"अवैध नंबर"</string>
+<string name="confCall">"परिषद कॉल"</string>
+<string name="call_lost">"कॉल हरवला आहे."</string>
+<string name="ok">"ओके"</string>
+<string name="audio_mode_speaker">"स्पीकर"</string>
+<string name="audio_mode_earpiece">"हॅण्डसेट इअरपीस"</string>
+<string name="audio_mode_wired_headset">"वायर असलेला हेडसेट"</string>
+<string name="audio_mode_bluetooth">"ब्ल्यूटूथ"</string>
+<string name="wait_prompt_str">"खालील टोन पाठवायच्या आहेत का?\n"</string>
+<string name="pause_prompt_str">विराम द्या</string>
+<string name="send_button">"पाठवा"</string>
+<string name="pause_prompt_yes">"होय"</string>
+<string name="pause_prompt_no">"नाही"</string>
+<string name="wild_prompt_str">"वाइल्ड कॅरॅक्टर ऐवजी हे ठेवा"</string>
+<string name="caller_manage_header">"कॉन्फरन्स कॉल<xliff:g id="conf_call_time">%s</xliff:g>" </string>
+<string name="voicemail_settings_number_label">"व्हॉइसमेल नंबर"</string>
+<string name="card_title_dialing">"डायल करत आहे"</string>
+<string name="card_title_redialing">"पुन्हा प्रयत्न करत आहे"</string>
+<string name="card_title_conf_call">"परिषद कॉल"</string>
+<string name="card_title_incoming_call">"येणारा कॉल"</string>
+<string name="card_title_call_ended">"कॉल समाप्त झाला आहे"</string>
+<string name="card_title_on_hold">"ऑन होल्ड"</string>
+<string name="card_title_hanging_up">"हॅन्ग करत आहे"</string>
+<string name="card_title_in_call">"कॉलमध्ये"</string>
+<string name="card_title_my_phone_number">"माझा नंबर <xliff:g id="my_phone_number">%s</xliff:g> आहे" </string>
+<string name="notification_dialing">"डायल करत आहे"</string>
+<string name="notification_missedCallTitle">"हुकलेले कॉल"</string>
+<string name="notification_missedCallsTitle">"मिस्ड कॉल"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> मिस्ड कॉल"</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g>कडून मिस्ड कॉल" </string>
+<string name="notification_ongoing_call">"चालू असलेला कॉल" </string>
+<string name="notification_on_hold">"ऑन होल्ड"</string>
+<string name="notification_incoming_call">"येणारा कॉल"</string>
+<string name="notification_voicemail_title">" नवीन व्हॉइसमेल"</string>
+<string name="notification_voicemail_title_count">"नवीन व्हॉइसमेल(<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"<xliff:g id="voicemail_number">%s</xliff:g>डायल करा" </string>
+<string name="notification_voicemail_no_vm_number">"व्हॉइसमेल नंबर अज्ञात आहे"</string>
+<string name="notification_network_selection_title">"सेवा उपलब्ध नाही"</string>
+<string name="notification_network_selection_text">"निवडलेले नेटवर्क (<xliff:g id="operator_name">%s</xliff:g>) उपलब्ध नाही" </string>
+<string name="notification_action_end_call">"हॅन्ग अप करा" </string>
+<string name="notification_missedCall_call_back">"परत कॉल करा"</string>
+<string name="notification_missedCall_message">"संदेश"</string>
+<string name="incall_error_power_off">"कॉल करण्यासाठी प्रथम एअरप्लेन मोड बंद करा."</string>
+<string name="incall_error_emergency_only">"नेटवर्कवर नोंदलेले नाही."</string>
+<string name="incall_error_out_of_service">"मोबाईल नेटवर्क उपलब्ध नाही."</string>
+<string name="incall_error_no_phone_number_supplied">"कॉल पाठवला गेला नाही, वैध नंबर एन्टर केला गेला नाही."</string>
+<string name="incall_error_call_failed">"कॉल पाठवला गेला नाही."</string>
+<string name="incall_status_dialed_mmi">"MMI सिक्वेन्स सुरू करत आहे\u2026"</string>
+<string name="incall_error_supp_service_unknown">"सहाय्य नसलेली सेवा"</string>
+<string name="incall_error_supp_service_switch">"कॉल स्विच करण्यात अक्षम"</string>
+<string name="incall_error_supp_service_separate">"कॉल वेगळा करण्यात अक्षम"</string>
+<string name="incall_error_supp_service_transfer">"कॉल बदल करण्यात अक्षम"</string>
+<string name="incall_error_supp_service_conference">"कॉन्फरन्स कॉलसाठी अक्षम"</string>
+<string name="incall_error_supp_service_reject">"कॉल अस्विकार करण्यात अक्षम"</string>
+<string name="incall_error_supp_service_hangup">"कॉल रिलिज करण्यात अक्षम"</string>
+<string name="incall_call_type_label_sip">"इंटरनेट कॉल"</string>
+<string name="emergency_enable_radio_dialog_title">"इमर्जन्सी कॉल"</string>
+<string name="emergency_enable_radio_dialog_message">"रेडिओ चालू करत आहे\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"सेवा क्षेत्राच्या बाहेर, पुन्हा प्रयत्न करत आहे\u2026"</string>
+<string name="dial_emergency_error">"कॉल पाठवला गेला नाही <xliff:g id="non_emergency_number">%s</xliff:g> इमर्जन्सी नंबर नाही!" </string>
+<string name="dial_emergency_empty_error">"कॉल पाठवला गेला नाही. इमर्जन्सी नंबर डायल करा!" </string>
+<string name="dialerKeyboardHintText">"डायल करण्यासाठी कळपटलाचा वापर करा"</string>
+<string name="onscreenHoldText">"होल्ड करा"</string>
+<string name="onscreenEndCallText">"संपवा"</string>
+<string name="onscreenShowDialpadText">"डायलपॅड"</string>
+<string name="onscreenMuteText">"म्युट"</string>
+<string name="onscreenAddCallText">"कॉल जोडा"</string>
+<string name="onscreenMergeCallsText">"कॉल मिसळा"</string>
+<string name="onscreenSwapCallsText">"स्वॅप"</string>
+<string name="onscreenManageCallsText">"कॉल मॅनेज करा"</string>
+<string name="onscreenManageConferenceText">"कॉन्फरन्स मॅनेज करा"</string>
+<string name="onscreenAudioText">"ऑडिओ"</string>
+<string name="onscreenVideoCallText">"व्हिडिओ कॉल"</string>
+<string name="voicemail_provider">"सेवा"</string>
+<string name="voicemail_settings">"सेटअप"</string>
+<string name="voicemail_number_not_set">"&lt;सेट नाही&gt;"</string>
+<string name="other_settings">"इतर कॉल सेटिंग"</string>
+<string name="calling_via_template">"<xliff:g id="provider_name">%s</xliff:g>द्वारे कॉल करत आहे" </string>
+<string name="contactPhoto">"संपर्काचा फोटो"</string>
+<string name="goPrivate">"खाजगी व्हा." </string>
+<string name="selectContact">"निवडा संपर्क"</string>
+<string name="respond_via_sms_canned_response_1">"आता बोलू शकत नाही. काय चालले आहे?"</string>
+<string name="respond_via_sms_canned_response_2">"मी तुला लगेच परत फोन करतो."</string>
+<string name="respond_via_sms_canned_response_3">"मी तुला नंतर फोन करतो."</string>
+<string name="respond_via_sms_canned_response_4">"आता बोलू शकत नाही. नंतर फोन करशील का?"</string>
+<string name="respond_via_sms_custom_message">"तुझे तू लिही..."</string>
+<string name="custom_message_cancel">"रद्द करा"</string>
+<string name="custom_message_send">"पाठवा"</string>
+<string name="respond_via_sms_setting_title">"त्वरीत प्रतिसाद"</string>
+<string name="respond_via_sms_setting_title_2">"त्वरीत प्रतिसाद संपादित करा"</string>
+<string name="respond_via_sms_edittext_dialog_title">"त्वरीत प्रतिसाद"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"आपोआपच्या ऍपची पुन्हा रचना करा"</string>
+<string name="respond_via_sms_confirmation_format">"संदेश <xliff:g id="phone_number">%s</xliff:g>. ला पाठवला"</string>
+<string name="description_image_button_one">"एक"</string>
+<string name="description_image_button_two">"दोन"</string>
+<string name="description_image_button_three">"तीन"</string>
+<string name="description_image_button_four">"चार"</string>
+<string name="description_image_button_five">"पाच"</string>
+<string name="description_image_button_six">"सहा"</string>
+<string name="description_image_button_seven">"सात"</string>
+<string name="description_image_button_eight">"आठ"</string>
+<string name="description_image_button_nine">"नऊ"</string>
+<string name="description_image_button_star">"तारा"</string>
+<string name="description_image_button_zero">"शून्य"</string>
+<string name="description_image_button_pound">"पाऊंड"</string>
+<string name="description_dial_button">"डायल"</string>
+<string name="description_delete_button">"बॅकस्पेस"</string>
+<string name="accessibility_speakerphone_enabled">"स्पीकरफोन सक्षम केले"</string>
+<string name="accessibility_call_muted">"कॉल शांत केला आहे"</string>
+<string name="description_target_answer">"उत्तर"</string>
+<string name="description_target_send_sms">"SMS पाठवा"</string>
+<string name="description_target_decline">"अस्वीकार आहे"</string>
+<string name="description_direction_up">"<xliff:g id="target_description" example="Unlock">%s</xliff:g>.साठी वर सरका"</string>
+<string name="description_direction_left">"साठी डावीकडे सरकवा <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="description_direction_right">"साठी उजवीकडे सरकवा <xliff:g id="target_description" example="Unlock">%s</xliff:g>."</string>
+<string name="voicemail_notification_vibrate_when_title">"व्हायब्रेट"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"व्हायब्रेट"</string>
+<string name="voicemail_notification_ringtone_title">"आवाज"</string>
+<string name="default_notification_description">"आपोआपचा ध्वनी (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"फोनची रिंगटोन"</string>
+<string name="vibrate_on_ring_title">"फोन वाजत असताना थरथर"</string>
+<string name="dtmf_tone_enable_title">"पॅड टच टोन्स डायल करा"</string>
+<string name="dial_pad_autocomplete">"डायल पटल स्वयं पूर्ण"</string>
+<string name="preference_category_ringtone">"रिंगटोन थरथर"</string>
+<string name="manageConferenceLabel">"कॉन्फरन्स कॉलचे व्यवस्थापन करा"</string>
+<string name="emergency_call_dialog_number_for_display">"इमर्जन्सी नंबर"</string>
+</resources>

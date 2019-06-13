@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"റെക്കോഡ് സമയം:"</string>
+<string name="onscreenShowRecodText">"റെക്കോഡ്"</string>
+<string name="recorderr">"റെക്കോഡ് ഫയല്‍ സംരക്ഷിക്കല്‍ പരാജയപ്പെട്ടു!"</string>
+<string name="audio_db_artist_name">"താങ്കളുടെ റെക്കോര്‍ഡിംഗുകള്‍"</string>
+<string name="audio_db_album_name">"കോള്‍ റെക്കോഡിംഗുകള്‍"</string>
+<string name="audio_db_playlist_name">"എന്റെ റെക്കോര്‍ഡിംഗുകള്‍"</string>
+<string name="app_name">"ഫോണ്‍ ആപ്പ്"</string>
+<string name="error_mediadb_new_record">"റെക്കോര്‍ഡ് ചെയ്ത ഓഡിയോ സൂക്ഷിക്കാന്‍ കഴിഞ്ഞില്ല"</string>
+<string name="sdcard_access_error">"sd കാര്‍ഡ് സ്വീകരിക്കാനാകുന്നില്ല"</string>
+<string name="no_sd_card">"SD കാര്‍ഡ് ഇല്ല അല്ലെങ്കില്‍ നീക്കം ചെയ്തു"</string>
+<string name="insert_sd_card">"ദയവായി SD കാര്‍ഡ് ഇടുക"</string>
+<string name="storage_is_full">"സ്റ്റോറേജ് നിറഞ്ഞു കഴിഞ്ഞു"</string>
+<string name="recording">"റെക്കോര്‍ഡിംഗ്"</string>
+<string name="lockscreen_comments">"മറുപടി പറയാനോ അല്ലെങ്കില്‍ നിരസിക്കാനോ താഴേക്ക് സ്ലൈഡ് ചെയ്യുക"</string>
+<string name="lockscreen_comments_sms">"SMS നിരസിക്കുക"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"ഇതില്‍ റെക്കോഡര്‍ ഫയല്‍ സംരക്ഷിച്ചു"</string>
+<string name="unknown_area">"അജ്ഞാതമായ മേഖല"</string>
+<string name="unknown_contacts">"അജ്ഞാതമായ സമ്പര്‍ക്കങ്ങള്‍"</string>
+ 
+ </resources>

@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="phoneAppLabel" product="default">"ফোন"</string>
+<string name="onHold">"অন হোল্ড"</string>
+<string name="unknown">"অজানা"</string>
+<string name="private_num">"ব্যক্তিগত নম্বর"</string>
+<string name="payphone">"ফোন দেত্তয়া"</string>
+<string name="callFailed_userBusy">"লাইন ব্যস্ত"</string>
+<string name="callFailed_congestion">"নেটওয়ার্ক ব্যস্ত"</string>
+<string name="callFailed_timedOut">"কোন সাড়া, সময় শেষ"</string>
+<string name="callFailed_server_unreachable">"সার্ভার অনধিগম্য"</string>
+<string name="callFailed_number_unreachable">"সংখ্যা অনধিগম্য"</string>
+<string name="callFailed_invalid_credentials">"ভুল ব্যবহারকারী নাম অথবা পাসওয়ার্ড"</string>
+<string name="callFailed_out_of_network">"বলা হয় নেটওয়ার্কের থেকে আউট"</string>
+<string name="callFailed_server_error">"সার্ভার ত্রুটি. পরে আবার চেষ্টা করুন."</string>
+<string name="callFailed_noSignal">"কোন সংকেত নেই"</string>
+<string name="callFailed_limitExceeded">"ACM সীমা অতিক্রম করেছে"</string>
+<string name="callFailed_powerOff">"রেডিও বন্ধ"</string>
+<string name="callFailed_simError">"কোনো SIM নেই, অথবা SIM ত্রুটি"</string>
+<string name="callFailed_outOfService">"বিকল এলাকা"</string>
+<string name="callFailed_fdn_only">"স্থায়ী ডায়াল নম্বর দ্বারা আউটগোয়িং কল সীমাবদ্ধ করা হয়েছে। "</string>
+<string name="callFailed_cb_enabled">"আপনি বহির্গামী কল সময় কল ছাড়া হল উপর করা সম্ভব নয়."</string>
+<string name="callFailed_dsac_restricted">"সমস্ত কল প্রবেশাধিকার নিয়ন্ত্রণ দ্বারা সীমিত হয়."</string>
+<string name="callFailed_dsac_restricted_emergency">"জরুরী কলের প্রবেশাধিকার নিয়ন্ত্রণ দ্বারা সীমিত হয়."</string>
+<string name="callFailed_dsac_restricted_normal">"সাধারন কল প্রবেশাধিকার নিয়ন্ত্রণ দ্বারা সীমিত হয়."</string>
+<string name="callFailed_unobtainable_number">"অবৈধ সংখ্যা"</string>
+<string name="confCall">"কনফারেন্স কল"</string>
+<string name="call_lost">"কল হারিয়ে হয়েছে."</string>
+<string name="ok">"ঠিক আছে"</string>
+<string name="audio_mode_speaker">"স্পিকার"</string>
+<string name="audio_mode_earpiece">"হ্যান্ডসেট ইয়ারপিস"</string>
+<string name="audio_mode_wired_headset">"তারযুক্ত হেডসেট"</string>
+<string name="audio_mode_bluetooth">"ব্লুটুথ"</string>
+<string name="wait_prompt_str">"নিম্নলিখিত টোন পাঠান? \n"</string>
+<string name="pause_prompt_str">"পাঠানো টোন \n"</string>
+<string name="send_button">"0.5 সেকেন্ড"</string>
+<string name="pause_prompt_yes">"হ্যাঁ"</string>
+<string name="pause_prompt_no">"না"</string>
+<string name="wild_prompt_str">"বন্য অক্ষর দিয়ে প্রতিস্থাপন"</string>
+<string name="no_vm_number">"ভয়েসমেইল নম্বর অনুপস্থিত"</string>
+<string name="no_vm_number_msg">"কোন ভয়েসমেইল সংখ্যা SIM কার্ড মধ্যে সংরক্ষিত হয় নেই."</string>
+<string name="add_vm_number_str">"নম্বর যুক্ত করুন"</string>
+<string name="puk_unlocked">"আপনার SIM কার্ডটি আনব্লক। আপনার ফোন আনলক হচ্ছে\u2026"</string>
+<string name="label_ndp">"SIM নেটওয়ার্ক আনলক PIN"</string>
+<string name="sim_ndp_unlock_text">"আনলক"</string>
+<string name="sim_ndp_dismiss_text">"বরখাস্ত করা"</string>
+<string name="requesting_unlock">"অনুরোধ নেটওয়ার্ক আনলক \u2026"</string>
+<string name="unlock_failed">"নেটওয়ার্ক আনলক অনুরোধ ব্যর্থ."</string>
+<string name="unlock_success">"নেটওয়ার্ক উদ্ঘাটন করা সফল."</string>
+<string name="labelGSMMore">"GSM কল সেটিংস"</string>
+<string name="labelCDMAMore">"CDMA কল সেটিংস"</string>
+<string name="apn_settings">"এক্সেস পয়েন্ট এর নাম"</string>
+<string name="settings_label">"নেটওয়ার্ক সেটিংস"</string>
+<string name="voicemail">"ভয়েসমেইল"</string>
+<string name="voicemail_abbreviated">"VM:"</string>
+<string name="networks">"নেটওয়ার্ক অপারেটর"</string>
+<string name="call_settings">"কল সেটিং"</string>
+<string name="additional_gsm_call_settings">"অতিরিক্ত সেটিং"</string>
+<string name="sum_gsm_call_settings">"অতিরিক্ত GSM শুধুমাত্র কল সেটিংস । "</string>
+<string name="additional_cdma_call_settings">"অতিরিক্ত CDMA কল সেটিংস। "</string>
+<string name="sum_cdma_call_settings">"অতিরিক্ত CDMA শুধুমাত্র কল সেটিংস । "</string>
+<string name="labelNwService">"নেটওয়ার্ক সার্ভিস সেটিংস। "</string>
+<string name="labelCallerId">"কলার ID"</string>
+<string name="sum_loading_settings">"সেটিংস লোড হচ্ছে\u2026"</string>
+<string name="sum_hide_caller_id">"নাম্ব্বার বহির্গামী কল মধ্যে লুক্কায়িত"</string>
+<string name="sum_show_caller_id">"নাম্ব্বার বহির্গামী কল প্রদর্শিত"</string>
+<string name="sum_default_caller_id">"ডিফল্ট অপারেটর সেটিংস বহির্গামী কল আমার সংখ্যা প্রদর্শন ব্যবহার"</string>
+<string name="labelCW">"কল ওয়েটিং"</string>
+<string name="sum_cw_enabled">"একটি কলের সময়, ইনকামিং কল সম্পর্কে আমাকে অবহিত করা হোক"</string>
+<string name="sum_cw_disabled">"একটি কলের সময়, ইনকামিং কল সম্পর্কে আমাকে অবহিত করা হোক"</string>
+<string name="call_forwarding_settings">"কল ফরওয়ারডিং সেটিংস"</string>
+<string name="labelCF">"কল ফরওয়ারডিং"</string>
+<string name="labelCFU">"সর্বদা ফরওয়ার্ড"</string>
+<string name="messageCFU">"সর্বদা এই নম্বরটি ব্যবহার করুন"</string>
+<string name="sum_cfu_enabled_indicator">"সব কল ফরোয়ার্ড"</string>
+<string name="sum_cfu_enabled">"সকল কল অগ্রসরিত হচ্ছে <xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfu_enabled_no_number">"নাম্বার পাওয়া যাচ্ছে না। "</string>
+<string name="sum_cfu_disabled">"অক্ষম"</string>
+<string name="labelCFB">"ফরোয়ার্ড যখন ব্যস্ত"</string>
+<string name="messageCFB">"সংখ্যা যখন ব্যস্ত"</string>
+<string name="sum_cfb_enabled">"অগ্রসরিত  হচ্ছে<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfb_disabled">"অক্ষম"</string>
+<string name="disable_cfb_forbidden">"আপনার ফোন ব্যস্ত থাখার সময় আপনার অপারেটর ফরওয়ার্ডিং নিষ্ক্রিয়করণ সমর্থন করে না।"</string>
+<string name="labelCFNRy">"উত্তর না দেওয়ার সময় ফরোয়ার্ড করুন ।"</string>
+<string name="messageCFNRy">"সংখ্যা যখন উত্তর দেওয়া হয়নি। "</string>
+<string name="sum_cfnry_enabled">"অগ্রসরিত  হচ্ছে<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnry_disabled">"অক্ষম"</string>
+<string name="disable_cfnry_forbidden">"আপনার ফোন উত্তর না করলে আপনার অপারেটর কল ফরওয়ার্ডিং নিষ্ক্রিয়করণ সমর্থন করে না।"</string>
+<string name="labelCFNRc">"ফরোয়ার্ড যখন অনধিগম্য"</string>
+<string name="messageCFNRc">"সংখ্যা যখন অনধিগম্য"</string>
+<string name="sum_cfnrc_enabled">"অগ্রসরিত  হচ্ছে<xliff:g id="phonenumber" example="555-1212">{0}</xliff:g>"</string>
+<string name="sum_cfnrc_disabled">"অক্ষম"</string>
+<string name="disable_cfnrc_forbidden">"আপনি নাগালের বাইরে থাকলে, আপনার ক্যারিয়ার ফরওয়ার্ডিং নিষ্ক্রিয়করণ সমর্থন করবে না।"</string>
+<string name="updating_title">"কল সেটিং"</string>
+<string name="error_updating_title">"কল সেটিংস ভুল"</string>
+<string name="reading_settings">"পঠন সেটিংস \u2026"</string>
+<string name="updating_settings">"আপডেট সেটিংস\u2026"</string>
+<string name="reverting_settings">"প্রত্যাবর্তন সেটিংস\u2026"</string>
+<string name="response_error">"নেটওয়ার্ক থেকে অপ্রত্যাশিত প্রতিক্রিয়া."</string>
+<string name="exception_error">"নেটওয়ার্ক অথবা SIM কার্ড ত্রুটি."</string>
+<string name="fdn_check_failure">"আপনার ফোন অ্যাপ্লিকেশন স্থায়ী ডায়ালিং নম্বর সেটিং চালু করা হয়েছে। তারফলে, কিছু কল সংক্রান্ত বৈশিষ্ট্য কাজ করবে না।"</string>
+<string name="radio_off_error">"এই সেটিংস দেখার আগে রেডিও চালু করুন."</string>
+<string name="close_dialog">"ঠিক আছে"</string>
+<string name="enable">"সক্রিয়"</string>
+<string name="disable">"অক্ষম"</string>
+<string name="change_num">"আপডেট"</string>
+<string-array name="clir_display_values">
+<item>"নেটওয়ার্ক ডিফল্ট"</item>
+<item>"সংখ্যা লুকান"</item>
+<item>"সংখ্যা দেখান"</item>
+</string-array>
+<string name="vm_changed">"ভয়েসমেইল সংখ্যা পরিবর্তিত."</string>
+<string name="vm_change_failed">"ভয়েসমেইল সংখ্যা পরিবর্তন অসফল. \n দয়াকরে যদি এই সমস্যা চলতেই থাকে, আপনার কেরিয়ারের সঙ্গে যোগাযোগ."</string>
+<string name="fw_change_failed">"ফরওয়ার্ডিং সংখ্যা পরিবর্তন অসফল. \n দয়াকরে যদি এই সমস্যা চলতেই থাকে, আপনার কেরিয়ারের সঙ্গে যোগাযোগ."</string>
+<string name="fw_get_in_vm_failed">"আহরন করতে ব্যর্থ এবং বর্তমান  ফরোয়ার্ড সংখ্যা মানসমূহ সংরক্ষণ করুন.\n আপনি কি নতুন প্রদানকারী সকল অবস্থাতেই প্রশ্ন ধরণে যেতে চান?"</string>
+<string name="no_change">"কোনো পরিবর্তন করা হয়নি."</string>
+<string name="sum_voicemail_choose_provider">"ভয়েসমেইল পরিষেবা নির্বাচন করুন"</string>
+<string name="voicemail_default">"আমার ক্যারিয়ার"</string>
+<string name="mobile_networks">"মোবাইল নেটওয়ার্ক সেটিংস"</string>
+<string name="label_available">"প্রাপ্তিসাধ্য নেটওয়ার্ক"</string>
+<string name="load_networks_progress">"অনুসন্ধান\u2026"</string>
+<string name="empty_networks_list">"কোন নেটওয়ার্ক পাওয়া যায় নেই."</string>
+<string name="search_networks">"অনুসন্ধান নেটওয়ার্ক"</string>
+<string name="network_query_error">"নেটওয়ার্কের জন্য অনুসন্ধান সময় ত্রুটি."</string>
+<string name="register_on_network">"নিবন্ধীকরণ <xliff:g id="network">%s</xliff:g>\u2026"</string>
+<string name="not_allowed">"আপনার SIM কার্ড এই নেটওয়ার্ক সংযোগ অনুমোদন করে না."</string>
+<string name="connect_later">"এই নেটওয়ার্ক থেকে এই সময়ে সংযোগ করতে ব্যর্থ. পরে আবার চেষ্টা করুন."</string>
+<string name="registration_done">"নেটওয়ার্কে নিবন্ধিত."</string>
+<string name="sum_carrier_select">"একটি নেটওয়ার্ক অপারেটর নির্বাচন করুন"</string>
+<string name="sum_search_networks">"সমস্ত উপলব্ধ নেটওয়ার্ক জন্য অনুসন্ধান করুন"</string>
+<string name="select_automatically">"স্বয়ংক্রিয়ভাবে নির্বাচন করুন"</string>
+<string name="sum_select_automatically">"স্বয়ংক্রিয়ভাবে পছন্দসই নেটওয়ার্ক নির্বাচন করুন"</string>
+<string name="register_automatically">"স্বয়ংক্রিয় নিবন্ধন\u2026"</string>
+<string name="preferred_network_mode_title">"নেটওয়ার্ক মোডে"</string>
+<string name="preferred_network_mode_summary">"নেটওয়ার্ক অপারেটিং মোড পরিবর্তন "</string>
+<string name="preferred_network_mode_dialogtitle">"পছন্দের নেটওয়ার্ক মোডে"</string>
+<string name="preferred_network_mode_wcdma_perf_summary">"পছন্দের নেটওয়ার্ক মোডে:  WCDMA পছন্দসই"</string>
+<string name="preferred_network_mode_gsm_only_summary">"পছন্দের নেটওয়ার্ক মোডে: শুধুমাত্র GSM"</string>
+<string name="preferred_network_mode_wcdma_only_summary">"পছন্দের নেটওয়ার্ক মোডে:  শুধুমাত্র WCDMA"</string>
+<string name="preferred_network_mode_gsm_wcdma_summary">"পছন্দের নেটওয়ার্ক মোডে: GSM / WCDMA"</string>
+<string name="preferred_network_mode_cdma_summary">"পছন্দের নেটওয়ার্ক মোডে: CDMA"</string>
+<string name="preferred_network_mode_cdma_evdo_summary">"পছন্দের নেটওয়ার্ক মোডে: CDMA / EvDo"</string>
+<string name="preferred_network_mode_cdma_only_summary">"পছন্দের নেটওয়ার্ক মোডে: শুধুমাত্র CDMA"</string>
+<string name="preferred_network_mode_evdo_only_summary">"পছন্দের নেটওয়ার্ক মোডে: শুধুমাত্র EvDo"</string>
+<string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">"পছন্দের নেটওয়ার্ক মোডে: CDMA/EvDo/GSM/WCDMA"</string>
+<string name="preferred_network_mode_lte_summary">"পছন্দের নেটওয়ার্ক মোডে: LTE"</string>
+<string name="preferred_network_mode_lte_gsm_wcdma_summary">"পছন্দের নেটওয়ার্ক মোডে: GSM/WCDMA/LTE"</string>
+<string name="preferred_network_mode_lte_cdma_evdo_summary">"পছন্দের নেটওয়ার্ক মোডে: CDMA+LTE/EVDO"</string>
+<string name="preferred_network_mode_global_summary">""নির্বাচিত নেটওয়ার্ক মুড:গ্লোবাল" "</string>
+<string name="preferred_network_mode_lte_wcdma_summary">"পছন্দের নেটওয়ার্ক মোডে: LTE / WCDMA"</string>
+<string-array name="preferred_network_mode_choices">
+<item>"LTE / WCDMA"</item>
+<item>"LTE"</item>
+<item>""গ্লোবাল" "</item>
+<item>"GSM/WCDMA/LTE"</item>
+<item>"CDMA + LTE/EvDo"</item>
+<item>"CDMA/EvDo/GSM/WCDMA"</item>
+<item>"শুধুমাত্র EvDo "</item>
+<item>"CDMA w/o EvDo"</item>
+<item>"CDMA/EvDo স্বয়ংক্রিয়"</item>
+<item>" GSM/WCDMA স্বয়ংক্রিয়"</item>
+<item>"শুধুমাত্র WCDMA"</item>
+<item>"শুধুমাত্র GSM"</item>
+<item>"GSM/WCDMA পছন্দের"</item>
+</string-array>
+<string name="data_enabled">"ডেটা সক্রিয়"</string>
+<string name="data_enable_summary">"মোবাইল নেটওয়ার্কের মাধ্যমে ডেটা অ্যাক্সেস সক্ষম"</string>
+<string name="roaming">"বিচরণ ডেটা"</string>
+<string name="roaming_enable">"তথ্য পরিষেবার সাথে সংযোগ যখন বিচরণ"</string>
+<string name="roaming_disable">"তথ্য পরিষেবার সাথে সংযোগ যখন বিচরণ"</string>
+<string name="roaming_reenable_message">"আপনি ডাটা সংযোগ হারিয়েছে কারণ আপনি ডাটা বন্ধ পরিণত বিচরণ সঙ্গে আপনার হোম নেটওয়ার্ক বামে."</string>
+<string name="roaming_warning">"তথ্য সক্ষম বিচরণ? আপনি উল্লেখযোগ্য বিচরণ অভিযোগ আবদ্ধ করা হতে পারে!"</string>
+<string name="gsm_umts_options">"GSM/UMTS বিকল্প"</string>
+<string name="cdma_options">"CDMA  বিকল্প"</string>
+<string name="throttle_data_usage">"ডেটা ব্যবহার"</string>
+<string name="throttle_current_usage">"বর্তমান কাল ব্যবহৃত ডেটা"</string>
+<string name="throttle_time_frame">"ডেটা ব্যবহারকৃত সময়"</string>
+<string name="throttle_rate">"ডেটা রেট নীতি"</string>
+<string name="throttle_help">"আরও জানুন"</string>
+<string name="throttle_status_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) এ <xliff:g id="used">%3$s</xliff:g>সময়ের সর্বাধিক\nপরবর্তী পর্যায় আরম্ভ করা<xliff:g id="used">%4$d</xliff:g>দিন(<xliff:g id="used">%5$s</xliff:g>)"</string>
+<string name="throttle_data_usage_subtext">"<xliff:g id="used">%1$s</xliff:g> (<xliff:g id="used">%2$d</xliff:g>\u066A) এ <xliff:g id="used">%3$s</xliff:g> সময়ের সর্বাধিক"</string>
+<string name="throttle_data_rate_reduced_subtext">"<xliff:g id="used">%1$s</xliff:g>  সর্বাধিক অতিক্রম করেছে \n ডেটা রেট <xliff:g id="used">%2$d</xliff:g> কেবি/সে. কমে "</string>
+<string name="throttle_time_frame_subtext">"<xliff:g id="used">%1$d</xliff:g>\u066A বৃত্ত অতিক্রান্ত\nপরবর্তী পর্যায় আরম্ভ করা <xliff:g id="used">%2$d</xliff:g> দিন (<xliff:g id="used">%3$s</xliff:g>)"</string>
+<string name="throttle_rate_subtext">"তথ্য ব্যবহারের সীমা অতিক্রম হলে ডেটা রেট <xliff:g id="used">%1$d</xliff:g> কেবি/সে. কমে।"</string>
+<string name="throttle_help_subtext">"আপনার ক্যারিয়ার মোবাইল ডাটা ব্যবহার এর পলিসি সম্পর্কে আরও তথ্য।"</string>
+<string name="cell_broadcast_sms">"সেল সম্প্রচার বার্তা"</string>
+<string name="enable_disable_cell_bc_sms">"সেল সম্প্রচার বার্তা"</string>
+<string name="cell_bc_sms_enable">"সেল সম্প্রচার বার্তা সক্ষম"</string>
+<string name="cell_bc_sms_disable">"সেল সম্প্রচার বার্তা অক্ষম"</string>
+<string name="cb_sms_settings">"সেটিংস সেল সম্প্রচার বার্তা "</string>
+<string name="enable_disable_emergency_broadcast">"জরুরি সম্প্রচার"</string>
+<string name="emergency_broadcast_enable">"জরুরি সম্প্রচা্র সক্ষম"</string>
+<string name="emergency_broadcast_disable">"জরুরী সম্প্রচার অক্ষম"</string>
+<string name="enable_disable_administrative">"কার্যনির্বাহক"</string>
+<string name="administrative_enable">"কার্যনির্বাহক সক্ষম"</string>
+<string name="administrative_disable">"কার্যনির্বাহক অক্ষম"</string>
+<string name="enable_disable_maintenance">"রক্ষণাবেক্ষণ"</string>
+<string name="maintenance_enable">"রক্ষণাবেক্ষণ সক্ষম"</string>
+<string name="maintenance_disable">"রক্ষণাবেক্ষণ অক্ষম"</string>
+<string name="general_news_settings">"সাধারণ সংবাদ"</string>
+<string name="bf_news_settings">"অর্থ ও বাণিজ্যিক সংবাদ"</string>
+<string name="sports_news_settings">"ক্রিড়া সংবাদ"</string>
+<string name="entertainment_news_settings">"বিনোদন সংবাদ"</string>
+<string name="enable_disable_local">"স্থানীয়"</string>
+<string name="local_enable">"স্থাণীয় সংবাদ সক্ষম"</string>
+<string name="local_disable">"স্থাণীয় সংবাদ অক্ষম"</string>
+<string name="enable_disable_regional">"আঞ্চলিক"</string>
+<string name="regional_enable">"আঞ্চলিক সংবাদ সক্ষম"</string>
+<string name="regional_disable">"আঞ্চলিক সংবাদ অক্ষম"</string>
+<string name="enable_disable_national">"জাতীয়"</string>
+<string name="national_enable">"জাতীয় সংবাদ সক্ষম"</string>
+<string name="national_disable">"জাতীয় সংবাদ অক্ষম"</string>
+<string name="enable_disable_international">"আন্তর্জাতিক"</string>
+<string name="international_enable">"আন্তর্জাতিক সংবাদ সক্ষম"</string>
+<string name="international_disable">"আন্তর্জাতিক সংবাদ অক্ষম"</string>
+<string name="list_language_title">"স্থানীয়"</string>
+<string name="list_language_summary">"সংবাদের জন্য ভাষা নির্বাচন করুন"</string>
+<string-array name="list_language_entries">
+<item>"ইংলিশ"</item>
+<item>"ফরাসি"</item>
+<item>"স্পেনসম্পর্কিত"</item>
+<item>"জাপানিজ"</item>
+<item>"কোরিয়ান"</item>
+<item>"চাইনিজ"</item>
+<item>"হিব্রু"</item>
+</string-array>
+<string name="list_language_dtitle">"ভাষা"</string>
+<string name="enable_disable_local_weather">"স্থাণীয় আবহাওয়া"</string>
+<string name="local_weather_enable">"স্থাণীয় আবহাওয়া সক্ষম"</string>
+<string name="local_weather_disable">"স্থাণীয় আবহাওয়া অক্ষম"</string>
+<string name="enable_disable_atr">"ট্রাফিক অঞ্চলের খবর"</string>
+<string name="atr_enable">"ট্রাফিক অঞ্চলের খবর সক্ষম"</string>
+<string name="atr_disable">"ট্রাফিক অঞ্চলের খবর অক্ষম"</string>
+<string name="enable_disable_lafs">"স্থাণীয় বিমানবন্দরের সময়সূচী"</string>
+<string name="lafs_enable">"স্থাণীয় বিমানবন্দরের সময়সূচী সক্ষম"</string>
+<string name="lafs_disable">"স্থাণীয় বিমানবন্দরের সময়সূচী অক্ষম"</string>
+<string name="enable_disable_restaurants">"রেস্তোরাঁ"</string>
+<string name="restaurants_enable">"রেস্তোরাঁ সক্ষম"</string>
+<string name="restaurants_disable">"রেস্তোরাঁ অক্ষম"</string>
+<string name="enable_disable_lodgings">"বাসাবাড়ি"</string>
+<string name="lodgings_enable">"বাসাবাড়ি সক্ষম"</string>
+<string name="lodgings_disable">"বাসাবাড়ি অক্ষম"</string>
+<string name="enable_disable_retail_directory">"খুচরা নির্দেশিকা"</string>
+<string name="retail_directory_enable">"খুচরা নির্দেশিকা সক্ষম"</string>
+<string name="retail_directory_disable">"খুচরা নির্দেশিকা অক্ষম"</string>
+<string name="enable_disable_advertisements">"বিজ্ঞাপন"</string>
+<string name="advertisements_enable">"বিজ্ঞাপন সক্ষম"</string>
+<string name="advertisements_disable">"বিজ্ঞাপন অক্ষম"</string>
+<string name="enable_disable_stock_quotes">"স্টক মূল্য"</string>
+<string name="stock_quotes_enable">"স্টক মূল্য সক্ষম"</string>
+<string name="stock_quotes_disable">"স্টক মূল্য অক্ষম "</string>
+<string name="enable_disable_eo">"কর্মসংস্থান সুযোগ"</string>
+<string name="eo_enable">"কর্মসংস্থান সুযোগ সক্ষম"</string>
+<string name="eo_disable">"কর্মসংস্থান সুযোগ অক্ষম "</string>
+<string name="enable_disable_mhh">"ঔষধ, স্বাস্থ্য, এবং হাসপাতাল"</string>
+<string name="mhh_enable">"ঔষধ, স্বাস্থ্য, এবং হাসপাতাল সক্ষম"</string>
+<string name="mhh_disable">"ঔষধ, স্বাস্থ্য, এবং হাসপাতাল অক্ষম "</string>
+<string name="enable_disable_technology_news">"প্রযুক্তির সংবাদ"</string>
+<string name="technology_news_enable">"প্রযুক্তির সংবাদ সক্ষম"</string>
+<string name="technology_news_disable">"প্রযুক্তির সংবাদ অক্ষম "</string>
+<string name="enable_disable_multi_category">"মালটি শ্রেণী"</string>
+<string name="multi_category_enable">"মালটি শ্রেণী সক্ষম"</string>
+<string name="multi_category_disable">"মালটি শ্রেণী অক্ষম"</string>
+<string name="prefer_2g">"শুধুমাত্র 2G নেটওয়ার্ক ব্যবহার করুন"</string>
+<string name="prefer_2g_summary">"ব্যাটারি সঞ্চয় করুন"</string>
+<string name="cdma_system_select_title">"সিস্টেম নির্বাচন"</string>
+<string name="cdma_system_select_summary">"CDMA রোমিং মোড পরিবর্তন করুন"</string>
+<string name="cdma_system_select_dialogtitle">"সিস্টেম নির্বাচন"</string>
+<string-array name="cdma_system_select_choices">
+<item>"শুধুমাত্র স্থানীয়"</item>
+<item>"স্বয়ংক্রিয়"</item>
+</string-array>
+<string name="cdma_subscription_title">"CDMA সাবস্ক্রিপশন"</string>
+<string name="cdma_subscription_summary">"RUIM / SIM এবং NV এর মধ্যে পরিবর্তন করুন"</string>
+<string name="cdma_subscription_dialogtitle">"সাবস্ক্রিপশন"</string>
+<string name="cdma_activate_device">"ডিভাইস সক্রিয়"</string>
+<string name="cdma_lte_data_service">"তথ্য সেবা সংস্থাপন"</string>
+<string name="fdn">"স্থায়ী ডায়ালিং নাম্বার"</string>
+<string name="manage_fdn_list">"স্থায়ী ডায়াল নম্বর তালিকা"</string>
+<string name="fdn_activation">"স্থায়ী ডায়ালিং নাম্বার সক্রিয়করণ"</string>
+<string name="fdn_enabled">"স্থায়ী ডায়ালিং নাম্বার সক্ষম"</string>
+<string name="fdn_disabled">"স্থায়ী ডায়ালিং নাম্বার অক্ষম"</string>
+<string name="enable_fdn">"স্থায়ী ডায়াল নম্বর সক্ষম করুন"</string>
+<string name="disable_fdn">"স্থায়ী ডায়াল নম্বর অক্ষম করুন"</string>
+<string name="change_pin2">""PIN2 পরিবর্তন" "</string>
+<string name="enable_fdn_ok">"স্থায়ী ডায়াল নম্বর অক্ষম করুন"</string>
+<string name="disable_fdn_ok">"স্থায়ী ডায়াল নম্বর সক্ষম করুন"</string>
+<string name="sum_fdn">"স্থায়ী ডায়াল নম্বর পরিচালনা করুন"</string>
+<string name="sum_fdn_change_pin">"স্থায়ী ডায়াল নম্বর ব্যবহারের জন্য PIN পরিবর্তন করুন"</string>
+<string name="sum_fdn_manage_list">"ফোর নাম্বার তালিাক পরিচালনা করুণ"</string>
+<string name="voice_privacy">"কণ্ঠস্বর গোপনীয়তা"</string>
+<string name="voice_privacy_summary">"উন্নত গোপনীয়তা মোড সক্ষম করুন"</string>
+<string name="tty_mode_option_title">"TTY মোড"</string>
+<string name="tty_mode_option_summary">"TTY মোড স্থাপন "</string>
+<string name="auto_retry_mode_title">"স্বয়ংক্রিয় ভাবে পুনরায় চেষ্টা"</string>
+<string name="auto_retry_mode_summary">"স্বয়ংক্রিয় পুনরায় চেষ্টার মোড সক্ষম করুন"</string>
+<string name="menu_add">"ঠিকানা যোগ করুন"</string>
+<string name="menu_edit">"সম্পাদনা করুন"</string>
+<string name="menu_delete">"পরিচিতি মুছে দিন"</string>
+<string name="get_pin2">"PIN2 লিখুন"</string>
+<string name="name">"VPN নাম"</string>
+<string name="number">"নম্বর"</string>
+<string name="save">"রক্ষা"</string>
+<string name="add_fdn_contact">"স্থায়ী ডায়ালিং নম্বর যুক্ত করুন"</string>
+<string name="adding_fdn_contact">"স্থায়ী ডায়ালিং নম্বর যুক্ত করন\u2026"</string>
+<string name="fdn_contact_added">"স্থায়ী ডায়ালিং নম্বর যুক্ত হয়েছে"</string>
+<string name="edit_fdn_contact">"স্থায়ী ডায়ালিং নম্বর সম্পাদনা করুন"</string>
+<string name="updating_fdn_contact">"স্থায়ী ডায়ালিং নম্বর হালনাগাদ করা\u2026"</string>
+<string name="fdn_contact_updated">"স্থায়ী ডায়ালিং নম্বর হালনাগাদ করা হয়েছে "</string>
+<string name="delete_fdn_contact">"স্থায়ী ডায়ালিং নম্বর মুছে দিন"</string>
+<string name="deleting_fdn_contact">"নির্দিষ্ট ডায়ালিং সংখ্যা মোছা হচ্ছে\u2026"</string>
+<string name="fdn_contact_deleted">"নির্দিষ্ট ডায়ালিং সংখ্যা মোছা হয়েছে"</string>
+<string name="pin2_invalid">"আপনি ভূল নম্বর টাইপ করার কারনে স্থায়ী  ডায়ালিং নম্বর হালনাগাদ হয়নি"</string>
+<string name="fdn_invalid_number">"20 সংখ্যা অতিক্রম করার কারণে স্থায়ী ডায়াল নম্বর হালনাগাত হয়নি"</string>
+<string name="pin2_or_fdn_invalid">"PIN2 নম্বর ভুল অথবা ফোন নম্বরটি প্রত্যাখ্যাত হওয়ার কারণে স্থায়ী ডায়াল নম্বর হালনাগাত হয়নি"</string>
+<string name="simContacts_emptyLoading">"সিম কার্ড থেকে পড়া\u2026"</string>
+<string name="simContacts_empty">"আপনার সিমকার্ডে কোন পরিচিতি নম্বর নেই "</string>
+<string name="simContacts_title">"পরিচিতি নম্বন আমদানি করতে নির্বাচন করুন"</string>
+<string name="simContacts_airplaneMode">"সিম কার্ড থেকে পরিচিতি নম্বর আমদানি করতে বিমান মোড বন্ধ করুন."</string>
+<string name="enable_pin">"স্বক্ষম/অক্ষম ‍সিম পিন"</string>
+<string name="change_pin">"সিম পিন পরিবর্তন"</string>
+<string name="enter_pin_text">"SIM PIN:"</string>
+<string name="oldPinLabel">"পুরানো PIN"</string>
+<string name="newPinLabel">"নতুন PIN"</string>
+<string name="confirmPinLabel">"নতুন PIN নিশ্চিত করুন"</string>
+<string name="badPin">"আপনার টাইপকৃত পুরাতনPIN নম্বরটি সঠিক নয়।পুনরায় চেষ্টা করুন"</string>
+<string name="mismatchPin">"আপনার টাইপকৃত PIN নম্বরের মধ্যে মিল নেই্। পুনরায় চেষ্টা করুন"</string>
+<string name="invalidPin">"একটি PIN যা 4 থেকে 8 নম্বর লিখুন."</string>
+<string name="disable_sim_pin">"SIM PIN অ্ক্ষম"</string>
+<string name="enable_sim_pin">"SIM PINসক্ষম"</string>
+<string name="enable_in_progress">"অনুগ্রহ করে অপেক্ষা করুন\u2026"</string>
+<string name="enable_pin_ok">"SIM PIN সক্রিয় "</string>
+<string name="disable_pin_ok">"SIM PIN অসক্রিয় "</string>
+<string name="pin_failed">"আপনা টাইপকৃত PIN সঠিক নয়"</string>
+<string name="pin_changed">"SIM PIN সফলভাবে পরিবর্তিত"</string>
+<string name="puk_requested">"গোপন নম্বরটি সঠিক নয়, সিম লক করা আছে! PUK2 ব্যবহার করুন"</string>
+<string name="oldPin2Label">"পুরাতন PIN2"</string>
+<string name="newPin2Label">"নতুন PIN2"</string>
+<string name="confirmPin2Label">"নতুন PIN2  নিশ্চিত করুন"</string>
+<string name="badPuk2">""আপনি যে  PUK2 টাইপ করেছেন তা সঠিক নয়, আবার চেষ্টা করুন" "</string>
+<string name="badPin2">"পুরোনো PIN2 যা আপনি টাইপ করেছেন তা সঠিক নয়. আবার চেষ্টা করুন।"</string>
+<string name="mismatchPin2">"PIN2 নম্বরগুলো যা আপনি টাইপ করেছেন তামিলছে না. আবার চেষ্টা করুন."</string>
+<string name="invalidPin2">"একটি PIN2 টাইপ করুন যা  ৪ থেকে ৮ নম্বরের "</string>
+<string name="invalidPuk2">"একটি PUK2 টাইপ করুন যা 4 নম্বরের।"</string>
+<string name="pin2_changed">"PIN2 সফলভাবে পরিবর্তিত"</string>
+<string name="label_puk2_code">"PUK2 কোড টাইপ করুন"</string>
+<string name="fdn_enable_puk2_requested">"ভুল পাসওয়ার্ড। PIN2 পরিবর্তন করুন এবং পুনরায় চেষ্টা করুন."</string>
+<string name="puk2_requested">"গোপন নম্বরটি সঠিক নয়, সিম লক করা আছে! PUK2 ব্যবহার করুন"</string>
+<string name="doneButton">"কৃত"</string>
+<string name="caller_manage_header">"কনফারেন্স কল <xliff:g id="conf_call_time">%s</xliff:g>"</string>
+<string name="voicemail_settings_number_label">"ভয়েসমেইল নম্বর গুলো"</string>
+<string name="card_title_dialing">"ডায়াল হচ্ছে"</string>
+<string name="card_title_redialing">"পুনরায় চেষ্টা করছে"</string>
+<string name="card_title_conf_call">"কনফারেন্স কল"</string>
+<string name="card_title_incoming_call">"আগত কল"</string>
+<string name="card_title_call_ended">"কল শেষ"</string>
+<string name="card_title_on_hold">"অন হোল্ড"</string>
+<string name="card_title_hanging_up">"ঝুলন্ত "</string>
+<string name="card_title_in_call">"কলে আছে"</string>
+<string name="card_title_my_phone_number">"আমার নাম্বার <xliff:g id="my_phone_number">%s</xliff:g>"</string>
+<string name="notification_dialing">"ডায়াল হচ্ছে"</string>
+<string name="notification_missedCallTitle">"মিসড কল"</string>
+<string name="notification_missedCallsTitle">"মিসড কল গুলো"</string>
+<string name="notification_missedCallsMsg">"<xliff:g id="num_missed_calls">%s</xliff:g> মিস্ড কলগুলো"</string>
+<string name="notification_missedCallTicker">"<xliff:g id="missed_call_from">%s</xliff:g> থেকে মিসড কল"</string>
+<string name="notification_ongoing_call">"চলমান কল"</string>
+<string name="notification_on_hold">"অন হোল্ড"</string>
+<string name="notification_incoming_call">"আগত কল"</string>
+<string name="notification_voicemail_title">"নতুন ভয়েসমেইল"</string>
+<string name="notification_voicemail_title_count">"নতুন ভয়েসমেইল (<xliff:g id="count">%d</xliff:g>)"</string>
+<string name="notification_voicemail_text_format">"ডায়াল <xliff:g id="voicemail_number">%s</xliff:g>"</string>
+<string name="notification_voicemail_no_vm_number">"ভয়েসমেইল নম্বর অজানা"</string>
+<string name="notification_network_selection_title">"(কোন পরিষেবা নেই)"</string>
+<string name="notification_network_selection_text">"নির্বাচিত নেটওয়ার্ক (<xliff:g id="operator_name">%s</xliff:g>) উপলব্ধ নেই "</string>
+<string name="notification_action_end_call">"কল কাটা"</string>
+<string name="notification_missedCall_call_back">"কল ব্যাক"</string>
+<string name="notification_missedCall_message">"বার্তা"</string>
+<string name="incall_error_power_off">"কল করার জন্য প্রথমে বিমান মোড বন্ধ করুন। "</string>
+<string name="incall_error_emergency_only">"নেটওয়ার্কে নিবন্ধিত নয়।"</string>
+<string name="incall_error_out_of_service">"উপলব্ধ মোবাইল নেটওয়ার্ক নেই"</string>
+<string name="incall_error_no_phone_number_supplied">"কল পাঠানো হয়নি, কোন  কোন কার্য়কর নম্বর প্রবেশ করানো হইনি।  "</string>
+<string name="incall_error_call_failed">"কল পাঠানো যায় নি."</string>
+<string name="incall_status_dialed_mmi">"MMI ক্রম শুরু হচ্ছে\u2026"</string>
+<string name="incall_error_supp_service_unknown">"অসমর্থিত সেবা"</string>
+<string name="incall_error_supp_service_switch">"কল সুইচ করতে অক্ষম।"</string>
+<string name="incall_error_supp_service_separate">"কল আলাদা করতে অক্ষম।"</string>
+<string name="incall_error_supp_service_transfer">"কল স্থানান্তরণ করতে অক্ষম।"</string>
+<string name="incall_error_supp_service_conference">"কনফারেন্স কল অক্ষম।"</string>
+<string name="incall_error_supp_service_reject">"কল প্রত্যাখ্যান করতে অক্ষম।"</string>
+<string name="incall_error_supp_service_hangup">"কল (গুলি) প্রকাশ করতে অক্ষম।"</string>
+<string name="incall_call_type_label_sip">"ইন্টারনেট কল "</string>
+<string name="emergency_enable_radio_dialog_title">"ইমার্জেন্সি কল"</string>
+<string name="emergency_enable_radio_dialog_message">"রেডিও চালু\u2026"</string>
+<string name="emergency_enable_radio_dialog_retry">"পরিষেবা অঞ্চলের বাইরে, পুনরায় চেষ্টা চলছে\u2026"</string>
+<string name="dial_emergency_error">"কল পাঠানো হয়নি, <xliff:g id="non_emergency_number">%s</xliff:g> একটি জরুরী নম্বর নয়।"</string>
+<string name="dial_emergency_empty_error">"কল পাঠানো হয়নি, জরুরী নম্বর ডায়াল করুন!"</string>
+<string name="dialerKeyboardHintText">"ডায়াল করতে কীবোর্ড ব্যবহার করুন"</string>
+<string name="onscreenHoldText">"রাখা"</string>
+<string name="onscreenEndCallText">"শেষ"</string>
+<string name="onscreenShowDialpadText">"ডায়াল পেড"</string>
+<string name="onscreenMuteText">"অনুচ্চারিত"</string>
+<string name="onscreenAddCallText">"কল যোগ করুন"</string>
+<string name="onscreenMergeCallsText">"কল একত্রীকরণ"</string>
+<string name="onscreenSwapCallsText">"বিনিময় করা"</string>
+<string name="onscreenManageCallsText">"কল পরিচালনা"</string>
+<string name="onscreenManageConferenceText">"পরিচালনা করা"</string>
+<string name="onscreenAudioText">"অডিও"</string>
+<string name="onscreenVideoCallText">"ভিডিও কল"</string>
+<string name="importSimEntry">"আমদানি"</string>
+<string name="importAllSimEntries">"সব আমদানি"</string>
+<string name="importingSimContacts">"SIM পরিচিতি ইম্পোর্ট"</string>
+<string name="importToFDNfromContacts">"পরিচিতিগুলি থেকে ইম্পোর্ট করুন"</string>
+<string name="hac_mode_title">"সহায়ক শ্রবণ"</string>
+<string name="hac_mode_summary">"সাহায্য সামঞ্জস্য শ্রবণ চালু করুন"</string>
+<string-array name="tty_mode_entries">
+<item>"TTY বন্ধ"</item>
+<item>"TTY সম্পূর্ণ"</item>
+<item>"TTY HCO"</item>
+<item>"TTY VCO"</item>
+</string-array>
+<string name="dtmf_tones_title">"DTMF টোন"</string>
+<string name="dtmf_tones_summary">"DTMF টোন দৈর্ঘ্যের সেট"</string>
+<string-array name="dtmf_tone_entries">
+<item>"স্বাভাবিক"</item>
+<item>"দীর্ঘ"</item>
+</string-array>
+<string name="network_message">"নেটওয়ার্ক বার্তা"</string>
+<string name="ota_title_activate">"আপনার ফোন সক্রিয় করুন"</string>
+<string name="ota_touch_activate">"আপনার ফোন সক্রিয় করতে একটি  বিশেষ পরিষেবা  কল করা প্রয়োজন।\n\n \u201C চাপার পরে \u201D  অ্যাক্টিভেট করতে ফোনে নির্দেশাবলী শুনুন।"</string>
+<string name="ota_skip_activation_dialog_title">"স্কিপ অ্যাক্টিভেশন \?"</string>
+<string name="ota_skip_activation_dialog_message">"যদি আপনি সক্রিয়করণ এড়িয়ে যান, আপনি রাখতে পারেন ডাক দিেন না অথবা চলমান ডেটা নেটওয়ার্কে সংযোগ করুন (যদিও আপনি Wi-Fi নেটওয়ার্কে সংযোগ করতে পারেন).যতক্ষণ না আপনি আপনার ফোন সক্রিয় করার জন্য এটি প্রত্যেক সময় আপনি এটি চালু সক্রিয় করা হয়"</string>
+<string name="ota_skip_activation_dialog_skip_label">"স্কিপ"</string>
+<string name="ota_activate">"সক্রিয় করা"</string>
+<string name="ota_title_activate_success">"ফোন সক্রিয় করা হয়!"</string>
+<string name="ota_title_problem_with_activation">"অ্যাক্টিভেশন সঙ্গে সমস্যা"</string>
+<string name="ota_listen">"কথ্য নির্দেশাবলীর পর্যন্ত আপনি শুনতে যে অ্যাক্টিভেশন সম্পূর্ণ অনুসরণ করুন."</string>
+<string name="ota_speaker">"স্পিকার"</string>
+<string name="ota_progress">"যখন আপনার ফোন করা হচ্ছে প্রোগ্রাম অনুগ্রহ করে অপেক্ষা করুন."</string>
+<string name="ota_failure">"প্রোগ্রামিং অসফল"</string>
+<string name="ota_successful">"_x000D_
+
+"আপনার ফোন এখন সক্রিয়. পরিসেবাটি আরম্ভর জন্য 15 মিনিট পর্যন্ত সময় লাগতে পারে.""</string>
+<string name="ota_unsuccessful">""আপনার ফোন সক্রিয় করা হয়নি \nআপনার (একটি উইন্ডো কাছাকাছি, অথবা বাইরে)ভাল  কভারেজ ভুক্ত একটি এলাকা প্রয়োজন হতে পারে.\n\nআরও বিকল্প গ্রাহক সেবার  জন্য  আবার চেষ্টা করুন  " "</string>
+<string name="ota_spc_failure">"মাত্রাধিক্য SPC ব্যর্থতা"</string>
+<string name="ota_call_end">"পিছনে"</string>
+<string name="ota_try_again">"আবার চেষ্টা করুন"</string>
+<string name="ota_next">"পরবর্তী"</string>
+<string name="phone_entered_ecm_text">"তালিকাভুক্তকারী জরুরী কলব্যাক মোড"</string>
+<string name="phone_in_ecm_notification_title">"জরুরী কলব্যাক মোড"</string>
+<string name="phone_in_ecm_call_notification_text">"ডাটা সংযোগ নিষ্ক্রিয়"</string>
+<plurals name="phone_in_ecm_notification_time">
+<item quantity="one">"কোন ডাটা সংযোগ <xliff:g id="count">%s</xliff:g> মিনিট"</item>
+<item quantity="other">"কোন ডাটা সংযোগ <xliff:g id="count">%s</xliff:g> মিনিট"</item>
+</plurals>
+<plurals name="alert_dialog_exit_ecm">
+<item quantity="one">"ফোন জরুরী কলব্যাক মোডে হবে <xliff:g id="count">%s</xliff:g> মিনিট.যদিও এই মোডে কোনো ডাটা সংযোগ প্রয়োগকারী অ্যাপ্লিকেশনের ব্যবহার করা যাবে. আপনি এখন প্রস্থান করতে চান?"</item>
+<item quantity="other">"ফোন জরুরী কলব্যাক মোডে হবে <xliff:g id="count">%s</xliff:g> মিনিট.যদিও এই মোডে কোনো ডাটা সংযোগ প্রয়োগকারী অ্যাপ্লিকেশনের ব্যবহার করা যাবে. আপনি এখন প্রস্থান করতে চান?"</item>
+</plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="one">"নির্বাচিত কর্ম উপলব্ধ জরুরী কলব্যাক মোড সময় না. ফোন এই মোডে হবে<xliff:g id="count">%s</xliff:g> মিনিট. আপনি এখন প্রস্থান করতে চান?"</item>
+<item quantity="other">"নির্বাচিত কর্ম উপলব্ধ জরুরী কলব্যাক মোড সময় না. ফোন এই মোডে হবে <xliff:g id="count">%s</xliff:g> মিনিট.আপনি এখন প্রস্থান করতে চান?"</item>
+</plurals>
+<string name="alert_dialog_in_ecm_call">"নির্বাচিত কর্ম উপলব্ধ জরুরী কলের সময় না"</string>
+<string name="progress_dialog_exiting_ecm">"প্রস্থান জরুরী কলব্যাক মোড"</string>
+<string name="alert_dialog_yes">"হ্যাঁ"</string>
+<string name="alert_dialog_no">"না"</string>
+<string name="alert_dialog_dismiss">"বরখাস্ত করা"</string>
+<string name="voicemail_provider">"ভয়েসমেইল সেবা"</string>
+<string name="voicemail_settings">"সেটআপ"</string>
+<string name="voicemail_number_not_set">"সেট করা হয়নি"</string>
+<string name="other_settings">"অন্যান্য কল সেটিংস"</string>
+<string name="calling_via_template">"কলিং মাধ্যমে <xliff:g id="provider_name">%s</xliff:g>"</string>
+<string name="contactPhoto">"ছবির যোগাযোগ"</string>
+<string name="goPrivate">"ব্যক্তিগতে যান"</string>
+<string name="selectContact">"নির্বাচন যোগাযোগ"</string>
+<string name="sip_settings">"ইন্টারনেট কল সেটিংস"</string>
+<string name="sip_accounts">"ইন্টারনেট গালাগালি (SIP) অ্যাকাউন্ট"</string>
+<string name="sip_accounts_title">"অ্যাকাউন্ট:"</string>
+<string name="sip_receive_calls">"ইনকামিং কল গ্রহণ"</string>
+<string name="sip_receive_calls_summary">"ব্যাটারি জীবন হ্রাস"</string>
+<string name="sip_call_options_title">"ইন্টারনেট কলিং ব্যবহার করুন"</string>
+<string name="sip_call_options_wifi_only_title">"ইন্টারনেট কলিং (Wifi শুধুমাত্র) ব্যবহার করুন"</string>
+<string name="sip_call_options_entry_1">""সব কলের জন্য যখন ডাটা নেটওয়ার্ক উপলব্ধ হবে” "</string>
+<string name="sip_call_options_entry_2">"শুধুমাত্র ইন্টারনেট কল"</string>
+<string name="sip_call_options_entry_3">"প্রতিটি কলের জন্য জিজ্ঞাসা করুন"</string>
+<string name="sip_call_options_wifi_only_entry_1">"জন্য সব কল"</string>
+<string name="pick_outgoing_call_phone_type">"স্থাপন কল"</string>
+<string name="pick_outgoing_sip_phone">"ইন্টারনেট আহ্বান অ্যাকাউন্ট ব্যবহার করুন:"</string>
+<string name="remember_my_choice">"সর্বদা থেকে ইন্টারনেট কল লিখুন ব্যবহার"</string>
+<string name="reset_my_choice_hint">"ইন্টারনেট কল সেটিংস থেকে ডিফল্ট ব্যবহার পরিবর্তন করতে ফোন সেটিংস ইন্টারনেট কল সেটিংস অ্যাকাউন্ট স্ক্রিন ."</string>
+<string name="pstn_phone">"সেল ফোন কল"</string>
+<string name="internet_phone">"ইন্টারনেট কল "</string>
+<string name="no_sip_account_found_title">"কোন ইন্টারনেট কুবচন অ্যাকাউন্ট"</string>
+<string name="no_sip_account_found">"এই ফোনে কোন ইন্টারনেট কলিং অ্যাকাউন্ট নেই। আপনি এখন যোগ করতে চান?"</string>
+<string name="sip_menu_add">"যোগ করা"</string>
+<string name="add_sip_account">"একাউন্ট যোগ করুন"</string>
+<string name="remove_sip_account">"একাউন্ট মুছে ফেলুন"</string>
+<string name="sip_account_list">"SIP অ্যাকাউন্ট"</string>
+<string name="saving_account">"একাউন্টে সংরক্ষণ\u2026"</string>
+<string name="removing_account">"অ্যাকাউন্ট অপসারণের পদ্ধতি\u2026"</string>
+<string name="sip_menu_save">"রক্ষা"</string>
+<string name="sip_menu_discard">"অগ্রাহ্য করা"</string>
+<string name="alert_dialog_close">"প্রফাইলটি বন্ধ করুন"</string>
+<string name="alert_dialog_ok">"ঠিক আছে"</string>
+<string name="close_profile">"বন্ধ করা"</string>
+<string name="primary_account_summary_with">"প্রাথমিক অ্যাকাউন্ট. <xliff:g id="registration_status" example="Registering...">%s</xliff:g>"</string>
+<string name="registration_status_checking_status">"অবস্থা যাচাই করছে\u2026"</string>
+<string name="registration_status_registering">"নিবন্ধীকরণ\u2026"</string>
+<string name="registration_status_still_trying">"এখনও চেষ্টা করছে\u2026"</string>
+<string name="registration_status_not_receiving">"প্রাপ্তির কল না"</string>
+<string name="registration_status_no_data">"অ্যাকাউন্ট নিবন্ধীকরণ বন্ধ থাকার কারণে ইন্টারনেট সংযোগ আছে"</string>
+<string name="registration_status_no_wifi_data">"অ্যাকাউন্ট নিবন্ধীকরণ বন্ধ কারণ কোনো ওয়াই ফাই সংযোগ আছে"</string>
+<string name="registration_status_not_running">"অ্যাকাউন্ট নিবন্ধীকরণ ব্যর্থ"</string>
+<string name="registration_status_done">"কল প্রাপ্তির"</string>
+<string name="registration_status_failed_try_later">"অ্যাকাউন্ট নিবন্ধীকরণ অসফল: (<xliff:g id="registration_error_message" example="timed out">%s</xliff:g>);পুনরায় চেষ্টা করা হবে"</string>
+<string name="registration_status_invalid_credentials">"অ্যাকাউন্ট নিবন্ধীকরণ ব্যর্থ: ভুল ব্যবহারকারী নাম অথবা পাসওয়ার্ড"</string>
+<string name="registration_status_server_unreachable">"অ্যাকাউন্ট নিবন্ধীকরণ ব্যর্থ হয়েছে: সার্ভারের নাম পরীক্ষা করে দেখুন"</string>
+<string name="third_party_account_summary">"এই একাউন্ট বর্তমানে অ্যাপলিকেশন দ্বারা ব্যবহৃত হচ্ছে  <xliff:g id="account_owner" example="Google Talk">%s</xliff:g>."</string>
+<string name="sip_edit_title">"SIP অ্যাকাউন্ট বিস্তারিত"</string>
+<string name="sip_edit_new_title">"SIP অ্যাকাউন্ট বিস্তারিত"</string>
+<string name="domain_address_title">"সার্ভার"</string>
+<string name="username_title">"ইউজারনেম"</string>
+<string name="password_title">"পাসওয়ার্ড"</string>
+<string name="display_name_title">"নাম প্রদর্শন"</string>
+<string name="proxy_address_title">"বাহিরমূখী প্রক্সি ঠিকানা"</string>
+<string name="port_title">"পোর্ট নম্বর"</string>
+<string name="transport_title">"পরিবহন টাইপ"</string>
+<string name="send_keepalive_title">"পাঠান জীবিত -রাখা "</string>
+<string name="set_primary_title">"প্রধান অ্যাকাউন্ট হিসেবে সেট করুন"</string>
+<string name="set_primary_summary">"বহির্গামী কলের জন্য ব্যবহৃত"</string>
+<string name="advanced_settings">"উচ্চতর সেটিংস"</string>
+<string name="auth_username_title">"প্রমাণীকরণ ব্যবহারকারীর নাম"</string>
+<string name="auth_username_summary">"অনুমোদনের জন্য ইউজারনেম ব্যবহার"</string>
+<string name="default_preference_summary">"সেট করা হয়নি"</string>
+<string name="display_name_summary">"ব্যবহারকারীর নামের অনুরূপ"</string>
+<string name="optional_summary">"অতিরিক্ত"</string>
+<string name="advanced_settings_show">"▷ সবকিছু প্রদশনের জন্য স্পর্শ করুন"</string>
+<string name="advanced_settings_hide">"▽ সবকিছু লুকানোর জন্য স্পশ করুন"</string>
+<string name="empty_alert">"<xliff:g id="input_field_name" example="Username, Password...">%s</xliff:g> প্রয়োজন, খালি রাখা যাবেনা."</string>
+<string name="not_a_valid_port">"পোর্ট সংখ্যা 1000 এবং 65534 মধ্যে হতে হবে"</string>
+<string name="no_internet_available_title">"কোন ইন্টারনেট সংযোগ নেই"</string>
+<string name="no_wifi_available_title">"কোন ওয়াই ফাই সংযোগ নেই"</string>
+<string name="no_internet_available">"একটি ইন্টারনেট কল লিখুন, প্রথমে আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন"</string>
+<string name="no_wifi_available">"ইন্টারনেট কল ব্যবহার করতে Wi-Fiনেটওয়ার্কে সংযুক্ত থাকতে হবে ( ওয়্যারলেস ও নেটওয়ার্ক সেটিংস ব্যবহার করুন)."</string>
+<string name="no_voip">"ইন্টারনেট আহ্বান সমর্থিত নয়"</string>
+<string name="sip_system_decide">"স্বয়ংক্রিয়"</string>
+<string name="sip_always_send_keepalive">"সবসময় পাঠান"</string>
+<string name="not_voice_capable">"ভয়েস কল সমর্থিত নয় "</string>
+<string name="respond_via_sms_canned_response_1">"এখন কথা বলতে পারবনা. কি খবর?"</string>
+<string name="respond_via_sms_canned_response_2">"আমি ঠিক পরে আপনাকে কল করব।"</string>
+<string name="respond_via_sms_canned_response_3">"আমি আপনাকে পরে ফোন করবো."</string>
+<string name="respond_via_sms_canned_response_4">"এখন কথা বলা যাবেনা।আমাকে কি পরে কল করবেন?"</string>
+<string name="respond_via_sms_custom_message">""আপনার নিজেরটি লিখুন ... " "</string>
+<string name="custom_message_cancel">"বাতিল"</string>
+<string name="custom_message_send">"0.5 সেকেন্ড"</string>
+<string name="respond_via_sms_setting_title">"দ্রুত প্রতিক্রিয়া"</string>
+<string name="respond_via_sms_setting_title_2">"দ্রুত প্রতিক্রিয়া সম্পাদনা করুন"</string>
+<string name="respond_via_sms_edittext_dialog_title">"দ্রুত প্রতিক্রিয়া সম্পাদনা করুন"</string>
+<string name="respond_via_sms_menu_reset_default_activity">"ডিফল্ট অ্যাপ্লিকেশন রিসেট "</string>
+<string name="respond_via_sms_confirmation_format">"বার্তা পাঠানো হল<xliff:g id="phone_number">%s</xliff:g>."</string>
+<string name="description_image_button_one">"এক"</string>
+<string name="description_image_button_two">"দুই"</string>
+<string name="description_image_button_three">"তিন"</string>
+<string name="description_image_button_four">"চার"</string>
+<string name="description_image_button_five">"পাঁচ"</string>
+<string name="description_image_button_six">"ছয়"</string>
+<string name="description_image_button_seven">"সাত"</string>
+<string name="description_image_button_eight">"আট"</string>
+<string name="description_image_button_nine">"নয়"</string>
+<string name="description_image_button_star">"তারকা"</string>
+<string name="description_image_button_zero">"শূন্য"</string>
+<string name="description_image_button_pound">"পাউন্ড"</string>
+<string name="description_dial_button">"ডায়াল"</string>
+<string name="description_delete_button">"ব্যাকস্পেস"</string>
+<string name="accessibility_speakerphone_enabled">"স্পিকারফোন সক্রিয় করা হয়েছে। "</string>
+<string name="accessibility_call_muted">"নিঃশব্দ কল করুন."</string>
+<string name="description_target_answer">"উত্তর"</string>
+<string name="description_target_send_sms">"SMS পাঠান"</string>
+<string name="description_target_decline">"অস্বীকার"</string>
+<string name="description_direction_up">"আপ জন্য <xliff:g example="Unlock" id="target_description">%s</xliff:g>."</string>
+<string name="description_direction_left">"বাকি আছে <xliff:g example="Unlock" id="target_description">%s</xliff:g>."</string>
+<string name="description_direction_right">"রাইট<xliff:g example="Unlock" id="target_description">%s</xliff:g>."</string>
+<string name="voicemail_notification_vibrate_when_title">"কাম্পান"</string>
+<string name="voicemail_notification_vibarte_when_dialog_title">"কাম্পান"</string>
+<string name="voicemail_notification_ringtone_title">"সাউন্ড সেটিংস"</string>
+<string name="default_notification_description">"ডিফল্ট শব্দ  (<xliff:g id="default_sound_title">%1$s</xliff:g>)"</string>
+<string name="ringtone_title">"ফোন রিংটোন"</string>
+<string name="vibrate_on_ring_title">"ধ্বনিত যখন কাম্পান"</string>
+<string name="dtmf_tone_enable_title">"শ্রাব্য স্পর্শ টোন"</string>
+<string name="dial_pad_autocomplete">"স্বয়ংসম্পূর্ণ ডায়াল প্যাড"</string>
+<string name="preference_category_ringtone">"রিংটোন ও স্পন্দিত "</string>
+<string name="manageConferenceLabel">"কনফারেন্স কল নিয়ন্ত্রণ করা"</string>
+<string name="emergency_call_dialog_number_for_display">"জরুরী সংখ্যা"</string>
+</resources>

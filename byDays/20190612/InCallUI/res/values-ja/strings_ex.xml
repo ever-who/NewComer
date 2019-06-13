@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"記録時間"</string>
+<string name="onscreenShowRecodText">"記録"</string>
+<string name="recorderr">"記録ファイルの保存に失敗しました"</string>
+<string name="audio_db_artist_name">"あなたの記録"</string>
+<string name="audio_db_album_name">"電話記録"</string>
+<string name="audio_db_playlist_name">"自分の録音"</string>
+<string name="app_name">"携帯電話の応用プログラム"</string>
+<string name="error_mediadb_new_record">"オーディオ録音を保存できません"</string>
+<string name="sdcard_access_error">"SDカードにアクセスできません"</string>
+<string name="no_sd_card">"ＳＩＭガードがない（連結しない）"</string>
+<string name="insert_sd_card">"ＳＩＭカードを挿入してください。"</string>
+<string name="storage_is_full">"貯蔵はいっぱいです"</string>
+<string name="recording">"録音"</string>
+<string name="lockscreen_comments">"下へスライドして、返答または拒否する"</string>
+<string name="lockscreen_comments_sms">"SMS拒否"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"記録ファイルは保存されました"</string>
+    <string name="unknown_area">"未知の番号エリア"</string>
+    <string name="unknown_contacts">"知らない番号"</string>
+
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lockBackgroundLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/smsRjectTitleIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/smsRjectTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:gravity="center"
+        android:scaleType="center"
+        android:src="@drawable/sms_reject_indicator_up_sprd" />
+
+    <TextView
+        android:id="@id/smsRjectTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/lockscreenLayout"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:background="@drawable/sms_reject_title_sprd"
+        android:gravity="center"
+        android:text="@string/lockscreen_comments_sms"
+        android:textColor="@color/incoming_call_list_text_color_sprd"
+        android:textSize="18sp" />
+
+    <RelativeLayout
+        android:id="@id/lockscreenLayout"
+        android:layout_width="match_parent"
+        android:layout_height="193dip"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/sms_reject_bg_sprd"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+        <ImageView
+            android:id="@+id/RejectCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="@dimen/in_call_button_top_padding"
+            android:scaleType="center"
+            android:src="@drawable/btn_reject_call_lock_sprd" />
+
+        <TextView
+            android:id="@+id/RejectCallText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/RejectCall"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dip"
+            android:text="@string/description_target_decline"
+            android:textColor="@color/incoming_call_list_text_color_sprd" />
+
+        <ImageView
+            android:id="@+id/slide_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/RejectCallText"
+            android:layout_gravity="center"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="16dp"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/comments"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/RejectCallText"
+            android:gravity="center"
+            android:maxEms="9"
+            android:text="@string/lockscreen_comments"
+            android:textColor="@color/incoming_call_list_text_color_sprd" />
+
+        <ImageView
+            android:id="@+id/AcceptCall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="@dimen/in_call_button_top_padding"
+            android:scaleType="center"
+            android:src="@drawable/btn_accept_call_lock_sprd" />
+
+        <TextView
+            android:id="@+id/AcceptCallText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/AcceptCall"
+            android:layout_marginTop="5dip"
+            android:layout_marginRight="5dp"
+            android:text="@string/description_target_answer"
+            android:textColor="@color/incoming_call_list_text_color_sprd" />
+
+        <ImageView
+            android:id="@+id/slide_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/AcceptCallText"
+            android:layout_gravity="center"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="16dp"
+            android:gravity="center" />
+    </RelativeLayout>
+
+</RelativeLayout>

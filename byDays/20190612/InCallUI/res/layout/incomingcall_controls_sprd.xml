@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/inComingCallControls"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/in_call_button_bottom_padding"
+    android:visibility="gone" >
+
+    <ToggleButton
+        android:id="@+id/handfreeButton"
+        style="@style/IncallImageSprd"
+        android:layout_above="@+id/IncomingCallRejectButton"
+        android:layout_toLeftOf="@+id/MessageButton"
+        android:background="@drawable/btn_incoming_handfree_background_sprd"
+        android:scaleType="center"
+        android:text="@string/audio_mode_speaker"
+        android:textOff="@null"
+        android:textOn="@null" />
+
+    <ToggleButton
+        android:id="@id/MessageButton"
+        style="@style/IncallImageSprd"
+        android:layout_above="@id/IncomingCallRejectButton"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/btn_incoming_message_background_sprd"
+        android:text="@string/description_target_send_sms"
+        android:textOff="@null"
+        android:textOn="@null" 
+        android:maxLength="13"/>
+
+    <ToggleButton
+        android:id="@+id/IncomingMuteButton"
+        style="@style/IncallImageSprd"
+        android:layout_above="@id/IncomingCallRejectButton"
+        android:layout_toRightOf="@id/MessageButton"
+        android:background="@drawable/btn_incoming_mute_selector_sprd"
+        android:text="@string/onscreenMuteText"
+        android:textOff="@null"
+        android:textOn="@null" />
+
+    <!-- Reject Call -->
+
+    <Button
+        android:id="@id/IncomingCallRejectButton"
+        android:layout_width="136dp"
+        android:layout_height="@dimen/in_call_bottom_button_height"
+        android:layout_alignLeft="@id/handfreeButton"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="@dimen/in_call_button_top_padding"
+        android:background="@drawable/call_button_reject_sprd"
+        android:text="@string/description_target_decline"
+        android:textSize="18dip" />
+    <!-- Accept Call -->
+
+    <Button
+        android:id="@+id/IncomingCallAnswerButton"
+        android:layout_width="136dp"
+        android:layout_height="@dimen/in_call_bottom_button_height"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@id/IncomingMuteButton"
+        android:layout_marginTop="@dimen/in_call_button_top_padding"
+        android:background="@drawable/call_button_answer_sprd"
+        android:text="@string/description_target_answer"
+        android:textSize="18dip" />
+
+</RelativeLayout>

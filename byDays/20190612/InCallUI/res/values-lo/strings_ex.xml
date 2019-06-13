@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="record_time">"ເວລາການບັນທຶກ:"</string>
+<string name="onscreenShowRecodText">"ບັນທຶກ"</string>
+<string name="recorderr">"" ​ການ​ບັນ​ທຶກໄຟ​ລ໌​ບັນ​ທຶກ​ລົ້ມ​ເຫລວ" "</string>
+<string name="audio_db_artist_name">"ການ​ບັນ​ທຶກ​ສຽງ​ຂອງ​ທ່ານ"</string>
+<string name="audio_db_album_name">"" ບັນ​ທຶກ​ສຽງ​ການ​ໂທ" "</string>
+<string name="audio_db_playlist_name">"ການບັນທຶກ​ສຽງຂອງຂ້າພະເຈົ້າ"</string>
+<string name="app_name">"ໂປ​ຣ​ແກ​ຣມ​ມື​ຖື"</string>
+<string name="error_mediadb_new_record">"​ບໍ່​ສາ​ມາດ​ບັນ​ທຶກ​ຂໍ້​ມູນ​ການ​ບັນ​ທຶກ​ສຽງ"</string>
+<string name="sdcard_access_error">"ບໍ່​ສາ​ມາດ​ເຂົ້າ​ເຖິງ​ບັດSD"</string>
+<string name="no_sd_card">"ບໍ່​ມີບັດSD​ຫຼື​ໄດ້​ອອກ​ມັນ​ແລ້ວ"</string>
+<string name="insert_sd_card">"ກະ​ລຸ​ນາ​ໃສ່ບັດSD"</string>
+<string name="storage_is_full">"​ໜ່ວຍ​ຄວາມ​ຈຳ​ເຕັມ"</string>
+<string name="recording">"​ບັນ​ທຶກ​ສຽງ"</string>
+<string name="lockscreen_comments">"ເລື່ອ​ລົງ​ລຸ່ມ​ເພື່ອ​ຕອບ​ຮັບ​ຫຼື​ປະ​ຕິ​ເສດ"</string>
+<string name="lockscreen_comments_sms">"ປະ​ຕິດ​ເສດ​ຂໍ້​ຄວາມ"</string>
+<string name="sim_reference">"SIM%d"</string>
+<string name="prompt_record_finish">"ໄຟ​ລ໌​ບັນ​ທຶກ​ໄດ້​ບັນ​ທຶກ​ໄປ​ທີ່"</string>
+    <string name="unknown_area">"ບໍ່ຮູ້ຈັກພື້ນທີ່"</string>
+    <string name="unknown_contacts">"ບໍ່ຮູ້ຈັກທີ່ຕິດຕໍ່"</string>
+
+</resources>
