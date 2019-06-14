@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">"मुं बिलायफोर"</string>
+<string name="contactsList">"मुं बिलायफोर"</string>
+<string name="shortcutContact">"मुं बिलाय"</string>
+<string name="shortcutDialContact">"थोंजोंयै बुहर"</string>
+<string name="shortcutMessageContact">"थोंजोंयै खौरां हर"</string>
+<string name="shortcutActivityTitle">"मुं बिलायफोरनि सतखाद सायख"</string>
+<string name="callShortcutActivityTitle">"खल खालामनो नामबार सायख"</string>
+<string name="messageShortcutActivityTitle">"मेसेज हरनो नामबार सायख"</string>
+<string name="contactPickerActivityTitle">"मुं बिलाय सायख"</string>
+<string name="starredList">"नायखांजानाय"</string>
+<string name="frequentList">"फ्रिकुएन्त"</string>
+<string name="strequentList">"फेबारेत्स"</string>
+<string name="viewContactTitle">"मुं बिलायनि गुदि खिथा"</string>
+<string name="viewContactDesription">"मुं बिलायखौ नाय"</string>
+<string name="editContactDescription">"मुं बिलायखौ सोलाय"</string>
+<string name="insertContactDescription">"मुं बिलाय बानाय"</string>
+<string name="editGroupDescription">"हान्जाखौ सोलाय"</string>
+<string name="insertGroupDescription">"हान्जा बानाय"</string>
+<string name="contactDetailAbout">"सोमोन्दै"</string>
+<string name="contactDetailUpdates">"आपदेत"</string>
+<string name="searchHint">"मुं बिलाय नागेर"</string>
+<string name="menu_viewContact">"मुं बिलायखौ नाय"</string>
+<string name="menu_addStar">"फेबारेत्साव दाजाबफा"</string>
+<string name="menu_removeStar">"फेबारेत्सनिफ्राय बोखार"</string>
+<string name="menu_editContact">"एडिट"</string>
+<string name="menu_deleteContact">"डिलेट"</string>
+<string name="menu_create_contact_shortcut">"हम सिक्रीनाव दोनहर"</string>
+<string name="menu_call">"मुं बिलायाव कल खालाम"</string>
+<string name="menu_sendSMS">"मुं बिलायाव थेक्स खालाम"</string>
+<string name="menu_splitAggregate">"आलदा खालाम"</string>
+<string name="menu_editGroup">"एडिट"</string>
+<string name="menu_deleteGroup">"डिलेट"</string>
+<string name="menu_new_contact_action_bar">"कन्टेक्ट दाजाब"</string>
+<string name="menu_new_group_action_bar">"हान्जायाव दाजाब"</string>
+<string name="splitConfirmation_title">"मुं बिलायखौ आलदा खालामगोन नामा?"</string>
+<string name="splitConfirmation">"बे मुं बिलाया गोबां मुं बिलायफोराव रानजागोन।"</string>
+<string name="menu_joinAggregate">"जमा खालाम"</string>
+<string name="titleJoinContactDataWith">"मुं बिलायफोरखौ जमा खालाम"</string>
+<string name="blurbJoinContactDataWith">"<xliff:g id="name">%s</xliff:g> जों नोंथां लोगो हमनो नागिरनाय मुं बिलायखौ सायख:"</string>
+<string name="showAllContactsJoinItem">"मुं बिलायफोरखौ दिन्थि"</string>
+<string name="separatorJoinAggregateSuggestions">"बिथोन होजानाय मुं बिलायफोर"</string>
+<string name="separatorJoinAggregateAll">"गासैबो मुं बिलायफोर"</string>
+<string name="contactsJoinedMessage">"मुं बिलायफोरा जमा खालामजाबाय"</string>
+<string name="menu_set_ring_tone">"रिंतन सेद खालाम"</string>
+<string name="menu_redirect_calls_to_vm">"भयसमैलसिम गासैबो कल"</string>
+<string name="readOnlyContactWarning">"नोंथांया रिद-अनलि एकावन्तनिफ्राय मुं बिलायफोरखौ खोमोरनो हाया,नाथाय मुं बिलायनि लिस्थआव बेखौ दोनखोमानो हागोन।"</string>
+<string name="label_phone">"फन"</string>
+<string name="readOnlyContactDeleteConfirmation">"बे मुं बिलायाव गोबांथा एखान्थनि गुदि खिथा दं। रिद-अनलि एकावन्तनिफ्राय मोन्नाय गुदि खिथाया नोंथांनि मुं बिलाय लिस्थआवल दोनखोमा जागोन,खोमोर जानाय नंङा।"</string>
+<string name="multipleContactDeleteConfirmation">"बे मुं बिलायखौ खोमोरिब्ला गोबां एकाउन्टफोरनि गुदि खिथाया गोमोर लांगोन।"</string>
+<string name="deleteConfirmation">"बे कन्टेक्टखौ दानगारनो नामा?"</string>
+<string name="menu_discard">"ऐंगार"</string>
+<string name="invalidContactMessage">"मुं बिलाया गैया।"</string>
+<string name="createContactShortcutSuccessful">"मुं बिलाय उइजेदआ हम सिक्रीनाव होफाजाबाय।"</string>
+<string name="pickerNewContactHeader">"गोदान मुं बिलाय बानाय"</string>
+<string name="pickerNewContactText">"गोदान मुं बिलाय बानाय"</string>
+<string-array name="otherLabels">
+<item>"आफाद"</item>
+<item>"नत"</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">"सावगारिफोरखौ थेबलादाव मोन्नो हानाय थासारियाव गैया।"</string>
+<string name="photoPickerNotFoundText" product="default">"सावगारिफोरखौ फनाव मोन्नो हानाय थासारियाव गैया।"</string>
+<string name="attach_photo_dialog_title">"सावगारि मुं बिलाय"</string>
+<string name="customLabelPickerTitle">"लेबेलनि मुं हो"</string>
+<string name="send_to_voicemail_checkbox">"भयसमैलनिसिम थोंजोंयै कल खालाम"</string>
+<string name="removePhoto">"सावगारिखौ बोखार"</string>
+<string name="noContacts">"मुं बिलाय गैया।"</string>
+<string name="noGroups">"हान्जा गैया।"</string>
+<string name="noAccounts">"हान्जाफोर बानायनो नोंथांनो एकाउन्ट नांगोन।"</string>
+<string name="emptyGroup">"बे हान्जायाव रावबो सुबुं गैआ"</string>
+<string name="addPeopleToGroup">"माखासे सोफानो थाखाय,हान्जाखौ सोलाय।"</string>
+<string name="savingContact">"मुं बिलाया सेभ जागासिनो..."</string>
+<string name="contactSavedToast">"मुं बिलाया सेभ जाखांबाय।"</string>
+<string name="contactSavedErrorToast">"सोलायनाय मुं बिलायोखौ सेभ खालामनो हायाखै।"</string>
+<string name="groupSavedToast">"हान्जाया सेभ जाबाय।"</string>
+<string name="groupSavedErrorToast">"सोलायनाय हान्जाखौ सेभ खालामनो हायाखै।"</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">"1 मुं बिलायनि फन नामबार"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> मुं बिलायनि फन नामबारफोर"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">"फन नामबार गोनां मुं बिलायफोर गैया"</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">"मोन 1 कनटेक्ट"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> कनटेक्टफोर"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">"1 मोनबाय"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> खौ मोनबाय"</item>
+</plurals>
+<string name="listFoundAllContactsZero">"मुं बोलायफोर गैया"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 मोनबाय"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> खौ मोनबाय"</item>
+</plurals>
+<string name="contactsAllLabel">"गासैबो मुं बिलायफोर"</string>
+<string name="contactsGroupsLabel">"हानजाफोर"</string>
+<string name="callBack">"कल हरफिन"</string>
+<string name="callAgain">"आरोबाव कल खालाम"</string>
+<string name="returnCall">"कल फैफिनबाय"</string>
+<string name="add_contact_dlg_message_fmt">"\"<xliff:g id="email">%s</xliff:g>\" खौ मुं बिलायाव दाजाब गोनना?"</string>
+<string name="description_contact_photo">"सावगारि मुं बिलाय"</string>
+<string name="description_plus_button">"दाजाब"</string>
+<string name="exporting_contact_list_progress">"<xliff:g id="current_number">%s</xliff:g> नि <xliff:g id="total_number">%s</xliff:g> मुं बिलायाव थांगासिनो "</string>
+<string name="search_settings_description">"नोंथांनि मुं बिलायनि मुंफोरा"</string>
+<string name="quickcontact_missing_app">"बे हाबोखौ सामलायनो मोनसेबो एप मोनाखै।"</string>
+<string name="missing_app">"बे हाबोखौ सामलायनो मोनसेबो एप मोनाखै।"</string>
+<string name="menu_share">"सेयार"</string>
+<string name="share_via">"नि गेजेरजों दैथाय"</string>
+<string name="dialog_new_group_account">"एकाउन्टनि सिंयाव हान्जा बानाय"</string>
+<string name="audio_chat">"भयस सेत"</string>
+<string name="video_chat">"भिदिअ सेत"</string>
+<string name="connections">"कानेक्तशन्स"</string>
+<string name="add_connection_button">"कानेक्तशन होजाब"</string>
+<string name="recent">"दाबावैनि"</string>
+<string name="recent_updates">"गोदानोथार आपदेतफोर"</string>
+<string name="account_type_format">"<xliff:g id="source" source ="Gmail">%1$s</xliff:g> कन्टेक"</string>
+<string name="from_account_format">"<xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">"बे सावगारिखौ बाहाय"</string>
+<string name="contact_read_only">"बे एपनिफ्राय इदित खालामजाया।"</string>
+<string name="no_contact_details">"बे कनटेक्टनि थाखाय जेबो उफ्रा खौरां गैया।"</string>
+<string name="group_read_only">"बे आयजेंयाव इदित खालामजाया।"</string>
+<string name="display_options_sort_list_by">"होनाय फारिलाइ"</string>
+<string name="display_options_sort_by_given_name">"गिबि मुं"</string>
+<string name="display_options_sort_by_family_name">"जोबथा मुं"</string>
+<string name="display_options_view_names_as">"महरै कन्टेक्ट मुंखौ दिन्थि"</string>
+<string name="display_options_view_given_name_first">"गिबि मुङा सिगां"</string>
+<string name="display_options_view_family_name_first">"जोबथा मुङा सिगां"</string>
+<string name="take_photo">"सावगारि दैखां"</string>
+<string name="take_new_photo">"गोदान सावगारि दैखां"</string>
+<string name="pick_photo">"गेलेरिनिफ्राय फथ\'सायख\' "</string>
+<string name="pick_new_photo">"गेलारिनिफ्राय गोदान सावगारिखौ सायख\'"</string>
+<string name="locale_change_in_progress">"राव सोलायनायखौ दिन्थिनो थाखाय कनटेक्ट फारिलाइफोरा आपडेट जागासिनो दं।"</string>
+<string name="upgrade_in_progress">"कनटेक्ट फारिलाइफोरा आपडेट जागासिनो दं।"</string>
+<string name="upgrade_out_of_memory">"कनटेक्टफोरा आपग्रेड जागासिनो दं। \n\n आपग्रेड खालामनायनि फारिखान्थियाव इन्टारनेल स्टरेजनिफ्राइ गासै <xliff:g id="size_in_megabytes">%s</xliff:g> MB नांगौ जायो। \n\n गाहायाव होनाय सोलायमिनफोरनिफ्राइ जायखिया मोनसे सायख\'।"</string>
+<string name="upgrade_out_of_memory_uninstall">"माखासे एप्लिकेशनफोरखौ आनइन्स्टल खालाम"</string>
+<string name="upgrade_out_of_memory_retry">"आपग्रेड खालामनो नाजाफिन"</string>
+<string name="search_results_searching">"नागिरगासिनो..."</string>
+<string name="menu_display_selected">"सेलेक जानायफोरखौ दिन्थि"</string>
+<string name="menu_display_all">"गासैबो दिनथि"</string>
+<string name="menu_select_all">"गासैखौबो सेलेग खालाम"</string>
+<string name="menu_select_none">"गासैबो सायखनायखौ बोखार"</string>
+<string name="add_field">"गुबुन मोनसे आयदा दाजाब"</string>
+<string name="add_new_entry_for_section">"गोदान दाजाब"</string>
+<string name="add_organization">"अर्गेनाइजेशन दाजाब"</string>
+<string name="event_edit_field_hint_text">"अक्ट\'"</string>
+<string name="group_edit_field_hint_text">"हानजानि मुं"</string>
+<string name="description_star">"फेभ\'राइट"</string>
+<string name="edit_contact">"मुं बिलायखौ सोलाय"</string>
+<plurals name="merge_info">
+<item quantity="one">"सरजाबजायाखै"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> फुंखानिफ्राइ सरजाबजाबाय"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">"दानि कनटेक्टफोरखौ सेलेक खालामनाय कनटेक्टजों जमा खालामनो ना?"</string>
+<string name="aggregation_suggestion_edit_dialog_message">"सेलेक खालामनाय कनटेक्टखौ एडिट खालामनो ना?"</string>
+<string name="menu_copyContact">"आंनि कनटेक्टफोराव कपि खालाम"</string>
+<string name="add_to_my_contacts">"आंनि कनटेक्टफोराव दाजाब"</string>
+<string name="contact_directory_description">"डाइरेक्ट\'री <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g>"</string>
+<string name="toast_making_personal_copy">"मोनसे गावारि कपि सोरजिदों..."</string>
+<string name="list_filter_custom">"कास्टम"</string>
+<string name="activity_title_settings">"सेटिंगस"</string>
+<string name="menu_settings">"सेटिंगस"</string>
+<string name="menu_help">"हेफाजाब"</string>
+<string name="preference_displayOptions">"सोलायमिनफोरखौ दिन्थि"</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">"फन नाम्बार"</string>
+<string name="non_phone_add_to_contacts">"मुं बिलायाव दाजाब"</string>
+<string name="activity_title_confirm_add_detail">"मुं बिलायाव दाजाब"</string>
+<string name="non_phone_close">"बन्द\'"</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">"बोसोरखौ हो"</string>
+<string name="social_widget_label">"मुं बिलाय"</string>
+<string name="social_widget_loading">"लदिं"</string>
+<string name="contacts_unavailable_create_contact">"गोदान कनटेक्ट खालाम"</string>
+<string name="contacts_unavailable_add_account">"एकाउन्टआव साइन इन खालाम"</string>
+<string name="contacts_unavailable_import_contacts">"कनटेक्टफोरखौ लाबो"</string>
+<string name="create_group_dialog_title">"गोदान हानजा दा"</string>
+<string name="create_group_item_label">"गोदान हानजा दा"</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">"1 हानजा"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> हानजाफोर"</item>
+</plurals>
+<string name="delete_group_dialog_message">""<xliff:g id="group_label" example="Friends">%1$s</xliff:g>"हानजाखौ डिलिट खालामनो ना? (कनटेक्टफोरा गावहारसिंनो डिलिट जाया।)"</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"<xliff:g id="account_type">%2$s</xliff:g> नि <xliff:g id="count">%1$d</xliff:g> सुबुं"</item>
+<item quantity="other">"<xliff:g id="account_type">%2$s</xliff:g> नि <xliff:g id="count">%1$d</xliff:g> सुबुंफोर"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> सुबुं"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> सुबुंफोर"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">"गुबुनजों जमा खालामनायनि सिगाङाव कनटेक्ट मुंखौ लिर।"</string>
+<string name="copy_text">"क्लिपबर्डआव कपि खालाम"</string>
+<string name="set_default">"डिफल्ट सेट खालाम"</string>
+<string name="clear_default">"डिफल्टखौ क्लियार खालाम"</string>
+<string name="toast_text_copied">"टेक्सआ कपि जाबाय"</string>
+<string name="cancel_confirmation_dialog_message">"नोंथाङा सोलायनायखौ दानफिननो ना?"</string>
+<string name="call_type_and_date">"<xliff:g id="call_type" example="Friends">%1$s</xliff:g><xliff:g id="call_short_date" example="Friends">%2$s</xliff:g>"</string>
+<string name="profile_display_name">"आंनि प्रफाइलखौ सेट आप खालाम"</string>
+<string name="enter_contact_name">"सुबुंनि मुंखौ लिर"</string>
+<string name="group_name_hint">"हानजानि मुं"</string>
+<string name="local_profile_title">"आंनि लकेल प्रफाइल"</string>
+<string name="external_profile_title">"<xliff:g id="external_source">%1$s</xliff:g> कन्टेक्ट"</string>
+<string name="toast_displaying_all_contacts">"गासैबो कनटेक्टफोरखौ दिन्थिगासिनो"</string>
+<string name="no_account_prompt">"सुबुंफोरा गुगल एकाउन्टजों मोजांसिन हाबा मावो। \n\n\u2022 जायखिजाया वेब ब्राउजारनिफ्राय एक्सिस खालामनाय।\n\u2022 नोंथांनि कन्टेक्टफोरखौ रैखाथियै बेकआप खालाम।"</string>
+<string name="generic_no_account_prompt">"नोंथांनि फना गोमाब्लाबो नोंथांनि कनटेक्टफोरा थाबाय थागोन। अनलाइन सार्भिसजों सिनक्रनाइज खालाम।"</string>
+<string name="generic_no_account_prompt_title">"एकाउन्टजों दाजाब"</string>
+<string name="contact_editor_prompt_zero_accounts">"नोंथांनि गोदानै सेभ खालामनाय कनटेक्टफोरा थानाय नङा।  कनटेक्टफोरखौ अनलाइन बेक आप लाग्रा एकाउन्ट खुलिनो नामा?"</string>
+<string name="contact_editor_prompt_one_account">"नोंथांनि कनटेक्टफोरा <xliff:g id="account_name">%1$s</xliff:g> जों सिनक्रनाइज जागोन।"</string>
+<string name="contact_editor_prompt_multiple_accounts">"नोंथाङा गोदान कनटेक्टफोरखौ गाहायाव होनाय जायखिजाया मोनसे एकाउन्टजों सिनक्रनाइज खालामनो हागोन। नोंथाङा बबे मोनसेखौ बाहायनो गोसो?"</string>
+<string name="keep_local">"लकेलखौ दोन"</string>
+<string name="add_account">"एड एकाउन्ट"</string>
+<string name="add_new_account">"गोदान एकाउन्ट दाजाब"</string>
+<string name="menu_export_database">"डेटाबेज फाइलफोरखौ दिहुन"</string>
+<string name="contact_detail_picture_description">"सावगारि। सोलायनो थाखाय सायख\'"</string>
+<string name="no_fast_dial">"फास्ट कल फन नामबारा सेट जायाखै"</string>
+<string name="fast_dial_choose">"अननानै फास्ट कलनि रोखोमखौ सायख\'"</string>
+<string name="fast_call">"भइस कल"</string>
+<string name="fast_vt_call">"भिडिअ\' कल"</string>
+<string name="wait">"अननानै थाथ...\'"</string>
+<string name="working">"जागासिनो दं"</string>
+<string name="working_batch_delete">"हानजाखौ डिलिट खालामगासिनो"</string>
+<string name="working_batch_import">"हानजाखौ लाबोगासिनो"</string>
+<string name="choose_sim_card">"SIM कार्डखौ सायख\'"</string>
+<string name="violate_capacity">"SIM नि हेंथा"</string>
+<string name="import_failed">"कनटेक्टखौ लाबोनाय/हरनाया फेलें जादों"</string>
+<string name="import_failed_tmp">"<xliff:g id="count">%d</xliff:g> आ आबुं जादों, <xliff:g id="count">%d</xliff:g> आ फेलें जादों"</string>
+<string name="import_done">"लाबोनाया जोबबाय"</string>
+<string name="delete_done">"डिलिट जाबाय"</string>
+<string name="toast_no_contact_selected">"मोनसेबो कनटेक्टआ सेलेक जायाखै"</string>
+<string name="contactSavedErrorToastNameLength">"कनटेक्टनि मुङा सेभ खालामनो गोलावद्राय जादों"</string>
+<string name="contactSavedErrorToastEmailLength">"इमेलनि मुङा सेभ खालामनो गोलावद्राय जादों"</string>
+<string name="contactSavedErrorToastEmailFull">"इमेला आबुं जाबाय"</string>
+<string name="contactSavedErrorToastSimEmailFull">"SIM कार्डनि इमेला आबुं जाबाय"</string>
+<string name="contactSavedErrorToastUsimEmailFull">"USIM कार्डनि इमेला आबुं जाबाय"</string>
+<string name="sim_is_full">"SIM आ आबुं जाबाय"</string>
+<string name="beyond_sim_card_capacity">"SIM कार्डनि सिमाखौ बारबाय, माखासे कनटेक्टखौ सेभ खालामनो हानाय नंला"</string>
+<string name="menu_addToBlacklist">"ब्लेकलिस्टआव दाजाब"</string>
+<string name="menu_view_calls">"नाय"</string>
+<string name="item_all_calls">"गासै कल लगफोर"</string>
+<string name="item_sim1_calls">"SIM 1 नि कल लग"</string>
+<string name="item_sim2_calls">"SIM 2 नि कल लग"</string>
+<string name="res_name">"मुं"</string>
+<string name="res_phone">"फन"</string>
+<string name="res_email">"इमेल"</string>
+<string name="res_field">"जायगा"</string>
+<string name="alert_maybe_lost_info">"लानाय एबा हरनाय समाव माखासे खौरांफोरा गोमानो हागौ"</string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> बांद्राय गोलाव"</string>
+<string name="select_group_member">"हानजानि सोद्रोमाखौ सायख\'"</string>
+<string name="email_format_fail">"अननानै थार इमेल थंखौ हो!"</string>
+<string name="working_editing_group">"हानजाखौ सोलायगासिनो"</string>
+<string name="editing_group_done">"हानजा सोलायनाया आबुं जाबाय"</string>
+<string name="editing_group_failed">"हानजा सोलायनाया फेलें जादों"</string>
+<string name="contacts_group_name_exist">"थाखानाय हानजानि मुं"</string>
+<string name="menu_sendmms">"गोबां SMS"</string>
+<string name="alert_delete_contact">"सेलेक जानाय कनटेक्टफोरखौ नोंथाङा डिलिट खालाममारगोन ना?"</string>
+<string name="select_all">"गासैखौबो सेलेग खालाम"</string>
+<string name="label_sim">"SIM कार्ड"</string>
+<string name="label_usim">"SIM कार्ड"</string>
+<string name="menu_batch_delete">"दानजानाय हान्जा"</string>
+<string name="group_selection">"कनटेक्ट हानजा सायख\'नाय"</string>
+<string name="cancel_batch_import_confirmation">"कनटेक्ट लाबोनायखौ दाननो ना?"</string>
+<string name="cancel_batch_delete_confirmation">"कनटेक्ट डिलिट खालामनायखौ दाननो ना?"</string>
+<string name="copy">"क\'पि"</string>
+<string name="copy_to">"आव कपि खालाम"</string>
+<string name="contactDeletedToast">"डिलिट जानाय कनटेक्ट।"</string>
+<string name="list_filter_all_in_one">"डेटाजों लोगोसे गासैबो कनटेक्टफोर"</string>
+<string name="listTotalEmailContactsZero">"इमेल थं थानाय कनटेक्टफोर गैया"</string>
+<string name="list_filter_emails">"इमेल थं थानाय गासैबो कनटेक्टफोर"</string>
+<string name="listMaxContactsInAccount">"जायगा: <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="reading_vcard_exception_title">"रिडिं/राइटिं vCard डेटा एक्सेपशन"</string>
+<string name="sqlite_full">"डेटाबेसखौ नाय एबा डिस्कआ बुंबाय।"</string>
+<string name="groupSavingToast">"हान्जा खौरांखौ उनाव बाहायगोन।"</string>
+<string name="batch_operation_canceled">"खामानिया दानजाबाय"</string>
+<string name="no_sdcard_title">"SD कार्ड गैया"</string>
+<string name="cancel_export_confirmation_title">"vCard हरनायखौ दानगासिनो"</string>
+<string name="video_callNumber_by_sim2">"भिडिअ\' कल <xliff:g id="NAME">%s</xliff:g>（SIM2)"</string>
+<string name="delete_calls_list">"सेलेक खालामजानाय कलफोरखौ डिलिट खालाम"</string>
+<string name="video_menu_callNumber">"भिडिअ\' कल <xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="searching_vcard_title">"vCard नागिरगासिनो"</string>
+<string name="menu_copyToPhone">"फनाव कपि खालाम"</string>
+<string name="cancel_import_confirmation_title">"vCard लाबोनायखौ दानगासिनो"</string>
+<string name="dialog_voicemail_not_ready_title">"भइसमेल नाम्बार गैया"</string>
+<string name="select_one">"आइटेमखौ मोनसेबाबो सेलेक खालामथार!"</string>
+<string name="delete_all_calls_confirm">"नोंथाङा गासैबो कलफोरखौ डिलिट खालामनो गोसो नामा?"</string>
+<string name="export_to_sim">"SIM कारडसिम दैथायहर"</string>
+<string name="scanning_sdcard_failed_title">"SD कार्डखौ स्केन खालामनो हायाखै"</string>
+<string name="aggregation_suggestion_join_dialog_title">"मुं बिलायफोरखौ जमा खालाम"</string>
+<string name="aggregation_suggestion_edit_dialog_title">"सेलेक जानाय कनटेक्टफोरखौ सोलाय"</string>
+<string name="delete_group_dialog_title">"हानजाखौ डिलिट खालाम"</string>
+<string name="delete_all_calls">"गासैबो कलफोरखौ डिलिट खालाम"</string>
+<string name="video_callNumber_by_sim1">"भिडिअ\' कल <xliff:g id="NAME">%s</xliff:g>（SIM1)"</string>
+<string name="call_log_callNumber_by_sim">"कल <xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>"</string>
+<string name="dialog_phone_call_prohibited_title">"कल थाङाखै"</string>
+<string name="search_bar_hint">"मुं बिलाय नागेर"</string>
+<string name="delete_success">"जोबनायाव डिलिट खालाम!"</string>
+<string name="deleteConfirmation_title">"कनटेक्टखौ डिलिट खालाम"</string>
+<string name="delete_selected_calls">"सेलेक जानाय कलफोरखौ नोंथाङा डिलिट खालामनो ना?"</string>
+<string name="delete_contact_all_calls">"कनटेक्टनि कल लग्सखौ नोंथाङा डिलिट खालाममारनोना?"</string>
+<string name="menu_copyToSim">"SIM आव कपि खालाम"</string>
+<string name="menu_all_contacts">"गासैबो मुं बिलायफोर"</string>
+<string name="please_input_group_name">"अननानै हानजानि मुंखौ हो"</string>
+<string name="cancel_confirmation_dialog_title">"सोलायनायखौ एंगार"</string>
+<string name="delete_calls">"डिलेट"</string>
+<string name="add_contact_dlg_title">"कन्टेक्ट दाजाब"</string>
+<string name="app_name">"कल लग"</string>
+<string name="search_description">"कल लगखौ नागिर"</string>
+<string name="search_hint">"कल लगखौ नागिर"</string>
+<string name="lable_search">"चार्स"</string>
+<string name="menu_deleteFromBlacklist">"गोसोम फारिलाइनिफ्राय डिलेट खालाम"</string>
+<string name="success_addToBlacklist">"जाफुंनायखौ दाजाब"</string>
+<string name="failed_addToBlacklist">"फेलें जानायखौ दाजाब"</string>
+<string name="success_removeFromBlacklist">"जाफुंनायखौ डिलेट खालाम"</string>
+<string name="failed_removeFromBlacklist">"फेलें जानायखौ डिलेट खालाम"</string>
+<string name="menu_mmsGroup">"गोबां खौरां"</string>
+<string name="menu_emailGroup">"गोबां इमेल"</string>
+<string name="noContactsInGroup">"बे हानजायाव कनटेक्ट गैया"</string>
+<string name="please_wait">"अननानै थाथ...\'"</string>
+<string name="noContactswithEmail">"बे हानजानि कनटेक्टफोराव इमेल गैया"</string>
+<string name="noContactwithEmail">"कनटेक्टफोराव इमेल गैया"</string>
+<string name="noContactwithPhoneAndEmail">"कनटेक्टफोराव फन आरो इमेल गैया।"</string>
+<string name="select_card">"अननानै कार्डखौ सेलेक खालाम"</string>
+<string name="sim_absent">"SIM गैया"</string>
+<string name="sdn_list">"SDN फारिलाइ"</string>
+<string name="lnd_list">"LND फारिलाइ"</string>
+<string name="sim_no_ready">"SIM कार्डआ थियारि गैया"</string>
+<string name="sdn_please_insert_sim">"अननानै SIM कार्ड सो"</string>
+<string name="sdn_sim_notready">"SIM खौ जागायगासिनो, अननानै उनाव बाहाय"</string>
+<string name="ip_dialer">"IP डाइलिं सेटिं"</string>
+<string name="call_ip">"IP कल"</string>
+<string name="no_group">"मोनसेबो हानजानि सोद्रोमा गैया"</string>
+<string name="select_group">"हानजाखौ सायख\'"</string>
+<string name="edit_photo">"सावगारिखौ सोलाय"</string>
+<string name="select_all_contacts">"गासैखौबो सेलेग खालाम"</string>
+<string name="menu_save">"सेभ"</string>
+<string name="group_name_hint_overlay">"अननानै हानजानि मुंखौ हो"</string>
+<string name="select_group_member_overlay">"सोद्रोमाफोरखौ दाजाबनो थु"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"मोन 1 कनटेक्ट गोरोबदों"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> कनटेक्टआ गोरोबदों"</item>
+</plurals>
+<string name="no_match_contact">"मोनसेबो कनटेक्ट गोरोबाखै"</string>
+<string name="menu_newGroup">"गोदान हानजा"</string>
+<string name="editGroup">"हान्जाखौ सोलाय"</string>
+<string name="menu_delete_group">"हानजाखौ डिलिट खालाम"</string>
+<string name="contactsFavoritesLimit">"बुथुमनाय सिमानि गेजेरावनो मोन 12 कन्टेक्टफोरखौ बुथुम"</string>
+<string name="menu_add_favorite">"फेभ\'राइटआव कनटेक्टफोरखौ दाजाब"</string>
+<string name="create_new_contact">"गोदान मुं बिलाय बानाय"</string>
+<string name="send_mms">"खौरां हर"</string>
+<string name="tab_more">"बुरजा सायख\'नाय"</string>
+<string name="show_contacts">"कनटेक्टफोरखौ दिन्थि"</string>
+<string name="fast_dial">"गोख्रै डाइल खालामनाय"</string>
+<string name="account">"एकाउन्ट"</string>
+<string name="import_export_contacts">"इम्पर्ट/एक्सपर्ट कनटेक्ट्स"</string>
+<string name="export_contacts">"दैथायहरनाय कन्टेक्टफोर"</string>
+<string name="duplicate_phone_book">"नैथि फन बुक"</string>
+<string name="dump_phone_book">"गारजानाय फन बुक"</string>
+<string name="call_log_contacts_not_save">"मिथियि"</string>
+<string name="call_log_callNumber_by_sim_ex">"कल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"भिडिअ\' कल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP कल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="removeStarred">"सायख\'नायखौ बोखार"</string>
+<string name="lookUpInfo">"लुकआप इन्पर्मेशन"</string>
+<string name="cancel">"केन्चेल"</string>
+<string name="favorite_contacts">"फेभ\'राइट कनटेक्ट्स"</string>
+<string name="no_available_number">"नाम्बारफोर गैया"</string>
+<string name="confirmCoverPhoneNumber">"थाखानाय कनटेक्टफोरखौ नोंथाङा सोलायनो गोसो दंमारो ना?"</string>
+<string name="replaceSelected">"बबेखौ सोलायनो अननानै सेलेक खालाम"</string>
+<string name="over_phone_length_limit">"नाम्बारा गोलावद्राय जादों"</string>
+<string name="invalid_number">"नाम्बारा गनायजाथाव नङा।"</string>
+<string name="no_vcard_found_in_internal_stor">"थाखानाय स्टरेजआव मोनसेबो vCard गैया।"</string>
+<string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> कल लग"</string>
+<string name="menu_moveGroupMember">"हानजानि सोद्रोमाखौ बोखार"</string>
+<string name="moveGroupMemberDialogTitle">"कनटेक्टफोरखौ बोखार"</string>
+<string name="menu_deleteGroupMember">"हानजानि सोद्रोमाफोरखौ डिलिट खालाम"</string>
+<string name="overGroupNameLength">"हानजानि मुङा गोलावद्राय जादों"</string>
+<string name="overGroupCountLimit">"हानजानि सिमाखौ बारदों"</string>
+<string name="menu_share_by_sms">"कनटेक्टफोरखौ sms/mms जों हर"</string>
+<string name="toast_batchoperation_is_running">"बेट्स अपारेशन सोलिगासिनो दं, अननानै उनाव नाजाफिन।"</string>
+<string name="sdcard_storage_not_enough">"जायगाया थोजासे नङा!"</string>
+<string name="noJoinContactDataWith">"रावबो कनटेक्टफोरखौ जमा खालामनो हाया"</string>
+<string name="not_select_vCard">"मोनसेबो vCard खौ सेलेक खालामाखै"</string>
+<string name="selected_is_not_image">"सेलेक जानाय फाइलआ सावगारि नङा"</string>
+<string name="batch_delete_confim_title">"कनटेक्टफोरखौ डिलिट खालाम"</string>
+<string name="batch_delete_confim_message">"सेलेक जानाय कनटेक्टफोरखौ नोंथाङा डिलिट खालाममारनो ना?"</string>
+<string name="transaction_too_large">"कनटेक्टफोरखौ सेलेक खालामनाया सिमानि बारा जादों, अननानै कनटेक्टखौ बेनि खमसिन सेलेक खालाम"</string>
+<string name="contacts_selection_too_more">"सेलेक खालामजानाय बांसिन अनजिमाया जाबाय <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="recentCalls_empty">"कल लगआ लांदां जाना दं"</string>
+<string name="menu_newContact">"गोदान कनटेक्ट"</string>
+<string name="contact_list_loading">"लदिं"</string>
+<string name="recentCallsIconLabel">"कल लग"</string>
+<string name="launcherDialer">"डाइल"</string>
+<string name="delete_group_dialog_commit">"सेलेक जानाय हानजाफोरखौ नोंथाङा डिलिट खालामनो ना?"</string>
+<string name="noContactsWithPhoneNumbers">"फन नामबार गोनां मुं बिलायफोर गैया"</string>
+<string name="listTotalAllContactsZeroStarred">"फेभ\'राइट गैया।"</string>
+<string name="contact_editor_prompt_multiple_accounts_short">"कनटेक्टखौ दोन"</string>
+<string name="working_batch_starred">"बेट्सखौ सायख\'"</string>
+<string name="star_done">"जागायनाया जोबबाय"</string>
+<string name="cancel_batch_star_confirmation">"कनटेक्ट लानायखौ दान"</string>
+<string name="upgrade_group_in_progress">"हानजा फारिलाइया आपडेट जागासिनो दं"</string>
+<string name="sim_capacity">"SIM नि सिमा"</string>
+<string name="noSimCard">"SIM कार्ड गैया"</string>
+<string name="clear">"खोमोर"</string>
+<string name="cancel_select">"सायख नांङा"</string>
+<string name="default_feature_bar_center">"सायख"</string>
+<string name="softkey_clear">"खोमोर"</string>
+<string name="softkey_back">"थांफिन"</string>
+<string name="softkey_option">"सायख\'नाय"</string>
+<string name="softkey_cancel">"केन्चेल"</string>
+<string name="softkey_dial">"डाइल"</string>
+<string name="softkey_new">"गोदान"</string>
+<string name="softkey_send">"दैथाय हर"</string>
+<string name="softkey_search">"चार्स"</string>
+<string name="no_account_to_edit">"कन्टेक्टआव सेफ खालामनो थाखाय सिस्टेमाव जेबो एकाउन्ट गैया आरो बेखौ कन्टेक्टआव सोरजिनो हाया।"</string>
+<string name="only_other_number_type">"मोनसेल\' गुबुन नामबारखौ सेफ खालामनो हाया, अननानै बेखौ नायफाम।"</string>
+<string name="dup_phone_number_type">"मोनसे रोखोमनि नाम्बारखौ सेभ खालामनो हाया, अननानै बेखौ आनजाद खालाम।"</string>
+</resources>

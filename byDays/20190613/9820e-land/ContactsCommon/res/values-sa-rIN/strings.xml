@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"पाठ्यस्य प्रतिकृतिः अभवत्"</string>
+<string name="call_custom">"आह्वाहनम् <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="call_home">"गृहाह्वाहनम्"</string>
+<string name="call_mobile">"दूरभाषाह्वाहनम्"</string>
+<string name="call_work">"कार्याह्वाहनम्"</string>
+<string name="call_fax_work">"फेक्स कार्याह्वाहनम्"</string>
+<string name="call_fax_home">"फेक्स गृहाह्वाहनम्"</string>
+<string name="call_pager">"पत्राह्वाहनम्"</string>
+<string name="call_other">"आह्वानम्"</string>
+<string name="call_callback">"प्रत्याह्वाहनस्य आह्वाहनम्"</string>
+<string name="call_car">"कार-यानाह्वाहनम्"</string>
+<string name="call_company_main">"मुख्यसंस्थाह्वाहनम्"</string>
+<string name="call_isdn">"ISDN आह्वाहनम्"</string>
+<string name="call_main">"मुख्याह्वाहनम्"</string>
+<string name="call_other_fax">"फेक्स आह्वाहनम्"</string>
+<string name="call_radio">"आकाशवाण्याः आह्वाहनम्"</string>
+<string name="call_telex">"टेलेक्ष-आह्वाहनम्"</string>
+<string name="call_tty_tdd">"आह्वाहनम् TTY/TDD"</string>
+<string name="call_work_mobile">"कार्यदूरभाषाह्वाहनम्"</string>
+<string name="call_work_pager">"कार्यपत्राह्वाहनम्"</string>
+<string name="call_assistant">"आह्वाहनम् <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="call_mms">"आह्वाहनम् MMS"</string>
+<string name="sms_custom">"पाठ्यम् <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="sms_home">"गृहपाठ्यम्"</string>
+<string name="sms_mobile">"दूरभाषपाठ्यम्"</string>
+<string name="sms_work">"कार्यपाठ्यम्"</string>
+<string name="sms_fax_work">"फेक्स कार्यपाठ्यम्"</string>
+<string name="sms_fax_home">"फेक्स गृहपाठ्यम्"</string>
+<string name="sms_pager">"पत्रापाठ्यम्"</string>
+<string name="sms_other">"पाठ्यम्"</string>
+<string name="sms_callback">"प्रत्याह्वाहनस्य पाठ्यम्"</string>
+<string name="sms_car">"कार-यानस्य पाठ्यम्"</string>
+<string name="sms_company_main">"मुख्यसंस्थापाठ्यम्"</string>
+<string name="sms_isdn">"पाठ्यम् ISDN"</string>
+<string name="sms_main">"मुख्यपाठ्यम्"</string>
+<string name="sms_other_fax">"fax पाठ्यम्"</string>
+<string name="sms_radio">"आकाशवाण्याः पाठ्यम्"</string>
+<string name="sms_telex">"टेलेश्र-पाठ्यम्"</string>
+<string name="sms_tty_tdd">"पाठ्यम् TTY/TDD"</string>
+<string name="sms_work_mobile">"दूरभाष-कार्यपाठ्यम्"</string>
+<string name="sms_work_pager">"पत्र-कार्यपाठ्यम्"</string>
+<string name="sms_assistant">"पाठ्यम् <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="sms_mms">"पाठ्यम् MMS"</string>
+<string name="clearFrequentsConfirmation_title">"पौनःपुन्यस्य सम्पर्कान् प्रोञ्छति?"</string>
+<string name="clearFrequentsConfirmation">"जने, दूरभाषानुप्रयोगे च भवान्/भवती पौनःपुन्यानां सम्पर्कानां सूचिम् अपाकरिष्यति, तथा च बलेन वि-पत्रानुप्रयोगं रिक्तस्थानात् सङ्केतान् पठितुं कथयिष्यति।"</string>
+<string name="clearFrequentsProgress_title">"पौनःपुन्यस्य सम्पर्कान् प्रोञ्छति..."</string>
+<string name="status_available">"उपलब्धम्"</string>
+<string name="status_away">"सर्वदा"</string>
+<string name="status_busy">"व्यस्तः"</string>
+<string name="contactsList">"सम्पर्काः"</string>
+<string name="local_invisible_directory">"अन्यत्"</string>
+<string name="directory_search_label">"सम्पर्कसूचिः"</string>
+<string name="local_search_label">"सर्वे सम्पर्काः"</string>
+<string name="user_profile_contacts_list_header">"अहम्।"</string>
+<string name="search_results_searching">"अन्विषति..."</string>
+<string name="foundTooManyContacts">"<xliff:g id="count">%d</xliff:g> तः अधिकाः प्राप्ताः"</string>
+<string name="listFoundAllContactsZero">"सम्पर्काः न सन्ति"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 प्राप्तः"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> प्राप्तः"</item>
+</plurals>
+<string name="description_quick_contact_for">"<xliff:g id="name">%1$s</xliff:g> कृते त्वरितसम्पर्कः"</string>
+<string name="missing_name">"(नाम नास्ति)"</string>
+<string name="favoritesFrequentCalled">"पौनःपुन्येन आहूताः"</string>
+<string name="favoritesFrequentContacted">"पौनःपुन्येन सम्पर्ककृताः"</string>
+<string name="description_view_contact_detail">"सम्पर्कं पश्यतु"</string>
+<string name="list_filter_phones">"दूरभाषक्रमाङ्कैः सह सर्वे समर्पर्काः"</string>
+<string name="view_updates_from_group">"अद्यतनानि पश्यतु"</string>
+<string name="account_phone" product="tablet">"केवलं टेबलेटयन्त्रम्, असङ्कूटीकृतम्"</string>
+<string name="account_phone" product="default">"केवलं दूरभाषः, असङ्कूटीकृतः"</string>
+<string name="nameLabelsGroup">"नाम"</string>
+<string name="nicknameLabelsGroup">"लालितकनाम"</string>
+<string name="full_name">"नाम"</string>
+<string name="name_given">"प्रथमनाम"</string>
+<string name="name_family">"अन्तिमनाम"</string>
+<string name="name_prefix">"नाम्नः उपसर्गः"</string>
+<string name="name_middle">"मध्यनाम"</string>
+<string name="name_suffix">"नामानुयोजनम्"</string>
+<string name="name_phonetic">"उच्चारणाधारितं नाम"</string>
+<string name="name_phonetic_given">"उच्चारणाधारितं प्रथमनाम"</string>
+<string name="name_phonetic_middle">"उच्चारणाधारितं मध्यनाम"</string>
+<string name="name_phonetic_family">"उच्चारणाधारितम् अन्तिमनाम"</string>
+<string name="phoneLabelsGroup">"दूरभाषः"</string>
+<string name="emailLabelsGroup">"इ-सन्देशः"</string>
+<string name="postalLabelsGroup">"सङ्केतः"</string>
+<string name="imLabelsGroup">"IM"</string>
+<string name="organizationLabelsGroup">"संस्था"</string>
+<string name="relationLabelsGroup">"सम्बन्धः"</string>
+<string name="eventLabelsGroup">"विशेषदिनाङ्काः"</string>
+<string name="sms">"पाठ्यसन्देशः"</string>
+<string name="postal_address">"सङ्केतः"</string>
+<string name="ghostData_company">"संस्था"</string>
+<string name="ghostData_title">"शीर्षकम्"</string>
+<string name="label_notes">"टिप्पण्यः"</string>
+<string name="label_sip_address">"अन्तर्जालीयाह्वाहनम्"</string>
+<string name="websiteLabelsGroup">"जालस्थानम्"</string>
+<string name="groupsLabel">"दलानि"</string>
+<string name="email_home">"गृह-वि-पत्रम्"</string>
+<string name="email_mobile">"दूरभाष-वि-पत्रम्"</string>
+<string name="email_work">"कार्य-वि-पत्रम्"</string>
+<string name="email_other">"इ-सन्देशः"</string>
+<string name="email_custom">"वि-पत्रम् <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="email">"इ-सन्देशः"</string>
+<string name="postal_street">"विथिका"</string>
+<string name="postal_pobox">"PO पेटिका"</string>
+<string name="postal_neighborhood">"प्रतिवेशी"</string>
+<string name="postal_city">"नगरम्"</string>
+<string name="postal_region">"राज्यम्"</string>
+<string name="postal_postcode">"ZIP कूटः"</string>
+<string name="postal_country">"देशः"</string>
+<string name="map_home">"गृहसङ्केतं पश्यतु"</string>
+<string name="map_work">"कार्यसङ्केतं पश्यतु"</string>
+<string name="map_other">"सङ्केतं पश्यतु"</string>
+<string name="map_custom">"पश्यतु <xliff:g id="custom">%s</xliff:g> सङ्केतम्"</string>
+<string name="chat_aim">"AIM इत्यस्य उपयोगेन संलापः"</string>
+<string name="chat_msn">"Windows Live इत्यस्य उपयोगेन संलापः"</string>
+<string name="chat_yahoo">"Yahoo इत्यस्य उपयोगेन संलापः"</string>
+<string name="chat_skype">"Skype इत्यस्य उपयोगेन संलापः"</string>
+<string name="chat_qq">"QQ इत्यस्य उपयोगेन संलापः"</string>
+<string name="chat_gtalk">"Google Talk इत्यस्य उपयोगेन संलापः"</string>
+<string name="chat_icq">"ICQ इत्यस्य उपयोगेन संलापः"</string>
+<string name="chat_jabber">"Jabber इत्यस्य उपयोगेन संलापः"</string>
+<string name="chat">"संलापः"</string>
+<string name="description_minus_button">"अपाक्रियताम्"</string>
+<string name="expand_collapse_name_fields_description">"नामपेटिका सञ्कुच्यताम्/विस्तीर्यताम्"</string>
+<string name="list_filter_all_accounts">"सर्वे सम्पर्काः"</string>
+<string name="list_filter_all_starred">"तारकमयम्"</string>
+<string name="list_filter_customize">"स्वानुकूलम्"</string>
+<string name="list_filter_single">"सम्पर्कः"</string>
+<string name="display_ungrouped">"सर्वे अन्ये सम्पर्काः"</string>
+<string name="display_all_contacts">"सर्वे सम्पर्काः"</string>
+<string name="menu_sync_remove">"समाकलदलम् अपाकरोतु"</string>
+<string name="dialog_sync_add">"समाकलदलं योजयतु"</string>
+<string name="display_more_groups">"अधिकानि दलानि..."</string>
+<string name="display_warn_remove_ungrouped">"अपाकरोति \"<xliff:g id="group" example="Starred">%s</xliff:g>\"तः समाकलम् अपि दलभिन्नान् सम्पर्कान् समाकलात् अपाकोरति।"</string>
+<string name="savingDisplayGroups">"प्रदर्शनविकल्पान् रक्षति..."</string>
+<string name="menu_done">"अभवत्"</string>
+<string name="menu_doNotSave">"निरस्यताम्"</string>
+<string name="listAllContactsInAccount">"<xliff:g id="name" example="abc@gmail.com">%s</xliff:g> मध्ये सम्पर्काः"</string>
+<string name="listCustomView">"स्वानुकूलदृश्ये सम्पर्काः"</string>
+<string name="listSingleContact">"एकाकी सम्पर्कः"</string>
+<string name="dialog_new_contact_account">"लेखायाः अन्तर्गततया सम्पर्कं निर्मातु"</string>
+<string name="import_from_sim">"SIM पत्रात् आयातं करोतु"</string>
+<string name="import_from_sdcard" product="default">"बाह्यसङ्ग्रहात् निर्यातं करोतु"</string>
+<string name="cancel_import_confirmation_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> इत्यस्य आयातं स्थगयति?"</string>
+<string name="cancel_export_confirmation_message">"<xliff:g id="filename" example="export.vcf">%s</xliff:g>इत्यस्य आयातं स्थगयति?"</string>
+<string name="cancel_vcard_import_or_export_failed">"vCard आयातं/निर्यातं निरस्तं कर्तुं न शक्तम्"</string>
+<string name="fail_reason_unknown">"अज्ञातः दोषः।"</string>
+<string name="fail_reason_could_not_open_file">"उद्धाटितं न जातम् \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>।"</string>
+<string name="fail_reason_could_not_initialize_exporter">"निर्यातकर्ता न आरब्धः : \"<xliff:g id="exact_reason">%s</xliff:g>\"।"</string>
+<string name="fail_reason_no_exportable_contact">"तत्र निर्यातयोग्यः सम्पर्कः नास्ति।"</string>
+<string name="fail_reason_error_occurred_during_export">"निर्यातकाले दोषः समुद्भूतः : \"<xliff:g id="exact_reason">%s</xliff:g>\"।"</string>
+<string name="fail_reason_too_long_filename">"आवश्यकं सञ्चिकानाम अतीव लम्बमानमस्ति (\"<xliff:g id="filename">%s</xliff:g>\")।"</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"सङ्ग्रहे अत्यधिकाः vCard सञ्चिकाः सन्ति."</string>
+<string name="fail_reason_too_many_vcard" product="default">"सङ्ग्रहे अत्यधिकाः SDपत्रे सञ्चिकाः सन्ति."</string>
+<string name="fail_reason_io_error">"I/O दोषः"</string>
+<string name="fail_reason_low_memory_during_import">"पर्याप्ता स्मृतिः नास्ति. सञ्चिका कदाचित् अतीव बृहती स्यात्।"</string>
+<string name="fail_reason_vcard_parse_error">"अज्ञातकाणवत्वात् vCard युगलं न जातम्।"</string>
+<string name="fail_reason_not_supported">"प्रारूपं समर्थितं नास्ति।"</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">"प्रदत्तानां vCard-सञ्चिकानां मेटा-सूचनासंकलनं न शक्तम्।"</string>
+<string name="fail_reason_failed_to_read_files">"एकस्याः उत एकाधिक्याः सञ्चिक्याः आयातं न शक्तम् (%s)."</string>
+<string name="exporting_vcard_finished_title">"निर्यातं समाप्तम् <xliff:g id="filename" example="export.vcf">%s</xliff:g>।"</string>
+<string name="exporting_vcard_canceled_title">"निर्यातं <xliff:g id="filename" example="export.vcf">%s</xliff:g> निरस्तम्।"</string>
+<string name="exporting_contact_list_title">"सम्पर्कदत्तांशस्य निर्यातं करोति"</string>
+<string name="exporting_contact_list_message">"भवतः/भवत्याः सम्पर्कदत्तांशः प्रति : <xliff:g id="file_name">%s</xliff:g> निर्यातः भवति।"</string>
+<string name="composer_failed_to_get_database_infomation">"दत्तांशसूचनां प्राप्तुं न शक्तवान्।"</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"तत्र निर्यातयोग्याः सम्पर्काः न सन्ति. यदि भवतः/भवत्याः टेबलेट-यन्त्रे सम्पर्काः सन्ति, तर्हि दत्तांशप्रदाता कदाचित् तान् सम्पर्कान् टेबलेट-यन्त्रात् बहिर्प्रेषयितुम् अनुमतिं न दद्यात्।"</string>
+<string name="composer_has_no_exportable_contact" product="default">"तत्र निर्यातयोग्याः सम्पर्काः न सन्ति. यदि भवतः/भवत्याः दूरभाषे सम्पर्काः सन्ति, तर्हि दत्तांशप्रदाता कदाचित् तान् सम्पर्कान् दूरभाषात् बहिर्प्रेषयितुम् अनुमतिं न दद्यात्।"</string>
+<string name="composer_not_initialized">"vCard निर्माता योग्यतया न आरब्धः।"</string>
+<string name="exporting_contact_failed_title">"निर्यान्तं न शक्तम्"</string>
+<string name="exporting_contact_failed_message">"भवतः/भवत्याः सम्पर्कदत्तांशः निर्यातः नाभवत्। : \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+<string name="no_sdcard_message" product="nosdcard">"सङ्ग्रहः न प्राप्तः।"</string>
+<string name="no_sdcard_message" product="default">"SD-पत्रं न प्राप्तम्।"</string>
+<string name="confirm_export_message">"भवतः/भवत्याः सम्पर्काः निर्याताः भविष्यन्ति सञ्चिकां प्रति: <xliff:g id="vcard_filename">%s</xliff:g>।"</string>
+<string name="importing_vcard_description">"आयं करोति <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="reading_vcard_failed_title">"vCard दत्तांशं पठितुं न शक्तम्"</string>
+<string name="reading_vcard_canceled_title">"vCard दत्तांशस्य पठनं निरस्तम्"</string>
+<string name="importing_vcard_finished_title">"vCard आयतनं पूर्णम् <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">"आयतं <xliff:g id="filename" example="import.vcf">%s</xliff:g> निरस्तम्"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g>  इति स्वल्पे काले आयातं भविष्यति।"</string>
+<string name="vcard_import_will_start_message_with_default_name">"सञ्चिका स्वल्पे काले आयाता भविष्यति।"</string>
+<string name="vcard_import_request_rejected_message">"vCard आयातनिवेदनं निरस्तम्। पश्चात् पुनः प्रयततु।"</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g>  स्वल्पेकाले निर्यातं भविष्यति।"</string>
+<string name="vcard_export_request_rejected_message">"vCard निर्यातनिवेदनं निरस्तम्। पश्चात् पुनः प्रयततु।"</string>
+<string name="vcard_unknown_filename">"सम्पर्कः"</string>
+<string name="caching_vcard_message">"vCard स्थानीयसङ्ग्रहं प्रति आनयति। वास्तविकम् आयातं शीघ्रं हि आरप्स्यते।"</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"vCard आयातं कर्तुं न शक्तम्।"</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"vCard सञ्चिकाः सङ्ग्रहे न प्राप्ताः।"</string>
+<string name="import_failure_no_vcard_file" product="default">"vCard सञ्चिकाः SD सङ्ग्रहे न प्राप्ताः।"</string>
+<string name="nfc_vcard_file_name">"NFC इत्यत्र सम्पर्कः प्राप्तः"</string>
+<string name="confirm_export_title">"सम्पर्कान् निर्यापयति?"</string>
+<string name="select_vcard_title">"vCard सञ्चिकां चनोतु"</string>
+<string name="import_one_vcard_string">"vCard सञ्चिकायाः आयातं करोतु"</string>
+<string name="import_multiple_vcard_string">"एकाधिकायाः vCard सञ्चिकायाः आयातं करोतु"</string>
+<string name="import_all_vcard_string">"सर्वायाः vCard सञ्चिकायाः आयातं करोतु"</string>
+<string name="searching_vcard_message" product="nosdcard">"सङ्ग्रहे vCard दत्तांशस्य अन्वेषणं करोति..."</string>
+<string name="searching_vcard_message" product="default">"सङ्ग्रहे vCard दत्तांशस्य अन्वेषणं करोति..."</string>
+<string name="caching_vcard_title">"प्राप्नोति"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"सङ्ग्रहः पठितुं न शक्यते। (कारणम् :\"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">"SD सङ्ग्रहः पठितुं न शक्यते। (कारणम् : \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">"आयातं करोति <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="export_to_sdcard" product="default">"सङ्ग्रहात् निर्यातं करोतु"</string>
+<string name="share_visible_contacts">"दृश्यमानान् सम्पर्कान् वितरतु"</string>
+<string name="dialog_import_export">"सम्पर्कान् आयापयतु/निर्यापयतु"</string>
+<string name="dialog_import">"सम्पर्कान् आयापयतु"</string>
+<string name="share_error">"एषः सम्प्रकः वितरितुं न शक्यते।"</string>
+<string name="menu_search">"अन्विष्यताम्"</string>
+<string name="menu_contacts_filter">"प्रदर्शनाय सम्पर्काः"</string>
+<string name="activity_title_contacts_filter">"प्रदर्शनाय सम्पर्काः"</string>
+<string name="custom_list_filter">"स्वानूकूलदृश्यं निर्धारयतु"</string>
+<string name="hint_findContacts">"सम्पर्कान् अन्विषतु"</string>
+<string name="contactsFavoritesLabel">"रुचितानि"</string>
+<string name="listTotalAllContactsZero">"सम्पर्काः न सन्ति।"</string>
+<string name="listTotalAllContactsZeroCustom">"दृश्यमानाः सम्पर्काः न सन्ति।"</string>
+<string name="listTotalAllContactsZeroStarred">"रुचितानि  न सन्ति।"</string>
+<string name="listTotalAllContactsZeroGroup">"<xliff:g id="name" example="Friends">%s</xliff:g>"इत्यत्र सम्पर्काः न सन्ति "</string>
+<string name="menu_clear_frequents">"आवृत्तिः प्राञ्छताम्"</string>
+<string name="menu_accounts">"लेखाः"</string>
+<string name="menu_import_export">"आयातम्/निर्यातम्"</string>
+<string name="description_send_message">"<xliff:g id="name">%1$s</xliff:g> प्रति सन्देशं प्रेषयतु"</string>
+<string name="description_dial_phone_number">"दूरभाषाह्वाहनम् <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">"सर्वं चिनोतु"</string>
+<string name="select_card">"कृपया पत्रं चिनोतु"</string>
+<string name="choose_sim_card">"SIM-पत्रं चिनोतु"</string>
+<string name="fail_reason_empty">"सम्पर्कदत्तांशं प्रोञ्छतु"</string>
+<string name="import_from_phone">"आन्तरिकसङ्ग्रहात् निर्यातं करोतु"</string>
+<string name="label_phone">"दूरभाषः"</string>
+<string name="listTotalPhoneContactsZero">"सम्पर्काः न सन्ति"</string>
+<string name="cancel_select_all_contacts">"सर्वं निरस्यताम्"</string>
+<string name="no_match_contact">"सम्पर्कः असमानः"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 सम्पर्कः समानः"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> समानाः सम्पर्काः"</item>
+</plurals>
+<string name="copy_to">"इत्यत्र प्रतिकृतिं करोतु"</string>
+<string name="export_to_phone">"सङ्ग्रहात् आयातं करोतु"</string>
+<string name="contacts_selection_for_mms_limit">"<xliff:g id="COUNT">%d</xliff:g>"इति चितसङ्र्यानां सीमासङ्ख्या अस्ति"</string>
+<string name="contact_status_update_attribution">"द्वारा <xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> द्वारा <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">"दूरभाषक्रमाङ्कैः सह समर्पर्कः"</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">"चिनोतु"</item>
+<item quantity="other">"चितम् (<xliff:g id="COUNT">%d</xliff:g>)"</item>
+</plurals>
+<string name="select_cancle">"निरस्यताम्"</string>
+<string name="select_audio_video_call">"कृपया ध्वन्याह्वाहनम् उत दृश्याह्वाहनं चिनोतु"</string>
+<string name="contact_has_no_phonenumber">"एतस्मिन् सम्पर्के आह्वाहनाय क्रमाङ्कः एव नास्ति।"</string>
+</resources>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"टेक्सआ कपि जाबाय"</string>
+<string name="call_custom">"कल <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="call_home">"हमखौ कल खालाम"</string>
+<string name="call_mobile">"मबाइलखौ कल खालाम"</string>
+<string name="call_work">"वार्कखौ कल खालाम"</string>
+<string name="call_fax_work">"वार्क फेक्सखौ कल खालाम"</string>
+<string name="call_fax_home">"हम फेक्सखौ कल खालाम"</string>
+<string name="call_pager">"पेजारखौ कल खालाम"</string>
+<string name="call_other">"कल"</string>
+<string name="call_callback">"कलबेकखौ कल खालाम"</string>
+<string name="call_car">"कारखौ कल खालाम"</string>
+<string name="call_company_main">"गुबै कम्पानीखौ कल खालाम"</string>
+<string name="call_isdn">"ISDN खौ कल खालाम"</string>
+<string name="call_main">"गुबैखौ कल खालाम"</string>
+<string name="call_other_fax">"फेक्सखौ कल खालाम"</string>
+<string name="call_radio">"रेडिअ\'खौ कल खालाम"</string>
+<string name="call_telex">"टेलेक्सखौ कल खालाम"</string>
+<string name="call_tty_tdd">"TTY/TDD खौ कल खालाम"</string>
+<string name="call_work_mobile">"वार्क मबाइलखौ कल खालाम"</string>
+<string name="call_work_pager">"वार्क पेजारखौ कल खालाम"</string>
+<string name="call_assistant">"<xliff:g id="assistant">%s</xliff:g> खौ कल खालाम"</string>
+<string name="call_mms">"MMS खौ कल खालाम"</string>
+<string name="sms_custom">"टेक्स <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="sms_home">"टेक्स हम"</string>
+<string name="sms_mobile">"टेक्स मबाइल"</string>
+<string name="sms_work">"टेक्स वार्क"</string>
+<string name="sms_fax_work">"टेक्स वार्क फेक्स"</string>
+<string name="sms_fax_home">"टेक्स हम फेक्स"</string>
+<string name="sms_pager">"टेक्स पेजार"</string>
+<string name="sms_other">"टेक्स"</string>
+<string name="sms_callback">"टेक्स कलबेक"</string>
+<string name="sms_car">"टेक्स कार"</string>
+<string name="sms_company_main">"टेक्स कम्पानी मैन"</string>
+<string name="sms_isdn">"टेक्स ISDN"</string>
+<string name="sms_main">"टेक्स मैन"</string>
+<string name="sms_other_fax">"टेक्स फेक्स"</string>
+<string name="sms_radio">"टेक्स रेडिअ\'"</string>
+<string name="sms_telex">"टेक्स टेलेक्स"</string>
+<string name="sms_tty_tdd">"टेक्स TTY/TDD"</string>
+<string name="sms_work_mobile">"टेक्स वार्क मबाइल"</string>
+<string name="sms_work_pager">"टेक्स वार्क पेजार"</string>
+<string name="sms_assistant">"टेक्स <xliff:g id="assistant">%s</xliff:g>"</string>
+<string name="sms_mms">"टेक्स MMS"</string>
+<string name="clearFrequentsConfirmation_title">"गले-गले कनटेक्ट खालामनायखौ क्लियार खालामनो?"</string>
+<string name="clearFrequentsConfirmation">"नोंथाङा पिपोल आरो फन एप्सनिफ्राइ गले-गले कनटेक्ट खालामजानाय फारिलाइफोरखौ क्लियार खालामगोन आरो स्क्रेट्सनिफ्राइ नोंथांनि एड्रेसिं प्रिफेरेन्सफोरखौ इमेल एप्सआ मिथिनो हागोन।"</string>
+<string name="clearFrequentsProgress_title">"गले-गले कनटेक्ट खालामनायखौ क्लियार खालामगासिनो..."</string>
+<string name="status_available">"मोननो हायो"</string>
+<string name="status_away">"गोजान"</string>
+<string name="status_busy">"बिजि"</string>
+<string name="contactsList">"मुं बिलायफोर"</string>
+<string name="local_invisible_directory">"गुबुन गुबुन"</string>
+<string name="directory_search_label">"डाइरेक्ट\'री"</string>
+<string name="local_search_label">"गासैबो मुं बिलायफोर"</string>
+<string name="user_profile_contacts_list_header">"आं"</string>
+<string name="search_results_searching">"नागिरगासिनो..."</string>
+<string name="foundTooManyContacts">"<xliff:g id="count">%d</xliff:g> निफ्राइ बारा मोनदों।"</string>
+<string name="listFoundAllContactsZero">"मुं बोलायफोर गैया"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 मोनबाय"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> खौ मोनबाय"</item>
+</plurals>
+<string name="description_quick_contact_for">"<xliff:g id="name">%1$s</xliff:g> नि थाखाय गोख्रै कनटेक्ट खालाम"</string>
+<string name="missing_name">"(मुं गैया)"</string>
+<string name="favoritesFrequentCalled">"गले-गले कल खालामजानाय"</string>
+<string name="favoritesFrequentContacted">"गले-गले कनटेक्ट खालामजानाय"</string>
+<string name="description_view_contact_detail">"मुं बिलायखौ नाय"</string>
+<string name="list_filter_phones">"फन मान्बार थानाय गासैबो कनटेक्टफोर"</string>
+<string name="view_updates_from_group">"आपडेटफोरखौ नाय"</string>
+<string name="account_phone" product="tablet">"टेब्लेटल\', सिंक जायै"</string>
+<string name="account_phone" product="default">"फनल\', सिंक जायै"</string>
+<string name="nameLabelsGroup">"मुं"</string>
+<string name="nicknameLabelsGroup">"निकनेम"</string>
+<string name="full_name">"मुं"</string>
+<string name="name_given">"गिबि मुं"</string>
+<string name="name_family">"जोबथा मुं"</string>
+<string name="name_prefix">"मुंनि सिगां दाजाबदा"</string>
+<string name="name_middle">"गेजेर मुं"</string>
+<string name="name_suffix">"मुंनि उन दाजाबदा"</string>
+<string name="name_phonetic">"रिंसारखान्थियारि मुं"</string>
+<string name="name_phonetic_given">"रिंसारखान्थियारि गिबि मुं"</string>
+<string name="name_phonetic_middle">"रिंसारखान्थियारि गेजेर मुं"</string>
+<string name="name_phonetic_family">"रिंसारखान्थियारि जोबथा मुं"</string>
+<string name="phoneLabelsGroup">"फन"</string>
+<string name="emailLabelsGroup">"इमेल"</string>
+<string name="postalLabelsGroup">"थं"</string>
+<string name="imLabelsGroup">"IM"</string>
+<string name="organizationLabelsGroup">"आफाद"</string>
+<string name="relationLabelsGroup">"सोमोन्दो गोनां"</string>
+<string name="eventLabelsGroup">"जर\'खा अक्ट\'फोर"</string>
+<string name="sms">"लिरनाय खौरां"</string>
+<string name="postal_address">"थं"</string>
+<string name="ghostData_company">"कम्पानी"</string>
+<string name="ghostData_title">"बिमुं"</string>
+<string name="label_notes">"न\'टफोर"</string>
+<string name="label_sip_address">"इन्टारनेट कल"</string>
+<string name="websiteLabelsGroup">"वेबसाइट"</string>
+<string name="groupsLabel">"हानजाफोर"</string>
+<string name="email_home">"इमेल हम"</string>
+<string name="email_mobile">"इमेल मबाइल"</string>
+<string name="email_work">"इमेल वार्क"</string>
+<string name="email_other">"इमेल"</string>
+<string name="email_custom">"इमेल <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="email">"इमेल"</string>
+<string name="postal_street">"स्ट्रिट"</string>
+<string name="postal_pobox">"ला. सो. बक्स"</string>
+<string name="postal_neighborhood">"खाथिनि"</string>
+<string name="postal_city">"नोगोर"</string>
+<string name="postal_region">"हादरसा"</string>
+<string name="postal_postcode">"पस्टेल कड"</string>
+<string name="postal_country">"हादर"</string>
+<string name="map_home">"हम एड्रेसखौ नाय"</string>
+<string name="map_work">"वार्क एड्रेसखौ नाय"</string>
+<string name="map_other">"एड्रेसखौ नाय"</string>
+<string name="map_custom">"<xliff:g id="custom">%s</xliff:g> थंखौ नाय"</string>
+<string name="chat_aim">"AIM बाहायनानै चेट खालाम"</string>
+<string name="chat_msn">"Windows Live बाहायनानै चेट खालाम"</string>
+<string name="chat_yahoo">"Yahoo बाहायनानै चेट खालाम"</string>
+<string name="chat_skype">"Skype बाहायनानै चेट खालाम"</string>
+<string name="chat_qq">"QQ बाहायनानै चेट खालाम"</string>
+<string name="chat_gtalk">"Google Talk बाहायनानै चेट खालाम"</string>
+<string name="chat_icq">"ICQ बाहायनानै चेट खालाम"</string>
+<string name="chat_jabber">"Jabber बाहायनानै चेट खालाम"</string>
+<string name="chat">"चेट"</string>
+<string name="description_minus_button">"डिलेट"</string>
+<string name="expand_collapse_name_fields_description">"मुंनि जायगाखौ फेदेर एबा फेसेब"</string>
+<string name="list_filter_all_accounts">"गासैबो मुं बिलायफोर"</string>
+<string name="list_filter_all_starred">"नायखांजानाय"</string>
+<string name="list_filter_customize">"सोलायनाय"</string>
+<string name="list_filter_single">"मुं बिलाय"</string>
+<string name="display_ungrouped">"गुबुन गासैबो कनटेक्टफोर"</string>
+<string name="display_all_contacts">"गासैबो मुं बिलायफोर"</string>
+<string name="menu_sync_remove">"सिंक जानाय हानजाखौ डिलिट खालाम"</string>
+<string name="dialog_sync_add">"सिंक जानाय हानजा दाजाब"</string>
+<string name="display_more_groups">"गोबांसिन हानजाफोर..."</string>
+<string name="display_warn_remove_ungrouped">"सिंकनिफ्राइ \"<xliff:g id="group" example="Starred">%s</xliff:g>\" खौ डिलिट खालामोब्ला बेयो सिंकआव थानाय जायखिजाया हानजा नङै कनटेक्टफोरखौबो डिलिट खालामफागोन।"</string>
+<string name="savingDisplayGroups">"डिसप्ले सोलायमिनफोरखौ सेभ खालामगासिनो..."</string>
+<string name="menu_done">"डान"</string>
+<string name="menu_doNotSave">"केन्चेल"</string>
+<string name="listAllContactsInAccount">"<xliff:g id="name" example="abc@gmail.com">%s</xliff:g> नि कनटेक्टफोर"</string>
+<string name="listCustomView">"कास्टम भिउनि कनटेक्टफोर"</string>
+<string name="listSingleContact">"मोनसे कनटेक्ट"</string>
+<string name="dialog_new_contact_account">"एकाउन्टआव कनटेक्ट सेभ खालाम"</string>
+<string name="import_from_sim">"SIM कार्डनिफ्राइ ला"</string>
+<string name="import_from_sdcard" product="default">"लागायनाय स्टरेजनिफ्राइ ला"</string>
+<string name="cancel_import_confirmation_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> लानायखौ दाननो ना?"</string>
+<string name="cancel_export_confirmation_message">"<xliff:g id="filename" example="export.vcf">%s</xliff:g> हरनायखौ दाननो ना?"</string>
+<string name="cancel_vcard_import_or_export_failed">"vCard इम्पर्ट/एक्सपार्टखौ दाननो हायाखै"</string>
+<string name="fail_reason_unknown">"मिथि हायै गोरोन्थि।"</string>
+<string name="fail_reason_could_not_open_file">"\"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g> खौ खुलिनो हायाखै।"</string>
+<string name="fail_reason_could_not_initialize_exporter">"एक्सपर्टारखौ जागायनो हायाखै: \"<xliff:g id="exact_reason">%s</xliff:g>\"।"</string>
+<string name="fail_reason_no_exportable_contact">"एक्सपर्ट खालसामनो हानाय बेयाव कनटेक्ट गैया"</string>
+<string name="fail_reason_error_occurred_during_export">"एक्सपर्ट खालामनाय समाव हेंथा जादों: \"<xliff:g id="exact_reason">%s</xliff:g>\"।"</string>
+<string name="fail_reason_too_long_filename">"नांगौ फाइलनि मुङा गोलावद्राय (\"<xliff:g id="filename">%s</xliff:g>\")।"</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"स्टरेजआव बांद्राय vCard फाइलफोर दं।"</string>
+<string name="fail_reason_too_many_vcard" product="default">"SD कार्डआव बांद्राय vCard फाइलफोर दं।"</string>
+<string name="fail_reason_io_error">"I/O आं हेंथा"</string>
+<string name="fail_reason_low_memory_during_import">"थोजासे मेम\'रि गैया। फाइलआ गेदेद्राय जानो हागौ।"</string>
+<string name="fail_reason_vcard_parse_error">"मिथिस्लाबै जाहोननि थाखाय vCard आ थाङाखै।"</string>
+<string name="fail_reason_not_supported">"फर्मेटआ गोरोबा।"</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">"बेयाव थानाय vCard फाइलनि खौरांफोरखौ दिहुननो हायाखै।"</string>
+<string name="fail_reason_failed_to_read_files">"मोनसे एबा बेनि बारा फाइलखौ लानो हाया (%s)।"</string>
+<string name="exporting_vcard_finished_title">"<xliff:g id="filename" example="export.vcf">%s</xliff:g> खौ हरनाया जोबबाय।"</string>
+<string name="exporting_vcard_canceled_title">"<xliff:g id="filename" example="export.vcf">%s</xliff:g> खौ हरनाया दानजाबाय।"</string>
+<string name="exporting_contact_list_title">"कनटेक्ट डेटाखौ हरगासिनो"</string>
+<string name="exporting_contact_list_message">"नोंथांनि कनटेक्ट डेटाखौ <xliff:g id="file_name">%s</xliff:g> आव हरगासिनो दं।"</string>
+<string name="composer_failed_to_get_database_infomation">"डेटाबेजनि खौरांखौ मोनाखै"</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"बेयाव मोनसेबो हरजाथाव कनटेक्टफोर गैया। नोंथांनि टेब्लेटआव जुदि कनटेक्टफोर दं , अब्ला खायसे डेटा प्रभाइडारफोरा कनटेक्टफोरखौ टेब्लेटनिफ्राइ एक्सपर्ट खालामनो हायै खालामो।"</string>
+<string name="composer_has_no_exportable_contact" product="default">"बेयाव मोनसेबो हरजाथाव कनटेक्टफोर गैया। नोंथांनि फनआव जुदि कनटेक्टफोर दं , अब्ला खायसे डेटा प्रभाइडारफोरा कनटेक्टफोरखौ फननिफ्राइ एक्सपर्ट खालामनो हायै खालामो।"</string>
+<string name="composer_not_initialized">"vCard कम्प\'जारा थि रोखोमै जागायाखै।"</string>
+<string name="exporting_contact_failed_title">"हरनो हायाखै"</string>
+<string name="exporting_contact_failed_message">"कनटेक्ट डेटाफोरखौ हरनो हायाखै। \n जाहोन: \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+<string name="no_sdcard_message" product="nosdcard">"स्टरेज मोनाखै"</string>
+<string name="no_sdcard_message" product="default">"SD कार्ड मोनाखै"</string>
+<string name="confirm_export_message">"नोंथांनि कनटेक्ट फारिलाइफोरखौ <xliff:g id="vcard_filename">%s</xliff:g> फाइलाव हरनाय जागोन।"</string>
+<string name="importing_vcard_description">"<xliff:g id="name" example="Joe Due">%s</xliff:g> खौ लागासिनो दं"</string>
+<string name="reading_vcard_failed_title">"vCard डेटाखौ खुलिनो हायाखै"</string>
+<string name="reading_vcard_canceled_title">"vCard डेटाखौ खुलिनाया दानजाबाय"</string>
+<string name="importing_vcard_finished_title">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> vCard खौ लानाया जोबबाय"</string>
+<string name="importing_vcard_canceled_title">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> खौ लानाया दानजाबाय"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> खौ थाबैनो लानाय जागोन।"</string>
+<string name="vcard_import_will_start_message_with_default_name">"फाइलखौ थाबैनो लानाय जागोन।"</string>
+<string name="vcard_import_request_rejected_message">"vCard खौ लानो रिखुयेस्ट खालामनाया दानजादों। उनाव नाजाफिन।"</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> खौ थाबैनो हरनाय जागोन।"</string>
+<string name="vcard_export_request_rejected_message">"vCard खौ हरनो रिखुयेस्ट खालामनाया दानजादों। उनाव नाजाफिन।"</string>
+<string name="vcard_unknown_filename">"मुं बिलाय"</string>
+<string name="caching_vcard_message">"vCard(s) आ लकेल टेम्प\'रेरी स्टरेजआव केचिं जागासिनो दं। थारैनो लानाया थाबैनो जागायगोन।"</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"vCard खौ लानो लानो हायाखै।"</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"स्टरेजआव vCard फाइल मोनाखै।"</string>
+<string name="import_failure_no_vcard_file" product="default">"SD कार्डआव vCard फाइल मोनाखै।"</string>
+<string name="nfc_vcard_file_name">"कनटेक्टआ NFC जों फैदों"</string>
+<string name="confirm_export_title">"कनटेक्टफोरखौ हरनो?"</string>
+<string name="select_vcard_title">"vCard फाइलखौ सायख\'"</string>
+<string name="import_one_vcard_string">"मोनसे vCard फाइल ला"</string>
+<string name="import_multiple_vcard_string">"मोनसेनि बारा vCard  फाइल ला"</string>
+<string name="import_all_vcard_string">"गासैबो vCard फाइलफोरखौ ला"</string>
+<string name="searching_vcard_message" product="nosdcard">"स्टरेजआव vCard डेटाखौ नागिरगासिनो..."</string>
+<string name="searching_vcard_message" product="default">"स्टरेजआव vCard डेटाखौ नागिरगासिनो..."</string>
+<string name="caching_vcard_title">"केचिं"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"स्टरेजखौ स्केन खालामनो हायाखै। जाहोन: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">"SD कार्डखौ स्केन खालामनो हायाखै। जाहोन: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">"<xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g> खौ लागासिनो"</string>
+<string name="export_to_sdcard" product="default">"लागायनाय स्टरेजआव सो"</string>
+<string name="share_visible_contacts">"थानाय कनटेक्टफोरखौ शेयार खालाम"</string>
+<string name="dialog_import_export">"इम्पर्ट/एक्सपर्ट कनटेक्ट्स"</string>
+<string name="dialog_import">"कनटेक्टफोरखौ लाबो"</string>
+<string name="share_error">"बे कनटेक्टखौ शेयार खालामनो हाया।"</string>
+<string name="menu_search">"चार्स"</string>
+<string name="menu_contacts_filter">"दिन्थिनो हानाय कनटेक्टफोर"</string>
+<string name="activity_title_contacts_filter">"दिन्थिनो हानाय कनटेक्टफोर"</string>
+<string name="custom_list_filter">"कास्टम भिउखौ थि खालाम"</string>
+<string name="hint_findContacts">"कनटेक्टफोरखौ नागिर"</string>
+<string name="contactsFavoritesLabel">"फेबारेत्स"</string>
+<string name="listTotalAllContactsZero">"मुं बिलाय गैया।"</string>
+<string name="listTotalAllContactsZeroCustom">"मोननो हाथाव कनटेक्टफोर गैया।"</string>
+<string name="listTotalAllContactsZeroStarred">"फेभ\'राइट गैया।"</string>
+<string name="listTotalAllContactsZeroGroup">"<xliff:g id="name" example="Friends">%s</xliff:g> आव कनटेक्टफोर गैया"</string>
+<string name="menu_clear_frequents">"गले-गले खालामजानाय कनटेक्टफोरखौ क्लियार खालाम"</string>
+<string name="menu_accounts">"एकाउनफोर"</string>
+<string name="menu_import_export">"इम्पर्ट/एक्सपर्ट"</string>
+<string name="description_send_message">"<xliff:g id="name">%1$s</xliff:g> आव मेसेजखौ दैथाय"</string>
+<string name="description_dial_phone_number">"<xliff:g id="name">%1$s</xliff:g> फनखौ डाइल खालाम"</string>
+<string name="select_all_contacts">"गासैखौबो सेलेग खालाम"</string>
+<string name="select_card">"अननानै कार्डखौ सेलेक खालाम"</string>
+<string name="choose_sim_card">"SIM कार्डखौ सायख\'"</string>
+<string name="fail_reason_empty">"कनटेक्ट डेटाया लांदां"</string>
+<string name="import_from_phone">"थाखानाय स्टरेजनिफ्राइ ला"</string>
+<string name="label_phone">"फन"</string>
+<string name="listTotalPhoneContactsZero">"मुं बोलायफोर गैया"</string>
+<string name="cancel_select_all_contacts">"गासैखौबो दान"</string>
+<string name="no_match_contact">"मोनसेबो कनटेक्ट गोरोबाखै"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"मोन 1 कनटेक्ट गोरोबदों"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> कनटेक्टआ गोरोबदों"</item>
+</plurals>
+<string name="copy_to">"आव कपि खालाम"</string>
+<string name="export_to_phone">"थाखानाय स्टरेजआव सो"</string>
+<string name="contacts_selection_for_mms_limit">"सेलेक खालामजानाय खमसिन अनजिमाया जाबाय <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="contact_status_update_attribution">"<xliff:g id="source" example="Google Talk">%1$s</xliff:g> नि गेजेरजों"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="source" example="Google Talk">%2$s</xliff:g> नि गेजेरजों <xliff:g id="date" example="3 hours ago">%1$s</xliff:g>"</string>
+<string name="list_contact_phone">"फन नाम्बार थानाय कनटेक्ट"</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">"सायख"</item>
+<item quantity="other">"(<xliff:g id="COUNT">%d</xliff:g>) सेलेक जानाय"</item>
+</plurals>
+<string name="select_cancle">"केन्चेल"</string>
+<string name="select_audio_video_call">"अननानै अडिअ\' कल एबा भिडिअ\' कलखौ सायख\'"</string>
+<string name="contact_has_no_phonenumber">"बे कन्टेक्टहा कल खालामनो थाखाय जेबो फन नामबार गैया।"</string>
+</resources>

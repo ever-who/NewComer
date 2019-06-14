@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"টেকস্ট কোপি তৌরে"</string>
+<string name="call_custom">"কোল <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="call_home">"হোম কোল তৌ"</string>
+<string name="call_mobile">"মোবাইল কোল তৌ"</string>
+<string name="call_work">"থবক শুফমদা কোল তৌ"</string>
+<string name="call_fax_work">"থবক শুফম ফেক্স কোল তৌ"</string>
+<string name="call_fax_home">"হোম ফেক্স কোল তৌ"</string>
+<string name="call_pager">"পেজর কোল তৌ"</string>
+<string name="call_other">"কোল তৌ"</string>
+<string name="call_callback">"কোল হল্লক্নবা কোল তৌ"</string>
+<string name="call_car">"কার কোল তৌ"</string>
+<string name="call_company_main">"কম্পনি মেন কোল তৌ"</string>
+<string name="call_isdn">"ISDN কোল তৌ"</string>
+<string name="call_main">"মেন কোল তৌ"</string>
+<string name="call_other_fax">"ফেক্স কোল তৌ"</string>
+<string name="call_radio">"রিদিও কোল তৌ"</string>
+<string name="call_telex">"টেলেক্স কোল তৌ"</string>
+<string name="call_tty_tdd">"TTY/TDD কোল তৌ"</string>
+<string name="call_work_mobile">"থবক শুফম মোবাইল কোল তৌ"</string>
+<string name="call_work_pager">"থবক শুফম পেজর কোল তৌ"</string>
+<string name="call_assistant">"কোল <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="call_mms">"MMS কোল তৌ"</string>
+<string name="sms_custom">"টেকস্ট <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="sms_home">"হোম টেকস্ট তৌ"</string>
+<string name="sms_mobile">"মোবাইল টেকস্ট তৌ"</string>
+<string name="sms_work">"থবক শুফম টেকস্ট তৌ"</string>
+<string name="sms_fax_work">"থবক শুফম ফেক্স টেকস্ট তৌ"</string>
+<string name="sms_fax_home">"হোম ফেক্স টেকস্ট তৌ"</string>
+<string name="sms_pager">"পেজর টেকস্ট তৌ"</string>
+<string name="sms_other">"টেকস্ট তৌ"</string>
+<string name="sms_callback">"ফোন হল্লকউ টেকস্ট তৌ"</string>
+<string name="sms_car">"কার টেকস্ট তৌ"</string>
+<string name="sms_company_main">"কম্পনি টেকস্ট তৌ"</string>
+<string name="sms_isdn">"টেকস্ট তৌ ISDN"</string>
+<string name="sms_main">"টেকস্ট তৌ মেন"</string>
+<string name="sms_other_fax">"টেকস্ট তৌ ফেক্স"</string>
+<string name="sms_radio">"টেকস্ট তৌ রেদিও"</string>
+<string name="sms_telex">"টেকস্ট তৌ টেলেক্স"</string>
+<string name="sms_tty_tdd">"টেকস্ট তৌ TTY/TDD"</string>
+<string name="sms_work_mobile">"টেকস্ট তৌ থবক শুফম মোবাইল"</string>
+<string name="sms_work_pager">"টেকস্ট তৌ থবক শুফম পেজর"</string>
+<string name="sms_assistant">"টেকস্ট <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="sms_mms">"টেকস্ট তৌ MMS"</string>
+<string name="clearFrequentsConfirmation_title">"তোয়না কন্টেক্ট তৌখিবা ক্লিয়র তৌগদ্রা?"</string>
+<string name="clearFrequentsConfirmation">"পীপল অমসুং ফোন এপশীংদা য়াওবা তোয়না কন্টেক্ট তৌবা লিস্ট অদু নহাক্না ক্লিয়র তৌগনি, অমসুং ইমেল এপশীংবু নহাক্কি এদ্রেশশীং হেন্না পাম্বশীং নমদুনা অহৌবদগী তমহল্লি. "</string>
+<string name="clearFrequentsProgress_title">"তোয়না কন্টেক্ট তৌবশীং ক্লিয়র তৌরি..."</string>
+<string name="status_available">"ফংই"</string>
+<string name="status_away">"চত্থোকখিবা"</string>
+<string name="status_busy">"থবক চিল্লি"</string>
+<string name="contactsList">"কন্টেক্তশীং"</string>
+<string name="local_invisible_directory">"অতোপ্পা"</string>
+<string name="directory_search_label">"দাইরেক্তরি"</string>
+<string name="local_search_label">"কন্টেক্টশীং লোইনমক"</string>
+<string name="user_profile_contacts_list_header">"ঐহাক"</string>
+<string name="search_results_searching">"থিরি..."</string>
+<string name="foundTooManyContacts">"অদুদগী হেনবা <xliff:g id="count">%d</xliff:g> ফংলে."</string>
+<string name="listFoundAllContactsZero">"কন্টেক্টশীং লৈতে"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 ফংলে"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ফংই"</item>
+</plurals>
+<string name="description_quick_contact_for">"অথুবা কন্টেক্ট গী <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="missing_name">"(মমিং নত্তে)"</string>
+<string name="favoritesFrequentCalled">"তোয়না কৌবা"</string>
+<string name="favoritesFrequentContacted">"তোয়না কন্টেক্ট তৌবা"</string>
+<string name="description_view_contact_detail">"কন্টেক্ট য়েংঙু"</string>
+<string name="list_filter_phones">"কন্টেক্টশীং লোইনমক ফোন নম্বরশীংগা লোয়ননা"</string>
+<string name="view_updates_from_group">"অপদেতশীং য়েংঙু"</string>
+<string name="account_phone" product="tablet">"টেব্লেত-খক্তং, সিঙ্ক তৌদবা"</string>
+<string name="account_phone" product="default">"ফোন-খক্তং, সিঙ্ক তৌদবা"</string>
+<string name="nameLabelsGroup">"মমিং"</string>
+<string name="nicknameLabelsGroup">"মিংগৌ"</string>
+<string name="full_name">"মমিং"</string>
+<string name="name_given">"অহানবা মমিং"</string>
+<string name="name_family">"অরোইবা মমিং"</string>
+<string name="name_prefix">"মমিং মমাংদা হাপ্পা"</string>
+<string name="name_middle">"ময়ায়থংবা মমিং"</string>
+<string name="name_suffix">"মমিং মনিংদা হাপ্পা"</string>
+<string name="name_phonetic">"ফোনেটিক মমিং"</string>
+<string name="name_phonetic_given">"ফোনেটিক অহানবা মমিং"</string>
+<string name="name_phonetic_middle">"ফোনেটিক ময়ায়থংবা মমিং"</string>
+<string name="name_phonetic_family">"ফোনেটিক অরোইবা মমিং"</string>
+<string name="phoneLabelsGroup">"ফোন"</string>
+<string name="emailLabelsGroup">"ইমেল"</string>
+<string name="postalLabelsGroup">"এদ্রেশ"</string>
+<string name="imLabelsGroup">"IM"</string>
+<string name="organizationLabelsGroup">"সংস্থান"</string>
+<string name="relationLabelsGroup">"লৈনবা মরি"</string>
+<string name="eventLabelsGroup">"থোইদেক হেন্দোকপা তারিখশীং"</string>
+<string name="sms">"টেকস্ট তৌ মেসেজ"</string>
+<string name="postal_address">"এদ্রেশ"</string>
+<string name="ghostData_company">"কম্পনি"</string>
+<string name="ghostData_title">"টাইটল"</string>
+<string name="label_notes">"খঙজিনগদবশীং"</string>
+<string name="label_sip_address">"ইন্টরনেত কোল"</string>
+<string name="websiteLabelsGroup">"ৱেবসাইট"</string>
+<string name="groupsLabel">"গ্রুপশীং"</string>
+<string name="email_home">"ইমেল হোম"</string>
+<string name="email_mobile">"ইমেল মোবাইল"</string>
+<string name="email_work">"ইমেল থবক শুফম"</string>
+<string name="email_other">"ইমেল"</string>
+<string name="email_custom">"ইমেল <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="email">"ইমেল"</string>
+<string name="postal_street">"সহরগী সরক লমজাও"</string>
+<string name="postal_pobox">"PO বোক্স"</string>
+<string name="postal_neighborhood">"থংনবা নক্নবা লৈবা"</string>
+<string name="postal_city">"সহর"</string>
+<string name="postal_region">"রাজ্য"</string>
+<string name="postal_postcode">"পোস্টেল কোদ"</string>
+<string name="postal_country">"লৈবাক"</string>
+<string name="map_home">"হোম এদ্রেশ য়েংঙু"</string>
+<string name="map_work">"থবক শুফম এদ্রেশ য়েংঙু"</string>
+<string name="map_other">"এদ্রেশ য়েংঙু"</string>
+<string name="map_custom">"য়েংঙু <xliff:g id="custom">%s</xliff:g> এদ্রেশ"</string>
+<string name="chat_aim">"AIM শীজিন্নদুনা চাট তৌ"</string>
+<string name="chat_msn">"Windows Live শীজিন্নদুনা চাট তৌ"</string>
+<string name="chat_yahoo">"য়াহু শীজিন্নদুনা চাট তৌ"</string>
+<string name="chat_skype">"Skype শীজিন্নদুনা চাট তৌ"</string>
+<string name="chat_qq">"QQ শীজিন্নদুনা চাট তৌ"</string>
+<string name="chat_gtalk">"Google Talk শীজিন্নদুনা চাট তৌ"</string>
+<string name="chat_icq">"ICQ শীজিন্নদুনা চাট তৌ"</string>
+<string name="chat_jabber">"Jabber শীজিন্নদুনা চাট তৌ"</string>
+<string name="chat">"চাট তৌ"</string>
+<string name="description_minus_button">"মুথৎলু"</string>
+<string name="expand_collapse_name_fields_description">"মমিং পনবা ফিল্দশীংবু চাওথোকহল্লু নত্ত্রগা কিন্থহল্লু"</string>
+<string name="list_filter_all_accounts">"কন্টেক্টশীং লোইনমক"</string>
+<string name="list_filter_all_starred">"স্টার ওইরে"</string>
+<string name="list_filter_customize">"কস্টমাইজ"</string>
+<string name="list_filter_single">"কন্টেক্ত"</string>
+<string name="display_ungrouped">"অতোপ্পা কন্টেক্টশীং লোইনমক"</string>
+<string name="display_all_contacts">"কন্টেক্টশীং লোইনমক"</string>
+<string name="menu_sync_remove">"সিঙ্ক গ্রুপ লৌথোকউ"</string>
+<string name="dialog_sync_add">"সিঙ্ক গ্রুপ হাপচিল্লু"</string>
+<string name="display_more_groups">"গ্রুপশীং অহেনবা..."</string>
+<string name="display_warn_remove_ungrouped">"লৌথোক্লি \"<xliff:g id="group" example="Starred">%s</xliff:g>\" সিঙ্কতগী গ্রুপ তৌদবা কন্টেক্টশীং সিঙ্কতগীসু লৌথোক্কনি."</string>
+<string name="savingDisplayGroups">"উৎনবা ওপসনশীং সেব তৌরি..."</string>
+<string name="menu_done">"তৌখ্রে"</string>
+<string name="menu_doNotSave">"ককথৎলু"</string>
+<string name="listAllContactsInAccount">"কন্টেক্টশীং দা <xliff:g id="name" example="abc@gmail.com">%s</xliff:g>"</string>
+<string name="listCustomView">"কস্টম ভ্যুদা কন্টেক্টশীং"</string>
+<string name="listSingleContact">"কন্টেক্ট অমখক্তং"</string>
+<string name="dialog_new_contact_account">"একাওন্টকি মখাদা কন্টেক্ট শেম্মু"</string>
+<string name="import_from_sim">"SIM কার্দতগী পুশিল্লকউ"</string>
+<string name="import_from_sdcard" product="default">"মপানগী স্টোরেজদগী পুশিল্লকউ"</string>
+<string name="cancel_import_confirmation_message">"পুশিল্লকপা ককথৎলু গী <xliff:g id="filename" example="import.vcf">%s</xliff:g>?"</string>
+<string name="cancel_export_confirmation_message">"থাদোকখিবা ককথৎলু গী <xliff:g id="filename" example="export.vcf">%s</xliff:g>?"</string>
+<string name="cancel_vcard_import_or_export_failed">"ভিকার্দ পুশিল্লকপা/থাদোকখিবা ককথৎপা ঙমদে"</string>
+<string name="fail_reason_unknown">"খঙদবা অশোয়বা."</string>
+<string name="fail_reason_could_not_open_file">"হাংদোকপা ঙমদে \"<xliff:g id="filename">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>."</string>
+<string name="fail_reason_could_not_initialize_exporter">"থাদোকখিনবদু হৌবা ঙমদে: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_no_exportable_contact">"থাদোকখিবা য়াবা কন্টেক্ট লৈতে."</string>
+<string name="fail_reason_error_occurred_during_export">"থাদোকখিবা মতমদা অশোয়বা অমা থোক্লে: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_too_long_filename">"দরকার ওইবা ফাইলমমিং কা হেন্না শাংমনখ্রে (\"<xliff:g id="filename">%s</xliff:g>\")."</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"কা হেন্না য়াম্না vCard ফাইলশীং স্টোরেজদা লৈ."</string>
+<string name="fail_reason_too_many_vcard" product="default">"কা হেন্না য়াম্না vCard ফাইলশীং SD কার্দতা লৈ."</string>
+<string name="fail_reason_io_error">"I/O অশোয়বা"</string>
+<string name="fail_reason_low_memory_during_import">"মেমোরি মতিক চানা লৈতে. ফাইল অদু কা হেন্না চাওমনবা য়াই."</string>
+<string name="fail_reason_vcard_parse_error">"থাজরুদনা ওইরকপা মরম অমদগী vCard মরি তাকপা ঙমদে."</string>
+<string name="fail_reason_not_supported">"ফোরমেত অদু সপোর্ট তৌদে."</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">"অপিবা vCard ফাইল (শীং) অদুগী মেটা পাও খোমজিনবা ঙমদে."</string>
+<string name="fail_reason_failed_to_read_files">"অমা নত্ত্রগা মদুদগী হেনবা ফাইলশীং পুশিল্লকপা ঙমদে (%s)."</string>
+<string name="exporting_vcard_finished_title">"থাদোকখিবা লোইরে <xliff:g id="filename" example="export.vcf">%s</xliff:g>."</string>
+<string name="exporting_vcard_canceled_title">"থাদোক্লি <xliff:g id="filename" example="export.vcf">%s</xliff:g> ককথৎলে."</string>
+<string name="exporting_contact_list_title">"থাদোক্লিবগী কন্টেক্ট দাতা"</string>
+<string name="exporting_contact_list_message">"নহাক্কি কন্টক্ট দাতা থাদোক্লি দা: <xliff:g id="filename">%s</xliff:g>."</string>
+<string name="composer_failed_to_get_database_infomation">"দাতাবেজ পাও ফংবা ঙমদে."</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"থাদোকপা য়াবা কন্টেক্টশীং লৈতে. নহাক নহাক্কি টেব্লেত্তা কন্টেক্টশীং লৈরবা, দাতা পীবা খরনা কন্টেক্টশীং অদু টেব্লেত অদুদগী থাদোকহনখিবা য়াদবা য়াই."</string>
+<string name="composer_has_no_exportable_contact" product="default">"থাদোকপা য়াবা কন্টেক্টশীং লৈতে. নহাক নহাক্কি ফোন্দা কন্টেক্টশীং লৈরবা, দাতা পীবা খরনা কন্টেক্টশীং অদু ফোন অদুদগী থাদোকহনখিবা য়াদবা য়াই."</string>
+<string name="composer_not_initialized">"ভিকার্দ কম্পোজর অদুনা ফজনা হৌরক্তে."</string>
+<string name="exporting_contact_failed_title">"থাদোকপা ঙমদ্রে"</string>
+<string name="exporting_contact_failed_message">"কন্টেক্ট দাতা অদু থাদোক্তে.\nমরম: \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+<string name="no_sdcard_message" product="nosdcard">"স্টোরেজ ফংদে."</string>
+<string name="no_sdcard_message" product="default">"SD কার্দ ফংদে."</string>
+<string name="confirm_export_message">"নহাক্কি কন্টেক্ট লিস্ট ফাইলদা থাদোকখিগনি: <xliff:g id="vcard_filename">%s</xliff:g>."</string>
+<string name="importing_vcard_description">"পুশিল্লক্লি <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="reading_vcard_failed_title">"vCard দাতা পাবা ঙমদে"</string>
+<string name="reading_vcard_canceled_title">"vCard দাতা পাবা ককথৎলে"</string>
+<string name="importing_vcard_finished_title">"vCard পুশিল্লকপা লোইরে <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">"পুশিল্লক্লি <xliff:g id="filename" example="import.vcf">%s</xliff:g> ককথৎলে"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ইকুই কুইদনা পুশিল্লক্লগনি."</string>
+<string name="vcard_import_will_start_message_with_default_name">"ফাইল অদু ইকুই কুইদনা পুশিল্লক্লগনি."</string>
+<string name="vcard_import_request_rejected_message">"vCard পুশিল্লক্নবগী হায়জবা লৌ য়াদ্রে. কোন্না হন্না হোৎনবিয়ু."</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ইকুই কুইদনা থাদোক্লগনি."</string>
+<string name="vcard_export_request_rejected_message">"vCard থাদোকখিবগী হায়জবা লৌ য়াদ্রে. কোন্না হন্না হোৎনবিয়ু."</string>
+<string name="vcard_unknown_filename">"কন্টেক্ত"</string>
+<string name="caching_vcard_message">"vCard (শীং) লোকেল মতম খরগী ওইবা স্টোরেজদা কাশ তৌরি. থাঙ্গৈশেংবা পুশিল্লকপা থুনা হৌরগনি."</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"vCard পুশিল্লকপা ঙমদ্রে."</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"স্টোরেজদা vCard ফাইল ফংদে."</string>
+<string name="import_failure_no_vcard_file" product="default">"SD কার্দতা vCard ফাইল ফংদে."</string>
+<string name="nfc_vcard_file_name">"NFC গী মথক্তা কন্টেক্ট ফংলে"</string>
+<string name="confirm_export_title">"থাদোকখিবগী কন্টেক্টশীং?"</string>
+<string name="select_vcard_title">"vCard ফাইল খল্লু"</string>
+<string name="import_one_vcard_string">"vCard ফাইল অমা পুশিল্লকউ"</string>
+<string name="import_multiple_vcard_string">"vCard ফাইল ময়াম পুশিল্লকউ"</string>
+<string name="import_all_vcard_string">"vCard ফাইলশীং লোইনমক পুশিল্লকউ"</string>
+<string name="searching_vcard_message" product="nosdcard">"স্টোরেজদা vCard দাতা থিরি..."</string>
+<string name="searching_vcard_message" product="default">"স্টোরেজদা vCard দাতা থিরি..."</string>
+<string name="caching_vcard_title">"কাশ তৌরি"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"স্টোরেজ অদু স্কেন তৌবা ঙমদে. (মরম: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">"SD কার্দ অদু স্কেন তৌবা ঙমদে. (মরম: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">"পুশিল্লক্লি <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="export_to_sdcard" product="default">"মপানগী স্টোরেজদা পুথোকউ"</string>
+<string name="share_visible_contacts">"উবা ঙম্বা কন্টেক্টশীং শরুক য়ামিন্নৌ"</string>
+<string name="dialog_import_export">"কন্টেক্টশীং পুশিল্লকপা/পুথোকপা"</string>
+<string name="dialog_import">"কন্টেক্টশীং পুশিল্লকউ"</string>
+<string name="share_error">"কন্টেক্ট অসি শরুক য়ামিন্নবা ঙমদে."</string>
+<string name="menu_search">"থিবা"</string>
+<string name="menu_contacts_filter">"উৎনবা কন্টেক্টশীং"</string>
+<string name="activity_title_contacts_filter">"উৎনবা কন্টেক্টশীং"</string>
+<string name="custom_list_filter">"কস্টম ভ্যুগী অর্থ তাকউ"</string>
+<string name="hint_findContacts">"কন্টেক্টশীং পুথোকউ"</string>
+<string name="contactsFavoritesLabel">"ফেবরাইটশীং"</string>
+<string name="listTotalAllContactsZero">"কন্টেক্টশীং লৈতে."</string>
+<string name="listTotalAllContactsZeroCustom">"কন্টেক্টশীং উদে."</string>
+<string name="listTotalAllContactsZeroStarred">"ফেবরাইটশীং লৈতে."</string>
+<string name="listTotalAllContactsZeroGroup">"কন্টেক্টশীং লৈতে দা <xliff:g id="name" example="Friends">%s</xliff:g>"</string>
+<string name="menu_clear_frequents">"তোয়বশীং ক্লিয়র তৌ"</string>
+<string name="menu_accounts">"একাওন্টশীং"</string>
+<string name="menu_import_export">"পুশিল্লকপা/থাদোকখিবা"</string>
+<string name="description_send_message">"মেসেজ থাও দা <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_dial_phone_number">"ফোন দাইল তৌ <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">"লোইনা খল্লু"</string>
+<string name="select_card">"কার্দ খনবিয়ু"</string>
+<string name="choose_sim_card">"SIM কার্দ খল্লু"</string>
+<string name="fail_reason_empty">"কন্টেক্ট দাতা হাংহল্লু"</string>
+<string name="import_from_phone">"মনুংগী স্টোরেজদগী পুশিল্লকউ"</string>
+<string name="label_phone">"ফোন"</string>
+<string name="listTotalPhoneContactsZero">"কন্টেক্টশীং লৈতে"</string>
+<string name="cancel_select_all_contacts">"লোইনমক ককথৎলু"</string>
+<string name="no_match_contact">"কন্টেক্ট মপা চানদে"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 কন্টেক্ট চানবা"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> কন্টেক্টশীং মপা চানবা"</item>
+</plurals>
+<string name="copy_to">"কোপি তৌ দা"</string>
+<string name="export_to_phone">"মনুংগী স্টোরেজদা থাদোকউ"</string>
+<string name="contacts_selection_for_mms_limit">"খল্লবা মশীংগী অকক্নবা মশীং অদু <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="contact_status_update_attribution">"ফাওনা <xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> ফাওনা <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">"ফোন নম্বরশীংগা লোয়নবা কন্টেক্ট"</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">"খল্লু"</item>
+<item quantity="other">"খল্লে (<xliff:g id="COUNT">%d</xliff:g>)"</item>
+</plurals>
+<string name="select_cancle">"ককথৎলু"</string>
+<string name="select_audio_video_call">"ওদিও কোল নত্ত্রগা ভিদিও কোল খনবিয়ু"</string>
+<string name="contact_has_no_phonenumber">"কন্টেক্ত অসিগী কোল তৌনবা ফোন নম্বর লৈতে."</string>
+</resources>

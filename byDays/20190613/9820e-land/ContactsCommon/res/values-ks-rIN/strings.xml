@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">ٹیکسٹ آو نقل كرن</string>
+<string name="call_custom">کال <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="call_home">کال كريو ہوم</string>
+<string name="call_mobile">کال كريو موبائل</string>
+<string name="call_work">کال كريو ورک</string>
+<string name="call_fax_work">کال ورک فیکس</string>
+<string name="call_fax_home">کال كريو ہوم فیکس</string>
+<string name="call_pager">کال كريو پیجر</string>
+<string name="call_other">کال</string>
+<string name="call_callback">کال كريو كلبیك</string>
+<string name="call_car">کال كريو کار</string>
+<string name="call_company_main">کال کمپنی مین</string>
+<string name="call_isdn">کال كريو ISDN</string>
+<string name="call_main">کال كريو مین</string>
+<string name="call_other_fax">کال كريو فیکس</string>
+<string name="call_radio">کال كريو ریڈیو</string>
+<string name="call_telex">کال كريو ٹیلی کامکس</string>
+<string name="call_tty_tdd">کال كريو TTY / TTD</string>
+<string name="call_work_mobile">کال كريو ورک موبائل</string>
+<string name="call_work_pager">کال كريو ورک پیجر</string>
+<string name="call_assistant">کال <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="call_mms">کال كريو MMS</string>
+<string name="sms_custom">ٹیکسٹ <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="sms_home">ٹیکسٹ ہوم</string>
+<string name="sms_mobile">ٹیکسٹ موبائل</string>
+<string name="sms_work">ٹیکسٹ ورک</string>
+<string name="sms_fax_work">ٹیکسٹ ورک فیکس</string>
+<string name="sms_fax_home"> "ٹیکسٹ ہوم فیکس"</string>
+<string name="sms_pager">ٹیکسٹ پیجر</string>
+<string name="sms_other">ٹیکسٹ</string>
+<string name="sms_callback">ٹیکسٹ كلبیك</string>
+<string name="sms_car">ٹیکسٹ کار</string>
+<string name="sms_company_main"> "ٹیکسٹ کمپنی مین"</string>
+<string name="sms_isdn">ٹیکسٹ ISDN</string>
+<string name="sms_main">ٹیکسٹ مین</string>
+<string name="sms_other_fax">ٹیکسٹ فیکس</string>
+<string name="sms_radio">ٹیکسٹ ریڈیو</string>
+<string name="sms_telex">ٹیکسٹ ٹیلی کامکس</string>
+<string name="sms_tty_tdd">ٹیکسٹ TTY / TDD</string>
+<string name="sms_work_mobile">ٹیکسٹ ورک موبائل</string>
+<string name="sms_work_pager">ٹیکسٹ ورک پیجر</string>
+<string name="sms_assistant">ٹیکسٹ <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="sms_mms">ٹیکسٹ MMS</string>
+<string name="clearFrequentsConfirmation_title">صاف كريو انبار رابتء يم كرمت چھو؟</string>
+<string name="clearFrequentsConfirmation">" توہی کریو فوری صاف یی رابطک فہرست لوکھ تء فون ایپن منز، تء زبردستی کرییو ای میل ایپن زء تم ہیچھن توہند ترجیاتک خطاب شروع پیٹھ۔"</string>
+<string name="clearFrequentsProgress_title">صاف کران انبار رابتء يم كرمت چھو ...</string>
+<string name="status_available">"دستياب"</string>
+<string name="status_away">دور</string>
+<string name="status_busy">آو‌ر</string>
+<string name="contactsList">"رابتءہ"</string>
+<string name="local_invisible_directory">"باقی"</string>
+<string name="directory_search_label">ڈائریکٹری</string>
+<string name="local_search_label">ساری رابتء</string>
+<string name="user_profile_contacts_list_header">"بہ"</string>
+<string name="search_results_searching">ژانڈان۔۔۔</string>
+<string name="foundTooManyContacts">كھوت ذیادء <xliff:g id="count">%d</xliff:g> کاءم لبن."</string>
+<string name="listFoundAllContactsZero">کہان رابتء چھنء</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">1 لوب</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> لوب"</item>
+</plurals>
+<string name="description_quick_contact_for">اتاؤلا رابتء کھتر <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="missing_name">(ك ناو چھن)</string>
+<string name="favoritesFrequentCalled">انبار آو ونناه</string>
+<string name="favoritesFrequentContacted">ابارس سیتھ آو رابتء كرن</string>
+<string name="description_view_contact_detail">وچھیو رابتء</string>
+<string name="list_filter_phones">ساری رابتء فون نمبرس سان</string>
+<string name="view_updates_from_group">وچھیو اپڈیٹس</string>
+<string name="account_phone" product="tablet">ٹیبلیٹ-خالی، انسنکرونایزڈجیڈ</string>
+<string name="account_phone" product="default">فون-خالی، انسنکرونایزڈجیڈ</string>
+<string name="nameLabelsGroup">ناو</string>
+<string name="nicknameLabelsGroup">ارف</string>
+<string name="full_name">ناو</string>
+<string name="name_given">"گوڈنک ناو"</string>
+<string name="name_family">"آخری ناو"</string>
+<string name="name_prefix">ناو گوڈ جڈن وول</string>
+<string name="name_middle">مجم ناو</string>
+<string name="name_suffix">ناو اكھرس جڈن وول</string>
+<string name="name_phonetic">اواجدار ناو</string>
+<string name="name_phonetic_given">"اواجدار گوڈنک ناو"</string>
+<string name="name_phonetic_middle">اواجدار مجم ناو</string>
+<string name="name_phonetic_family">"اواجدار آخری ناو"</string>
+<string name="phoneLabelsGroup">"فون"</string>
+<string name="emailLabelsGroup">ای میل</string>
+<string name="postalLabelsGroup">جاۓ</string>
+<string name="imLabelsGroup">اييم</string>
+<string name="organizationLabelsGroup">تنظیم</string>
+<string name="relationLabelsGroup">رشتداري</string>
+<string name="eventLabelsGroup">خاص دوه</string>
+<string name="sms">ٹیکسٹ میسیج</string>
+<string name="postal_address">جاۓ</string>
+<string name="ghostData_company">کمپنی</string>
+<string name="ghostData_title">موضوع</string>
+<string name="label_notes">نوٹس</string>
+<string name="label_sip_address">" انٹرنیٹ کال"</string>
+<string name="websiteLabelsGroup">ویب سائٹ</string>
+<string name="groupsLabel">گروپس</string>
+<string name="email_home">ای میل ہوم</string>
+<string name="email_mobile">ای میل موبائل</string>
+<string name="email_work">ای میل ورک</string>
+<string name="email_other">ای میل</string>
+<string name="email_custom">ای میل <xliff:g id="custom">%s</xliff:g>" </string>
+<string name="email">ای میل</string>
+<string name="postal_street">سٹریٹ</string>
+<string name="postal_pobox">PO باکس</string>
+<string name="postal_neighborhood">ہم سائی</string>
+<string name="postal_city">شہر</string>
+<string name="postal_region">"ریاست"</string>
+<string name="postal_postcode">"زپ کوڈ"</string>
+<string name="postal_country">ملک</string>
+<string name="map_home">وچھیو ہوم پتہ</string>
+<string name="map_work">وچھیو ورک پتہ</string>
+<string name="map_other">وچھیو پتہ</string>
+<string name="map_custom">وچھیو <xliff:g id="custom">%s</xliff:g>"  پتہ"</string>
+<string name="chat_aim">چیٹ كريو AIM استعمال كرن سیتھ</string>
+<string name="chat_msn">چیٹ كريو ونڈو لائیو استعمال كرن سیتھ</string>
+<string name="chat_yahoo">چیٹ كريو یاہو استعمال كرن سیتھ</string>
+<string name="chat_skype">چیٹ كريو اسکائپ استعمال كرن سیتھ</string>
+<string name="chat_qq">چیٹ كريو QQ استعمال كرن سیتھ</string>
+<string name="chat_gtalk">چیٹ كريو گوگل ٹاک استعمال كرن سیتھ</string>
+<string name="chat_icq">چیٹ كريو ICQ استعمال كرن سیتھ</string>
+<string name="chat_jabber">چیٹ كريو جببر استعمال كرن سیتھ</string>
+<string name="chat">چیٹ</string>
+<string name="description_minus_button">"رد"</string>
+<string name="expand_collapse_name_fields_description">بڑايو یا پھڈريو ناو پھلیڈس</string>
+<string name="list_filter_all_accounts">ساری رابتء</string>
+<string name="list_filter_all_starred">تارک دینء آمت</string>
+<string name="list_filter_customize">كسٹمایز</string>
+<string name="list_filter_single">رابتء</string>
+<string name="display_ungrouped">ساري باقی رابتء</string>
+<string name="display_all_contacts">ساری رابتء</string>
+<string name="menu_sync_remove">موكلايو سنک گروپ</string>
+<string name="dialog_sync_add">جوڈو سنک گروپ</string>
+<string name="display_more_groups">واريه گروپس ...</string>
+<string name="display_warn_remove_ungrouped">موكلاوان \"<xliff:g id="group" example="Starred">%s</xliff:g>\"سنک پیٹھ ت موكلاوي ك ت انگرپڈ رابتء سنک پیٹھ."</string>
+<string name="savingDisplayGroups">محفوظ کران ڈسپلی متبادل ...</string>
+<string name="menu_done">"پوره"</string>
+<string name="menu_doNotSave">"خائریج"</string>
+<string name="listAllContactsInAccount">رابتء منز <xliff:g id="name" example="abc@gmail.com">%s</xliff:g>"</string>
+<string name="listCustomView">رابتء پننء مرضی ویو منز</string>
+<string name="listSingleContact">اكي رابتء</string>
+<string name="dialog_new_contact_account">بنايو رابتء اکاؤنٹ کس ديرس منز</string>
+<string name="import_from_sim">امپورٹ كريو SIM کارڈ پیٹھ</string>
+<string name="import_from_sdcard" product="default">" انیو نیبریم جمع جاۓ پیٹھ"</string>
+<string name="cancel_import_confirmation_message">رد كريو امپورٹ كرن <xliff:g id="filename" example="export.vcf">%s</xliff:g>؟"</string>
+<string name="cancel_export_confirmation_message">رد كريو ایکسپورٹ كرن <xliff:g id="filename" example="export.vcf">%s</xliff:g>؟"</string>
+<string name="cancel_vcard_import_or_export_failed">ہکنء رد كریتھ وی کارڈ امپورٹ / ایکسپورٹ</string>
+<string name="fail_reason_unknown">بۓ زاین  غلطی.</string>
+<string name="fail_reason_could_not_open_file">ہکنء كھلاوتھ \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>."</string>
+<string name="fail_reason_could_not_initialize_exporter">ہکنء شروع كریتھ ایكسپورٹر: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_no_exportable_contact">انتہائی چھن ك ایکسپورٹ کرن وال رابتء.</string>
+<string name="fail_reason_error_occurred_during_export">اكھ نكس آو لبنه ایکسپورٹ كرنس دوران: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_too_long_filename">ذررتي فائل ناو كچھ واريه ذيوٹھ (\"<xliff:g id="filename">%s</xliff:g>\")." </string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">واريه وی کارڈ فائلیں چھ اسٹوریج منز.</string>
+<string name="fail_reason_too_many_vcard" product="default">واريه وی کارڈ فائلیں چھ SD کارڈز منز.</string>
+<string name="fail_reason_io_error">I / O نكس</string>
+<string name="fail_reason_low_memory_during_import">چھنء واريه میموری. فائل ہیکء اسيتھ واريه بڈ.</string>
+<string name="fail_reason_vcard_parse_error">ہکنء دلیل دتھ ويكارڈچ ناياكين وجوہات کین.</string>
+<string name="fail_reason_not_supported">فارمیٹ چھنء مددگار سپدان.</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">ہیکء جمع كریتھ واريه ذانكاري دچچھمچ وی کارڈ فایلن ہنز.</string>
+<string name="fail_reason_failed_to_read_files">اكھ یا ذياد فایلء يینن امپور كرن(%s)."</string>
+<string name="exporting_vcard_finished_title">موكلوون ایکسپورٹ كرن <xliff:g id="filename" example="export.vcf">%s</xliff:g>."</string>
+<string name="exporting_vcard_canceled_title">ایکسپورٹ کرون <xliff:g id="filename" example="export.vcf">%s</xliff:g> گو رد."</string>
+<string name="exporting_contact_list_title">ایکسپورٹ کران رابتء ڈیٹا</string>
+<string name="exporting_contact_list_message">تہند رابتء ڈیٹا آو ایکسپورٹ كرن یتھ <xliff:g id="file_name">%s</xliff:g>."</string>
+<string name="composer_failed_to_get_database_infomation">ہکنء ملتھ ڈیٹا بیس ذانكاري.</string>
+<string name="composer_has_no_exportable_contact" product="tablet">انتہائی چھن کنہہ سوزءینول رابتء اگر توہی چھو رابتء پننس ٹیبلیٹس منز، کنہہ ڈیٹا مہیاہ تھاون ول دين ن اجازت رابتء سوذنس ٹیبلیٹ پیٹھ.</string>
+<string name="composer_has_no_exportable_contact" product="default">انتہائی چھن کنہہ سوزءینول رابتء اگر توہی چھو رابتء پننس فونس منز، کنہہ ڈیٹا مہیاہ تھاون ول دين ن اجازت رابتء سوذنس فون پیٹھ.</string>
+<string name="composer_not_initialized">vCard بناون ول گاس ن شروع ٹھيكپاٹھ.</string>
+<string name="exporting_contact_failed_title">ہکنءاہا سوذتھ</string>
+<string name="exporting_contact_failed_message">رابتء ڈیٹا آو ن سوزنء. \nوجہ: "<xliff:g id="fail_reason">%s</xliff:g>\"</string>
+<string name="no_sdcard_message" product="nosdcard">" کہہان جمع جاۓ آینء لبنء۔"</string>
+<string name="no_sdcard_message" product="default">" کہان SD کارڈ آونء لبنء۔"</string>
+<string name="confirm_export_message">" توہند رابطن ہند فہرست آو فایل منز سوزنء: <xliff:g id="vcard_filename">%s</xliff:g>."</string>
+<string name="importing_vcard_description">انن يوان <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="reading_vcard_failed_title">ہکنء پارتھ vCard ڈیٹا</string>
+<string name="reading_vcard_canceled_title">پرییون vCard ڈیٹا گو رد</string>
+<string name="importing_vcard_finished_title">موكلوو انتھ vCard <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">عنان <xliff:g id="filename" example="export.vcf">%s</xliff:g> گو رد"</string>
+<string name="vcard_import_will_start_message"><xliff:g id="filename" example="export.vcf">%s</xliff:g> یء انن جلدی."</string>
+<string name="vcard_import_will_start_message_with_default_name">فائل يیي انن جلدی.</string>
+<string name="vcard_import_request_rejected_message">vCard امپورٹ عرضی گئی خائریج. پت كريو بی کوشش کریو.</string>
+<string name="vcard_export_will_start_message"><xliff:g id="filename" example="export.vcf">%s</xliff:g> یء سوزنء جلدی."</string>
+<string name="vcard_export_request_rejected_message">vCard امپورٹ عرضی گئی خائریج. پت كريو بی کوشش کریو.</string>
+<string name="vcard_unknown_filename">رابتء</string>
+<string name="caching_vcard_message">جمع کران vCard عام رگ اسٹوریج منز. حقیقی امپورٹ گاس فوری شروع.</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">كرن امپورٹ vCard.</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">کہان vCard فائل اين لبنه اسٹوریج منز.</string>
+<string name="import_failure_no_vcard_file" product="default">کہان vCard فائل اين لبن ايسڈي کارڈز منز.</string>
+<string name="nfc_vcard_file_name">رابتء ہیکءن رٹيتھ NFC پیٹھ</string>
+<string name="confirm_export_title">ایکسپورٹ رابتء؟</string>
+<string name="select_vcard_title">" چنیو وی کارڈ فایل"</string>
+<string name="import_one_vcard_string">" انییو اکھ وی کارڈ فایل"</string>
+<string name="import_multiple_vcard_string">" انییو واریہاہ وی کارڈ فایلء"</string>
+<string name="import_all_vcard_string">" انییو تمام وی کارڈ فایلء"</string>
+<string name="searching_vcard_message" product="nosdcard">" ژانڈان vCard ڈیٹا جمع جاۓ منز۔۔۔"</string>
+<string name="searching_vcard_message" product="default">" ژانڈان vCard ڈیٹا جمع جاۓ منز"</string>
+<string name="caching_vcard_title">جمع کران تھی</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">اسٹوریج يیناه اسکین كرنء. (وجہ: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">SD کارڈ يیناه اسکین كرنء. (وجہ: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">"امپورٹ کران <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="export_to_sdcard" product="default">" سوذیو نیبریم جمع جاۓ منز"</string>
+<string name="share_visible_contacts">باٹيو نظر گسوین رابتء</string>
+<string name="dialog_import_export">اننین / نيین رابتء</string>
+<string name="dialog_import">سوزیو رابتء</string>
+<string name="share_error">یء رابتء يیين باٹن</string>
+<string name="menu_search">"ژانڈن"</string>
+<string name="menu_contacts_filter">رابتء ہاونء کھتر</string>
+<string name="activity_title_contacts_filter">رابتء ہاونء کھتر</string>
+<string name="custom_list_filter">واذياه كريو پننء مرضی ویو</string>
+<string name="hint_findContacts">ژانڈیو رابتء</string>
+<string name="contactsFavoritesLabel">پسنديد</string>
+<string name="listTotalAllContactsZero">رابتء چھنء.</string>
+<string name="listTotalAllContactsZeroCustom">ك نظر گسوین رابتء چھن. "</string>
+<string name="listTotalAllContactsZeroStarred">پسديد چھن.</string>
+<string name="listTotalAllContactsZeroGroup">ك رابتء چھن یتھ <xliff:g id="name" example="Friends">%s</xliff:g>"</string>
+<string name="menu_clear_frequents">صاف كريو انبار</string>
+<string name="menu_accounts">اکاونٹس</string>
+<string name="menu_import_export">امپورٹ / ایکسپورٹ</string>
+<string name="description_send_message">" سوزیو مسیج <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_dial_phone_number">ڈائل فون <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">"چنو ساری"</string>
+<string name="select_card">مهرباني كریتھ چنو کارڈ</string>
+<string name="choose_sim_card">چنو SIM کارڈ</string>
+<string name="fail_reason_empty">خالی رابتء ڈیٹا</string>
+<string name="import_from_phone">" انییو اندرم جمع جاۓ پیٹھ"</string>
+<string name="label_phone">"فون"</string>
+<string name="listTotalPhoneContactsZero">کہان رابتء چھنء</string>
+<string name="cancel_select_all_contacts">رد ساری</string>
+<string name="no_match_contact">"رابتء چھنء رلان"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">" 1 رابطء رلیاو"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> رابطء رالیاۓ"</item>
+</plurals>
+<string name="copy_to">نقل یتھ</string>
+<string name="export_to_phone">" سوزیو اندرم جمع جاۓ منز"</string>
+<string name="contacts_selection_for_mms_limit">" چننء آمت نمبرک حدک نمبر چھء <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="contact_status_update_attribution">یمءسيت <xliff:g id="source" example="Google Talk">%1$s</xliff:g>" </string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> امدس <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">رابتء فون نبرس سان</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">"چنو"</item>
+<item quantity="other">چنن امت (<xliff:g id="COUNT">%d</xliff:g>)"</item>
+</plurals>
+<string name="select_cancle">"خائریج"</string>
+<string name="select_audio_video_call">" مہربانی کریتھ چنیو آواز کال یا ویڈیو کال"</string>
+<string name="contact_has_no_phonenumber">" یتھ رابطس چھنء کہان فون نمبر کال کرنء کھتر۔"</string>
+</resources>

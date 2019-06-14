@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPRD add for SIM capacity-->
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    class="com.sprd.contacts.common.list.ContactMemoryListView"
+    android:descendantFocusability="blocksDescendants"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/contact_filter_item_min_height"
+    android:gravity="center_vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="80px"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingLeft="20dp">
+
+        <TextView
+            android:id="@+id/accountType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:singleLine="true"
+            android:paddingTop="5dp"
+            android:ellipsize="end"
+            android:textSize="30sp"/>
+
+        <TextView
+            android:id="@+id/accountUserName"
+            android:layout_marginTop="-3dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="@color/textview_color1"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:textSize="24sp"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/simUsage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|center_vertical"
+        android:layout_marginTop="1dip"
+        android:paddingRight="12dp"
+        android:textSize="30sp"/>
+
+</view>

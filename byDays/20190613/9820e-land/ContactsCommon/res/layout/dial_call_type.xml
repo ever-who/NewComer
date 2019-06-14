@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        style="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:layout_marginLeft="18dip"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="15dip"
+        android:singleLine="true"
+        android:text="@string/select_audio_video_call"
+        android:textSize="25sp"
+        android:textColor="@color/undo_dialogue_text_color"
+        android:focusable="false" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dip"
+        android:background="@color/undo_dialogue_text_color"
+        android:focusable="false" />
+
+</LinearLayout>

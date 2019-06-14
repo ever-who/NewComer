@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">"संपर्क"</string>
+<string name="contactsList">"संपर्क"</string>
+<string name="shortcutContact">"संपर्क"</string>
+<string name="shortcutDialContact">"थेट डायल"</string>
+<string name="shortcutMessageContact">"थेट संदेश"</string>
+<string name="shortcutActivityTitle">"संपर्क शॉर्टकट वेंचात"</string>
+<string name="callShortcutActivityTitle">"कॉल करुंक क्रमांक वेंचात"</string>
+<string name="messageShortcutActivityTitle">"संदेश धांडूंक क्रमांक वेंचात"</string>
+<string name="contactPickerActivityTitle">"संपर्क वेंचात"</string>
+<string name="starredList">"तारांकीत"</string>
+<string name="frequentList">"परत परत"</string>
+<string name="strequentList">"आवडीचे"</string>
+<string name="viewContactTitle">"संपर्काचो तपशील"</string>
+<string name="viewContactDesription">"संपर्क दाखयात"</string>
+<string name="editContactDescription">"संपर्काचे संपादन करात"</string>
+<string name="insertContactDescription">"संपर्क तयार करात"</string>
+<string name="editGroupDescription">"पंगड संपादीत करात"</string>
+<string name="insertGroupDescription">"पंगड तयार करात"</string>
+<string name="contactDetailAbout">"विशीं"</string>
+<string name="contactDetailUpdates">"अपडेटस्"</string>
+<string name="searchHint">"संपर्क सोदात"</string>
+<string name="menu_viewContact">"संपर्क दाखयात"</string>
+<string name="menu_addStar">"आवडीत घालात"</string>
+<string name="menu_removeStar">"आवडीतल्यान काडून वडयात"</string>
+<string name="menu_editContact">"संपादन"</string>
+<string name="menu_deleteContact">"वगळायात"</string>
+<string name="menu_create_contact_shortcut">"हॉम स्क्रीनीर घालात"</string>
+<string name="menu_call">"संपर्काक कॉल करात"</string>
+<string name="menu_sendSMS">"टॅक्स्ट संपर्क"</string>
+<string name="menu_splitAggregate">"वेगळे"</string>
+<string name="menu_editGroup">"संपादन"</string>
+<string name="menu_deleteGroup">"वगळायात"</string>
+<string name="menu_new_contact_action_bar">"संपर्क घालात"</string>
+<string name="menu_new_group_action_bar">"पंगड अदीक करात"</string>
+<string name="splitConfirmation_title">"वेगळो संपर्क?"</string>
+<string name="splitConfirmation">"हो संपर्क भाव संपर्कात वेगवेगळो करतले."</string>
+<string name="menu_joinAggregate">"जोडात"</string>
+<string name="titleJoinContactDataWith">"संपर्क जोडात"</string>
+<string name="blurbJoinContactDataWith">"तुमकां जोडपाक जाय तो संपर्क वेंचात <xliff:g id="name">%s</xliff:g>:"</string>
+<string name="showAllContactsJoinItem">"सगले संपर्क दाखयात"</string>
+<string name="separatorJoinAggregateSuggestions">"शीफारस केल्ले संपर्क"</string>
+<string name="separatorJoinAggregateAll">"सगले संपर्क"</string>
+<string name="contactsJoinedMessage">"जोडिल्ले संपर्क"</string>
+<string name="menu_set_ring_tone">"रींगटोन्स सेट करात"</string>
+<string name="menu_redirect_calls_to_vm">"सगले कॉल्स व्हॉयसमेलात"</string>
+<string name="readOnlyContactWarning">"फकत वाचात ह्या खात्यांतल्यान तुमी संपर्क वगळावूंक शकनात, मात तुमी ते आपल्या संपर्क वळेरींत लिपोवंक शकतात."</string>
+<string name="label_phone">"फोन"</string>
+<string name="readOnlyContactDeleteConfirmation">"ह्या संपर्कात भोव संपर्कातली म्हायती आसा. फकत वाचात ह्या खात्यांतली म्हायती तुमच्या संपर्क वळेरींत लिपोवन दवरते, वगळावचे ना."</string>
+<string name="multipleContactDeleteConfirmation">"हो संपर्क वगळायल्यार भोव संपर्कातली म्हायती वगळायतली."</string>
+<string name="deleteConfirmation">"हो संपर्क वगळावं?"</string>
+<string name="menu_discard">"काडून वडयात"</string>
+<string name="invalidContactMessage">"संपर्क अस्तित्वांत ना."</string>
+<string name="createContactShortcutSuccessful">"संपर्क विजेट हॉम स्क्रीनार घालो."</string>
+<string name="pickerNewContactHeader">"नवो संपर्क तयार करात"</string>
+<string name="pickerNewContactText">"नवो संपर्क तयार करात"</string>
+<string-array name="otherLabels">
+<item>"संघटना"</item>
+<item>"नोट"</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">"टॅबलेटीचेर चित्र उपलब्ध ना."</string>
+<string name="photoPickerNotFoundText" product="default">"फोनाचेर चित्र उपलब्ध ना."</string>
+<string name="attach_photo_dialog_title">"संपर्क म्हायती"</string>
+<string name="customLabelPickerTitle">"सानुकूल लेबल नांव"</string>
+<string name="send_to_voicemail_checkbox">"कॉल्स थेट व्हॉयसमेलात धाडात"</string>
+<string name="removePhoto">"फोटू काडून वडयात"</string>
+<string name="noContacts">"संपर्क ना."</string>
+<string name="noGroups">"पंगड ना."</string>
+<string name="noAccounts">"पंगड तयार करुंक तुमकां खातें जाय."</string>
+<string name="emptyGroup">"ह्या पंगडात लोक ना."</string>
+<string name="addPeopleToGroup">"कांय जाणांक घालूंक, पंगड संपादीत करात."</string>
+<string name="savingContact">"संपर्क सेव करात..."</string>
+<string name="contactSavedToast">"संपर्क सेव केलो."</string>
+<string name="contactSavedErrorToast">"संपर्कातले बंदल सेव करुंक जाले ना."</string>
+<string name="groupSavedToast">"पंगड सेव केलो."</string>
+<string name="groupSavedErrorToast">"पंगडातले बदल सेव करुंक जाले ना."</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">"फोन क्रमांका वांगडा 1 संपर्क"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> फोन क्रमांका वांगडा संपर्क"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">"फोन क्रमांका वांगडा संपर्क ना"</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">"1 संपर्क"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> संपर्क"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">"1 सांपडलो"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> सांपडलो"</item>
+</plurals>
+<string name="listFoundAllContactsZero">"संपर्क ना"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 सांपडलो"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> सांपडलो"</item>
+</plurals>
+<string name="contactsAllLabel">"सगले संपर्क"</string>
+<string name="contactsGroupsLabel">"पंगड"</string>
+<string name="callBack">"परतून कॉल करात"</string>
+<string name="callAgain">"परत कॉल करात"</string>
+<string name="returnCall">"परते कॉल करात"</string>
+<string name="add_contact_dlg_message_fmt">"घालात \"<xliff:g id="email">%s</xliff:g>\" संपर्कात?"</string>
+<string name="description_contact_photo">"संपर्क म्हायती"</string>
+<string name="description_plus_button">"अदीक"</string>
+<string name="exporting_contact_list_progress">"<xliff:g id="current_number">%s</xliff:g> <xliff:g id="total_number">%s</xliff:g> हाचो संपर्क"</string>
+<string name="search_settings_description">"तुमच्या संपर्काची नावां"</string>
+<string name="quickcontact_missing_app">"ही कृती हाताळूंक ॲप सापडूंक ना."</string>
+<string name="missing_app">"ही कृती हाताळूंक ॲप सापडूंक ना."</string>
+<string name="menu_share">"शॅयर"</string>
+<string name="share_via">"वरवीं संपर्क शॅयर करात"</string>
+<string name="dialog_new_group_account">"खात्या खाला पंगड करात"</string>
+<string name="audio_chat">"व्हॉयस चॅट"</string>
+<string name="video_chat">"व्हिडीयो चॅट"</string>
+<string name="connections">"जोडणी"</string>
+<string name="add_connection_button">"जोडणी घालात"</string>
+<string name="recent">"हालीचे"</string>
+<string name="recent_updates">"हालीचे अपडेटस"</string>
+<string name="account_type_format">"<xliff:g id="source" example="Gmail">%1$s</xliff:g> संपर्क"</string>
+<string name="from_account_format">"<xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">"हो फोटो वापर"</string>
+<string name="contact_read_only">"ह्या ॲपातल्यान संपादीत करुंक मेळना."</string>
+<string name="no_contact_details">"ह्या संपर्का खातीर अतिरीक्त म्हायती ना."</string>
+<string name="group_read_only">"ह्या यंत्राचेर संपादीत करुंक मेळना."</string>
+<string name="display_options_sort_list_by">"वळेरीची क्रमवारी अशी कर"</string>
+<string name="display_options_sort_by_given_name">"पयले नांव"</string>
+<string name="display_options_sort_by_family_name">"निमाणे नांव"</string>
+<string name="display_options_view_names_as">"संपर्क नांवांचे दृश्य अशे कर"</string>
+<string name="display_options_view_given_name_first">"पयले नांव पयली"</string>
+<string name="display_options_view_family_name_first">"निमाणे नांव मागीर"</string>
+<string name="take_photo">"फोटो घेयात"</string>
+<string name="take_new_photo">"नवो फोटो काडात"</string>
+<string name="pick_photo">"गॅलरीतल्यान फोटो वेंचात"</string>
+<string name="pick_new_photo">"गॅलरींतल्यान नवो फोटो वेंच"</string>
+<string name="locale_change_in_progress">"भाशेंतलो बदल दाखोवपाक संपर्क वळेरी अद्ययावत करतात."</string>
+<string name="upgrade_in_progress">"संपर्क वळेरी अद्ययावत करतात."</string>
+<string name="upgrade_out_of_memory">"संपर्क वळेरी अद्ययावत जावपाच्या प्रक्रीयेत आसा.".\n\nअपग्रेड प्रक्रीयेक अंदाजे <xliff:g id="size_in_megabytes">%s</xliff:g> MB अंतर्गत सांठ्याची गरज आसा.\n\nसगल्या पर्यायातलो एक वेंचात:"</string>
+<string name="upgrade_out_of_memory_uninstall">"कांय ॲप्लिकेशना अनइन्स्टॉल करात"</string>
+<string name="upgrade_out_of_memory_retry">"अपग्रेडा खातीर परत यत्न करात"</string>
+<string name="search_results_searching">"सोदप चालू आसा..."</string>
+<string name="menu_display_selected">"वेंचिल्ले दाखयात"</string>
+<string name="menu_display_all">"सगले दाखयात"</string>
+<string name="menu_select_all">"सगळे वेंचात"</string>
+<string name="menu_select_none">"सगळे वेंचूंक नाकात"</string>
+<string name="add_field">"आनीक एक क्षेत्र जोड"</string>
+<string name="add_new_entry_for_section">"नवे घालात"</string>
+<string name="add_organization">"संघटना घालात"</string>
+<string name="event_edit_field_hint_text">"तारीख"</string>
+<string name="group_edit_field_hint_text">"पंगडाचे नांव"</string>
+<string name="description_star">"आवडीचे"</string>
+<string name="edit_contact">"संपर्काचे संपादन करात"</string>
+<plurals name="merge_info">
+<item quantity="one">"विलीन करूंक ना"</item>
+<item quantity="other">"विलीन केला <xliff:g id="count">%0$d</xliff:g> स्रोतां"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">"सद्याचो संपर्क वेंचिल्ल्या संपर्का वांगडा जोडात?"</string>
+<string name="aggregation_suggestion_edit_dialog_message">"वेंचिल्लो संपर्क संपादीत करुंक स्वीच करात? आता मेरेन तुमी घाल्ली म्हायती कॉपी करतले."</string>
+<string name="menu_copyContact">"म्हज्या संपर्कात कॉपी करात"</string>
+<string name="add_to_my_contacts">"म्हज्या संपर्कात घालात"</string>
+<string name="contact_directory_description">"डिरेस्टरी <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g>"</string>
+<string name="toast_making_personal_copy">"व्यक्तीगत प्रत निर्माण करता..."</string>
+<string name="list_filter_custom">"कस्टम"</string>
+<string name="activity_title_settings">"सेटिंग्स"</string>
+<string name="menu_settings">"सेटिंग्स"</string>
+<string name="menu_help">"मजत"</string>
+<string name="preference_displayOptions">"पर्याय डिस्प्ले करात"</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">"फोन क्रमांक"</string>
+<string name="non_phone_add_to_contacts">"संपर्कात घालात"</string>
+<string name="activity_title_confirm_add_detail">"संपर्कात घालात"</string>
+<string name="non_phone_close">"बंद"</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">"फाटले वर्स"</string>
+<string name="social_widget_label">"संपर्क"</string>
+<string name="social_widget_loading">"लोडींग..."</string>
+<string name="contacts_unavailable_create_contact">"नवो संपर्क तयार करात"</string>
+<string name="contacts_unavailable_add_account">"खात्यांत सायन इन करात"</string>
+<string name="contacts_unavailable_import_contacts">"संपर्क आयात करात"</string>
+<string name="create_group_dialog_title">"नवो पंगड तयार करात"</string>
+<string name="create_group_item_label">"नवो पंगड तयार करात"</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">"1 पंगड"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> पंगड"</item>
+</plurals>
+<string name="delete_group_dialog_message">"पंगड वगळाय \"<xliff:g id="group_label" example="Friends">%1$s</xliff:g>\"?  (संपर्क आपल्या आपुणच वगळायचे ना.)"</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> कडल्यान व्यक्ती <xliff:g id="account_type">%2$s</xliff:g>"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> लोकां कडल्यान <xliff:g id="account_type">%2$s</xliff:g>"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> व्यक्ती"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> लोक"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">"दुसऱ्या वांगडा जोडचे आदीं संपर्काचे नांव टायप करात."</string>
+<string name="copy_text">"क्लीपबोर्डार कॉपी करात"</string>
+<string name="set_default">"मुलभूत सेट करात"</string>
+<string name="clear_default">"मुलभूत साफ करात"</string>
+<string name="toast_text_copied">"टॅक्स्ट कॉपी केले"</string>
+<string name="cancel_confirmation_dialog_message">"तुमचे बदल रद्द करात?"</string>
+<string name="call_type_and_date">"<xliff:g id="call_type" example="Friends">%1$s</xliff:g><xliff:g id="call_short_date" example="Friends">%2$s</xliff:g>"</string>
+<string name="profile_display_name">"म्हजो प्रोफायल सेट अप करात"</string>
+<string name="enter_contact_name">"व्यक्तीचे नांव टायप करात"</string>
+<string name="group_name_hint">"पंगडाचे नांव"</string>
+<string name="local_profile_title">"म्हजो थळावो प्रोफायल"</string>
+<string name="external_profile_title">"<xliff:g id="external_source">%1$s</xliff:g> संपर्क"</string>
+<string name="toast_displaying_all_contacts">"सगले संपर्क डिस्प्ले करता"</string>
+<string name="no_account_prompt">"Google खात्यांत बरें तरेन काम करपी लोक.\n\n\u2022 म्हज्या वॅब ब्रावजरांतल्यान प्रवेश.\n\u2022 तुमच्या संपर्काचो सुरक्षीतपणान बॅकअप दवर."</string>
+<string name="generic_no_account_prompt">"तुमचो फोन शेणलो तरीय तुमचे संपर्क सुरक्षीत दवरात: ऑनलायन सेवे वांगडा समक्रमीत करात."</string>
+<string name="generic_no_account_prompt_title">"खातें घालात"</string>
+<string name="contact_editor_prompt_zero_accounts">"तुमचो नवो संपर्क बॅक-अप जावचो ना. संपर्क ऑनलायन बॅक अप करता ते खातें घालूं?"</string>
+<string name="contact_editor_prompt_one_account">"तुमचो नवो संपर्क समक्रमीत जातलो <xliff:g id="account_name">%1$s</xliff:g>."</string>
+<string name="contact_editor_prompt_multiple_accounts">"तुमी तुमचो नवो संपर्क सकयल्या खात्यातल्या एका वांगडा समक्रमीत करुंक शकतात. तुमकां खंयचे वापरुंक जाय?"</string>
+<string name="keep_local">"थळावे दवरात"</string>
+<string name="add_account">"खातें घालात"</string>
+<string name="add_new_account">"नवो संपर्क घालात"</string>
+<string name="menu_export_database">"डेटाबेस फायल निर्गत करात"</string>
+<string name="contact_detail_picture_description">"फोटो. बदलूंक वेंच"</string>
+<string name="no_fast_dial">"गतीन कॉल फोन क्रमांक सेट करूंक ना"</string>
+<string name="fast_dial_choose">"उपकार करून गतीन कॉल प्रकार निवडचो"</string>
+<string name="fast_call">"व्हॉयल कॉल" ॲप्ली</string>
+<string name="fast_vt_call">"व्हिडीयो कॉल"</string>
+<string name="wait">"उपकार करुन वाट पळयात..."</string>
+<string name="working">"काम करता"</string>
+<string name="working_batch_delete">"बॅच वगळता"</string>
+<string name="working_batch_import">"बॅच आयात करता"</string>
+<string name="choose_sim_card">"SIM कार्ड वेंचात"</string>
+<string name="violate_capacity">"SIM क्षमतायेचे उल्लंघन करात"</string>
+<string name="import_failed">"संपर्काचे आयात/निर्गत अपेशी"</string>
+<string name="import_failed_tmp">"<xliff:g id="count">%d</xliff:g> यशस्वी, <xliff:g id="count">%d</xliff:g> अपेशी"</string>
+<string name="import_done">"आयात जाली"</string>
+<string name="delete_done">"वगळनाकात"</string>
+<string name="toast_no_contact_selected">"संपर्क वेंचूंक ना"</string>
+<string name="contactSavedErrorToastNameLength">"संपर्क नांव सेव करुंक खूप लांब आसा"</string>
+<string name="contactSavedErrorToastEmailLength">"ईमेल नांव सेव करुंक खूप लांब आसा"</string>
+<string name="contactSavedErrorToastEmailFull">"ईमेल भरला"</string>
+<string name="contactSavedErrorToastSimEmailFull">"SIM कार्ड ईमेल भरला"</string>
+<string name="contactSavedErrorToastUsimEmailFull">"USIM कार्ड ईमेल भरला"</string>
+<string name="sim_is_full">"Sim भरला"</string>
+<string name="beyond_sim_card_capacity">"SIM कार्ड क्षमतायेच्या भायर, कांय संपर्क सेव जावचे ना"</string>
+<string name="menu_addToBlacklist">"काळे वळेरींत घालात"</string>
+<string name="menu_view_calls">"पळयात"</string>
+<string name="item_all_calls">"सगले कॉल लॉग"</string>
+<string name="item_sim1_calls">"Sim1 कॉल लॉग"</string>
+<string name="item_sim2_calls">"Sim2 कॉल लॉग"</string>
+<string name="res_name">"नांव"</string>
+<string name="res_phone">"फोन"</string>
+<string name="res_email">"ईमेल"</string>
+<string name="res_field">"फील्ड"</string>
+<string name="alert_maybe_lost_info">"आयात वा निर्गत करतना कांय म्हायती शेणला आसूंये"</string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> खूप व्हड"</string>
+<string name="select_group_member">"गट वांगडी वेंच"</string>
+<string name="email_format_fail">"उपकार करुंन योग्य ईमेल नामो घालात!"</string>
+<string name="working_editing_group">"पंगड बदलता"</string>
+<string name="editing_group_done">"पंगडात बदल केले"</string>
+<string name="editing_group_failed">"पंगडातले बदल अपेशी"</string>
+<string name="contacts_group_name_exist">"सद्याच्या पंगडाचे नांव"</string>
+<string name="menu_sendmms">"बल्क एसएमएस"</string>
+<string name="alert_delete_contact">"तुमकां खात्री आसा की तुमी वेंचिल्ले संपर्क वगळावूंक सोदतात?"</string>
+<string name="select_all">"सगळे वेंचात"</string>
+<string name="label_sim">"SIM कार्ड"</string>
+<string name="label_usim">"SIM कार्ड"</string>
+<string name="menu_batch_delete">"बॅच पुसून वडय"</string>
+<string name="group_selection">"संपर्क पंगडाची निवड"</string>
+<string name="cancel_batch_import_confirmation">"संपर्क आयात रद्द करात?"</string>
+<string name="cancel_batch_delete_confirmation">"संपर्क वगळावप रद्द करात?"</string>
+<string name="copy">"कॉपी"</string>
+<string name="copy_to">"प्रती"</string>
+<string name="contactDeletedToast">"संपर्क वगळायलो."</string>
+<string name="list_filter_all_in_one">"डेटा वांगडा सगले संपर्क"</string>
+<string name="listTotalEmailContactsZero">"ईमेल नाम्या वांगडा संपर्क ना"</string>
+<string name="list_filter_emails">"ईमेल नाम्या वांगडा सगले संपर्क"</string>
+<string name="listMaxContactsInAccount">"स्पेस: <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="reading_vcard_exception_title">"vकार्ड डेटा वाचप/बरोवप exception"</string>
+<string name="sqlite_full">"संपर्क डेटा बेस वा डीस्क पुराय आसा"</string>
+<string name="groupSavingToast">"गट म्हायती मागीर लागू करतले."</string>
+<string name="batch_operation_canceled">"ऑपरेशन रद्द जाले"</string>
+<string name="no_sdcard_title">"SD कार्ड ना"</string>
+<string name="cancel_export_confirmation_title">"vCard निर्गत रद्द करतात"</string>
+<string name="video_callNumber_by_sim2">"व्हिडीयो कॉलींग<xliff:g id="NAME">%s</xliff:g>（SIM2）"</string>
+<string name="delete_calls_list">"वेंचिल्ले कॉल वगळात"</string>
+<string name="video_menu_callNumber">"व्हिडीयो कॉल<xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="searching_vcard_title">"vकार्ड सोदतात"</string>
+<string name="menu_copyToPhone">"फोनार कॉपी करात"</string>
+<string name="cancel_import_confirmation_title">"vकार्ड आयात रद्द करतात"</string>
+<string name="dialog_voicemail_not_ready_title">"व्हॉयसमेल क्रमांक उपलब्ध ना"</string>
+<string name="select_one">"उणोच एक क्रमांक वेंचात!"</string>
+<string name="delete_all_calls_confirm">"तुमकां सगले कॉल वगळावपाक जाय?"</string>
+<string name="export_to_sim">"SIM कार्डांत निर्गत कर"</string>
+<string name="scanning_sdcard_failed_title">"SD कार्ड स्कन करुंक शकना"</string>
+<string name="aggregation_suggestion_join_dialog_title">"संपर्क जोडात"</string>
+<string name="aggregation_suggestion_edit_dialog_title">"वेंचिल्ल्या संपर्कांचे संपादन करात"</string>
+<string name="delete_group_dialog_title">"पंगड वगळाय"</string>
+<string name="delete_all_calls">"सगले कॉल रद्द करात"</string>
+<string name="video_callNumber_by_sim1">"व्हिडीयो कॉल<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+<string name="call_log_callNumber_by_sim">"कॉल<xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+<string name="dialog_phone_call_prohibited_title">"कॉल धाडूंक ना"</string>
+<string name="search_bar_hint">"संपर्क सोदात"</string>
+<string name="delete_success">"वगळावप यशस्वी!"</string>
+<string name="deleteConfirmation_title">"संपर्क वगळात?"</string>
+<string name="delete_selected_calls">"वेंचिल्ले कॉल्स तुमकां वगळावंक जाय?"</string>
+<string name="delete_contact_all_calls">"संपर्काचे कॉल सॉग वगळावपाची तुमकां खात्री आसा?"</string>
+<string name="menu_copyToSim">"SIM चेर कॉपी करात"</string>
+<string name="menu_all_contacts">"सगले संपर्क"</string>
+<string name="please_input_group_name">"उपकार करुन पंगडाचे नांव इन्पुट करात"</string>
+<string name="cancel_confirmation_dialog_title">"बदल रद्द करात"</string>
+<string name="delete_calls">"वगळायात"</string>
+<string name="add_contact_dlg_title">"संपर्क घालात"</string>
+<string name="app_name">"कॉल लॉग"</string>
+<string name="search_description">"कॉल लॉग सोदात"</string>
+<string name="search_hint">"कॉल लॉग सोदात"</string>
+<string name="lable_search">"सोदात"</string>
+<string name="menu_deleteFromBlacklist">"काळे वळेरींतल्यान वगळायात"</string>
+<string name="success_addToBlacklist">"अदीक यशस्वी"</string>
+<string name="failed_addToBlacklist">"अदीक अयशस्वी"</string>
+<string name="success_removeFromBlacklist">"वगळावप यशस्वी"</string>
+<string name="failed_removeFromBlacklist">"वगळावप अयशस्वी"</string>
+<string name="menu_mmsGroup">"बल्क संदेश"</string>
+<string name="menu_emailGroup">"बल्क ईमेल"</string>
+<string name="noContactsInGroup">"ह्या पंगडात संपर्क ना"</string>
+<string name="please_wait">"उपकार करुन वाट पळयात..."</string>
+<string name="noContactswithEmail">"ह्या पंगडात खंयच्याय संपर्कात ईमेल ना"</string>
+<string name="noContactwithEmail">"खंयच्याय संपर्कात ईमेल ना"</string>
+<string name="noContactwithPhoneAndEmail">"खंयच्याय संपर्कात फोन आनी ईमेल ना"</string>
+<string name="select_card">"उपकार करुन कार्ड वेंचात"</string>
+<string name="sim_absent">"गैरहजर"</string>
+<string name="sdn_list">"SDN वळेरी"</string>
+<string name="lnd_list">"LND वळेरी"</string>
+<string name="sim_no_ready">"Sim कार्ड तयार ना."</string>
+<string name="sdn_please_insert_sim">"उपकार करुन SIM कार्ड घालात."</string>
+<string name="sdn_sim_notready">"SIM म्हायती सुरू करता, उपकार करुन उपरांत ऑपरेट करात."</string>
+<string name="ip_dialer">"IP डायलींग सेटिंग"</string>
+<string name="call_ip">"IP कॉल"</string>
+<string name="no_group">"खंयच्याय पंगडाचो वांगडी ना"</string>
+<string name="select_group">"पंगड वेंचात"</string>
+<string name="edit_photo">"फोटो संपादीत करात"</string>
+<string name="select_all_contacts">"सगळे वेंचात"</string>
+<string name="menu_save">"सेव करात"</string>
+<string name="group_name_hint_overlay">"उपकार करुन पंगडाचे नांव इन्पुट करात"</string>
+<string name="select_group_member_overlay">"वांगडी घालपाक क्लिक करात"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 संपर्क जुळता"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> संपर्क जुळता"</item>
+</plurals>
+<string name="no_match_contact">"संपर्क जुळना"</string>
+<string name="menu_newGroup">"नवो पंगड"</string>
+<string name="editGroup">"पंगड संपादीत करात"</string>
+<string name="menu_delete_group">"पंगड वगळाय"</string>
+<string name="contactsFavoritesLimit">"12 संपर्क एकत्रीत, एकत्रीत मर्यादे परस वयर"</string>
+<string name="menu_add_favorite">"संपर्क आवडीत घालात"</string>
+<string name="create_new_contact">"नवो संपर्क तयार करात"</string>
+<string name="send_mms">"संदेश धाडात"</string>
+<string name="tab_more">"अदीक विकल्प"</string>
+<string name="show_contacts">"संपर्क दाखयात"</string>
+<string name="fast_dial">"जलद डायल"</string>
+<string name="account">"खातें"</string>
+<string name="import_export_contacts">"संपर्क आयात/निर्गत"</string>
+<string name="export_contacts">"संपर्क निर्गत कर"</string>
+<string name="duplicate_phone_book">"फोन पुस्तकाची प्रत"</string>
+<string name="dump_phone_book">"Dump फोन पुस्तक"</string>
+<string name="call_log_contacts_not_save">"अनवळखी"</string>
+<string name="call_log_callNumber_by_sim_ex">"कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"व्हिडियो कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="removeStarred">"स्टर केल्ले काडात"</string>
+<string name="lookUpInfo">"म्हायती सोद"</string>
+<string name="cancel">"रद्द"</string>
+<string name="favorite_contacts">"आवडीचे संपर्क"</string>
+<string name="no_available_number">"क्रमांक उपलब्ध ना"</string>
+<string name="confirmCoverPhoneNumber">"सद्याचो संपर्क बदली करपाची तुमकां खात्री आसा?"</string>
+<string name="replaceSelected">"खंयचो बदलपाचो आसा तो वेंचात"</string>
+<string name="over_phone_length_limit">"क्रमांक खूप लांब आसा"</string>
+<string name="invalid_number">"अवैध क्रमांक."</string>
+<string name="no_vcard_found_in_internal_stor">"अंतर्गत सांठ्यात vCard ना."</string>
+<string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> कॉल लॉग"</string>
+<string name="menu_moveGroupMember">"पंगडाचे वांगडी हालयात"</string>
+<string name="moveGroupMemberDialogTitle">"संपर्क हालयात"</string>
+<string name="menu_deleteGroupMember">"पंगडातले वांगडी वगळात"</string>
+<string name="overGroupNameLength">"पंगडाचे नांव खूप लांब आसा"</string>
+<string name="overGroupCountLimit">"पंगडाच्या मेजणेच्या वयर आसा"</string>
+<string name="menu_share_by_sms">"एसएमएस/एमएमएस वरवी संपर्क धाडात"</string>
+<string name="toast_batchoperation_is_running">"बॅच ऑपरेशन्स चालू आसात, उपकार करुन मागीर यत्न करात."</string>
+<string name="sdcard_storage_not_enough">"सांठो फावो तितलो ना!"</string>
+<string name="noJoinContactDataWith">"संपर्क विलीन करुंक जायना"</string>
+<string name="not_select_vCard">"खंयचेय vCard वेंचूंक ना"</string>
+<string name="selected_is_not_image">"ही वेंचिल्ली फायल चीत्र न्हय"</string>
+<string name="batch_delete_confim_title">"संपर्क वगळात"</string>
+<string name="batch_delete_confim_message">"वेंचिल्ले संपर्क वगळपाची तुमकां खात्री आसाt?"</string>
+<string name="transaction_too_large">"वेंचिल्ल्या संपर्काचो आकार मर्यादे वयर आसा, उपकार करुन उणे संपर्क वेंचात."</string>
+<string name="contacts_selection_too_more">"वेंचिल्ल्या संपर्कातलो किमान आंकडो आसा <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="recentCalls_empty">"कॉल लॉग रीते आसा."</string>
+<string name="menu_newContact">"नवो संपर्क"</string>
+<string name="contact_list_loading">"लोडींग..."</string>
+<string name="recentCallsIconLabel">"कॉल लॉग"</string>
+<string name="launcherDialer">"डायल"</string>
+<string name="delete_group_dialog_commit">"वेंचिल्ले पंगड तुमी वगळावंक सोदतात?"</string>
+<string name="noContactsWithPhoneNumbers">"फोन क्रमांका वांगडा संपर्क ना"</string>
+<string name="listTotalAllContactsZeroStarred">"आवडीचे ना."</string>
+<string name="contact_editor_prompt_multiple_accounts_short">"संपर्क सांठयात"</string>
+<string name="working_batch_starred">"बॅच स्टारींग"</string>
+<string name="star_done">"स्टार केले"</string>
+<string name="cancel_batch_star_confirmation">"स्टार संपर्क रद्द करात?"</string>
+<string name="upgrade_group_in_progress">"पंगड वळेरी अद्ययावत जाता"</string>
+<string name="sim_capacity">"SIM क्षमताय"</string>
+<string name="noSimCard">"उपलब्ध SIM कार्डां ना"</string>
+<string name="clear">"साफ"</string>
+<string name="cancel_select">"डीसीलेक्ट"</string>
+<string name="default_feature_bar_center">"वेंचात"</string>
+<string name="softkey_clear">"साफ"</string>
+<string name="softkey_back">"फाटी"</string>
+<string name="softkey_option">"पर्याय"</string>
+<string name="softkey_cancel">"रद्द"</string>
+<string name="softkey_dial">"डायल"</string>
+<string name="softkey_new">"नवे"</string>
+<string name="softkey_send">"धाडात"</string>
+<string name="softkey_search">"सोदात"</string>
+<string name="no_account_to_edit">"संपर्क सेव्ह करूंक यंत्रणा खातें ना, आनी ते संपर्क निर्माण करूंक शकना."</string>
+<string name="only_other_number_type">"फकत एक हेर क्रमांक सेव्ह करूंक शकना, उपकार करून ते तपासचे."</string>
+<string name="dup_phone_number_type">"समान प्रकारचे क्रमांक सेव्ह करूंक शकना, उपकार करून ते तपासात."</string>
+</resources>

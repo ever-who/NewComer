@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"ଲେଖା କପିହେଲା"</string>
+<string name="call_custom">"<xliff:g id="custom">%s</xliff:g> କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_home">"ହୋମକୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_mobile">"ମୋବାଇଲକୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_work">"କାର୍ଯ୍ୟସ୍ଥଳୀକୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_fax_work">"କଲ୍‍ କାର୍ଯ୍ୟ ଫାକ୍ସ"</string>
+<string name="call_fax_home">"ହୋମ ଫାକ୍ସକୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_pager">"ପେଜର୍‌କୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_other">"କଲ୍‍"</string>
+<string name="call_callback">"କଲ୍‌ବ୍ୟାକ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_car">"କାର୍‌କୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_company_main">"କମ୍ପାନୀ ମେନ୍‌କୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_isdn">"ISDN କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_main">"ମେନ୍‌କୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_other_fax">"ଫାକ୍ସକୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_radio">"ରେଡିଓକୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_telex">"ଟେଲେକ୍ସକୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_tty_tdd">"TTY/TDD କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_work_mobile">"ୱାର୍କ ମୋବାଇଲକୁ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_work_pager">"ୱାର୍କ ପେଜର୍‌ କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_assistant">"<xliff:g id="assistant">%s</xliff:g> କଲ୍‌କରନ୍ତୁ"</string>
+<string name="call_mms">"MMS କଲ୍‌କରନ୍ତୁ"</string>
+<string name="sms_custom">"ଲେଖନ୍ତୁ <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="sms_home">"ହୋମକୁ ଲେଖନ୍ତୁ"</string>
+<string name="sms_mobile">"ମୋବାଇଲକୁ ଲେଖନ୍ତୁ"</string>
+<string name="sms_work">"କାର୍ଯ୍ୟସ୍ଥଳୀକୁ ଲେଖନ୍ତୁ"</string>
+<string name="sms_fax_work">"ୱାର୍କ ଫାକ୍ସକୁ ଲେଖନ୍ତୁ"</string>
+<string name="sms_fax_home">"ହୋମ ଫାକ୍ସକୁ ଲେଖନ୍ତୁ"</string>
+<string name="sms_pager">"ପେଜର୍‌କୁ ଲେଖନ୍ତୁ"</string>
+<string name="sms_other">"ଲେଖନ୍ତୁ"</string>
+<string name="sms_callback">"କଲ୍‌ବ୍ୟାକ୍‌ ଲେଖନ୍ତୁ"</string>
+<string name="sms_car">"କାର୍‌କୁ ଲେଖନ୍ତୁ"</string>
+<string name="sms_company_main">"କମ୍ପାନୀ ମେନ୍‌ ଲେଖନ୍ତୁ"</string>
+<string name="sms_isdn">"ISDN ଲେଖନ୍ତୁ"</string>
+<string name="sms_main">"ମେନ୍‌ ଲେଖନ୍ତୁ"</string>
+<string name="sms_other_fax">"ଫାକ୍ସ ଲେଖନ୍ତୁ"</string>
+<string name="sms_radio">"ରେଡ଼ିଓ ଲେଖନ୍ତୁ"</string>
+<string name="sms_telex">"ଟେଲେକ୍ସ ଲେଖନ୍ତୁ"</string>
+<string name="sms_tty_tdd">"TTY/TDD ଲେଖନ୍ତୁ"</string>
+<string name="sms_work_mobile">"ୱାର୍କ ମୋବାଇଲ ଲେଖନ୍ତୁ"</string>
+<string name="sms_work_pager">"ୱାର୍କ ପେଜର୍‌ ଲେଖନ୍ତୁ"</string>
+<string name="sms_assistant">"ଲେଖନ୍ତୁ <xliff:g id="assistant">%s</xliff:g>"</string>
+<string name="sms_mms">"MMS ଲେଖନ୍ତୁ"</string>
+<string name="clearFrequentsConfirmation_title">"ବାରମ୍ବାର କରାଯାଇଥିବା ଯୋଗାଯୋଗକୁ କ୍ଲିଅର କରିବେକି?"</string>
+<string name="clearFrequentsConfirmation">"ଆପଣ People and Phone ଆପ୍ଲିକେସନ୍‍ଗୁଡିକରେ ବାରମ୍ବାର ସମ୍ପର୍କ କରାଯାଇଥିବା ତାଲିକାକୁ ଖାଲି କରିବେ, ଏବଂ ସ୍କ୍ରାଚ୍‍‍ରୁ ଏଡ୍ରେସିଂ ପସନ୍ଦଗୁଡିକୁ ଶିଖିବା ନିମନ୍ତେ ଇମେଲ୍‍ ଆପ୍ଲିକେସନ୍‍‍ଗୁଡିକୁ ଶକ୍ତିପ୍ରୟୋଗ  କରିବେ । "</string>
+<string name="clearFrequentsProgress_title">"ବାରମ୍ବାର କରାଯାଇଥିବା ଯୋଗାଯୋଗ ପରିଷ୍କାର କରୁଛି..."</string>
+<string name="status_available">"ଉପଲବ୍ଧ"</string>
+<string name="status_away">"ଦୁରରେ"</string>
+<string name="status_busy">"ବ୍ୟସ୍ତ"</string>
+<string name="contactsList">"ସମ୍ପର୍କ"</string>
+<string name="local_invisible_directory">"ଅନ୍ୟ"</string>
+<string name="directory_search_label">"ଡାଇରେକ୍ଟୋରି"</string>
+<string name="local_search_label">"ସମସ୍ତ ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<string name="user_profile_contacts_list_header">"ମତେ"</string>
+<string name="search_results_searching">"ସର୍ଚ୍ଚକରୁଛି..."</string>
+<string name="foundTooManyContacts">"<xliff:g id="count">%d</xliff:g> ରୁ ଅଧିକ ମିଳେ |"</string>
+<string name="listFoundAllContactsZero">"କୌଣସି ଯୋଗାଯୋଗ ନାହିଁ"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 ମିଳିଲା"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ମିଳିଲା"</item>
+</plurals>
+<string name="description_quick_contact_for">"<xliff:g id="name">%1$s</xliff:g> ପାଇଁ କ୍ୱିକ୍‌ ଯୋଗାଯୋଗ"</string>
+<string name="missing_name">"(ନାମ ନାହିଁ)"</string>
+<string name="favoritesFrequentCalled">"ବାରମ୍ବାର କଲ୍‌ କରାଯାଇଥିବା"</string>
+<string name="favoritesFrequentContacted">"ବାରମ୍ବାର ଯୋଗାଯୋଗ କରାଯାଇଥିବା"</string>
+<string name="description_view_contact_detail">"ଯୋଗାଯୋଗ ଭିଉକରନ୍ତୁ"</string>
+<string name="list_filter_phones">"ଫୋନ ନମ୍ବର ସହ ସମସ୍ତ ଯୋଗାଯୋଗ"</string>
+<string name="view_updates_from_group">"ଅପଡେଟ୍‌ ଭିଉ କରନ୍ତୁ"</string>
+<string name="account_phone" product="tablet">"କେବଳ – ଟେବଲେଟ, ଅନ୍‌ସିଙ୍କ୍‌ଡ୍‌"</string>
+<string name="account_phone" product="default">"କେବଳ – ଫୋନ, ଅନ୍‌ସିଙ୍କ୍‌ଡ୍‌"</string>
+<string name="nameLabelsGroup">"ନାମ"</string>
+<string name="nicknameLabelsGroup">"ଡାକନାମ"</string>
+<string name="full_name">"ନାମ"</string>
+<string name="name_given">"ପ୍ରଥମ ନାମ"</string>
+<string name="name_family">"ଶେଷ ନାମ"</string>
+<string name="name_prefix">"ନାମ ଉପସର୍ଗ"</string>
+<string name="name_middle">"ମଧ୍ୟ ନାମ"</string>
+<string name="name_suffix">"ନାମ ପ୍ରତ୍ୟୟ"</string>
+<string name="name_phonetic">"ଫୋନେଟିକ୍‌ ନାମ"</string>
+<string name="name_phonetic_given">"ଫୋନେଟିକ୍‌ ପ୍ରଥମ ନାମ"</string>
+<string name="name_phonetic_middle">"ଫୋନେଟିକ୍‌ ଦ୍ୱିତୀୟ ନାମ"</string>
+<string name="name_phonetic_family">"ଫୋନେଟିକ୍‌ ଶେଷ ନାମ"</string>
+<string name="phoneLabelsGroup">"ଫୋନ"</string>
+<string name="emailLabelsGroup">"ଇମେଲ"</string>
+<string name="postalLabelsGroup">"ଠିକଣା"</string>
+<string name="imLabelsGroup">"ଆଇଏମ୍‌"</string>
+<string name="organizationLabelsGroup">"ସଂଗଠନ"</string>
+<string name="relationLabelsGroup">"ସମ୍ପର୍କ"</string>
+<string name="eventLabelsGroup">"ସ୍ୱତନ୍ତ୍ର ତାରିଖଗୁଡିକ"</string>
+<string name="sms">"ମେସେଜ ଲେଖନ୍ତୁ"</string>
+<string name="postal_address">"ଠିକଣା"</string>
+<string name="ghostData_company">"କମ୍ପାନୀ"</string>
+<string name="ghostData_title">"ଶୀର୍ଷକ"</string>
+<string name="label_notes">"ନୋଟ୍‌ସ୍‍"</string>
+<string name="label_sip_address">"ଇଣ୍ଟରନେଟ୍‍ କଲ୍‍"</string>
+<string name="websiteLabelsGroup">"ୱେବସାଇଟ"</string>
+<string name="groupsLabel">"ଗ୍ରୁପ୍‌ଗୁଡିକ"</string>
+<string name="email_home">"ହୋମକୁ ଇମେଲ କରନ୍ତୁ" </string>
+<string name="email_mobile">"ମୋବାଇଲକୁ ଇମେଲ କରନ୍ତୁ"</string>
+<string name="email_work">"ୱାର୍କ ଇମେଲ କରନ୍ତୁ"</string>
+<string name="email_other">"ଇମେଲ"</string>
+<string name="email_custom">"<xliff:g id="custom">%s</xliff:g> ଇମେଲ କରନ୍ତୁ"</string>
+<string name="email">"ଇମେଲ"</string>
+<string name="postal_street">"ଷ୍ଟ୍ରିଟ୍‌"</string>
+<string name="postal_pobox">"ପିଓ ବକ୍ସ"</string>
+<string name="postal_neighborhood">"ପଡ଼ୋଶୀ"</string>
+<string name="postal_city">"ନଗରୀ"</string>
+<string name="postal_region">"ରାଜ୍ୟ"</string>
+<string name="postal_postcode">"ଜିପ କୋଡ"</string>
+<string name="postal_country">"ଦେଶ"</string>
+<string name="map_home">"ହୋମ ଠିକଣା ଭିଉକରନ୍ତୁ"</string>
+<string name="map_work">"ୱାର୍କ ଠିକଣା ଭିଉକରନ୍ତୁ"</string>
+<string name="map_other">"ଠିକଣା ଭିଉକରନ୍ତୁ"</string>
+<string name="map_custom">"<xliff:g id="custom">%s</xliff:g> ଠିକଣା ଭିଉକରନ୍ତୁ"</string>
+<string name="chat_aim">"AIM ବ୍ୟବହାର କରି ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="chat_msn">"ୱିଣ୍ଡୋଜ୍‌ ଲାଇଭ୍‌ ବ୍ୟବହାର କରି ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="chat_yahoo">"Yahoo ବ୍ୟବହାର କରି ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="chat_skype">"Skype ବ୍ୟବହାର କରି ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="chat_qq">"QQ ବ୍ୟବହାର କରି ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="chat_gtalk">"Google ଟକ୍‌ ବ୍ୟବହାର କରି ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="chat_icq">"ICQ ବ୍ୟବହାର କରି ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="chat_jabber">"ଜାବର୍‌ ବ୍ୟବହାର କରି ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="chat">"ଚାଟ୍‌କରନ୍ତୁ"</string>
+<string name="description_minus_button">"କାଟ"</string>
+<string name="expand_collapse_name_fields_description">"ନାମ ଫିଲ୍‌ଡ୍‌ ଗୁଡିକୁ ପ୍ରସାରିତ କିମ୍ବା ବନ୍ଦ କରନ୍ତୁ"</string>
+<string name="list_filter_all_accounts">"ସମସ୍ତ ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<string name="list_filter_all_starred">"ଷ୍ଟାର୍‌ଡ୍‌"</string>
+<string name="list_filter_customize">"ପାରମ୍ପାରିକ କରନ୍ତୁ"</string>
+<string name="list_filter_single">"ଯୋଗାଯୋଗ"</string>
+<string name="display_ungrouped">"ଅନ୍ୟ ସମସ୍ତ ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<string name="display_all_contacts">"ସମସ୍ତ ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<string name="menu_sync_remove">"ସିଙ୍କ ଗ୍ରୁପ କାଢ଼ନ୍ତୁ"</string>
+<string name="dialog_sync_add">"ସିଙ୍କ ଗ୍ରୁପ ଯୋଗ କରନ୍ତୁ"</string>
+<string name="display_more_groups">"ଅଧିକ ଗ୍ରୁପ୍‌..."</string>
+<string name="display_warn_remove_ungrouped">"ସିଙ୍କରୁ \"<xliff:g id="group" example ="Starred">%s</xliff:g>\" କାଢ଼ିଲେ ଏହା ସିଙ୍କରୁ ଗ୍ରୁପ କରାଯାଇନଥିବା ଯୋଗାଯୋଗ ଗୁଡିକୁ ମଧ୍ୟ କାଢ଼ିଦେବ |"</string>
+<string name="savingDisplayGroups">"ଡିସପ୍ଲେ ଅପ୍‌ସନ୍‌ ଗୁଡ଼ିକୁ ସେଭ୍‌କରୁଛି..."</string>
+<string name="menu_done">"ହୋଇଗଲା"</string>
+<string name="menu_doNotSave">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="listAllContactsInAccount">"<xliff:g id="name" example="abc@gmail.com">%s</xliff:g>ରେ ଯୋଗାଯୋଗ ଗୁଡ଼ିକ"</string>
+<string name="listCustomView">"କଷ୍ଟମ ଭିଉରେ ଯୋଗାଯୋଗ ଗୁଡ଼ିକ"</string>
+<string name="listSingleContact">"ଏକକ ଯୋଗାଯୋଗ"</string>
+<string name="dialog_new_contact_account">"ଆକାଉଣ୍ଟ ଅଧିନରେ ଯୋଗାଯୋଗ ସୃଷ୍ଟିକରନ୍ତୁ"</string>
+<string name="import_from_sim">"SIM କାର୍ଡ଼ରୁ ଇମ୍ପୋର୍ଟ କରନ୍ତୁ"</string>
+<string name="import_from_sdcard" product="default">"ବାହ୍ୟ ଷ୍ଟୋରେଜ୍‍‍ରୁ ଆମଦାନୀ"</string>
+<string name="cancel_import_confirmation_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ର ଇମ୍ପୋର୍ଟ କରିବା ବାତିଲ କରିବେକି?"</string>
+<string name="cancel_export_confirmation_message">"<xliff:g id="filename" example="export.vcf">%s</xliff:g> ର ଏକ୍ସପୋର୍ଟ କରିବା ବାତିଲ କରିବେକି?"</string>
+<string name="cancel_vcard_import_or_export_failed">"ଭିକାର୍ଡ଼ ଇମ୍ପୋର୍ଟ/ଏକ୍ସପୋର୍ଟ ବାତିଲ କରିହେଲା ନାହିଁ"</string>
+<string name="fail_reason_unknown">"ଅଜଣା ତ୍ରୁଟି |"</string>
+<string name="fail_reason_could_not_open_file">\"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g> ଖୋଲି ହେଲାନାହିଁ |"</string>
+<string name="fail_reason_could_not_initialize_exporter">"ଏକ୍ସପୋର୍ଟର୍‌କୁ ଷ୍ଟାର୍ଟ କରିହେଲା ନାହିଁ: \"<xliff:g id="exact_reason">%s</xliff:g>\"|"</string>
+<string name="fail_reason_no_exportable_contact">"କୌଣସି ଏକ୍ସପୋର୍ଟେବଲ୍‌ ଯୋଗାଯୋଗ ନାହିଁ |"</string>
+<string name="fail_reason_error_occurred_during_export">"ଏକ୍ସପୋର୍ଟ କଲାବେଳେ ଗୋଟିଏ ତ୍ରୁଟି ହେଲା: \"<xliff:g id="exact_reason">%s</xliff:g>\"|"</string>
+<string name="fail_reason_too_long_filename">"ଆବଶ୍ୟକୀୟ ଫାଇଲନାମ ଖୁବ ଲମ୍ବା (\"<xliff:g id="filename">%s</xliff:g>\")|"</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"ଷ୍ଟୋରେଜ୍‌ରେ ଅନେକ ସଂଖ୍ୟକ ଭିକାର୍ଡ଼ ଫାଇଲ ଗୁଡ଼ିକ ଅଛି |"</string>
+<string name="fail_reason_too_many_vcard" product="default">"SD କାର୍ଡ଼ରେ ଅନେକ ସଂଖ୍ୟକ ଭିକାର୍ଡ଼ ଫାଇଲ ଗୁଡ଼ିକ ଅଛି |"</string>
+<string name="fail_reason_io_error">"I/O ତ୍ରୁଟି"</string>
+<string name="fail_reason_low_memory_during_import">"ଯଥେଷ୍ଟ ମେମୋରି ନାହିଁ | ଫାଇଲଟି ଖୁବ ବଡ଼ ହୋ‌ଇପାରେ |"</string>
+<string name="fail_reason_vcard_parse_error">"ଏକ ଆଶାତୀତ କାରଣ ପାଇଁ ଭିକାର୍ଡ଼କୁ ବିଶ୍ଳେଷଣ କରିପାରିଲା ନାହିଁ |"</string>
+<string name="fail_reason_not_supported">"ଫର୍ମାଟ୍‌ଟି ସମର୍ଥିତ ନୁହେଁ |"</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">"ପ୍ରଦତ୍ତ ଭିକାର୍ଡ଼ ଫାଇଲ (ଗୁଡିକ)ର ଆନୁଷଙ୍ଗିକ ସୁଚନା ସଂଗ୍ରହ କରିପାରିଲା ନାହିଁ |"</string>
+<string name="fail_reason_failed_to_read_files">"ଗୋଟିଏ କିମ୍ବା ଅଧିକ ଫାଇଲ ଇମ୍ପୋର୍ଟ କରିହେଲାନାହିଁ(%s)"</string>
+<string name="exporting_vcard_finished_title">"<xliff:g id="filename" example="export.vcf">%s</xliff:g> ଏକ୍ସପୋର୍ଟ କରିବା ସମାପ୍ତ ହେଲା |"</string>
+<string name="exporting_vcard_canceled_title">"<xliff:g id="filename" example="export.vcf">%s</xliff:g> ଏକ୍ସପୋର୍ଟ କରିବା ବାତିଲ ହେଲା |"</string>
+<string name="exporting_contact_list_title">"ଯୋଗାଯୋଗ ଡାଟା ଏକ୍ସପୋର୍ଟ ହେଉଛି"</string>
+<string name="exporting_contact_list_message">"ଆପଣଙ୍କ ଯୋଗାଯୋଗ ଡାଟା <xliff:g id="file_name">%s</xliff:g>କୁ ଏକ୍ସପୋର୍ଟ ହେଉଛି |"</string>
+<string name="composer_failed_to_get_database_infomation">"ଡାଟାବେସ୍‌ ସୁଚନା ପାଇଲାନାହିଁ |"</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"ଏକ୍ସପୋର୍ଟ କଲାଭଳି ଯୋଗାଯୋଗ କିଛି ନାହିଁ | ଯଦି ଆପଣଙ୍କ ନିକଟରେ ଆପଣଙ୍କ ଟେବଲେଟରେ ଯୋଗାଯୋଗ ଗୁଡିକ ଥାଏ, କେତେକ ଡାଟା ପ୍ରଦାନକାରୀ ଟେବଲେଟରୁ ଯୋଗାଯୋଗ ଗୁଡିକ ଏକ୍ସପୋର୍ଟ କରିବାକୁ ଦେଇନପାରନ୍ତି |"</string>
+<string name="composer_has_no_exportable_contact" product="default">"ଏକ୍ସପୋର୍ଟ କଲାଭଳି ଯୋଗାଯୋଗ କିଛି ନାହିଁ | ଯଦି ଆପଣଙ୍କ ନିକଟରେ ଆପଣଙ୍କ ଟେବଲେଟରେ ଯୋଗାଯୋଗ ଗୁଡିକ ଥାଏ, କେତେକ ଡାଟା ପ୍ରଦାନକାରୀ ଫୋନରୁ ଯୋଗାଯୋଗ ଗୁଡିକ ଏକ୍ସପୋର୍ଟ କରିବାକୁ ଦେଇନପାରନ୍ତି |"</string>
+<string name="composer_not_initialized">"ଭିକାର୍ଡ କମ୍ପୋଜର୍‌ ଠିକଭାବରେ ଆରମ୍ଭ ହେଲାନାହିଁ |"</string>
+<string name="exporting_contact_failed_title">"ଏକ୍ସପୋର୍ଟ କରିପାରିଲା ନାହିଁ"</string>
+<string name="exporting_contact_failed_message">"ଯୋଗାଯୋଗ ଡାଟା ଏକ୍ସପୋର୍ଟ ହେଲାନାହିଁ | \nକାରଣ: \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+<string name="no_sdcard_message" product="nosdcard">"କୌଣସି ଷ୍ଟୋରେଜ୍‍‍ର ସନ୍ଧାନ ମିଳିଲା ନାହିଁ ।"</string>
+<string name="no_sdcard_message" product="default">"କୌଣସି SD କାର୍ଡର ସନ୍ଧାନ ମିଳିଲା ନାହିଁ ।"</string>
+<string name="confirm_export_message">"ଆପଣଙ୍କ ସମ୍ପର୍କ ତାଲିକା: <xliff:g id="vcard_filename">%s</xliff:g> ଫାଇଲ୍‍‍କୁ ରପ୍ତାନୀ ହେବ"</string>
+<string name="importing_vcard_description">"<xliff:g id="name" example="Joe Due">%s</xliff:g> ଇମ୍ପୋର୍ଟ କରୁଛି |"</string>
+<string name="reading_vcard_failed_title">"ଭିକାର୍ଡ଼ ଡାଟା ରିଡ଼ କରିପାରିଲା ନାହିଁ"</string>
+<string name="reading_vcard_canceled_title">"ଭିକାର୍ଡ଼ ଡାଟା ରିଡ଼ କରିବା ବାତିଲ ହେଲା"</string>
+<string name="importing_vcard_finished_title">"ଭିକାର୍ଡ଼ <xliff:g id="filename" example="import.vcf">%s</xliff:g> ଇମ୍ପୋର୍ଟ କରିବା ସମାପ୍ତ ହେଲା"</string>
+<string name="importing_vcard_canceled_title">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ଇମ୍ପୋର୍ଟ କରିବା ବାତିଲ ହେଲା |"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ଅଳ୍ପ ସମୟ ଭିତରେ ଇମ୍ପୋର୍ଟ ହେବ |"</string>
+<string name="vcard_import_will_start_message_with_default_name">"ଫାଇଲଟି ଅଳ୍ପ ସମୟ ଭିତରେ ଇମ୍ପୋର୍ଟ ହେବ |"</string>
+<string name="vcard_import_request_rejected_message">"ଭିକାର୍ଡ଼ ଇମ୍ପୋର୍ଟ ଅନୁରୋଧ ପ୍ରତ୍ୟାଖ୍ୟାନ ହେଲା | ପରେ ପୁନର୍ବାର ଚେଷ୍ଟାକରନ୍ତୁ |"</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ଅଳ୍ପ ସମୟ ଭିତରେ ଏକ୍ସପୋର୍ଟ ହେବ |"</string>
+<string name="vcard_export_request_rejected_message">"ଭିକାର୍ଡ଼ ଏକ୍ସପୋର୍ଟ ଅନୁରୋଧ ପ୍ରତ୍ୟାଖ୍ୟାନ ହେଲା | ପରେ ପୁନର୍ବାର ଚେଷ୍ଟାକରନ୍ତୁ |"</string>
+<string name="vcard_unknown_filename">"ଯୋଗାଯୋଗ"</string>
+<string name="caching_vcard_message">"ଭିକାର୍ଡ଼ (ଗୁଡିକୁ) ସ୍ଥାନୀୟ ଅସ୍ଥାୟୀ ଷ୍ଟୋରେଜରେ ଲୁଚେଇ ରଖିବା | ପ୍ରକୃତ ଇମ୍ପୋର୍ଟ ଶୀଘ୍ର ଆରମ୍ଭ ହେବ |"</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"ଭିକାର୍ଡ଼କୁ ଉନ୍ନତ କରିହେଲା ନାହିଁ |"</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"ଷ୍ଟୋରେଜରେ କୌଣସି ଭିକାର୍ଡ଼ ଫାଇଲ ମିଳିଲା ନାହିଁ |"</string>
+<string name="import_failure_no_vcard_file" product="default">"SD କାର୍ଡ଼ରେ କୌଣସି ଭିକାର୍ଡ଼ ଫାଇଲ ମିଳିଲା ନାହିଁ |"</string>
+<string name="nfc_vcard_file_name">"ଏନ୍‌ଏଫ୍‌ସିରେ ଯୋଗାଯୋଗ ରିସିଭ୍‌ ହେଲା"</string>
+<string name="confirm_export_title">"ଯୋଗାଯୋଗ ଗୁଡିକୁ ଏକ୍ସପୋର୍ଟ କରିବେକି?"</string>
+<string name="select_vcard_title">"vCard ଫାଇଲ୍‍ ଚୟନ କରନ୍ତୁ"</string>
+<string name="import_one_vcard_string">"ଗୋଟିଏ vCard ଫାଇଲ୍‍ ଆମଦାନୀ କରନ୍ତୁ"</string>
+<string name="import_multiple_vcard_string">"ବହୁଗୁଣିତ vCard ଫାଇଲ୍‍ ଆମଦାନୀ କରନ୍ତୁ"</string>
+<string name="import_all_vcard_string">"ସମସ୍ତ vCard ଫାଇଲ୍‍ ଆମଦାନୀ କରନ୍ତୁ"</string>
+<string name="searching_vcard_message" product="nosdcard">"ଷ୍ଟୋରେଜ୍‍‍ରେ vCard ଡାଟା ଅନୁସନ୍ଧାନ କରୁଅଛି..."</string>
+<string name="searching_vcard_message" product="default">"ଷ୍ଟୋରେଜ୍‍‍ରେ vCard ଡାଟା ଅନୁସନ୍ଧାନ କରୁଅଛି..."</string>
+<string name="caching_vcard_title">"ଲୁଚେଇରଖୁଛି"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"ଷ୍ଟୋରେଜ ସ୍କାନ କରିହେଲା ନାହିଁ | (କାରଣ: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">"SD କାର୍ଡ଼ ସ୍କାନ କରିହେଲା ନାହିଁ | (କାରଣ: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">"<xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g> ଇମ୍ପୋର୍ଟ କରୁଛି |"</string>
+<string name="export_to_sdcard" product="default">"ବାହ୍ୟ ଷ୍ଟୋରେଜ୍‍‍କୁ ରପ୍ତାନୀ"</string>
+<string name="share_visible_contacts">"ଦୃଶ୍ୟମାନ ଯୋଗାଯୋଗ ଗୁଡିକ ସେଆର୍‌ କରନ୍ତୁ |"</string>
+<string name="dialog_import_export">"ଇମ୍ପୋର୍ଟ/ଏକ୍ସପୋର୍ଟ ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<string name="dialog_import">"ଯୋଗାଯୋଗ ଗୁଡିକୁ ଇମ୍ପୋର୍ଟ କରନ୍ତୁ"</string>
+<string name="share_error">"ଏହି ଯୋଗାଯୋଗକୁ ସେଆର୍‌ କରିହେବ ନାହିଁ |"</string>
+<string name="menu_search">"ଖୋଜ"</string>
+<string name="menu_contacts_filter">"ଡିସପ୍ଲେ କରିବାକୁ ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<string name="activity_title_contacts_filter">"ଡିସପ୍ଲେ କରିବାକୁ ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<string name="custom_list_filter">"କଷ୍ଟମ୍‌ ଭିଉ ବ୍ୟାଖ୍ୟାକରନ୍ତୁ"</string>
+<string name="hint_findContacts">"ଯୋଗାଯୋଗ ଗୁଡିକୁ ଖୋଜନ୍ତୁ"</string>
+<string name="contactsFavoritesLabel">"ଫେଭରାଇଟ୍‌"</string>
+<string name="listTotalAllContactsZero">"କିଛି ଯୋଗାଯୋଗ ନାହିଁ |"</string>
+<string name="listTotalAllContactsZeroCustom">"କୌଣସି ଦୃଶ୍ୟମାନ ଯୋଗାଯୋଗ ନାହିଁ |"</string>
+<string name="listTotalAllContactsZeroStarred">"ଫେଭରାଇଟ କିଛି ନାହିଁ |"</string>
+<string name="listTotalAllContactsZeroGroup">"<xliff:g id="name" example="Friends">%s</xliff:g> ରେ କୌଣସି ଯୋଗାଯୋଗ ନାହିଁ |"</string>
+<string name="menu_clear_frequents">"ଫ୍ରିକ୍ୱେଣ୍ଟ୍‌ସ୍‌କୁ କ୍ଲିଅର୍‌ କରନ୍ତୁ"</string>
+<string name="menu_accounts">"ଆକାଉଣ୍ଟଗୁଡିକ"</string>
+<string name="menu_import_export">"ଇମ୍ପୋର୍ଟ/ଏକ୍ସପୋର୍ଟ"</string>
+<string name="description_send_message">"ଏଥିକୁ <xliff:g id="name">%1$s</xliff:g> ବାର୍ତ୍ତା ପ୍ରେରଣ କରନ୍ତୁ"</string>
+<string name="description_dial_phone_number">"<xliff:g id="name">%1$s</xliff:g> ଫୋନ ଡାଏଲ କରନ୍ତୁ |"</string>
+<string name="select_all_contacts">"ସବୁ ଯାକ ବାଛନ୍ତୁ"</string>
+<string name="select_card">"ଦୟାକରି କାର୍ଡ଼ ଭର୍ତ୍ତିକରନ୍ତୁ"</string>
+<string name="choose_sim_card">"SIM କାର୍ଡ଼ ବାଛନ୍ତୁ"</string>
+<string name="fail_reason_empty">"ଯୋଗାଯୋଗ ଡାଟା ଶୂନ୍ୟକରନ୍ତୁ"</string>
+<string name="import_from_phone">"ଆଭ୍ୟନ୍ତରୀଣ ଷ୍ଟୋରେଜ୍‍‍ଠାରୁ ଆମଦାନୀ କରନ୍ତୁ"</string>
+<string name="label_phone">"ଫୋନ"</string>
+<string name="listTotalPhoneContactsZero">"କୌଣସି ଯୋଗାଯୋଗ ନାହିଁ"</string>
+<string name="cancel_select_all_contacts">"ଅଲ୍‌କୁ ବାତିଲକରନ୍ତୁ"</string>
+<string name="no_match_contact">"ମେଳ ନହେଉଥିବା ଯୋଗାଯୋଗ ଗୁଡିକ"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 ସମ୍ପର୍କ ମେଳ ହେଲା"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> ସମ୍ପର୍କ ମେଳ ହେଉଛି"</item>
+</plurals>
+<string name="copy_to">"କପି ଟୁ"</string>
+<string name="export_to_phone">"ଆଭ୍ୟନ୍ତରୀଣ ଷ୍ଟୋରେଜ୍‍‍କୁ ରପ୍ତାନୀ କରନ୍ତୁ"</string>
+<string name="contacts_selection_for_mms_limit">"ମନୋନୀତ ସଂଖ୍ୟାର ସୀମିତ ସଂଖ୍ୟା ହେଉଛି <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="contact_status_update_attribution">"<xliff:g id="source" example="Google Talk">%1$s</xliff:g> ଜରିଆରେ |"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g>  <xliff:g id="source" example="Google Talk">%2$s</xliff:g> ଜରିଆରେ"</string>
+<string name="list_contact_phone">"ଫୋନ ନମ୍ବର ଗୁଡିକ ସହ ଯୋଗାଯୋଗ"</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">"ବାଛନ୍ତୁ"</item>
+<item quantity="other">"ସିଲେକ୍ଟ କରାଯାଇଥିବା (<xliff:g id="COUNT">%d</xliff:g>)"</item>
+</plurals>
+<string name="select_cancle">"ବାତିଲ କରନ୍ତୁ"</string>
+<string name="select_audio_video_call">"ଦୟାକରି ଅଡିଓ କଲ୍‍ କିମ୍ବା ଭିଡିଓ କଲ୍‍ ଚୟନ କରନ୍ତୁ"</string>
+    <string name="contact_has_no_phonenumber">"କଲ୍‌ କରିବା ପାଇଁ ଏହି ଯୋଗାଯୋଗଟିର କୌଣସି ଫୋନ ନମ୍ବର ନାହିଁ |"</string>
+
+</resources>

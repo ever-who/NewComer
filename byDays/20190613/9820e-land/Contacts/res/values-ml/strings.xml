@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">"ആളുകള്‍"</string>
+<string name="contactsList">"കോണ്‍ടാക്ടുകള്‍"</string>
+<string name="shortcutContact">"കോണ്‍ടാക്ട്"</string>
+<string name="shortcutDialContact">"ഡയറക്ട് ഡയല്‍"</string>
+<string name="shortcutMessageContact">"ഡയറക്ട് മെസ്സേജ്"</string>
+<string name="shortcutActivityTitle">"കോണ്‍ടാക്ട് എളുപ്പവഴി തെരഞ്ഞെടുക്കുക"</string>
+<string name="callShortcutActivityTitle">"കോള്‍ ചെയ്യാന്‍ നമ്പര്‍ തെരഞ്ഞെടുക്കുക"</string>
+<string name="messageShortcutActivityTitle">"സന്ദേശം അയയ്ക്കാന്‍ നമ്പര്‍ തെരഞ്ഞെടുക്കുക"</string>
+<string name="contactPickerActivityTitle">"കോണ്‍ടാക്ട് തെരഞ്ഞെടുക്കുക"</string>
+<string name="starredList">"സ്റ്റാര്‍ ചെയ്തവ"</string>
+<string name="frequentList">"പതിവായി ബന്ധപ്പെടുന്നവ"</string>
+<string name="strequentList">"ഫേവറിറ്റുകള്‍"</string>
+<string name="viewContactTitle">"കോണ്‍ടാക്ട് വിശദവിവരങ്ങള്‍"</string>
+<string name="viewContactDesription">"കോണ്‍ടാക്ട് കാണുക"</string>
+<string name="editContactDescription">"കോണ്‍ടാക്ട് തിരുത്തുക"</string>
+<string name="insertContactDescription">"കോണ്‍ടാക്ട് ചേര്‍ക്കുക"</string>
+<string name="editGroupDescription">"ഗ്രൂപ്പ് തിരുത്തുക"</string>
+<string name="insertGroupDescription">"ഗ്രൂപ്പ് ചേര്‍ക്കുക"</string>
+<string name="contactDetailAbout">"ഇതിനെക്കുറിച്ച്"</string>
+<string name="contactDetailUpdates">"അപ്ഡേറ്റുകള്‍"</string>
+<string name="searchHint">"കോണ്‍ടാക്ട് തിരയുക"</string>
+<string name="menu_viewContact">"കോണ്‍ടാക്ട് കാണുക"</string>
+<string name="menu_addStar">"ഫേവറിറ്റുകളിലേയ്ക്ക് ചേര്‍ക്കുക"</string>
+<string name="menu_removeStar">"ഫേവറിറ്റുകളില്‍നിന്ന് കളയുക"</string>
+<string name="menu_editContact">"തിരുത്തുക"</string>
+<string name="menu_deleteContact">"നീക്കം ചെയ്യുക"</string>
+<string name="menu_create_contact_shortcut">"ഹോം സ്കൂീനില്‍ സ്ഥാപിക്കുക"</string>
+<string name="menu_call">"കോണ്‍ടാക്ടിനെ കോള്‍ ചെയ്യുക"</string>
+<string name="menu_sendSMS">"കോണ്‍ടാക്ടിന് സന്ദേശം അയയ്ക്കുക"</string>
+<string name="menu_splitAggregate">"വേര്‍തിരിക്കുക"</string>
+<string name="menu_editGroup">"തിരുത്തുക"</string>
+<string name="menu_deleteGroup">"നീക്കം ചെയ്യുക"</string>
+<string name="menu_new_contact_action_bar">"കോണ്‍ടാക്ട് കൂട്ടിച്ചേർക്കുക"</string>
+<string name="menu_new_group_action_bar">"ഗ്രൂപ്പ് ചേര്‍ക്കുക"</string>
+<string name="splitConfirmation_title">"കോണ്‍ടാക്ട് വേര്‍തിരിക്കണോ?"</string>
+<string name="splitConfirmation">"ഈ കോണ്‍ടാക്ട് പല കോണ്‍ടാക്ടുകളായി വേര്‍തിരിക്കും."</string>
+<string name="menu_joinAggregate">"കൂട്ടിചേര്‍ക്കുക"</string>
+<string name="titleJoinContactDataWith">"കോണ്‍ടാക്ടുമായി കൂട്ടിച്ചേര്‍ക്കുക"</string>
+<string name="blurbJoinContactDataWith">"<xliff:g id="name">%s</xliff:g>കൂട്ടിച്ചേര്‍ക്കേണ്ട കോണ്‍ടാക്ട് തെരഞ്ഞെടുക്കുക:"</string>
+<string name="showAllContactsJoinItem">"എല്ലാ കോണ്‍ടാക്ടുകളും കാണിക്കുക"</string>
+<string name="separatorJoinAggregateSuggestions">"നിര്‍ദ്ദേശിക്കപ്പെട്ട കോണ്‍‍ടാക്ടുകള്‍"</string>
+<string name="separatorJoinAggregateAll">"കോണ്‍ടാക്ടുകള്‍ മുഴുവന്‍"</string>
+<string name="contactsJoinedMessage">"കോണ്‍ടാക്ടുകള്‍ കൂട്ടിച്ചേര്‍ത്തു"</string>
+<string name="menu_set_ring_tone">"റിങ്ടോണ്‍ സെറ്റ് ചെയ്യുക"</string>
+<string name="menu_redirect_calls_to_vm">"വോയ്സ് മെയിലിലേക്കുള്ള എല്ലാ കോളുകളും"</string>
+<string name="readOnlyContactWarning">"റീഡ്-ഒണ്‍ലി അക്കൗണ്ടുകളിലെ കോണ്‍ടാക്ടുകള്‍ മായ്ച്ചു കളയാന്‍ സാധ്യമല്ല, പക്ഷെ കോണ്‍ടാക്ട് പട്ടികയില്‍ അദൃശ്യമാക്കി വയ്ക്കാന്‍ കഴിയും."</string>
+<string name="label_phone">"ഫോണ്‍"</string>
+<string name="readOnlyContactDeleteConfirmation">"ഒന്നിലധികം അക്കൊണ്ടില്‍ നിന്നുള്ള വിവരങ്ങള്‍ ഈ കോണ്‍ടാക്ടിലുണ്ട്. റീഡ്-ഒണ്‍ലി അക്കൗണ്ടില്‍ നിന്നുള്ള വിവരങ്ങള്‍ മായ്ച്ചിട്ടില്ല, പകരം അദൃശ്യമാക്കി വച്ചിരിക്കുന്നു."</string>
+<string name="multipleContactDeleteConfirmation">"കോണ്‍ടാക്ട് മായ്ക്കുമ്പോള്‍ പല അക്കൗണ്ടുകളില്‍ ഉള്ള ഈ കോണ്‍ടാക്ടിന്റെ വിവരങ്ങള്‍ നീക്കം ചെയ്യും."</string>
+<string name="deleteConfirmation">"ഈ കോണ്‍ടാക്ട് നീക്കം ചെയ്യും."</string>
+<string name="menu_discard">"ഉപേക്ഷിക്കുക"</string>
+<string name="invalidContactMessage">"കോണ്‍ടാക്ട് നിലവിലില്ല."</string>
+<string name="createContactShortcutSuccessful">"കോണ്‍ടാക്ട് വിഡ്ജറ്റ് ഹോം സ്ക്രീനില്‍ സ്ഥാപിച്ചു."</string>
+<string name="pickerNewContactHeader">"പുതിയ കോണ്‍ടാക്ട് ചേര്‍ക്കുക"</string>
+<string name="pickerNewContactText">"പുതിയ കോണ്‍ടാക്ട് ചേര്‍ക്കുക"</string>
+<string-array name="otherLabels">
+<item>"സംഘടന"</item>
+<item>"കുറിപ്പ്"</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">"ടാബ്ലെറ്റില്‍ ചിത്രങ്ങള്‍ ഒന്നും ലഭ്യമല്ല."</string>
+<string name="photoPickerNotFoundText" product="default">"ഫോണ്ല്‍ ചിത്രങ്ങള്‍ ഒന്നും ലഭ്യമല്ല."</string>
+<string name="attach_photo_dialog_title">"കോണ്‍ടാക്ട് ഫോട്ടോ"</string>
+<string name="customLabelPickerTitle">"കസ്റ്റം ലേബല്‍"</string>
+<string name="send_to_voicemail_checkbox">"കോളുകള്‍ നേരിട്ട് വോയ്സ്മെയിലിലേക്ക് അയയ്ക്കുക"</string>
+<string name="removePhoto">"ഫോട്ടോ നീക്കം ചെയ്യുക"</string>
+<string name="noContacts">"കോണ്‍ടാക്ടുകള്‍ ഒന്നും ഇല്ല."</string>
+<string name="noGroups">"ഗ്രൂപ്പുകള്‍ ഒന്നും ഇല്ല."</string>
+<string name="noAccounts">"ഗ്രൂപ്പ് ചേര്‍ക്കാന്‍ താങ്കള്‍ക്ക് അക്കൗണ്ട് വേണം."</string>
+<string name="emptyGroup">"ഈ ഗ്രൂപ്പില്‍ കോണ്‍ടാക്ട് ഒന്നും ഇല്ല."</string>
+<string name="addPeopleToGroup">"കോണ്‍ടാക്ട് ചേര്‍ക്കാന്‍, ഗ്രൂപ്പ് ക്രമീകരണങ്ങള്‍ തിരുത്തുക."</string>
+<string name="savingContact">"കോണ്‍ടാക്ട് സൂക്ഷിക്കുന്നു\u2026"</string>
+<string name="contactSavedToast">"കോണ്‍ടാക്ട് സൂക്ഷിച്ചിരിക്കുന്നു."</string>
+<string name="contactSavedErrorToast">"കോണ്‍ടാക്ടിലെ മാറ്റങ്ങള്‍ സൂക്ഷിക്കാനായില്ല."</string>
+<string name="groupSavedToast">"ഗ്രൂപ്പ് സൂക്ഷിച്ചിരിക്കുന്നു."</string>
+<string name="groupSavedErrorToast">"ഗ്രൂപ്പിലെ മാറ്റങ്ങള്‍ സൂക്ഷിക്കാനായില്ല."</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">"ഫോണ്‍ നമ്പറുള്ള 1 കോണ്‍ടാക്ട് ഉണ്ട്"</item>
+<item quantity="other">"ഫോണ്‍ നമ്പറുള്ള <xliff:g id="count">%d</xliff:g> കോണ്‍ടാക്ടുകള്‍ ഉണ്ട്"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">"ഫോണ്‍ നമ്പറുള്ള കോണ്‍ടാക്ട് ഒന്നും ഇല്ല."</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">"1 കോണ്‍ടാക്ട്"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> കോണ്‍ടാക്ടുകള്‍"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">"1 കിട്ടി"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> കിട്ടി"</item>
+</plurals>
+<string name="listFoundAllContactsZero">"കോണ്‍ടാക്ടുകള്‍ ഒന്നും ഇല്ല"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 കിട്ടി"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> കിട്ടി"</item>
+</plurals>
+<string name="contactsAllLabel">"കോണ്‍ടാക്ടുകള്‍ മുഴുവന്‍"</string>
+<string name="contactsGroupsLabel">"ഗ്രൂപ്പുകള്‍"</string>
+<string name="callBack">"തിരിച്ചു വിളിക്കുക"</string>
+<string name="callAgain">"വീണ്ടും വിളിക്കുക"</string>
+<string name="returnCall">"റിട്ടേണ്‍ കോള്‍"</string>
+<string name="add_contact_dlg_message_fmt">"\"<xliff:g id="email">%s</xliff:g>\" കോണ്‍ടാക്ടുകളിലേയ്ക്ക് ചേര്‍ക്കട്ടെ?"</string>
+<string name="description_contact_photo">"കോണ്‍ടാക്ട് ഫോട്ടോ"</string>
+<string name="description_plus_button">"കൂട്ടുക"</string>
+<string name="exporting_contact_list_progress">"<xliff:g id="current_number">%s</xliff:g> ല്‍ <xliff:g id="total_number">%s</xliff:g> കോണ്‍ടാക്ടുകള്‍"</string>
+<string name="search_settings_description">"കോണ്‍ടാക്ടുകളുടെ പേരുകള്‍"</string>
+<string name="quickcontact_missing_app">"ഈ നിര്‍ദ്ദേശം നിര്‍വ്വഹിക്കാനുള്ള അപ്ലിക്കേഷനുകള്‍ ഒന്നും ലഭ്യമല്ല."</string>
+<string name="menu_share">"പങ്കു വയ്‌ക്കുക"</string>
+<string name="share_via">"കോണ്‍ടാക്ട് ഇതു വഴി ഷെയര്‍ ചെയ്യുക"</string>
+<string name="dialog_new_group_account">"ഈ അക്കൗണ്ടില്‍ ഗ്രൂപ്പ് ചേര്‍ക്കുക"</string>
+<string name="audio_chat">"വോയ്സ് ചാറ്റ്"</string>
+<string name="video_chat">"വീഡിയോ ചാറ്റ്"</string>
+<string name="connections">"കണക്ഷനുകള്‍"</string>
+<string name="add_connection_button">"കണക്ഷന്‍ ചേര്‍ക്കുക"</string>
+<string name="recent">"സമീപസ്ഥം"</string>
+<string name="recent_updates">"പുതിയ അപ്ഡേറ്റുകള്‍"</string>
+<string name="account_type_format">"<xliff:g id="source" example="Gmail">%1$s</xliff:g> കോണ്‍ടാക്ട്"</string>
+<string name="from_account_format">"<xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">"ഈ ഫോട്ടോ ഉപയോഗിക്കുക"</string>
+<string name="contact_read_only">"ഈ അപ്ലിക്കേഷനില്‍ നിന്ന് തിരുത്താന്‍ സാധിക്കില്ല."</string>
+<string name="no_contact_details">"ഈ കോണ്‍ടാക്ടിനെപ്പറ്റി കൂടുതല്‍ വിവരങ്ങള്‍ ലഭ്യമല്ല."</string>
+<string name="group_read_only">"ഈ ഡിവൈസില്‍ തിരുത്താന്‍ സാധ്യമല്ല."</string>
+<string name="display_options_sort_list_by">"കോണ്‍ടാക്ട് ലിസ്റ്റ് ക്രമീകരിക്കേണ്ടത്"</string>
+<string name="display_options_sort_by_given_name">"വ്യക്തിനാമം"</string>
+<string name="display_options_sort_by_family_name">"കുടുംബപേര്"</string>
+<string name="display_options_view_names_as">"കോണ്‍ടാക്ടിലെ പേരുകള്‍ കാണേണ്ടത്"</string>
+<string name="display_options_view_given_name_first">"വ്യക്തിനാമം ആദ്യം"</string>
+<string name="display_options_view_family_name_first">"കുടുംബപേര് ആദ്യം"</string>
+<string name="take_photo">"ഫോട്ടോ എടുക്കുക"</string>
+<string name="take_new_photo">"പുതിയ ഫോട്ടോ എടുക്കുക"</string>
+<string name="pick_photo">"ഗാലറിയില്‍നിന്ന് ഫോട്ടോ തെരഞ്ഞെടുക്കുക"</string>
+<string name="pick_new_photo">"ഗാലറിയില്‍നിന്ന് പുതിയ ഫോട്ടോ തെരഞ്ഞെടുക്കുക"</string>
+<string name="locale_change_in_progress">"ഭാഷ മാറിയതനുസരിച്ച് കോണ്‍ടാക്ട് ലിസ്റ്റ് പുതുക്കുന്നു."</string>
+<string name="upgrade_in_progress">"കോണ്‍ടാക്ട് ലിസ്റ്റ് പുതുക്കുന്നു."</string>
+<string name="upgrade_out_of_memory">"കോണ്‍ടാക്ടുകള്‍ പുതുക്കിക്കൊണ്ടിരിക്കുകയാണ്. \n\nഈ പ്രവൃത്തിയ്ക്ക് ഏകദേശം <xliff:g id="size_in_megabytes">%s</xliff:g> MB ഇന്റേണല്‍ സ്റ്റോറേജ് ആവശ്യമാണ്.\n\nതാഴെ കാണുന്ന ഓപ്ഷനുകളില്‍ ഒന്ന് തെരഞ്ഞെടുക്കുക:"</string>
+<string name="upgrade_out_of_memory_uninstall">"കുറച്ച് അപ്ലിക്കേഷനുകള്‍ അണ്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്യുക"</string>
+<string name="upgrade_out_of_memory_retry">"കോണ്‍ടാക്ട് പുതുക്കാന്‍ വീണ്ടും ശ്രമിക്കു"</string>
+<string name="search_results_searching">"തിരയുന്നു\u2026"</string>
+<string name="menu_display_selected">"തെരഞ്ഞെടുത്തവ കാണിക്കുക"</string>
+<string name="menu_display_all">"എല്ലാം കാണിക്കുക"</string>
+<string name="menu_select_all">"എല്ലാ തെരഞ്ഞെടുക്കുക"</string>
+<string name="menu_select_none">"എല്ലാം അണ്‍സെലക്ട് ചെയ്യുക"</string>
+<string name="add_field">"ഒരു ഫീല്‍ഡ് ചേര്‍ക്കുക"</string>
+<string name="add_new_entry_for_section">"പുതിയതൊന്ന് ചേര്‍ക്കുക"</string>
+<string name="add_organization">"സംഘടന ചേര്‍ക്കുക"</string>
+<string name="event_edit_field_hint_text">"തിയ്യതി"</string>
+<string name="group_edit_field_hint_text">"ഗ്രൂപ്പ് പേര്"</string>
+<string name="description_star">"ഫേവറിറ്റ്"</string>
+<string name="edit_contact">"കോണ്‍ടാക്ട് തിരുത്തുക"</string>
+<plurals name="merge_info">
+<item quantity="one">"കൂട്ടിച്ചേര്‍ത്തില്ല"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> സോഴ്സുകളില്‍നിന്ന് കൂട്ടിച്ചേര്‍ത്തു"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">"ഈ കോണ്‍ടാക്ട് തെരഞ്ഞെടുത്ത കോണ്‍ടാക്ടുമായി കൂട്ടിച്ചേര്‍ക്കണോ?"</string>
+<string name="aggregation_suggestion_edit_dialog_message">"തെരഞ്ഞെടുത്ത കോണ്‍ടാക്ട് തിരുത്തണോ? ഇതുവരെ ചേര്‍ത്ത വിവരങ്ങളും പകര്‍ത്തുന്നതാണ്."</string>
+<string name="menu_copyContact">"എന്റെ കോണ്‍ടാക്ടുകളിലേക്ക് പകര്‍ത്തുക"</string>
+<string name="add_to_my_contacts">"എന്റെ കോണ്‍ടാക്ടുകളിലേക്ക് ചേര്‍ക്കുക"</string>
+<string name="contact_directory_description">"ഡയറക്ടറി <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g>"</string>
+<string name="toast_making_personal_copy">"ഒരു വ്യക്തിഗത കോപ്പി ഉണ്ടാക്കുന്നു\u2026"</string>
+<string name="list_filter_custom">"കസ്റ്റം"</string>
+<string name="activity_title_settings">"ക്രമീകരങ്ങള്‍"</string>
+<string name="menu_settings">"ക്രമീകരങ്ങള്‍"</string>
+<string name="menu_help">"സഹായം"</string>
+<string name="preference_displayOptions">"ദൃശ്യ ക്രമീകരണങ്ങള്‍"</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">"ഫോണ്‍ നമ്പര്‍"</string>
+<string name="non_phone_add_to_contacts">"കോണ്‍ടാക്ടുകളിലേക്ക് ചേര്‍ക്കുക"</string>
+<string name="activity_title_confirm_add_detail">"കോണ്‍ടാക്ടിലേക്ക് ചേര്‍ക്കുക"</string>
+<string name="non_phone_close">"അവസാനിപ്പിക്കുക"</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">"വര്‍ഷം നല്‍കുക"</string>
+<string name="social_widget_label">"കോണ്‍ടാക്ട്"</string>
+<string name="social_widget_loading">"ലോഡ് ചെയ്യുന്നു\u2026"</string>
+<string name="contacts_unavailable_create_contact">"പുതിയ കോണ്‍ടാക്ട് ഉണ്ടാക്കുക"</string>
+<string name="contacts_unavailable_add_account">"അക്കൗണ്ടിലേക്ക് ലോഗിന്‍ ചെയ്യുക"</string>
+<string name="contacts_unavailable_import_contacts">"കോണ്‍ടാക്ടുകള്‍ ഇമ്പോര്‍ട്ട് ചെയ്യുക"</string>
+<string name="create_group_dialog_title">"പുതിയ കോണ്‍ടാക്ട് ഉണ്ടാക്കുക"</string>
+<string name="create_group_item_label">"പുതിയ കോണ്‍ടാക്ട് ഉണ്ടാക്കുക"</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">"1 ഗ്രൂപ്പ്"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> ഗ്രൂപ്പുകള്‍"</item>
+</plurals>
+<string name="delete_group_dialog_message">"\"<xliff:g id="group_label" example="Friends">%1$s</xliff:g>\" ഗ്രൂപ്പ് മായ്ച്ചു കളയണോ? (ഗ്രൂപ്പിനുള്ളിലെ കോണ്‍ടാക്ടുകള്‍ തനിയെ മാഞ്ഞു പോവില്ല.)"</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> ആള്‍ <xliff:g id="account_type">%2$s</xliff:g>ല്‍നിന്ന്"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> ആളുകള്‍ <xliff:g id="account_type">%2$s</xliff:g>ല്‍നിന്ന്"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> ആള്‍"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> ആളുകള്‍"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">"മറ്റൊന്നുമായി കൂട്ടിച്ചേര്‍ക്കും മുമ്പ് കോണ്‍ടാക്ട് പേര് ചേര്‍ക്കുക."</string>
+<string name="copy_text">"ക്ലിപ് ബോര്‍ഡിലേക്ക് പകര്‍ത്തുക"</string>
+<string name="set_default">"ഡീഫോള്‍ട്ട് ആയി ക്രമീകരിക്കുക"</string>
+<string name="clear_default">"ഡീഫോള്‍ട്ട് മായ്ച്ചു കളയുക"</string>
+<string name="toast_text_copied">"ടെക്സ്റ്റ് പകര്‍ത്തി"</string>
+<string name="cancel_confirmation_dialog_message">"താങ്കള്‍ വരുത്തിയ മാറ്റങ്ങള്‍ ഉപേക്ഷിക്കണോ?"</string>
+<string name="call_type_and_date">"<xliff:g id="call_type" example="Friends">%1$s</xliff:g> <xliff:g id="call_short_date" example="Friends">%2$s</xliff:g>"</string>
+<string name="profile_display_name">"പ്രൊഫൈല്‍ ക്രമീകരിക്കുക"</string>
+<string name="enter_contact_name">"വ്യക്തിയുടെ പേര് ചേര്‍ക്കു"</string>
+<string name="group_name_hint">"ഗ്രൂപ്പിന്റെ പേര്"</string>
+<string name="local_profile_title">"എന്റെ ലോക്കല്‍ പ്രൊഫൈല്‍"</string>
+<string name="external_profile_title">"എന്റെ <xliff:g id="external_source">%1$s</xliff:g> പ്രൊഫൈല്‍"</string>
+<string name="toast_displaying_all_contacts">"മുഴുവന്‍ കോണ്‍ടാക്ടുകളും കാണിക്കുന്നു."</string>
+<string name="no_account_prompt">"പ്യൂപ്പിള്‍ Google അക്കൗണ്ടിനോടു കൂടെയാണ് നന്നായി പ്രവര്‍ത്തിക്കുക.\n\n\u2022 ഏതു വെബ് ബ്രൗസറില്‍ നിന്നും ഇത് കാണാം.\n\u2022 താങ്കളുടെ കോണ്‍ടാക്ടുകള്‍ സുരക്ഷിതമായി ബാക്കപ്പ് ചെയ്യുക."</string>
+<string name="generic_no_account_prompt">""ഫോണ്‍ കളഞ്ഞു പോയാലും താങ്കളുടെ കോണ്‍ടാക്ടുകളെ സുരക്ഷിതമാക്കി വക്കൂ: ഒരു ഓണ്‍ലൈന്‍ സേവനവുമായി സിന്‍ക് ചെയ്യുക."</string>
+<string name="generic_no_account_prompt_title">"ഒരു അക്കൗണ്ട്‌ ചേര്‍ക്കുക"</string>
+<string name="contact_editor_prompt_zero_accounts">"താങ്കളുടെ കോണ്‍ടാക്ടുകള്‍ ബാക്കപ്പ് ചെയ്യപ്പെടുന്നില്ല. ഓണ്‍ലൈന്‍ ബാക്കപ്പ് ചെയ്യാനായി അക്കൗണ്ട് ഉണ്ടാക്കണോ?"</string>
+<string name="contact_editor_prompt_one_account">"പുതിയ കോണ്‍ടാക്ട് <xliff:g id="account_name">%1$s</xliff:g>.അക്കൗണ്ടുമായി സിന്‍ക് ചെയ്യും"</string>
+<string name="contact_editor_prompt_multiple_accounts">"പുതിയ കോണ്‍ടാക്ട് ഈ അക്കൗണ്ടുകളുമായി സിന്‍ക് ചെയ്യാവുന്നതാണ്. ഏത് അക്കൗണ്ടാണ് ഉപയോഗിക്കേണ്ടത്?"</string>
+<string name="keep_local">"ലോക്കല്‍ ആയി വയ്ക്കുക"</string>
+<string name="add_account">"അക്കൗണ്ട്‌ ചേര്‍ക്കുക"</string>
+<string name="add_new_account">"പുതിയ അക്കൗണ്ട് ചേര്‍ക്കുക"</string>
+<string name="menu_export_database">"ഡാറ്റാബേസ് ഫയലുകള്‍ എക്സ്പോര്‍ട്ട് ചെയ്യുക"</string>
+<string name="contact_detail_picture_description">"ചിത്രം. മാറ്റം വരുത്താനായി സെലക്ട് ചെയ്യുക"</string>
+<string name="no_fast_dial">"ഫാസ്റ്റ് കോള്‍ ഫോണ്‍ നമ്പര്‍ ക്രമീകരിച്ചിട്ടില്ല"</string>
+<string name="fast_dial_choose">"ഫാസ്റ്റ് കോള്‍ ടൈപ്പ് തെരഞ്ഞെടുക്കുക"</string>
+<string name="fast_call">"വോയ്സ് കോള്‍"</string>
+<string name="fast_vt_call">"വീഡിയോ കോള്‍"</string>
+<string name="wait">"ദയവായി കാത്തിരിക്കുക..."</string>
+<string name="working">"പ്രവൃത്തി നടന്നുകൊണ്ടിരിക്കുന്നു"</string>
+<string name="working_batch_delete">"ഒരുമിച്ച് നീക്കം ചെയ്തുകൊണ്ടിരിക്കുന്നു"</string>
+<string name="working_batch_import">"ഒരുമിച്ച് ഇമ്പോര്‍ട്ട് ചെയ്തുകൊണ്ടിരിക്കുന്നു"</string>
+<string name="choose_sim_card">"SIM കാര്‍ഡ് തെരഞ്ഞെടുക്കുക"</string>
+<string name="violate_capacity">"SIM ശേഷി അതിക്രമിച്ചിരിക്കുന്നു"</string>
+<string name="import_failed">"കോണ്‍ടാക്ട് ഇമ്പോര്‍ട്ട്/എക്സ്പോര്‍ട്ട് പരാജയപ്പെട്ടിരിക്കുന്നു"</string>
+<string name="import_failed_tmp">"<xliff:g id="count">%d</xliff:g> വിജയിച്ചു, <xliff:g id="count">%d</xliff:g> പരാജയപ്പെട്ടു"</string>
+<string name="import_done">"ഇമ്പോര്‍ട്ട് ചെയ്തു"</string>
+<string name="delete_done">"നീക്കം ചെയ്തു"</string>
+<string name="toast_no_contact_selected">"കോണ്‍ടാക്ട് ഒന്നും തെരഞ്ഞെടുത്തിട്ടില്ല"</string>
+<string name="contactSavedErrorToastNameLength">"കോണ്‍ടാക്ട് പേരിന് സൂക്ഷിക്കാനാവുന്ന പരിധിയിലും നീളം കൂടുതലാണ്"</string>
+<string name="contactSavedErrorToastEmailLength">"ഇമെയില്‍ വിലാസത്തിന് സൂക്ഷിക്കാനാവുന്ന പരിധിയിലും നീളം കൂടുതലാണ്"</string>
+<string name="contactSavedErrorToastEmailFull">"ഇമെയില്‍ പരിധി കഴിഞ്ഞു"</string>
+<string name="contactSavedErrorToastSimEmailFull">"SIM കാര്‍ഡിലെ ഇമെയില്‍ പരിധി കഴിഞ്ഞു"</string>
+<string name="contactSavedErrorToastUsimEmailFull">"USIM കാര്‍ഡിലെ ഇമെയില്‍ പരിധി കഴിഞ്ഞു"</string>
+<string name="sim_is_full">"Sim നിറഞ്ഞു കഴിഞ്ഞു"</string>
+<string name="beyond_sim_card_capacity">"sim കാര്‍ഡ് ശേഷിയിലും കൂടുതലായതിനാല്‍, ചില കോണ്‍ടാക്ടുകള്‍ സൂക്ഷിക്കാനാവില്ല"</string>
+<string name="menu_addToBlacklist">"ബ്ലാക്ക്ലിസ്റ്റില്‍ ചേര്‍ക്കുക"</string>
+<string name="menu_view_calls">"കാണുക"</string>
+<string name="item_all_calls">"മുഴുവന്‍ കോള്‍ ലോഗ്"</string>
+<string name="item_sim1_calls">"Sim1 കോള്‍ ലോഗ്"</string>
+<string name="item_sim2_calls">"Sim2 കോള്‍ ലോഗ്"</string>
+<string name="res_name">"പേര്"</string>
+<string name="res_phone">"ഫോണ്‍"</string>
+<string name="res_email">"ഇമെയില്‍"</string>
+<string name="res_field">"ഫീല്‍ഡ്"</string>
+<string name="alert_maybe_lost_info">"ഇമ്പോര്‍ട്ടോ എക്സ്പോര്‍ട്ടോ ചെയ്യുമ്പോള്‍ ചില വിവരങ്ങള്‍ നഷ്ടമാകാന്‍ സാധ്യതയുണ്ട്"</string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> വളരെ നീളം കൂടുതലാണ്"</string>
+<string name="select_group_member">"ഗ്രൂപ്പ് അംഗങ്ങളെ തെരഞ്ഞെടുക്കുക"</string>
+<string name="email_format_fail">"ശരിയായ ഇമെയില്‍ അഡ്രസ് നല്കുക!"</string>
+<string name="working_editing_group">"ഗ്രൂപ്പ് മാറുന്നു"</string>
+<string name="editing_group_done">"ഗ്രൂപ്പ് പരിഷ്കരണം പൂര്‍ത്തിയായി"</string>
+<string name="editing_group_failed">"ഗ്രൂപ്പ് പരിഷ്കരണം പരാജയപ്പെട്ടു"</string>
+<string name="contacts_group_name_exist">"നിലവിലുള്ള ഗ്രൂപ്പ് പേര്"</string>
+<string name="menu_sendmms">"sms ശേഖരം"</string>
+<string name="alert_delete_contact">"തെരഞ്ഞെടുത്ത സമ്പര്‍ക്കങ്ങള്‍ നീക്കം ചെയ്യണമെന്ന് താങ്കള്‍ക്ക് തീര്‍ച്ചയാണോ?"</string>
+<string name="select_all">"എല്ലാ തെരഞ്ഞെടുക്കുക"</string>
+<string name="label_sim">"SIM കാര്‍ഡ്"</string>
+<string name="label_usim">"SIM കാര്‍ഡ്"</string>
+<string name="menu_batch_delete">"ഒരുമിച്ച് നീക്കം ചെയ്യുക"</string>
+<string name="group_selection">"സമ്പര്‍ക്ക ഗ്രൂപ്പ് തെരഞ്ഞെടുപ്പ്"</string>
+<string name="cancel_batch_import_confirmation">"സമ്പര്‍ക്ക ഇറക്കുമതി ഒഴിവാക്കുക?"</string>
+<string name="cancel_batch_delete_confirmation">"സമ്പര്‍ക്കം ഇല്ലാതാക്കുന്നത് ഒഴിവാക്കുക?"</string>
+<string name="copy">"പകര്‍ത്തുക"</string>
+<string name="copy_to">"അതിലേക്ക് കോപ്പി ചെയ്യുക"</string>
+<string name="contactDeletedToast">"സമ്പര്‍ക്കം ഇല്ലാതാക്കി."</string>
+<string name="list_filter_all_in_one">"ഡാറ്റയോടൊപ്പം എല്ലാ സമ്പര്‍ക്കങ്ങളും"</string>
+<string name="listTotalEmailContactsZero">"ഇമെയിലിനോടൊപ്പം സമ്പര്‍ക്കങ്ങളില്ല"</string>
+<string name="list_filter_emails">"ഇമെയിലിനോടൊപ്പം എല്ലാ സമ്പര്‍ക്കങ്ങളും"</string>
+<string name="listMaxContactsInAccount">"സ്ഥലം: <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="reading_vcard_exception_title">"vCard ഡാറ്റ ഒഴികെ വായിക്കുന്നു/എഴുതുന്നു"</string>
+<string name="sqlite_full">"സമ്പര്‍ക്ക ഡാറ്റാബേസ് അല്ലെങ്കില്‍ ഡിസ്ക് പൂര്‍ണ്ണമാണ്"</string>
+<string name="groupSavingToast">"ഗ്രൂപ്പ് പരിഷ്കരണം പിന്നീട് പ്രയോഗിക്കും."</string>
+<string name="batch_operation_canceled">"നടപടി ഒഴിവാക്കി"</string>
+<string name="no_sdcard_title">"SD കാർഡ്‌ ഇല്ല"</string>
+<string name="cancel_export_confirmation_title">"vCard കയറ്റുമതി ഒഴിവാക്കുന്നു"</string>
+<string name="video_callNumber_by_sim2">"വീഡിയോ കോള്‍<xliff:g id="NAME">%s</xliff:g>（SIM2）"</string>
+<string name="delete_calls_list">"തെരഞ്ഞെടുത്ത കോളുകള്‍ ഇല്ലാതാക്കുക"</string>
+<string name="video_menu_callNumber">"വീഡിയോ കോള്‍<xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="searching_vcard_title">"vCardന് വേണ്ടി തിരയുന്നു"</string>
+<string name="menu_copyToPhone">"ഫോണിലേക്ക് കോപ്പി ചെയ്യുക"</string>
+<string name="cancel_import_confirmation_title">"vCard ഇറക്കുമതി ഒഴിവാക്കുന്നു"</string>
+<string name="dialog_voicemail_not_ready_title">"ശബ്ദസന്ദേശ നമ്പര്‍ ലഭ്യമല്ല"</string>
+<string name="select_one">"കുറഞ്ഞത് ഒരു ഇനമെങ്കിലും തെരഞ്ഞെടുക്കുക!"</string>
+<string name="delete_all_calls_confirm">"എല്ലാ കോളുകളും താങ്കള്‍ക്ക് ഇല്ലാതാക്കണോ?"</string>
+<string name="export_to_sim">"SIM കാര്‍ഡിലേക്ക് ഇറക്കുമതി ചെയ്യുക"</string>
+<string name="scanning_sdcard_failed_title">"SD കാര്‍ഡ് സ്കാന്‍ ചെയ്യാന്‍ സാധിക്കുന്നില്ല"</string>
+<string name="aggregation_suggestion_join_dialog_title">"കോണ്‍ടാക്ടുമായി കൂട്ടിച്ചേര്‍ക്കുക"</string>
+<string name="aggregation_suggestion_edit_dialog_title">"തെരഞ്ഞെടുത്ത സമ്പര്‍ക്കങ്ങള്‍ എഡിറ്റ് ചെയ്യുക"</string>
+<string name="delete_group_dialog_title">"ഗ്രൂപ്പ് ഇല്ലാതാക്കുക"</string>
+<string name="delete_all_calls">"എല്ലാ കോളുകളും ഇല്ലാതാക്കുക"</string>
+<string name="video_callNumber_by_sim1">"വീഡിയോ കോള്‍<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+<string name="call_log_callNumber_by_sim">"<xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）വിളിക്കുക"</string>
+<string name="dialog_phone_call_prohibited_title">"കോള്‍ അയച്ചില്ല"</string>
+<string name="search_bar_hint">"കോണ്‍ടാക്ട് തിരയുക"</string>
+<string name="delete_success">"ഇല്ലാതാക്കല്‍ വിജയകരമാണ്!"</string>
+<string name="deleteConfirmation_title">"സമ്പര്‍ക്കം ഇല്ലാതാക്കുക?"</string>
+<string name="delete_selected_calls">"തെരഞ്ഞെടുത്ത കോളുകള്‍ താങ്കള്‍ക്ക് ഇല്ലാതാക്കണോ?"</string>
+<string name="delete_contact_all_calls">"സമ്പര്‍ക്കങ്ങളുടെ കോള്‍ ലോഗ് ഇല്ലാതാക്കണമെന്ന് താങ്കള്‍ക്ക് തീര്‍ച്ചയാണോ?"</string>
+<string name="menu_copyToSim">"SIMലേക്ക് കോപ്പി ചെയ്യുക"</string>
+<string name="menu_all_contacts">"കോണ്‍ടാക്ടുകള്‍ മുഴുവന്‍"</string>
+<string name="please_input_group_name">"ദയവായി ഇന്‍പുട്ട് ഗ്രൂപ്പ് പേര് നല്കുക"</string>
+<string name="cancel_confirmation_dialog_title">"മാറ്റങ്ങള്‍ നിരാകരിക്കുക"</string>
+<string name="delete_calls">"നീക്കം ചെയ്യുക"</string>
+<string name="add_contact_dlg_title">"കോണ്‍ടാക്ട് കൂട്ടിച്ചേർക്കുക"</string>
+<string name="app_name">"കോള്‍ ലോഗ്"</string>
+<string name="search_description">"കോള്‍ ലോഗ് തിരയുക"</string>
+<string name="search_hint">"കോള്‍ ലോഗ് തിരയുക"</string>
+<string name="lable_search">"തെരയുക"</string>
+<string name="menu_deleteFromBlacklist">"കുറ്റപട്ടികയില്‍ നിന്ന് ഇല്ലാതാക്കുക"</string>
+<string name="success_addToBlacklist">"കൂട്ടിച്ചേര്‍ക്കല്‍ വിജയകരം"</string>
+<string name="failed_addToBlacklist">"കൂട്ടിച്ചേര്‍ക്കല്‍ പരാജയം"</string>
+<string name="success_removeFromBlacklist">"ഇല്ലാതാക്കല്‍ വിജയകരം"</string>
+<string name="failed_removeFromBlacklist">"ഇല്ലാതാക്കല്‍ പരാജയം"</string>
+<string name="menu_mmsGroup">"സന്ദേശ ശേഖരം"</string>
+<string name="menu_emailGroup">"ഇമെയില്‍ ശേഖരം"</string>
+<string name="noContactsInGroup">"ഈ ഗ്രൂപ്പില്‍ സമ്പര്‍ക്കങ്ങളില്ല"</string>
+<string name="please_wait">"ദയവായി കാത്തിരിക്കുക..."</string>
+<string name="noContactswithEmail">"ഈ ഗ്രൂപ്പിലെ സമ്പര്‍ക്കങ്ങള്‍ക്ക് ഇമെയില്‍ ഇല്ല"</string>
+<string name="noContactwithEmail">"സമ്പര്‍ക്കങ്ങള്‍ക്ക് ഇമെയില്‍ ഇല്ല"</string>
+<string name="noContactwithPhoneAndEmail">"സമ്പര്‍ക്കങ്ങള്‍ക്കൊന്നും ഫോണോ ഇമെയിലോ ഇല്ല."</string>
+<string name="select_card">"ദയവായി കാര്‍ഡ് തെരഞ്ഞെടുക്കുക"</string>
+<string name="sim_absent">"നിലവിലില്ല"</string>
+<string name="sdn_list">"SDN ലിസ്റ്റ്"</string>
+<string name="lnd_list">"LND ലിസ്റ്റ്"</string>
+<string name="sim_no_ready">"SIM കാര്‍ഡ് തയ്യാറല്ല."</string>
+<string name="sdn_please_insert_sim">"ദയവായി SIM കാര്‍ഡ് ഇടുക."</string>
+<string name="sdn_sim_notready">"SIM വിവരം ആരംഭിക്കുക, ദയവായി പിന്നീട് പ്രവര്‍ത്തിപ്പിക്കുക."</string>
+<string name="ip_dialer">"IP ഡയലിങ്ങ് ക്രമീകരണം"</string>
+<string name="call_ip">"IP കോള്‍"</string>
+<string name="no_group">"ഒരു ഗ്രൂപ്പിലെയും അംഗമല്ല"</string>
+<string name="select_group">"ഗ്രൂപ്പ് തെരഞ്ഞെടുക്കുക"</string>
+<string name="edit_photo">"ഫോട്ടോ എഡിറ്റ് ചെയ്യുക"</string>
+<string name="select_all_contacts">"എല്ലാ തെരഞ്ഞെടുക്കുക"</string>
+<string name="menu_save">"സൂക്ഷിക്കുക"</string>
+<string name="group_name_hint_overlay">"ദയവായി ഇന്‍പുട്ട് ഗ്രൂപ്പ് പേര് നല്കുക"</string>
+<string name="select_group_member_overlay">"അംഗങ്ങളെ ചേര്‍ക്കാന്‍ ക്ലിക്ക് ചെയ്യുക"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 സമ്പര്‍ക്കം യോജിക്കുന്നു"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> സമ്പര്‍ക്കങ്ങള്‍ യോജിക്കുന്നു"</item>
+</plurals>
+<string name="no_match_contact">"യോജിക്കുന്ന സമ്പര്‍ക്കങ്ങളില്ല"</string>
+<string name="menu_newGroup">"പുതിയ ഗ്രൂപ്പ്"</string>
+<string name="editGroup">"ഗ്രൂപ്പ് തിരുത്തുക"</string>
+<string name="menu_delete_group">"ഗ്രൂപ്പ് ഇല്ലാതാക്കുക"</string>
+<string name="contactsFavoritesLimit">"12 സമ്പര്‍ക്കങ്ങളുടെ ശേഖരം, ശേഖരണ പരിധിക്കപ്പുറം"</string>
+<string name="menu_add_favorite">"സമ്പര്‍ക്കങ്ങള്‍ പ്രിയപ്പെട്ടവയിലേക്ക് ചേര്‍ക്കുക"</string>
+<string name="create_new_contact">"പുതിയ കോണ്‍ടാക്ട് ചേര്‍ക്കുക"</string>
+<string name="send_mms">"സന്ദേശം അയക്കുക"</string>
+<string name="tab_more">"കൂടുതൽ ഓപ്ഷനുകള്‍"</string>
+<string name="show_contacts">"സമ്പര്‍ക്കങ്ങള്‍ കാണിക്കുക"</string>
+<string name="fast_dial">"ഫാസ്റ്റ് ഡയല്‍"</string>
+<string name="account">"അക്കൗണ്ട്‌"</string>
+<string name="import_export_contacts">"സമ്പര്‍ക്കം ഇറക്കുമതി/കയറ്റുമതി"</string>
+<string name="export_contacts">"സമ്പര്‍ക്കങ്ങള്‍ കയറ്റുമതി ചെയ്യുന്നു"</string>
+<string name="duplicate_phone_book">"ഫോണ്‍ ബുക്ക് കോപ്പി ചെയ്യുക"</string>
+<string name="dump_phone_book">"ഫോണ്‍ ബുക്ക് ഡമ്പ് ചെയ്യുക"</string>
+<string name="call_log_contacts_not_save">"അജ്ഞാതം"</string>
+<string name="call_log_callNumber_by_sim_ex">"കോള്‍<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"വീഡിയോ കോള്‍<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP കോള്‍<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="removeStarred">"സ്റ്റാര്‍ ചെയ്ത നീക്കം ചെയ്യുക"</string>
+<string name="lookUpInfo">"വിവരം തിരയുക"</string>
+<string name="cancel">"റദ്ദാക്കുക"</string>
+<string name="favorite_contacts">"പ്രിയപ്പെട്ട സമ്പര്‍ക്കങ്ങള്‍"</string>
+<string name="no_available_number">"ഒരു നമ്പറും ലഭ്യമല്ല"</string>
+<string name="confirmCoverPhoneNumber">"നിലനില്‍ക്കുന്ന സമ്പര്‍ക്കം മാറ്റണമെന്ന് താങ്കള്‍ക്ക് തീര്‍ച്ചയാണോ?"</string>
+<string name="replaceSelected">"ഏതാണ് മാറ്റേണ്ടതെന്ന് ദയവായി തെരഞ്ഞെടുക്കുക"</string>
+<string name="over_phone_length_limit">"നമ്പര്‍ വളരെ ദൈര്‍ഘ്യമേറിയതാണ്"</string>
+<string name="invalid_number">"അസാധുവായ നമ്പറുകള്‍."</string>
+<string name="no_vcard_found_in_internal_stor">"vCard ആഭ്യന്തര സ്റ്റോറേജ് ഇല്ല."</string>
+<string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> കോള്‍ ലോഗ്"</string>
+<string name="menu_moveGroupMember">"ഗ്രൂപ്പ് അംഗങ്ങളെ നീക്കുക"</string>
+<string name="moveGroupMemberDialogTitle">"ലേക്ക് സമ്പര്‍ക്കങ്ങള്‍ നീക്കുക"</string>
+<string name="menu_deleteGroupMember">"ഗ്രൂപ്പ് അംഗങ്ങളെ ഇല്ലാതാക്കുക"</string>
+<string name="overGroupNameLength">"ഗ്രൂപ്പ് പേര് വളരെ ദൈര്‍ഘ്യമേറിയതാണ്"</string>
+<string name="overGroupCountLimit">"ഗ്രൂപ്പ് എണ്ണത്തിന്റെ പരിധിക്ക് മുകളില്‍"</string>
+<string name="menu_share_by_sms">"സമ്പര്‍ക്കങ്ങള്‍ sms/mms ആയി അയക്കുക"</string>
+<string name="toast_batchoperation_is_running">"സംഘ പ്രവര്‍ത്തനം നടക്കുന്നുദയവായി പിന്നീട് ശ്രമിക്കുക."</string>
+<string name="sdcard_storage_not_enough">"സ്റ്റോറേജ് ആവശ്യത്തിനില്ല!"</string>
+<string name="noJoinContactDataWith">"സമ്പര്‍ക്കങ്ങള്‍ കൂട്ടിച്ചേര്‍ക്കാന്‍ സാധിക്കില്ല"</string>
+<string name="not_select_vCard">"ഒരു vCard പോലും തെരഞ്ഞെടുത്തിട്ടില്ല"</string>
+<string name="selected_is_not_image">"തെരഞ്ഞെടുത്ത ഫയല്‍ ഒരു ചിത്രമല്ല"</string>
+<string name="batch_delete_confim_title">"സമ്പര്‍ക്ക(ങ്ങള്‍) ഇല്ലാതാക്കുക"</string>
+<string name="batch_delete_confim_message">"തെരഞ്ഞെടുത്ത സമ്പര്‍ക്ക(ങ്ങള്‍) ഇല്ലാതാക്കണമെന്ന് താങ്കള്‍ക്ക് തീര്‍ച്ചയാണോ?"</string>
+<string name="transaction_too_large">"തെരഞ്ഞെടുത്ത സമ്പര്‍ക്കങ്ങളുടെ വലിപ്പം പരിധിക്കപ്പുറമാണ്, ദയവായി ചെറിയ സമ്പര്‍ക്കങ്ങള്‍ തെരഞ്ഞെടുക്കുക"</string>
+<string name="contacts_selection_too_more">"തെരഞ്ഞെടുക്കുന്ന സമ്പര്‍ക്കങ്ങളുടെ പരമാവധി എണ്ണം ആണ് <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="recentCalls_empty">"കോള്‍ ലോഗ് ശൂന്യമാണ്."</string>
+<string name="menu_newContact">"പുതിയ സമ്പര്‍ക്കം"</string>
+<string name="contact_list_loading">"ലോഡ് ചെയ്യുന്നു\u2026"</string>
+<string name="recentCallsIconLabel">"കോള്‍ ലോഗ്"</string>
+<string name="launcherDialer">"ഫോണ്‍"</string>
+<string name="delete_group_dialog_commit">"തെരഞ്ഞെടുത്ത സമ്പര്‍ക്കം(ങ്ങള്‍) താങ്കള്‍ക്ക് ഇല്ലാതാക്കണോ?"</string>
+<string name="noContactsWithPhoneNumbers">"ഫോണ്‍ നമ്പറുള്ള സമ്പര്‍ക്കങ്ങളില്ല"</string>
+<string name="listTotalAllContactsZeroStarred">"പ്രിയപ്പെട്ടവയില്ല."</string>
+<string name="contact_editor_prompt_multiple_accounts_short">"ഇതിലേക്ക് സമ്പര്‍ക്കം ശേഖരിക്കുക"</string>
+<string name="working_batch_starred">"സംഘമായ സ്റ്റാറിങ്ങ്"</string>
+<string name="star_done">"സ്റ്റാര്‍ ചെയ്തു"</string>
+<string name="cancel_batch_star_confirmation">"സ്റ്റാര്‍ സമ്പര്‍ക്കം റദ്ദാക്കണോ?"</string>
+<string name="upgrade_group_in_progress">"ഗ്രൂപ്പ് ലിസ്റ്റ് അപ്ഡേറ്റ് ചെയ്യപ്പെടുന്നു"</string>
+</resources>

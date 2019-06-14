@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">"जोगाजोगको  "</string>
+<string name="contactsList">"जोगाजोगको  "</string>
+<string name="shortcutContact">"जोगाजोग"</string>
+<string name="shortcutDialContact">"सोजे डाइल"</string>
+<string name="shortcutMessageContact">"सोझे सान्देस"</string>
+<string name="shortcutActivityTitle">"शॉर्टकट जोगाजोग लागित् बाछावमे"</string>
+<string name="callShortcutActivityTitle">"कॉल लागित् नंबर बाछावमे"</string>
+<string name="messageShortcutActivityTitle">"सान्देस लागित् नंबर बाछावमे"</string>
+<string name="contactPickerActivityTitle">"जोगाजोग बाछावमे"</string>
+<string name="starredList">"इपिलगाराक्"</string>
+<string name="frequentList">"फ्रीक्वेंसी"</string>
+<string name="strequentList">"कुसीयाक्"</string>
+<string name="viewContactTitle">"जोगाजोग बेवरा"</string>
+<string name="viewContactDesription">"जोगाजोग ञेनेल"</string>
+<string name="editContactDescription">"जोगाजोग सासापड़ाव"</string>
+<string name="insertContactDescription">"जोगाजोगसिरजाव"</string>
+<string name="editGroupDescription">"सासापड़ाव दोल"</string>
+<string name="insertGroupDescription">"दोल सिरजाव"</string>
+<string name="contactDetailAbout">"बाबोत रे"</string>
+<string name="contactDetailUpdates">"नावांआरो"</string>
+<string name="searchHint">"जोगाजोग तोलास"</string>
+<string name="menu_viewContact">"जोगाजोग ञेनेल"</string>
+<string name="menu_addStar">"कुसीयाक् को जोड़ावाक्"</string>
+<string name="menu_removeStar">"किसीयाक् खोन ओचोग"</string>
+<string name="menu_editContact">"बोदोलोक"</string>
+<string name="menu_deleteContact">"मेटाव"</string>
+<string name="menu_create_contact_shortcut">"होम स्क्रीन रेयाक् जायगा"</string>
+<string name="menu_call">"जोगाजोग कॉल"</string>
+<string name="menu_sendSMS">"पाट जोगाजोग"</string>
+<string name="menu_splitAggregate">"भेगार  "</string>
+<string name="menu_editGroup">"बोदोलोक"</string>
+<string name="menu_deleteGroup">"मेटाव"</string>
+<string name="menu_new_contact_action_bar">"बेवरा जोड़ाव "</string>
+<string name="menu_new_group_action_bar">"दोल जोड़ाव"</string>
+<string name="splitConfirmation_title">"भेगार जोनोड़ा"</string>
+<string name="splitConfirmation">"मल्टीपल खोन नोवा जोगाजोगको भेगारगेया।"</string>
+<string name="menu_joinAggregate">"सोलोदोक्"</string>
+<string name="titleJoinContactDataWith">"जोगाजोगको रे सेलेदोक्"</string>
+<string name="blurbJoinContactDataWith">"आम जाहाँ जोनोड़ावरे लोदोक् एम मेनेत् काना बाछावमे <xliff:g id="name">%s</xliff:g>:"</string>
+<string name="showAllContactsJoinItem">"जोतो जोनोडाव उदु"</string>
+<string name="separatorJoinAggregateSuggestions">"सोलाहा जोड़ावको"</string>
+<string name="separatorJoinAggregateAll">"जोतो जोनोडड़ाव"</string>
+<string name="contactsJoinedMessage">"जोनोड़ाव रे सोलोदोक्"</string>
+<string name="menu_set_ring_tone">"रिंगटोन सेट"</string>
+<string name="menu_redirect_calls_to_vm">"आड़ाङ मेल ते जोतो कॉल"</string>
+<string name="readOnlyContactWarning">"आम एकेन पाड़हाव लागित् ते खाता को खोन जोनोड़ाव ओचोक् दाड़ेयाक्आ, मेनखान आम आमाक् जोनोड़ाव सूची रेम ओको दाड़ेयाक्आ।"</string>
+<string name="label_phone">"फोन"</string>
+<string name="readOnlyContactDeleteConfirmation">"नोवा जोनोड़ाव आमाक् जोनोड़ाव सूची रे ओको आकात् आयमा खातो रेयाक् बापाडाय को सेलेत् मेनाक्आ एकेन खाता को पाड़हाव लागित् बापाडाय, बाङ नोस्टोवाक्ना।"</string>
+<string name="multipleContactDeleteConfirmation">"नोवा खाता ओचोग आयमा खाताको रेयाक् बापाडाय को ओचोक् हुयुक्आ।"</string>
+<string name="deleteConfirmation">"जोगाजोग ओचोगाम?"</string>
+<string name="menu_discard">"इकाकाक्"</string>
+<string name="invalidContactMessage">"जोगाजोग बानुक्आ"</string>
+<string name="createContactShortcutSuccessful">"होम स्क्रीन ते बिजेट जोनोड़ाव जोड़ाव"</string>
+<string name="pickerNewContactHeader">"नावा जोगाजोग सिरजावमे"</string>
+<string name="pickerNewContactText">"नावा जोगाजोग सिरजावमे"</string>
+<string-array name="otherLabels">
+<item>"संगठन  "</item>
+<item>"नोट"</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">"टेवलेट रे पिक्चर बानुक्आ"</string>
+<string name="photoPickerNotFoundText" product="default">"फोन रे पिक्चर को बानुक्आ।"</string>
+<string name="attach_photo_dialog_title">"फोटो जोनोड़ाव"</string>
+<string name="customLabelPickerTitle">"लेबेल ञुतुम काटिञ मे।"</string>
+<string name="send_to_voicemail_checkbox">"आड़ाङ मेल ते कॉल सोझे कोल"</string>
+<string name="removePhoto">"फोटो ओचोग"</string>
+<string name="noContacts">"बाङ जोगाजोग"</string>
+<string name="noGroups">"दोको बाङ"</string>
+<string name="noAccounts">"आम दोल खाता लाकती सिरजावमे"</string>
+<string name="emptyGroup">"नोवा दोल रेन होड़ बाङकानाय"</string>
+<string name="addPeopleToGroup">"दोल सासापड़ा किछू जोड़ावमे"</string>
+<string name="savingContact">"जोगाजोग जोगावोक्"</string>
+<string name="contactSavedToast">"जोगाजोग जोगाव"</string>
+<string name="contactSavedErrorToast">"जोगाजोग फेराव बाङ जोगाक्आ"</string>
+<string name="groupSavedToast">"दोल जोव"</string>
+<string name="groupSavedErrorToast">"दोल फेराव बाङ जोगाक्आ"</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">"फोन नंबर साँव 1 जोनोड़ाव"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> फोन नंबर सालाक् जोगैजोगको"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">"फोन नंबर सालाक् बाङ जोड़ाव"</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">"1 जोगाजोग"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> जोगाजोग"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">"1 तोलास"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> तोलास"</item>
+</plurals>
+<string name="listFoundAllContactsZero">"बाङ जोगाजोग"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 तोलास"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> तोलास"</item>
+</plurals>
+<string name="contactsAllLabel">"जोतो जोनोडड़ाव"</string>
+<string name="contactsGroupsLabel">"दोलको"</string>
+<string name="callBack">"कॉल रुवाड़"</string>
+<string name="callAgain">"कॉल दोहड़ा"</string>
+<string name="returnCall">"रुवाड़ कॉल"</string>
+<string name="add_contact_dlg_message_fmt">"जोड़ाव \"<xliff:g id="email">%s</xliff:g>\"जोगाजोग मे?"</string>
+<string name="description_contact_photo">"फोटो जोनोड़ाव"</string>
+<string name="description_plus_button">"पल्स"</string>
+<string name="exporting_contact_list_progress">"<xliff:g id="current_number">%s</xliff:g> का <xliff:g id="total_number">%s</xliff:g> जोनोड़ावको"</string>
+<string name="search_settings_description">"आमाक् जोगाजोग रेयाक् ञुतुम को"</string>
+<string name="quickcontact_missing_app">"नोवा कामी सेन्दरा ञाम लागित् एप्प बाङ एमादे ताहेंकाना।"</string>
+<string name="missing_app">"नोवा कामी सेन्दरा ञाम लागित् एप्प बाङ एमादे ताहेंकाना।"</string>
+<string name="menu_share">"हांटिञ"</string>
+<string name="share_via">"सेचते जोनोड़ाव एपेम"</string>
+<string name="dialog_new_group_account">"दोल लातार रे खाता सिरजाव"</string>
+<string name="audio_chat">"आड़ाङ चेट"</string>
+<string name="video_chat">"वीडियो चेट"</string>
+<string name="connections">"तोङ्गे"</string>
+<string name="add_connection_button">"तोङ्गे जोड़ाव"</string>
+<string name="recent">"निताक्  "</string>
+<string name="recent_updates">"निताक् नावाँ आरो"</string>
+<string name="account_type_format">"<xliff:g id="source" example="Gmail">%1$s</xliff:g> जोनोड़ाव"</string>
+<string name="from_account_format">"<xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">"नोवा फोटो बेभार मे"</string>
+<string name="contact_read_only">"नोवा एप्प खोन सासापड़ाव बाङ गानोक्आ"</string>
+<string name="no_contact_details">"नोवा जोगाजोग रे आर बाड़ती बापाडाय बानुक्आ"</string>
+<string name="group_read_only">"नोवा डिवाइस सासापड़ाव बाङ गानोक्आ"</string>
+<string name="display_options_sort_list_by">"दाराय ते सूची थार"</string>
+<string name="display_options_sort_by_given_name">"पाहिल ञुतुम"</string>
+<string name="display_options_sort_by_family_name">"मुचात् ञुतुम"</string>
+<string name="display_options_view_names_as">"रेयाक् लेकाते जोगाजोग ञुतुम ञेलमे"</string>
+<string name="display_options_view_given_name_first">"ञुतम लाहा"</string>
+<string name="display_options_view_family_name_first">" पारिस लाहा"</string>
+<string name="take_photo">"फोटो हातावमे"</string>
+<string name="take_new_photo">"नावाँ फोटो हातावमे"</string>
+<string name="pick_photo">"फोटो गैलेरी बाछआव मे"</string>
+<string name="pick_new_photo">"गैलरी खोन नावाँ फोटो बाछाव मे"</string>
+<string name="locale_change_in_progress">"जोनोडाव सूची रेया पारसी फेराव उदुक् लागित् नावाँ आरोक् काना।"</string>
+<string name="upgrade_in_progress">"जोगाजोग सूची नावाँ आरोक् काना"</string>
+<string name="upgrade_out_of_memory">"जोनोड़ाव नावाँ आरो रेयाक् कामीकासनी रे मेनाक्आ\n\nनावाँ आरो रेयाक् लाकती नाहीनिधान मेनाक्आ <xliff:g id="size_in_megabytes">%s</xliff:g> MB रेयाक् भितरी बान्दीयाक् \n\n जाहाँटाक् मित्  टेच् विकल्प रेयाक् बाछाव मे:"</string>
+<string name="upgrade_out_of_memory_uninstall">"किछू एप्लीकेसन अनइंस्टला"</string>
+<string name="upgrade_out_of_memory_retry">"नावाँआरो दोहड़ाय"</string>
+<string name="search_results_searching">"तोलास"</string>
+<string name="menu_display_selected">"बाछावाक् उदुक"</string>
+<string name="menu_display_all">"जोतो उदुक्"</string>
+<string name="menu_select_all">"जोतो सेलेद् मे"</string>
+<string name="menu_select_none">"जोतो बाङ बाछावाक्"</string>
+<string name="add_field">"एटाक् टोठा तोङ्गेय मे"</string>
+<string name="add_new_entry_for_section">"नावाँ जोड़ाव"</string>
+<string name="add_organization">"संगठन जोड़ाव"</string>
+<string name="event_edit_field_hint_text">"माँहित"</string>
+<string name="group_edit_field_hint_text">"दोल ञुतुम  "</string>
+<string name="description_star">"कुसीयाक्"</string>
+<string name="edit_contact">"जोगाजोग सासापड़ाव"</string>
+<plurals name="merge_info">
+<item quantity="one">"बाङ मेसा"</item>
+<item quantity="other">"खोन मेसाक् <xliff:g id="count">%0$d</xliff:g> सोत"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">"बाछावाक् जोगाजोग सालाक् निताक् जोगाजोग साँव सेलेदोक् लागित्?"</string>
+<string name="aggregation_suggestion_edit_dialog_message">"बाछावाक् जोगाजोग को सासाड़ाव लागित् चालूयमे? बापाडाय को रे बोलो लेन खान कोपीक्आ"</string>
+<string name="menu_copyContact">"इञाक् जोगाजोग को कोपीमे"</string>
+<string name="add_to_my_contacts">"इञाक् जोगाजोग को जोड़ामे"</string>
+<string name="contact_directory_description">"डायरेक्टोरी <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g>"</string>
+<string name="toast_making_personal_copy">"मित् निजाक् कॉपी सेरजावेत् काना..."</string>
+<string name="list_filter_custom">"रीति"</string>
+<string name="activity_title_settings">"सेटिंग"</string>
+<string name="menu_settings">"सेटिंग"</string>
+<string name="menu_help">"गोड़ो"</string>
+<string name="preference_displayOptions">"विकल्प उदुग"</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">"फोन नंबर"</string>
+<string name="non_phone_add_to_contacts">"जोनोड़ाव को जोड़ाव"</string>
+<string name="activity_title_confirm_add_detail">"जोगाजोग जोड़ावमे"</string>
+<string name="non_phone_close">"बोन्दो"</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">"मित् सेरमाय एमोक्आ"</string>
+<string name="social_widget_label">"जोगाजोग"</string>
+<string name="social_widget_loading">"लोडोक काना"</string>
+<string name="contacts_unavailable_create_contact">"मित् नावाँ जोगाजोग सिरजावमे"</string>
+<string name="contacts_unavailable_add_account">"मित् खाता रे बोलोनमे"</string>
+<string name="contacts_unavailable_import_contacts">"लाकतीयाक् जोगाजोग"</string>
+<string name="create_group_dialog_title">"नावाँ दोल सिरजाव"</string>
+<string name="create_group_item_label">"नावाँ दोल सिरजाव"</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">"1 दोल"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> दोलको"</item>
+</plurals>
+<string name="delete_group_dialog_message">"दोल मेटाव "<xliff:g id="group_label" example="Friends">%1$s</xliff:g>"? (जोगाजोग आच् ते बाय मेटाव दाड़ेयाक्आ )"</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> होड़को खोन <xliff:g id="account_type">%2$s</xliff:g>"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> होड़को खोन <xliff:g id="account_type">%2$s</xliff:g>"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> होड़"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> होड़को"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">"एटाक् सालाक् सेलेदोक् लाहा रे जोनोड़ाव ञुतुम टाइप मे।"</string>
+<string name="copy_text">"क्लीपबोर्ड ते कोपी"</string>
+<string name="set_default">"डिफल्ट सेट"</string>
+<string name="clear_default">"डिफल्ट साफाय"</string>
+<string name="toast_text_copied">"पाट कोपायेना"</string>
+<string name="cancel_confirmation_dialog_message">"आमाक् फेराव को इकाकाम"</string>
+<string name="call_type_and_date">"<xliff:g id="call_type" example="Friends">%1$s</xliff:g><xliff:g id="call_short_date" example="Friends">%2$s</xliff:g>"</string>
+<string name="profile_display_name">"इञाक् प्रोफाइल सेटमे"</string>
+<string name="enter_contact_name">"होडाक् ञुतुम टाइपमे"</string>
+<string name="group_name_hint">"दोलको ञुतुम"</string>
+<string name="local_profile_title">"इञाक् ठाँवेल प्रोफाइल"</string>
+<string name="external_profile_title">"<xliff:g id="external_source">%1$s</xliff:g> जोगाजोग"</string>
+<string name="toast_displaying_all_contacts">"जोतो जोगाजोग को उदुग"</string>
+<string name="no_account_prompt">"होड़ को Google खाता सालाक् ते भागे को कामी काना।\n\n\u2022 जाहाँ गे ब्राउजर तेम सेटेर दाड़ेयाक्आ\n\u2022 आमाक् जोगाजोग राखा लागित् ते सोता हाताव मे।"</string>
+<string name="generic_no_account_prompt">"आमाक् जोनोड़ाव को भागेते दोहोयमे, चाक् बाङ आमाक् फोन आदोक् मित् ऑनलाइन सेवा सालाक् सिंक्रनाइज मे।"</string>
+<string name="generic_no_account_prompt_title">"खाता लेकाते जोनोड़ाव"</string>
+<string name="contact_editor_prompt_zero_accounts">"आमाक् नावाँ जोनोड़ाव बाङ हे सारीयाक्आ। मित् ऑनलाइन खाता मेनाक्आ जोनोड़ाव को तायोम रे जोड़ावमे।"</string>
+<string name="contact_editor_prompt_one_account">"आमाक् नावाँ जोनाड़ाव सालाक् सिंक्रनाइज आ नाहाक् <xliff:g id="account_name">%1$s</xliff:g>."</string>
+<string name="contact_editor_prompt_multiple_accounts">"आम लातार रेयाक् खाता को मुद रे मित साँवा आमाक् नावाँ जोगाजोग सिंक्रनाइज दाड़ेयाक्आ। जाहाँटाक् आम बेभआरेम मेनात् काना/"</string>
+<string name="keep_local">"ठाँवेल दोहोय"</string>
+<string name="add_account">"खाता जोनोड़ाव"</string>
+<string name="add_new_account">"नावाँ खाता जोड़ाव"</string>
+<string name="menu_export_database">"इदीयाक् डेटाबेस फाइल"</string>
+<string name="contact_detail_picture_description">"चितार। फेराव लागित् ते बाछावमे"</string>
+<string name="no_fast_dial">"चाँड़ ते कॉल नंबर सेट बानुक्आ"</string>
+<string name="fast_dial_choose">"दायाकाते चाँड़ कॉल बाछावमे"</string>
+<string name="fast_call">"आड़ाङ कॉल"</string>
+<string name="fast_vt_call">"वीडियो कॉल"</string>
+<string name="wait">"दायाकाते ताङ्गी"</string>
+<string name="working">"कामीक्"</string>
+<string name="working_batch_delete">"बैच मेटाव"</string>
+<string name="working_batch_import">"बेच आगूय"</string>
+<string name="choose_sim_card">"SIM कार्ड बाछाव"</string>
+<string name="violate_capacity">"वोइलेट SIM  सानाहोप"</string>
+<string name="import_failed">"आगू / इदी जोगाजोग बाह गानलेना"</string>
+<string name="import_failed_tmp">"<xliff:g id="count">%d</xliff:g> गानेना, <xliff:g id="count">%d</xliff:g> बाङ गाना"</string>
+<string name="import_done">"आगू हुयेन"</string>
+<string name="delete_done">"मेटावेना"</string>
+<string name="toast_no_contact_selected">"जोगाजोग बाङ बाछावा"</string>
+<string name="contactSavedErrorToastNameLength">"जोगाजोग ञुतुम आडी माराङ जोगावेना"</string>
+<string name="contactSavedErrorToastEmailLength">"ईमेल ञुतुम आडी माराङ जोगावेना"</string>
+<string name="contactSavedErrorToastEmailFull">"ईमेल पेरेच् गेया"</string>
+<string name="contactSavedErrorToastSimEmailFull">"SIM कार्ड ईमेल पेरेच् गेया"</string>
+<string name="contactSavedErrorToastUsimEmailFull">"USIM कार्डे ईमेल पेरेच् गेया"</string>
+<string name="sim_is_full">"Sim पेरेच् गेया"</string>
+<string name="beyond_sim_card_capacity">"sim कार्ड रेयाक् सानाहोप् पारोम गेया, किछू गामा जोगाजोग बाङ जोगाव लेना"</string>
+<string name="menu_addToBlacklist">"बाड़िजाक् सूची जोड़ाव मे"</string>
+<string name="menu_view_calls">"ञेल"</string>
+<string name="item_all_calls">"जोतो कॉल लॉग"</string>
+<string name="item_sim1_calls">"Sim 1 कॉल लॉग"</string>
+<string name="item_sim2_calls">"Sim 2 कॉल लॉग"</string>
+<string name="res_name">"ञुतुम "</string>
+<string name="res_phone">"फोन"</string>
+<string name="res_email">"ईमेल "</string>
+<string name="res_field">"बाङ गान"</string>
+<string name="alert_maybe_lost_info">"इदी आर् आगू ते किछूगान बापाडाय दो नोस्टो आकाना"</string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> आडी जिलिञ"</string>
+<string name="select_group_member">"दोल रेन रासिया बाछाव कोम"</string>
+<string name="email_format_fail">"दायाकाते सटीक ईमेल ठिकाना खाड़ मे"</string>
+<string name="working_editing_group">"दोल फेराव"</string>
+<string name="editing_group_done">"दोल फेराव आरो हुयेना"</string>
+<string name="editing_group_failed">"दोल फेरावआरो बाङ गान"</string>
+<string name="contacts_group_name_exist">"चालाक् दोल ञुतुम"</string>
+<string name="menu_sendmms">"साङ्गे sms"</string>
+<string name="alert_delete_contact">"चेत आम खाटी गेया जे बाछावाक् जोगाजोग मेटावेम मेनेत् काना"</string>
+<string name="select_all">"जोतो सेलेद् मे"</string>
+<string name="label_sim">"SIM कार्ड"</string>
+<string name="label_usim">"SIM कार्ड"</string>
+<string name="menu_batch_delete">"बैच मेटाव"</string>
+<string name="group_selection">"दोल बाछावाक् जोगाजोग"</string>
+<string name="cancel_batch_import_confirmation">"आगूय जोगाजोग बातिल"</string>
+<string name="cancel_batch_delete_confirmation">"जोगाजोग मेटाव बातिल"</string>
+<string name="copy">"उचाड़"</string>
+<string name="copy_to">"कोपीय मे"</string>
+<string name="contactDeletedToast">"जोगाजोग मेटाव"</string>
+<string name="list_filter_all_in_one">"जोतो डेटा सालाक् जोगाजोग"</string>
+<string name="listTotalEmailContactsZero">"ईमेल ठिकाना साँव बाङ जोगाजोग"</string>
+<string name="list_filter_emails">"ईमेल ठिकाना साँव जोतो जोगाजोग"</string>
+<string name="listMaxContactsInAccount">"फारका: <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="reading_vcard_exception_title">"vCard  डेटा ओल / पाड़हाव गानोक् "</string>
+<string name="sqlite_full">"डेटाबेस जोगाजोग से डिस्क पेरेज गेया"</string>
+<string name="groupSavingToast">"दोल रेयाक् बापाडाय तायोम रे लागूया।"</string>
+<string name="batch_operation_canceled">"कामी बातिल"</string>
+<string name="no_sdcard_title">"SD कार्ड बानुक आ"</string>
+<string name="cancel_export_confirmation_title">"vCard  इदीय बातिल"</string>
+<string name="video_callNumber_by_sim2">"वीडियो कॉल<xliff:g id="NAME">%s</xliff:g>（SIM2）"</string>
+<string name="delete_calls_list">"बाछावाक् कॉल को मेटाव"</string>
+<string name="video_menu_callNumber">"वीडियो कॉल<xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="searching_vcard_title">"vCard  लागित् तोलास"</string>
+<string name="menu_copyToPhone">"फोन खोन कोपी"</string>
+<string name="cancel_import_confirmation_title">"vCard आगूय बातिल"</string>
+<string name="dialog_voicemail_not_ready_title">"आड़ाङ मेल नंबर बानुक्आ"</string>
+<string name="select_one">"निताक् बाछाव जिनिस"</string>
+<string name="delete_all_calls_confirm">"चेत आम जोतो कॉल को मेटावेम मेनेदा"</string>
+<string name="export_to_sim">"SIM कार्ड ते कोल मे"</string>
+<string name="scanning_sdcard_failed_title">"SD कार्ड बाङ स्केन लेना"</string>
+<string name="aggregation_suggestion_join_dialog_title">"जोगाजोगको रे सेलेदोक्"</string>
+<string name="aggregation_suggestion_edit_dialog_title">"बाछावाक् जोगाजोग मेटाव"</string>
+<string name="delete_group_dialog_title">"दो मेटाव"</string>
+<string name="delete_all_calls">"जोतो कॉल को मेटाव"</string>
+<string name="video_callNumber_by_sim1">"वीडियो कॉल<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+<string name="call_log_callNumber_by_sim">"कॉल<xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+<string name="dialog_phone_call_prohibited_title">"कॉल बाङ सेनलेना"</string>
+<string name="search_bar_hint">"जोगाजोग तोलास"</string>
+<string name="delete_success">"मेटाव गानेना"</string>
+<string name="deleteConfirmation_title">"जोगाजोग मेटाव"</string>
+<string name="delete_selected_calls">"चेत् आम बाछावाक् कॉल कोम मेटावेम मेनेदा"</string>
+<string name="delete_contact_all_calls">"चेत आम खाटी गेया जे कॉल लॉग जोगाजोग एम मेटावा"</string>
+<string name="menu_copyToSim">"SIM ते कोपी"</string>
+<string name="menu_all_contacts">"जोतो जोनोडड़ाव"</string>
+<string name="please_input_group_name">"दायाकाते दोल ञुतुम लाईमे"</string>
+<string name="cancel_confirmation_dialog_title">"फेराव इकाकाक्"</string>
+<string name="delete_calls">"मेटाव"</string>
+<string name="add_contact_dlg_title">"बेवरा जोड़ाव "</string>
+<string name="app_name">"कॉल लॉग"</string>
+<string name="search_description">"कॉल लॉग तोलास"</string>
+<string name="search_hint">"कॉल लॉग तोलास"</string>
+<string name="lable_search">"खोंज"</string>
+<string name="menu_deleteFromBlacklist">"हेंदे तालिका खोन मेटाव मे"</string>
+<string name="success_addToBlacklist">"जोड़ाव लेना"</string>
+<string name="failed_addToBlacklist">"बाङ जोड़ाव लेना"</string>
+<string name="success_removeFromBlacklist">"मेटाव एना"</string>
+<string name="failed_removeFromBlacklist">"मेटावमे बाङ लेना  "</string>
+<string name="menu_mmsGroup">"साङ्गे सान्देस"</string>
+<string name="menu_emailGroup">"साङ्गे ईमेल"</string>
+<string name="noContactsInGroup">"नोको दोल सालाक् जोगाजोग बानुक्आ"</string>
+<string name="please_wait">"दायाकाते ताङ्गी"</string>
+<string name="noContactswithEmail">"नोवा दोल सालाक् ईमेल जोगाजोग बानुक्आ"</string>
+<string name="noContactwithEmail">"ईमेल साँव जोगाजोग बानक्आ"</string>
+<string name="noContactwithPhoneAndEmail">"ईमेल आर फोन रे जोगाजोग रे बानुक्आ"</string>
+<string name="select_card">"दायाकाते कार्ड बाछावमे"</string>
+<string name="sim_absent">"बानुक्आ"</string>
+<string name="sdn_list">"SDN सूची"</string>
+<string name="lnd_list">"LND सूची"</string>
+<string name="sim_no_ready">"Sim कार्ड सापड़ावा"</string>
+<string name="sdn_please_insert_sim">"दायाकाते SIM कार्ड इंसर्ट मे"</string>
+<string name="sdn_sim_notready">"SIM बापाडाय पुस्टाव, दायाकाते तायोम ते चालावमे"</string>
+<string name="ip_dialer">"IP डायलिंग सेटिंग"</string>
+<string name="call_ip">"IP कॉल"</string>
+<string name="no_group">"ओका दोल रेन रासियाय बाङ काना"</string>
+<string name="select_group">"दोल बाछाव"</string>
+<string name="edit_photo">"फोटो सासापड़ाव"</string>
+<string name="select_all_contacts">"जोतो सेलेद् मे"</string>
+<string name="menu_save">"जोगाव"</string>
+<string name="group_name_hint_overlay">"दायाकाते दोल ञुतुम लाईमे"</string>
+<string name="select_group_member_overlay">"रासिया जोड़ाव लागित् क्लिक मे"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 जोगाजोग जुड़ी"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> जोगाजोग जुड़ी"</item>
+</plurals>
+<string name="no_match_contact">"जोगाजोग बाह जुड़ीक्"</string>
+<string name="menu_newGroup">"नावाँ दोल"</string>
+<string name="editGroup">"सासापड़ाव दोल"</string>
+<string name="menu_delete_group">"दो मेटाव"</string>
+<string name="contactsFavoritesLimit">"जोगावाक् रे 12 जोगाजोगा को जोगाव मे"</string>
+<string name="menu_add_favorite">"कुसीयाक् जोगाजोग जोड़ाव"</string>
+<string name="create_new_contact">"नावा जोगाजोग सिरजावमे"</string>
+<string name="send_mms">"कोल सान्देस"</string>
+<string name="tab_more">"आरो अपशन"</string>
+<string name="show_contacts">"जोगाजोग उदुक्  "</string>
+<string name="fast_dial">"लागे डाइल"</string>
+<string name="account">"खाता "</string>
+<string name="import_export_contacts">"इदी/ आगूय फोन बुक"</string>
+<string name="export_contacts">"जोगाजोग को कोल मे"</string>
+<string name="duplicate_phone_book">"डुप्लीकेट फोन बुक"</string>
+<string name="dump_phone_book">"डम्प फोन बुक"</string>
+<string name="call_log_contacts_not_save">"बाङबाडाया"</string>
+<string name="call_log_callNumber_by_sim_ex">"कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"वीडियो कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP कॉल<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="removeStarred">"थार ओचोग"</string>
+<string name="lookUpInfo">"लॉकअप बाडाय"</string>
+<string name="cancel">"बातिल"</string>
+<string name="favorite_contacts">"कुसीयाक् जोगाजोग"</string>
+<string name="no_available_number">"नंबर बानुक्आ"</string>
+<string name="confirmCoverPhoneNumber">"चेत् आम खाटी गेया जे चालक कान जोगाजोग उचाड़ा"</string>
+<string name="replaceSelected">"ओना बाछावमे जाहाँ उचाड़ेम मेनेदा"</string>
+<string name="over_phone_length_limit">"नंबर आडी जिलिञा"</string>
+<string name="invalid_number">"रासियाको बाङाबाताव"</string>
+<string name="no_vcard_found_in_internal_stor">"भितरी जोगावाक् रे vCard बानुक्आ"</string>
+<string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> कॉल लॉग"</string>
+<string name="menu_moveGroupMember">"दोल रासियाको उचाड़"</string>
+<string name="moveGroupMemberDialogTitle">"जोगोजोग उचाड़"</string>
+<string name="menu_deleteGroupMember">"दोल रासिया मेटाव"</string>
+<string name="overGroupNameLength">"दोल ञुतुम आडी लाटू गेया"</string>
+<string name="overGroupCountLimit">"दोल लेखा सीमा बाहरे"</string>
+<string name="menu_share_by_sms">"sms/mms"जोगाजोग कोल मे"</string>
+<string name="toast_batchoperation_is_running">"बेच कामी सेनोक् काना, दायाकाते तायोम ते लेगाय मे"</string>
+<string name="sdcard_storage_not_enough">"जोगावाक् उनाक् बानुक्आ"</string>
+<string name="noJoinContactDataWith">"जोगोजोग बाङ मेसा दाड़ेयाक्आ"</string>
+<string name="not_select_vCard">"जाहाँन vCard बाम बाछाव दाड़ेयाक्आ"</string>
+<string name="selected_is_not_image">"बाछावाक् फाइल चितार बाङ काना"</string>
+<string name="batch_delete_confim_title">"जोगाजोग (को) मेटाव"</string>
+<string name="batch_delete_confim_message">"बाछावाक् जोनोड़ाव को खाटी गे आम मेटाव एम मेनात् काना"</string>
+<string name="transaction_too_large">"बाछावाक् जोनोड़ाव सीमा साइज खोन लायू गेया,  दायाकाते नावां आरो ते बाछाव मे"</string>
+<string name="contacts_selection_too_more">"बाड़तीयाक नंबर को खोन बाछावाक् नंबर काना  <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="recentCalls_empty">"कॉल लॉग आजाड़ी गेया"</string>
+<string name="menu_newContact">"नावा जोगाजोगको"</string>
+<string name="contact_list_loading">"लोडोक काना"</string>
+<string name="recentCallsIconLabel">"कॉल लॉग"</string>
+<string name="launcherDialer">"डाइल"</string>
+<string name="delete_group_dialog_commit">"दोल (को) बाछावाक् को आम मेटावेम मेनेदा"</string>
+<string name="noContactsWithPhoneNumbers">"फोन नंबर सालाक् बाङ जोड़ाव"</string>
+<string name="listTotalAllContactsZeroStarred">"बाङ कुसीयाक्"</string>
+<string name="contact_editor_prompt_multiple_accounts_short">"जोगाजोग बान्दीय"</string>
+<string name="working_batch_starred">"बैच ञुम"</string>
+<string name="star_done">"इपिल हें"</string>
+<string name="cancel_batch_star_confirmation">"इपिल जोनोड़ाव बातिल"</string>
+<string name="upgrade_group_in_progress">"दोल सूची को नावांआरोक् काना"</string>
+<string name="sim_capacity">"SIM सानाहोप"</string>
+<string name="noSimCard">"SIM काड बानुक्आ"</string>
+<string name="clear">"मेटाव  "</string>
+<string name="cancel_select">"बाङबाछाव"</string>
+<string name="default_feature_bar_center">"बाछाव"</string>
+<string name="softkey_clear">"मेटाव  "</string>
+<string name="softkey_back">"रुवाड़"</string>
+<string name="softkey_option">"विकल्पको"</string>
+<string name="softkey_cancel">"बातिल"</string>
+<string name="softkey_dial">"डाइल"</string>
+<string name="softkey_new">"नावाँ "</string>
+<string name="softkey_send">"कोल"</string>
+<string name="softkey_search">"खोंज"</string>
+<string name="no_account_to_edit">"जोगाजोग बाञ्चाव लागित् जाहाँन खाता बानुक्आ, आर नोवा जोगाजोग वेनाव बाङ हुय दाड़ेयाक्आ."</string>
+<string name="only_other_number_type">"एकेन एटाक् नंबर को बाङ बाञ्चाव दाड़ेयाक्आ, दायाकाते पाछनाव मे।"</string>
+<string name="dup_phone_number_type">"मित् लेकान नंबर को बाम बाञ्चाव दाड़ेयाक्आ, "दायाकाते नोवा पाछनाव मे।"</string>
+</resources>

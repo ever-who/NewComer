@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"पाट कोपायेना"</string>
+<string name="call_custom">"कॉल <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="call_home">"होम कॉल"</string>
+<string name="call_mobile">"मोबाइल कॉल"</string>
+<string name="call_work">"कामी कॉल"</string>
+<string name="call_fax_work">"फैक्स कामी कॉल"</string>
+<string name="call_fax_home">"होम फैक्स कॉल"</string>
+<string name="call_pager">"पेजर कॉल"</string>
+<string name="call_other">"कॉल "</string>
+<string name="call_callback">"कॉल कॉल रुवाड़"</string>
+<string name="call_car">"कार कॉल"</string>
+<string name="call_company_main">"आसोल कंपनी कॉल"</string>
+<string name="call_isdn">"ISDN कॉल"</string>
+<string name="call_main">"आसोल कॉल"</string>
+<string name="call_other_fax">"फैक्स कॉल"</string>
+<string name="call_radio">"रेडियो कॉल"</string>
+<string name="call_telex">"कॉल टेलेक्स"</string>
+<string name="call_tty_tdd">"TTY/TDD कॉल"</string>
+<string name="call_work_mobile">"कॉल कामी मोबाइल"</string>
+<string name="call_work_pager">"कॉल कामी पेजर"</string>
+<string name="call_assistant">"कॉल <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="call_mms">"MMS कॉल"</string>
+<string name="sms_custom">"पाट <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="sms_home">"होम पाट"</string>
+<string name="sms_mobile">"मोबाइल पाट"</string>
+<string name="sms_work">"पाट कामी"</string>
+<string name="sms_fax_work">"पाट् फैक्स कामी"</string>
+<string name="sms_fax_home">"होम फैक्स पाट"</string>
+<string name="sms_pager">"पाट पेजर"</string>
+<string name="sms_other">"पाट"</string>
+<string name="sms_callback">"पाट कॉलरुवाड़"</string>
+<string name="sms_car">"कार पाट"</string>
+<string name="sms_company_main">"आसोल कंपनी पाट"</string>
+<string name="sms_isdn">"ISDN पाट"</string>
+<string name="sms_main">"पाट आसोल"</string>
+<string name="sms_other_fax">"पाट फैक्स"</string>
+<string name="sms_radio">"पाट रेडियो"</string>
+<string name="sms_telex">"पाट टेलेक्स"</string>
+<string name="sms_tty_tdd">"TTY/TDD पाट"</string>
+<string name="sms_work_mobile">"पाट कामी मोबाइल"</string>
+<string name="sms_work_pager">"पाट कामी पेजर"</string>
+<string name="sms_assistant">"पाट <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="sms_mms">"MMS पाट"</string>
+<string name="clearFrequentsConfirmation_title">"फ्रीक्वेंसी जोनोड़ाव को साफाय"</string>
+<string name="clearFrequentsConfirmation">"फोन एप्प आर आम जोतो होड़ाक् जोगाजोग सूची  साफाय, आर ईमेल एप्प दाड़ेत ते कारागार कातेन आमाक् लाकती को पाड़हावमे।"</string>
+<string name="clearFrequentsProgress_title">"साफा फ्रीक्वेंसी जोड़ावेना"</string>
+<string name="status_available">"मेनाक्"</string>
+<string name="status_away">"होर"</string>
+<string name="status_busy">"बेसत्य"</string>
+<string name="contactsList">"जोगाजोगको  "</string>
+<string name="local_invisible_directory">"एटाक हड़"</string>
+<string name="directory_search_label">"डायरेक्टोरी"</string>
+<string name="local_search_label">"जोतो जोनोडड़ाव"</string>
+<string name="user_profile_contacts_list_header">"इञ"</string>
+<string name="search_results_searching">"तोलास"</string>
+<string name="foundTooManyContacts">"नाहीनिधान <xliff:g id="count">%d</xliff:g> ञाम।"</string>
+<string name="listFoundAllContactsZero">"बाङ जोगाजोग"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 तोलास"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> तोलास"</item>
+</plurals>
+<string name="description_quick_contact_for">"लागे जोड़ाव लागित् <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="missing_name">"(बाङ ञुतुम)"</string>
+<string name="favoritesFrequentCalled">"फ्रीक्वेंसी कॉल एना"</string>
+<string name="favoritesFrequentContacted">"फ्रीक्वेंसी जोड़ावेना"</string>
+<string name="description_view_contact_detail">"जोगाजोग ञेनेल"</string>
+<string name="list_filter_phones">"फोन नंबर सांव जातो जोनोड़ाव"</string>
+<string name="view_updates_from_group">"ञेनेल नावाँआरो"</string>
+<string name="account_phone" product="tablet">"एकेन तालिका बाङ सिंक आ"</string>
+<string name="account_phone" product="default">"एकेन फोन बाङ सिंक आ"</string>
+<string name="nameLabelsGroup">"ञुतुम "</string>
+<string name="nicknameLabelsGroup">"बाहनाञुतुम"</string>
+<string name="full_name">"ञुतुम "</string>
+<string name="name_given">"पाहिल ञुतुम"</string>
+<string name="name_family">"मुचात् ञुतुम"</string>
+<string name="name_prefix">"ञुतुम लाहाजोनोडाव"</string>
+<string name="name_middle">"ताला ञुतुम"</string>
+<string name="name_suffix">"ञुतुम तायोमजोनोड़ाव"</string>
+<string name="name_phonetic">"फोनेटिक्स ञुतुम"</string>
+<string name="name_phonetic_given">"फोनेटिक्स एहोप् ञुतुम"</string>
+<string name="name_phonetic_middle">"फोनेटिक्स ताला ञुतुम"</string>
+<string name="name_phonetic_family">"फोनेटिक्स मुचात् ञुतुम"</string>
+<string name="phoneLabelsGroup">"फोन"</string>
+<string name="emailLabelsGroup">"ईमेल "</string>
+<string name="postalLabelsGroup">"ठिकाना "</string>
+<string name="imLabelsGroup">"IM"</string>
+<string name="organizationLabelsGroup">"संगठन  "</string>
+<string name="relationLabelsGroup">"सागाई"</string>
+<string name="eventLabelsGroup">"आसोल माँहित"</string>
+<string name="sms">"पाट सान्देस"</string>
+<string name="postal_address">"ठिकाना "</string>
+<string name="ghostData_company">"कंपनी"</string>
+<string name="ghostData_title">"ञुतुम"</string>
+<string name="label_notes">"नोटको"</string>
+<string name="label_sip_address">"इंटरनेट कॉल"</string>
+<string name="websiteLabelsGroup">"बेवसाइट"</string>
+<string name="groupsLabel">"दोलको"</string>
+<string name="email_home">"ईमेल होम"</string>
+<string name="email_mobile">"ईमेल मोवाइल"</string>
+<string name="email_work">"ईमेल कामी"</string>
+<string name="email_other">"ईमेल "</string>
+<string name="email_custom">"ईमेल <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="email">"ईमेल "</string>
+<string name="postal_street">"कुल्ही"</string>
+<string name="postal_pobox">"पीओ बाक्सा"</string>
+<string name="postal_neighborhood">"सोपोर"</string>
+<string name="postal_city">"सिटी"</string>
+<string name="postal_region">"अबस्था"</string>
+<string name="postal_postcode">"जेटआइपि कोड"</string>
+<string name="postal_country">"दिसाम"</string>
+<string name="map_home">"ञेनेल होम ठिकाना"</string>
+<string name="map_work">"ञेनेल कामी ठिकाना"</string>
+<string name="map_other">"ञेनेल ठिकाना"</string>
+<string name="map_custom">"ञेनेल <xliff:g id="custom">%s</xliff:g> ठिकाना"</string>
+<string name="chat_aim">"AIM चेट बेभार"</string>
+<string name="chat_msn">"Windows Live चेट बेभार"</string>
+<string name="chat_yahoo">"याहू चेट बेभार"</string>
+<string name="chat_skype">"Skype चेट बेभार"</string>
+<string name="chat_qq">"QQ चेट बेभार"</string>
+<string name="chat_gtalk">"Google Talk  चेट बेभार"</string>
+<string name="chat_icq">"ICQ चेट बेभार"</string>
+<string name="chat_jabber">"चेट बेभार जब्बर"</string>
+<string name="chat">"चेट"</string>
+<string name="description_minus_button">"मेटाव"</string>
+<string name="expand_collapse_name_fields_description">"जिलिञ से माराव ञुतुम बाङ गाना"</string>
+<string name="list_filter_all_accounts">"जोतो जोनोडड़ाव"</string>
+<string name="list_filter_all_starred">"इपिलगाराक्"</string>
+<string name="list_filter_customize">"काटिज"</string>
+<string name="list_filter_single">"जोगाजोग"</string>
+<string name="display_ungrouped">"जोतो टाक् जोगाजोगको"</string>
+<string name="display_all_contacts">"जोतो जोनोडड़ाव"</string>
+<string name="menu_sync_remove">"सिंक दोल ओचोग"</string>
+<string name="dialog_sync_add">"सिंक दोल जोड़ाव"</string>
+<string name="display_more_groups">"साङगे दोल"</string>
+<string name="display_warn_remove_ungrouped">"ओचोग \"<xliff:g id="group" example="Starred">%s</xliff:g>\"सिंक खोन ओचोक् काते एटाक् बेगादेल सिक रे जोगाजोग"</string>
+<string name="savingDisplayGroups">"उदुगोक् विकल्प जोगाव"</string>
+<string name="menu_done">"गान"</string>
+<string name="menu_doNotSave">"बातिल"</string>
+<string name="listAllContactsInAccount">"जोगाजोग रे <xliff:g id="name" example="abc@gmail.com">%s</xliff:g>"</string>
+<string name="listCustomView">"कस्टम ञेनेल साँव जोगाजोग"</string>
+<string name="listSingleContact">"मित् जोगाजोग"</string>
+<string name="dialog_new_contact_account">"खाता ताला रे जोगाजोग सिरजावमे"</string>
+<string name="import_from_sim">"SIM कार्ड खोन आगूय"</string>
+<string name="import_from_sdcard" product="default">"भितरी जोगावाक् खोन आगूय"</string>
+<string name="cancel_import_confirmation_message">"आगूय बातिल <xliff:g id="filename" example="import.vcf">%s</xliff:g>?"</string>
+<string name="cancel_export_confirmation_message">"इदीय बातिल <xliff:g id="filename" example="export.vcf">%s</xliff:g>?"</string>
+<string name="cancel_vcard_import_or_export_failed">"vCard  ते इदी आगू बाङ बातिल लेना"</string>
+<string name="fail_reason_unknown">"बाङ बाड़ाय़ भुल"</string>
+<string name="fail_reason_could_not_open_file">"बाङ झिजुक् काना \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>."</string>
+<string name="fail_reason_could_not_initialize_exporter">"इदीयाक् बाङ चालूक् काना: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_no_exportable_contact">"नोवा जोगाजोग दो बाङ इदीक्आ"</string>
+<string name="fail_reason_error_occurred_during_export">"इदी ओकते तापुक् एना: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_too_long_filename">"लाकती फाइल ञुतुम आडी लाटूवा (\"<xliff:g id="filename">%s</xliff:g>\")."</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"आयमा साङ्गे vCard फाइल को जोगावाक् कामीक् काना"</string>
+<string name="fail_reason_too_many_vcard" product="default">"आयमा साङ्गे vCard फाइल को SD कार्ड रे कामीक् काना"</string>
+<string name="fail_reason_io_error">"I/O तापुक्"</string>
+<string name="fail_reason_low_memory_during_import">"जोगाव जायागा कोम गेया। फाइल आडी माराङ हुय दाड़ेयाक्आ"</string>
+<string name="fail_reason_vcard_parse_error">"बाङ बाड़ायाक् ओजे ते  बाय बिछनाव लेदा"</string>
+<string name="fail_reason_not_supported">"फोरमेट बाय गोड़ोक् काना"</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">"Vcard  मेटा फाइल रेयाक् बापाडाय बाय तुमाल ओचोवादा"</string>
+<string name="fail_reason_failed_to_read_files">"मित् टेच् से आयमा फाइल बाङ आगूक्आ (%s)."</string>
+<string name="exporting_vcard_finished_title">"इदी पुरावेना <xliff:g id="filename" example="export.vcf">%s</xliff:g>."</string>
+<string name="exporting_vcard_canceled_title">"इदीक् <xliff:g id="filename" example="export.vcf">%s</xliff:g>बातिलेना."</string>
+<string name="exporting_contact_list_title">"इदीक् काना जोगाजोग डेटा"</string>
+<string name="exporting_contact_list_message">"आमाक् जोगाजोग डेटा इदीक् काना: <xliff:g id="file_name">%s</xliff:g>."</string>
+<string name="composer_failed_to_get_database_infomation">"डेटाबेस बापाडाय बाङ ञामोक् काना।"</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"नोवा दो बाङ इदीक् जोगाजोग काना। जुदी आम टेबलेट ते जोगाजोग एम मेनेदा, किछू डेटा एमोगिच् बाय छाड़ेत् काना आमाक् टेबलेट रेयाक् जोगाजोग खोन इदीदाड़ेयाक्आ।"</string>
+<string name="composer_has_no_exportable_contact" product="default">"नोवा दो बाङ इदीक् जोगाजोग काना। जुदी आम फोन ते जोगाजोग एम मेनेदा, किछू डेटा एमोगिच् बाय छाड़ेत् काना आमाक् फोन रेयाक् जोगाजोग खोन इदीदाड़ेयाक्आ।"</string>
+<string name="composer_not_initialized">"vCard कंपोजर नापाय  ते बाङ चालू काना"</string>
+<string name="exporting_contact_failed_title">"आलो ईदीय"</string>
+<string name="exporting_contact_failed_message">"जोगाजोग डेटा बातिल आकाना\nओजे: \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+<string name="no_sdcard_message" product="nosdcard">"जोगावाक् बाङ ञामलेना"</string>
+<string name="no_sdcard_message" product="default">"SD कार्ड बाङ ञाम लेना"</string>
+<string name="confirm_export_message">"आमाक् जोगाजोग सूची फाइल बातिलेना : <xliff:g id="vcard_filename">%s</xliff:g>."</string>
+<string name="importing_vcard_description">"आगूक् <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="reading_vcard_failed_title">"vCard डेटा  बाङ पाड़हाव लेना"</string>
+<string name="reading_vcard_canceled_title">"VC कार्ड डेटा पाड़हाव बातिलेना"</string>
+<string name="importing_vcard_finished_title">"vCard खोन आगू पुरावेना <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">"आगूय <xliff:g id="filename" example="import.vcf">%s</xliff:g> बातिलेना"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> लागे आगूक्आ"</string>
+<string name="vcard_import_will_start_message_with_default_name">"फाइल लागे आगूक्आ"</string>
+<string name="vcard_import_request_rejected_message">"vCard आगूय नेहोर बाङ बाताव लेना। दोहड़ा लेगाय मे"</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> लागीय इदीया"</string>
+<string name="vcard_export_request_rejected_message">"vCard इदीय नेहोर बाङ बाताव लेना। दोहड़ा लेगामे"</string>
+<string name="vcard_unknown_filename">"जोगाजोग"</string>
+<string name="caching_vcard_message">"vCard केसिंग (को) ठाँवेल जोगावा हाताड़। सारी ते आगुल लागित् लागे चालू मे।"</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"vCard बाङ आगूक्आ"</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"vCard फाइल जोगावाक् रे बाङ ञामोक् कान"</string>
+<string name="import_failure_no_vcard_file" product="default">"vCard फाइल SD कार्ड रे बाङ ञामोक् कान"</string>
+<string name="nfc_vcard_file_name">"NFC  ते जोगोजोग आताङ "</string>
+<string name="confirm_export_title">"इदीय जोगाजोग"</string>
+<string name="select_vcard_title">"vCard रेयाक् फाइल"</string>
+<string name="import_one_vcard_string">"vCard रेयाक् मित् फाइल आगूय"</string>
+<string name="import_multiple_vcard_string">"vCard रेयाक् साङ्गेबेवहार फाइल आगूय"</string>
+<string name="import_all_vcard_string">"vCard रेयाक् जोतो फाइल आगूय"</string>
+<string name="searching_vcard_message" product="nosdcard">"vCard रे जोगावाक् ए तोलासेदा"</string>
+<string name="searching_vcard_message" product="default">"vCard रे जोगावाक् ए तोलासेदा"</string>
+<string name="caching_vcard_title">"केसिंग"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"जोगावाक् बाह स्केनोक्आ। (ओजे: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">"SD कार्ड बाङ स्केनोक्आ (ओजे: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">"आगूयेत् <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="export_to_sdcard" product="default">"भितरी जोगावाक् खोन इदीय"</string>
+<string name="share_visible_contacts">"ञेलोगोक् जोगाजोग को हाटिञ"</string>
+<string name="dialog_import_export">"इदी/ आगूय फोन बुक"</string>
+<string name="dialog_import">"लाकतीयाक् जोगाजोग"</string>
+<string name="share_error">"नोवा जोगाजोगा दो बाङ हाटिञोक्आ"</string>
+<string name="menu_search">"खोंज"</string>
+<string name="menu_contacts_filter">"जोगाजोग उदुक  "</string>
+<string name="activity_title_contacts_filter">"जोगाजोग उदुक  "</string>
+<string name="custom_list_filter">"कस्टम बेवरा पुल्टाव"</string>
+<string name="hint_findContacts">"जोगजोग सेन्दराय"</string>
+<string name="contactsFavoritesLabel">"कुसीयाक्"</string>
+<string name="listTotalAllContactsZero">"बाङ जोगाजोग"</string>
+<string name="listTotalAllContactsZeroCustom">"जोगाजोग बाङ ञेलोक् काना"</string>
+<string name="listTotalAllContactsZeroStarred">"बाङ कुसीयाक्"</string>
+<string name="listTotalAllContactsZeroGroup">"बाङ् जोगाजोग रे <xliff:g id="name" example="Friends">%s</xliff:g>"</string>
+<string name="menu_clear_frequents">"साफा फ्रीक्वेंसी"</string>
+<string name="menu_accounts">"हिसाबको"</string>
+<string name="menu_import_export">"आगूय इदीय"</string>
+<string name="description_send_message">"ते सान्देस कोल <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="description_dial_phone_number">"फोन डाइल <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">"जोतो सेलेद् मे"</string>
+<string name="select_card">"दायाकाते कार्ड बाछावमे"</string>
+<string name="choose_sim_card">"SIM कार्ड बाछाव"</string>
+<string name="fail_reason_empty">"जोगाजोग डेटा आजाड़ी"</string>
+<string name="import_from_phone">"भितरी जोगावाक् खोन आगूय"</string>
+<string name="label_phone">"फोन"</string>
+<string name="listTotalPhoneContactsZero">"बाङ जोगाजोग"</string>
+<string name="cancel_select_all_contacts">"जोतो बतिल"</string>
+<string name="no_match_contact">"जोगाजोग बाह जुड़ीक्"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 जोगाजोग जुड़ी"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> जोगाजोग जुड़ी"</item>
+</plurals>
+<string name="copy_to">"कोपीय मे"</string>
+<string name="export_to_phone">"भितरी जोगावाक् खोन इदीय"</string>
+<string name="contacts_selection_for_mms_limit">"गोटा तोरा नंबर खोन बाछावाक् नंबर काना <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="contact_status_update_attribution">"सेच् लेकाते <xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> सेच् लेकाते <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">"फोन नंबर सालाक् जोगाजोग"</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">"बाछाव"</item>
+<item quantity="other">"बाछावाक् (<xliff:g id="COUNT">%d</xliff:g>)"</item>
+</plurals>
+<string name="select_cancle">"बातिल"</string>
+<string name="select_audio_video_call">"दायाकाते ऑडियो कॉल से वीडियो कॉल बाछाव मे"</string>
+<string name="contact_has_no_phonenumber">"कॉल लागित् तो नोवा जोगाजोग रे जाहाँन नंबर बानुक्आ।"</string>
+</resources>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">"ব্যক্তিগণ"</string>
+<string name="contactsList">যোগাযোগগুলি</string>
+<string name="shortcutContact">পরিচিতি</string>
+<string name="shortcutDialContact">"সরাসরি ডায়াল করুন"</string>
+<string name="shortcutMessageContact">"সরাসরি বার্তা"</string>
+<string name="shortcutActivityTitle">"পরিচিতির শর্টকাট বেছে নিন"</string>
+<string name="callShortcutActivityTitle">"কল করার জন্য একটি নম্বর বেছে নিন"</string>
+<string name="messageShortcutActivityTitle">"বার্তা দেয়ার একটি নম্বর বেছে নিন"</string>
+<string name="contactPickerActivityTitle">"যোগাযোগগুলি বাছাই করুন"      </string>
+<string name="starredList">তারকা চিহ্নিত</string>
+<string name="frequentList">"ঘন"</string>
+<string name="strequentList">"পছন্দগুলি"</string>
+<string name="viewContactTitle">"বিস্তারিত যোগাযোগ"</string>
+<string name="viewContactDesription">পরিচিতি দেখতে</string>
+<string name="editContactDescription">"সম্পাদনা করুন"</string>
+<string name="insertContactDescription">"যোগাযোগ করুন"</string>
+<string name="editGroupDescription">সম্পাদন গ্রুপ</string>
+<string name="insertGroupDescription">"দল তৈরি করা"</string>
+<string name="contactDetailAbout">সম্পর্কে</string>
+<string name="contactDetailUpdates">"আপডেট"</string>
+<string name="searchHint">"পরিচিতিগুলি অনুসন্ধান করুন"</string>
+<string name="menu_viewContact">পরিচিতি দেখতে</string>
+<string name="menu_addStar">"প্রিয় তালিকায় যোগ করুন"</string>
+<string name="menu_removeStar">"ফেভারিটে থেকে সরান"</string>
+<string name="menu_editContact">সম্পাদন</string>
+<string name="menu_deleteContact">মুছে দিন</string>
+<string name="menu_create_contact_shortcut">হোম পর্দায় স্থান</string>
+<string name="menu_call">যোগাযোগ কল</string>
+<string name="menu_sendSMS">"বার্তা পাঠান"</string>
+<string name="menu_splitAggregate">"পৃথক"</string>
+<string name="menu_editGroup">সম্পাদন</string>
+<string name="menu_deleteGroup">মুছে দিন</string>
+<string name="menu_new_contact_action_bar">"ঠিকানা যোগ করুন"</string>
+<string name="menu_new_group_action_bar">"দল যুক্ত করুন"</string>
+<string name="splitConfirmation_title">"পৃথক যোগাযোগ"</string>
+<string name="splitConfirmation">"এই পরিচিতি একাধিক পরিচিতিগুলি বিভক্ত করা হবে।"</string>
+<string name="menu_joinAggregate">"যোগদান"</string>
+<string name="titleJoinContactDataWith">"পরিচিতিগুলি যোগ দিন"</string>
+<string name="blurbJoinContactDataWith">"যোগাযোগের আপনি সঙ্গে যোগদান করতে চান নির্বাচন করুন <xliff:g id="name">%s</xliff:g>।"</string>
+<string name="showAllContactsJoinItem">"সমস্ত যোগাযোগ প্রদর্শন"</string>
+<string name="separatorJoinAggregateSuggestions">"পরামর্শকৃত পরিচিতিগুলি"</string>
+<string name="separatorJoinAggregateAll">"সমস্ত যোগাযোগ"</string>
+<string name="contactsJoinedMessage">"পরিচিতিগুলি যোগ দেন"</string>
+<string name="menu_set_ring_tone">"রিংটোন সেট করুন"</string>
+<string name="menu_redirect_calls_to_vm">"ভয়েসমেইল সমস্ত কলগুলি"</string>
+<string name="readOnlyContactWarning">"আপনি শুধুমাত্র পাঠযোগ্য অ্যাকাউন্ট থেকে পরিচিতিগুলি মুছে ফেলতে না কিন্তুআপনি আপনার পরিচিতি তালিকার মধ্যে লুকিয়ে রাখতে পারেন।"</string>
+<string name="label_phone">ফোন</string>
+<string name="readOnlyContactDeleteConfirmation">"এই যোগাযোগের একাধিক অ্যাকাউন্ট থেকে তথ্য উপস্থিত রয়েছে। শুধুমাত্র পাঠযোগ্য অ্যাকাউন্ট থেকে তথ্য আপনার পরিচিতি তালিকার মধ্যে, লুকানো হবে না মুছে ফেলা হবে।"</string>
+<string name="multipleContactDeleteConfirmation">"এই পরিচিতিকে মুছে ফেলার জন্য একাধিক অ্যাকাউন্ট থেকে তথ্য মুছে ফেলা হবে।"</string>
+<string name="deleteConfirmation">"এই যোগাযগটি মুছে যাবে।"</string>
+<string name="menu_discard">অগ্রাহ্য করা</string>
+<string name="invalidContactMessage">"যোগাযোগের কোন অস্তিত্ব নেই।"</string>
+<string name="createContactShortcutSuccessful">যোগাযোগ উইজেট হোম পর্দায় যোগ করা হয়েছে.</string>
+<string name="pickerNewContactHeader">নতুন যোগাযোগ তৈরি করুন</string>
+<string name="pickerNewContactText">নতুন যোগাযোগ তৈরি করুন</string>
+<string-array name="otherLabels">
+<item>"সংগঠন"</item>
+<item>"টীকা"</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">"কোন ছবি ট্যাবলেট পাওয়া যায় নেই।"</string>
+<string name="photoPickerNotFoundText" product="default">ফোনে কোন ছবি উপলব্ধ নেই</string>
+<string name="attach_photo_dialog_title">"ছবির যোগাযোগ"</string>
+<string name="customLabelPickerTitle">"কাস্টম লেবেল নাম"</string>
+<string name="send_to_voicemail_checkbox">"কল পাঠান সরাসরি পাঠানোর জন্য ভয়েসমেল"</string>
+<string name="removePhoto">"ছবির সরান"</string>
+<string name="noContacts">"কোন দৃশ্যমান পরিচিতি নেই"</string>
+<string name="noGroups">"কোন গ্রুপ নেই।"</string>
+<string name="noAccounts">"গ্রুপ তৈরি করলে আপনি একটি অ্যাকাউন্ট থাকা প্রয়োজন।"</string>
+<string name="emptyGroup">"এই গ্রুপ কোনো লোক নেই।"</string>
+<string name="addPeopleToGroup">"কিছু যোগ করা, সম্পাদনা গ্রুপ।"</string>
+<string name="savingContact">"যোগাযোগ সংরক্ষণ\u2026"</string>
+<string name="contactSavedToast">"সেভ করুন। "</string>
+<string name="contactSavedErrorToast">"ত্রুটি, যোগাযোগের পরিবর্তনগুলি সংরক্ষণ করতে অক্ষম।"</string>
+<string name="groupSavedToast">"গ্রুপ সংরক্ষিত।"</string>
+<string name="groupSavedErrorToast">"গ্রুপ পরিবর্তনগুলি সংরক্ষণ করা যায়নি।"</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">"ফোন নম্বর সহ 1 টি যোগাযোগ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g>ফোন নম্বরগুলি সহ যোগাযোগ সমূহ"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">ফোন নম্বর সঙ্গে কোনো যোগাযোগ.</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">"1 পরিচিতি"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> পরিচিতি"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">"1 টি খুঁজে পাওয়া গেছে"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> খুঁজে পাওয়া গেছে"</item>
+</plurals>
+<string name="listFoundAllContactsZero">"কোন ফোন নম্বর সঙ্গে দৃশ্যমান পরিচিতি নেই"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 টি খুঁজে পাওয়া গেছে"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> খুঁজে পাওয়া গেছে"</item>
+</plurals>
+<string name="contactsAllLabel">"সমস্ত যোগাযোগ"</string>
+<string name="contactsGroupsLabel">"ব্লগ"</string>
+<string name="callBack">"কল ব্যাক"</string>
+<string name="callAgain">"পুনরায় চেষ্টা করা"</string>
+<string name="returnCall">"কল প্রত্যাবর্তন"</string>
+<string name="add_contact_dlg_message_fmt">"যোগ করুন \"<xliff:g id="email">%s</xliff:g>\" যোগাযোগ গুলোর সাথে?"</string>
+<string name="description_contact_photo">"ছবির যোগাযোগ"</string>
+<string name="description_plus_button">"নতুন"</string>
+<string name="exporting_contact_list_progress"> <xliff:g id="total_number">%s</xliff:g> টির মধ্যে <xliff:g id="current_number">%s</xliff:g> টি পরিচিতি</string>
+<string name="search_settings_description">"আপনার পরিচিতিগুলি নাম"</string>
+<string name="quickcontact_missing_app">"এই ক্রিয়াটিকে চালনা করার জন্য কোনো অ্যাপ্লিকেশান পাওয়া যায়নি৷"</string>
+<string name="missing_app">"এই ক্রিয়াটিকে চালনা করার জন্য কোনো অ্যাপ্লিকেশান পাওয়া যায়নি৷"</string>
+<string name="menu_share">ভাগ</string>
+<string name="share_via">"শেয়ার যোগাযোগের মাধ্যমে"</string>
+<string name="dialog_new_group_account">"অ্যাকাউন্টের অধীন গ্রুপ তৈরি করুন"</string>
+<string name="audio_chat">"ভয়েস চ্যাট"</string>
+<string name="video_chat">"ভিডিও চ্যাট"</string>
+<string name="connections">"আপনার সংযোগ"</string>
+<string name="add_connection_button">"সংযোগ যোগ করুন"</string>
+<string name="recent">"সাম্প্রতিক"</string>
+<string name="recent_updates">"সাম্প্রতিক আপডেটসমূহ"</string>
+<string name="account_type_format">"<xliff:g id="source" example="Gmail">%1$s</xliff:g> যোগাযোগ"</string>
+<string name="from_account_format">"হতে <xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">"এই ছবির ব্যবহার"</string>
+<string name="contact_read_only">এই অ্যাপ থেকে সম্পাদনাযোগ্য নয়। </string>
+<string name="no_contact_details">"এই পরিচিতির জন্য কোনো অতিরিক্ত তথ্য নেই।"</string>
+<string name="group_read_only">"এই ডিভাইসে সম্পাদনযোগ্য নেই। "</string>
+<string name="display_options_sort_list_by">"বাছাই তালিকা অনুযায়ী সাজাও"</string>
+<string name="display_options_sort_by_given_name">"নাম"</string>
+<string name="display_options_sort_by_family_name">"পদবী"</string>
+<string name="display_options_view_names_as">"এই হিসেবে যোগাযোগ নামগুলো দেখান"</string>
+<string name="display_options_view_given_name_first">"দেওয়া নাম প্রথম"</string>
+<string name="display_options_view_family_name_first">"পরিবার নাম প্রথম"</string>
+<string name="take_photo">ছবি তুলুন</string>
+<string name="take_new_photo">"নতুন ফটো তুলুন"</string>
+<string name="pick_photo">"গ্যালারি থেকে ছবি নির্বাচন করুন"</string>
+<string name="pick_new_photo">"গ্যালারি থেকে নতুন ছবির নির্বাচন করুন"</string>
+<string name="locale_change_in_progress">"যোগাযোগ তালিকা থেকে ভাষা পরিবর্তন প্রতিফলিত করে আপডেট করা হচ্ছে.\n\n দয়া করে অপেক্ষা করুন ..."</string>
+<string name="upgrade_in_progress">"যোগাযোগ তালিকা আপডেট করা হচ্ছে.\n\n দয়া করে ... অপেক্ষা"</string>
+<string name="upgrade_out_of_memory">পরিচিতিগুলি আপগ্রেড হওয়ার প্রক্রিয়াতে আছে। \n\nআপগ্রেড প্রক্রিয়াটির জন্য আনুমানিক  <xliff:g id="size_in_megabytes">%s</xliff:g>MB অভ্যন্তরীণ স্টোরেজ প্রয়োজন।\n\n নিম্নলিখিত বিকল্পগুলির একটি পছন্দ করুন:</string>
+<string name="upgrade_out_of_memory_uninstall">"কিছু অ্যাপ্লিকেশন আনইন্সটল করুন"</string>
+<string name="upgrade_out_of_memory_retry">"আপগ্রেড করার চেষ্টা করুন"</string>
+<string name="search_results_searching">অনুসন্ধান\u2026</string>
+<string name="menu_display_selected">"নির্বাচিত দেখাও"</string>
+<string name="menu_display_all">"সব দেখাও"</string>
+<string name="menu_select_all">সব নির্বাচন করুন</string>
+<string name="menu_select_none">সব অনিবাচন</string>
+<string name="add_field">"আরেকটি ক্ষেত্র যোগ করুন"</string>
+<string name="add_new_entry_for_section">"নতুন বন্ধু"</string>
+<string name="add_organization">"প্রতিষ্ঠানের যোগ করুন"</string>
+<string name="event_edit_field_hint_text">"তারিখ"</string>
+<string name="group_edit_field_hint_text">"গ্রুপের নাম"</string>
+<string name="description_star">"প্রিয়"</string>
+<string name="edit_contact">"সম্পাদনা করুন"</string>
+<plurals name="merge_info">
+<item quantity="one">"একত্রিত করা যায় নি"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> উৎসগুলি থেকে একত্রিত করা হয়েছে"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">"যোগদান করুন নির্বাচিত বর্তমান পরিচিতির সাথে যোগাযোগ? "</string>
+<string name="aggregation_suggestion_edit_dialog_message">"সম্পাদনায় স্যুইচ করুন নির্বাচিত পরিচিতি? আপনার প্রবেশ করানো তথ্য এ পর্যন্ত কপি করা হবে। "</string>
+<string name="menu_copyContact">আমার পরিচিতিগুলিতে অনুলিপি করুন</string>
+<string name="add_to_my_contacts">"আমার পরিচিতিতে যোগ করুন"</string>
+<string name="contact_directory_description">"ডিরেক্টরি <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g>"</string>
+<string name="toast_making_personal_copy">"নির্মাণএকটি ব্যক্তিগত অনুলিপি\u2026 "</string>
+<string name="list_filter_custom">"কাস্টম"</string>
+<string name="activity_title_settings">সেটিংস</string>
+<string name="menu_settings">সেটিংস</string>
+<string name="menu_help">সাহায্য</string>
+<string name="preference_displayOptions">"অফসান প্রদর্শন"</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">"ফোন নম্বর"</string>
+<string name="non_phone_add_to_contacts">পরিচিতিতে যোগ করুন</string>
+<string name="activity_title_confirm_add_detail">"পরিচিতি যোগ করুন"</string>
+<string name="non_phone_close">বন্ধ করা</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">"একটি বছর প্রদান করা হল"</string>
+<string name="social_widget_label">পরিচিতি</string>
+<string name="social_widget_loading">লোড করা হচ্ছে\u2026</string>
+<string name="contacts_unavailable_create_contact">"নতুন যোগাযোগ তৈরি করুন"</string>
+<string name="contacts_unavailable_add_account">"একটি একাউন্টে সাইন ইন করুন"</string>
+<string name="contacts_unavailable_import_contacts">পরিচিতিগুলি আমদানি করুন</string>
+<string name="create_group_dialog_title">"নতুন গ্রুপ তৈরি করুন"</string>
+<string name="create_group_item_label">"নতুন গ্রুপ তৈরি করুন"</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">"1 টি গ্রুপ"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> গ্রুপ"</item>
+</plurals>
+<string name="delete_group_dialog_message">"গ্রুপ মুছে দিন \"<xliff:g id="group_label" example="Friends">%1$s</xliff:g>\"? (পরিচিতিতে নিজেদের মুছে দেওয়া হবে না।)"</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> থেকে ব্যক্তি <xliff:g id="account_type">%2$s</xliff:g>"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> থেকে জনগণ <xliff:g id="account_type">%2$s</xliff:g>"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> ব্যক্তি"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g>  জনগণ"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">"যোগদান এর আগে পরিচিতি নাম টাইপ করুন সঙ্গে অন্য একটির।"</string>
+<string name="copy_text">"ক্লিপবোর্ডে অনুলিপি করুন"</string>
+<string name="set_default">"ডিফল্ট সেট করুন"</string>
+<string name="clear_default">"সাফ ডিফল্ট"</string>
+<string name="toast_text_copied">"টেক্সট কপি করা"</string>
+<string name="cancel_confirmation_dialog_message">"আপনার পরিবর্তনগুলি বাতিল করতে চান?"</string>
+<string name="call_type_and_date">" <xliff:g id="call_type" example="Friends">%1$s</xliff:g> <xliff:g id="call_short_date" example="Friends">%2$s</xliff:g> "</string>
+<string name="profile_display_name">"আমার প্রফাইল সেট আপ করুন"</string>
+<string name="enter_contact_name">"টাইপ ব্যক্তির নাম"</string>
+<string name="group_name_hint">"গ্রুপ এর নাম"</string>
+<string name="local_profile_title">"আমার স্থানীয় প্রফাইল"</string>
+<string name="external_profile_title">"আমার<xliff:g id="external_source">%1$s</xliff:g> প্রফাইল"</string>
+<string name="toast_displaying_all_contacts">"সমস্ত যোগাযোগ প্রদর্শন"</string>
+<string name="no_account_prompt">"মানুষ একটি গুগল অ্যাকাউন্ট দিয়ে ভাল কাজ করে।\n\n\u2022 কোনো ওয়েব ব্রাউজার থেকে অ্যাক্সেস।\n\u2022 আপনি নিরাপদভাবে যোগাযোগ আপ পিছনে।"</string>
+<string name="generic_no_account_prompt">"আপনার যোগাযোগ নিরাপদ রাখুন এমনকি আপনি যদি আপনার ফোন হারান: একটি অনলাইন পরিষেবা সঙ্গে অভিন্ন।"</string>
+<string name="generic_no_account_prompt_title">"একটি একাউন্ট যোগ করুন"</string>
+<string name="contact_editor_prompt_zero_accounts">"তোমার নতুন পরিচিতি ব্যাক আপ করা হবে না। একটি অ্যাকাউন্ট তৈরি পোশাক কারখানায় শ্রমিকদের ভাংচুর যোগাযোগ অনলাইন বন্ধু?"</string>
+<string name="contact_editor_prompt_one_account">"তোমার নতুন পরিচিতির সাথে সিঙ্ক্রোনাইজ করা হবে<xliff:g id="account_name">%1$s</xliff:g>।"</string>
+<string name="contact_editor_prompt_multiple_accounts">"আপনি নিম্নলিখিত অ্যাকাউন্টের সঙ্গে আপনার নতুন পরিচিতি সুসংগত করতে পারেন। যা আপনি ব্যবহার করতে চান?"</string>
+<string name="keep_local">"স্থানীয় রাখুন"</string>
+<string name="add_account">"অ্যাকাউন্ট যোগ করুন"</string>
+<string name="add_new_account">"নতুন একাউন্ট যোগ করুন"</string>
+<string name="menu_export_database">ডাটাবেস ফাইলগুলি রফতানি করুন</string>
+<string name="contact_detail_picture_description">"ছবি. পরিবর্তন নির্বাচন করুন"</string>
+<string name="no_fast_dial">"দ্রুত কল ফোন নম্বর সেট না"</string>
+<string name="fast_dial_choose">"দ্রুত কল ধরন বাছাই করুন"</string>
+<string name="fast_call">ভয়েস কল </string>
+<string name="fast_vt_call">ভিডিও কল</string>
+<string name="wait">দয়া করে অপেক্ষা করুন …</string>
+<string name="working">"কাজ করছে"</string>
+<string name="working_batch_delete">"ব্যাচ মুছে ফেলছে"      </string>
+<string name="working_batch_import">"ব্যাচ আমদানি"</string>
+<string name="choose_sim_card">"SIM কার্ড বাছুন"</string>
+<string name="violate_capacity">"SIM ক্ষমতা ভঙ্গ করে"      </string>
+<string name="import_failed">আমদানি/রপ্তানি যোগাযোগ ব্যর্থ হয়েছে"</string>
+<string name="import_failed_tmp">""<xliff:g id="count">%d</xliff:g> সফল হয়েছে, <xliff:g id="count">%d</xliff:g> ব্যর্থ"      </string>
+<string name="import_done">"আমদানি করা হয়েছে"</string>
+<string name="delete_done">"মোছা হয়েছে"</string>
+<string name="toast_no_contact_selected">"কোন সংযোগ বাছা হয় নি"      </string>
+<string name="contactSavedErrorToastNameLength">"পরিচিতির নাম সংরক্ষণ করার জন্য খুবই দীর্ঘ"</string>
+<string name="contactSavedErrorToastEmailLength">"ইমেইল নাম সংরক্ষণ করার জন্য খুবই দীর্ঘ"</string>
+<string name="contactSavedErrorToastEmailFull">"ইমেইল পূর্ণ"</string>
+<string name="contactSavedErrorToastSimEmailFull">"SIM কার্ড ইমেইল পূর্ণ"</string>
+<string name="contactSavedErrorToastUsimEmailFull">"USIM কার্ড ইমেইল পূর্ণ"</string>
+<string name="sim_is_full">"Sim পূর্ণ"</string>
+<string name="beyond_sim_card_capacity">সিম কার্ড ক্ষমতা অতিক্রম করিয়া, কিছু যোগাযোগ সংরক্ষণ ব্যর্থ হবে</string>
+<string name="menu_addToBlacklist">"কালোতালিকায় যোগ করুন"</string>
+<string name="menu_view_calls">দেখা</string>
+<string name="item_all_calls">"সব কল লগ"</string>
+<string name="item_sim1_calls">"Sim1 কল লগ"</string>
+<string name="item_sim2_calls">"Sim2 কল লগ"</string>
+<string name="res_name">VPN নাম</string>
+<string name="res_phone">ফোন</string>
+<string name="res_email">ইমেইল</string>
+<string name="res_field">"ক্ষেত্র"</string>
+<string name="alert_maybe_lost_info">"ইমপোর্ট বা এক্সপোর্ট করার সময় কিছু তথ্য নষ্ট হয়ে যেতে পারে"      </string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> অনেক বড়"</string>
+<string name="select_group_member">"গ্রুপ সদস্যদের নির্বাচন করুন"</string>
+<string name="email_format_fail">"অনুগ্রহ করে সঠিক ইমেইল ঠিকানা দিন!"</string>
+<string name="working_editing_group">"গ্রুপ পরিবর্তন করছে"      </string>
+<string name="editing_group_done">"গ্রুপ পরিবর্তন করা হয়েছে"</string>
+<string name="editing_group_failed">"গ্রুুপ পরিবর্তন ব্যর্থ"</string>
+<string name="contacts_group_name_exist">"বিদ্যমান গ্রুপের নাম"</string>
+<string name="menu_sendmms">বাল্ক এসএমএস</string>
+<string name="alert_delete_contact">আপনি কি নির্বাচিত পরিচিতি মুছে দেওয়ার বিষয়ে নিশ্চিত?</string>
+<string name="select_all">সব নির্বাচন করুন</string>
+<string name="label_sim">"SIM কার্ড"</string>
+<string name="label_usim">"SIM কার্ড"</string>
+<string name="menu_batch_delete">ব্যাচ মুছে দিন</string>
+<string name="group_selection">"পরিচিতির গ্রুপ নির্বাচন"</string>
+<string name="cancel_batch_import_confirmation">"পরিচিতি আমদানি বাতিল করবেন?"</string>
+<string name="cancel_batch_delete_confirmation">"পরিচিতি মোছা বাতিল করবেন?"</string>
+<string name="copy">অনুলিপি করুন</string>
+<string name="copy_to">"এতে কপি করুন"</string>
+<string name="contactDeletedToast">"পরিচিতি মোছা হয়েছে।"</string>
+<string name="list_filter_all_in_one">"ডেটা সব সমস্ত পরিচিতি"</string>
+<string name="listTotalEmailContactsZero">"ইমেইল ঠিকানা সহ কোনো পরিচিতি নেই"</string>
+<string name="list_filter_emails">"ইমেইল ঠিকানা সহ সব পরিচিতি"</string>
+<string name="listMaxContactsInAccount">"স্পেসঃ <xliff:g id="COUNT">%d</xliff:g>"      </string>
+<string name="reading_vcard_exception_title">"vCard ডেটা পড়তে/লিখতে ত্রুটি"</string>
+<string name="sqlite_full">"পরিচিতি ডেটাবেস বা ডিস্ক পূর্ণ"</string>
+<string name="groupSavingToast">"দলগত বার্তা পরে কার্যকর হবে।"</string>
+<string name="batch_operation_canceled">"কার্যকলাপ বাতিল"</string>
+<string name="no_sdcard_title">কোনো SD কার্ড নেই</string>
+<string name="cancel_export_confirmation_title">"vCard রপ্তানি বাতিল করা হচ্ছে"</string>
+<string name="video_callNumber_by_sim2">"ভিডিও কল<xliff:g id="NAME">%s</xliff:g>（SIM2）"</string>
+<string name="delete_calls_list">"নির্বাচিত কল মোছা হয়েছে"</string>
+<string name="video_menu_callNumber">"ভিডিও কল<xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="searching_vcard_title">"vCard খোঁজা হচ্ছে"</string>
+<string name="menu_copyToPhone">"ফোনে কপি করুন"</string>
+<string name="cancel_import_confirmation_title">"vCard আমদানি বাতিল করা হচ্ছে"</string>
+<string name="dialog_voicemail_not_ready_title">"ভয়েস মেল নম্বর"</string>
+<string name="select_one">"অন্তত একটি আইটেম বেছে নিন!"</string>
+<string name="delete_all_calls_confirm">"আপনি কি সব কল মুছে দিতে চান?"</string>
+<string name="export_to_sim">সিম কার্ড এক্সপোর্ট</string>
+<string name="scanning_sdcard_failed_title">এসডি কার্ড পরীক্ষা করতে পারে নি</string>
+<string name="aggregation_suggestion_join_dialog_title">"পরিচিতিগুলি যোগ দিন"</string>
+<string name="aggregation_suggestion_edit_dialog_title">"নির্বাচিত পরিচিতি সম্পাদনা করুন"</string>
+<string name="delete_group_dialog_title">গ্রুপ মুছে দিন</string>
+<string name="delete_all_calls">"সব কল মুছে দিন"</string>
+<string name="video_callNumber_by_sim1">"ভিডিও কল<xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+<string name="call_log_callNumber_by_sim">"<xliff:g id="NAME">%s</xliff:g>কল করুন（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+<string name="dialog_phone_call_prohibited_title"> কল পাঠানো না</string>
+<string name="search_bar_hint">"পরিচিতিগুলি অনুসন্ধান করুন"</string>
+<string name="delete_success">"মোছা সফল!"</string>
+<string name="deleteConfirmation_title">"পরিচিতি মুছবেন?"</string>
+<string name="delete_selected_calls">"আপনি কি নির্বাচিত কলকে মুছতে চাইবেন?"</string>
+<string name="delete_contact_all_calls">আপনি কি সংযোগ কল্ লগ মুছে ফেলার বিষয়ে নিশ্চিত?</string>
+<string name="menu_copyToSim">"SIM-এ কপি করুন"</string>
+<string name="menu_all_contacts">"সমস্ত যোগাযোগ"</string>
+<string name="please_input_group_name">ইনপুট গ্রুপের নাম দয়া করে</string>
+<string name="cancel_confirmation_dialog_title">"পরিবর্তনগুলি বাতিল করতে চান"</string>
+<string name="delete_calls">মুছে দিন</string>
+<string name="add_contact_dlg_title">"ঠিকানা যোগ করুন"</string>
+<string name="app_name">"কল লগ"</string>
+<string name="search_description">কল্ লগ অনুসন্ধান করুন</string>
+<string name="search_hint">কল্ লগ অনুসন্ধান করুন</string>
+<string name="lable_search">সন্ধান করুন</string>
+<string name="menu_deleteFromBlacklist">"কালোতালিকা থেকে মুছে দিন"</string>
+<string name="success_addToBlacklist">"সাফল্য যোগ করুন"</string>
+<string name="failed_addToBlacklist">"যোগ করুন ব্যর্থ হয়েছে"</string>
+<string name="success_removeFromBlacklist">"মুছে ফেলা সফল "</string>
+<string name="failed_removeFromBlacklist">মুছুন ব্যর্থ হয়েছে</string>
+<string name="menu_mmsGroup">"প্রচুর মেসেজ"      </string>
+<string name="menu_emailGroup">বাল্ক ইমেল</string>
+<string name="noContactsInGroup">এই গ্রুপে কোন যোগাযোগ নেই</string>
+<string name="please_wait">দয়া করে অপেক্ষা করুন …</string>
+<string name="noContactswithEmail">"এই গ্রুপে কোন যোগাযোগের ইমেল নেই"      </string>
+<string name="noContactwithEmail">কোন যোগাযোগের ইমেল নেই</string>
+<string name="noContactwithPhoneAndEmail">"কোন যোগাযোগের ফোন এবং ইমেল নেই"      </string>
+<string name="select_card">"কার্ড নির্বাচন করুন"</string>
+<string name="sim_absent">অনুপস্থিত আছে</string>
+<string name="sdn_list">এসডিএন লিস্ট</string>
+<string name="lnd_list">এলএনডি লিস্ট</string>
+<string name="sim_no_ready">সিম কার্ড প্রস্তুত নেই</string>
+<string name="sdn_please_insert_sim">অনুগ্রহ করে SIM কার্ড প্রবিষ্ট করুন </string>
+<string name="sdn_sim_notready">SIM তথ্য ডেটায় সঞ্চয়ের জন্য ডিস্ককে বিভক্ত করা, অনুগ্রহ করে পরে ক্রিয়াশীল করুন।"</string>
+<string name="ip_dialer">IP ডায়ালিং সেটিং</string>
+<string name="call_ip">"IP কল"</string>
+<string name="no_group">কোন দলের একজন সদস্য না</string>
+<string name="select_group">গ্রুপ নির্বাচন করুন</string>
+<string name="edit_photo">ফটো সম্পাদনা করুন</string>
+<string name="select_all_contacts">সব নির্বাচন করুন</string>
+<string name="menu_save">সংরক্ষণ</string>
+<string name="group_name_hint_overlay">ইনপুট গ্রুপের নাম দয়া করে</string>
+<string name="select_group_member_overlay">"সদস্য সংযোজন করতে ক্লিক্ করুন"      </string>
+<plurals name="searchMatchContacts">
+<item quantity="one">যোগাযোগ মিল নেই</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> যোগাযোগ মিলে যাচ্ছে"</item>
+</plurals>
+<string name="no_match_contact">"যোগাযোগ মিলছে না"</string>
+<string name="menu_newGroup">নতুন গ্রুপ</string>
+<string name="editGroup">সম্পাদন গ্রুপ</string>
+<string name="menu_delete_group">গ্রুপ মুছে দিন</string>
+<string name="contactsFavoritesLimit">সংগ্রহে সীমা অতিক্রম সংগ্রহ 12, পরিচিতি,</string>
+<string name="menu_add_favorite">প্রিয় পরিচিতি যোগ করুন</string>
+<string name="create_new_contact">নতুন যোগাযোগ তৈরি করুন</string>
+<string name="send_mms">"বার্তা পাঠান"</string>
+<string name="tab_more">আরও অপশন</string>
+<string name="show_contacts">পরিচিতি দেখান</string>
+<string name="fast_dial">ফাস্ট ডায়াল করুন</string>
+<string name="account">হিসাব</string>
+<string name="import_export_contacts">ইম্পোর্ট / এক্সপোর্ট যোগাযোগ</string>
+<string name="export_contacts">পরিচিতিগুলি রপ্তানি করুন</string>
+<string name="duplicate_phone_book">ফোন বই সদৃশ</string>
+<string name="dump_phone_book">ফোন বই ডাম্প</string>
+<string name="call_log_contacts_not_save">অজানা</string>
+<string name="call_log_callNumber_by_sim_ex">"কল<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ভিডিও কল<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP কল<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="removeStarred">" স্টার্ড রিমোুভ করুন"      </string>
+<string name="lookUpInfo">"লুকআপ্ তথ্য"      </string>
+<string name="cancel">বাতিল</string>
+<string name="favorite_contacts">প্রিয় যোগাযোগ</string>
+<string name="no_available_number">"কোন নম্বর পাওয়া যায়নি"</string>
+<string name="confirmCoverPhoneNumber">"আপনি কি বিদ্যমান যোগাযোগ প্রতিস্থাপন করার বিষয়ে নিশ্চিত?"</string>
+<string name="replaceSelected">যেটা প্রতিস্থাপন করা হবে সেটা নির্বাচন করুন</string>
+<string name="over_phone_length_limit">"সংখ্যা খুবই বড় "      </string>
+<string name="invalid_number">অবৈধ সংখ্যাগুলি</string>
+<string name="no_vcard_found_in_internal_stor">"অভ্যন্তরীণ স্টোরেজে কোন vCard নেই"      </string>
+<string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> কল্ লগ"</string>
+<string name="menu_moveGroupMember">"গ্রুপ সদস্যগুলি সরান"      </string>
+<string name="moveGroupMemberDialogTitle">"যোগাযোগ-কে নিয়ে যান এতে"      </string>
+<string name="menu_deleteGroupMember">"গ্রুপ সদস্যদের মুছে ফেলুন"      </string>
+<string name="overGroupNameLength">"গ্রুপ নাম খুবই বড়"      </string>
+<string name="overGroupCountLimit">"গ্রুপ গণনা সীমার উপরে"      </string>
+<string name="menu_share_by_sms">"sms/mms দ্বারা যোগাযোগ পাঠান"      </string>
+<string name="toast_batchoperation_is_running">"ব্যাচ কার্যক্রম চলছে, অনুগ্রহ করে আবার চেষ্টা করুন।"      </string>
+<string name="sdcard_storage_not_enough">"স্টোরেজ যথেষ্ট নয়!"      </string>
+<string name="noJoinContactDataWith">"কেউ যোগাযোগগুলিকে একত্রিত করতে পারে না"      </string>
+<string name="not_select_vCard">"কোন vCard বাছাই করা হয় নি"      </string>
+<string name="selected_is_not_image">নির্বাচিত ফাইল কোন ছবি নয়</string>
+<string name="batch_delete_confim_title">"যোগাযোগ(গুলি) মুছে ফেলুন"      </string>
+<string name="batch_delete_confim_message">নির্বাচিত পরিচিতি মুছে ফেলার ব্যাপারে নিশ্চিৎ? </string>
+<string name="transaction_too_large">নির্বাচিত পরিচিতির আকার সীমা অতিক্রম করেছে, কিছু সংখ্যক পরিচিতি নির্বাচন করুন।</string>
+<string name="contacts_selection_too_more">"নির্বাচিত যোগাযোগগুলির সর্বোচ্চ সংখ্যা হল <xliff:g id="COUNT">%d</xliff:g>"      </string>
+<string name="recentCalls_empty">"কল লগ ফাঁকা।"</string>
+<string name="menu_newContact">"নতুন যোগাযোগ তৈরি করুন"</string>
+<string name="contact_list_loading">লোড করা হচ্ছে\u2026</string>
+<string name="recentCallsIconLabel">"কল লগ"</string>
+<string name="launcherDialer">ফোন</string>
+<string name="delete_group_dialog_commit">"আপনি কি নির্বাচিত গ্রুপ(গুলি) মুছতে চান?"      </string>
+<string name="noContactsWithPhoneNumbers">ফোন নম্বর সহ কোন পরিচিতি নেই</string>
+<string name="listTotalAllContactsZeroStarred">"পছন্দের কিছু নেই।"</string>
+<string name="contact_editor_prompt_multiple_accounts_short">"যোগাযোগ সংরক্ষণ"</string>
+<string name="working_batch_starred">"তারকাচিহ্নিত ব্যাচ"</string>
+<string name="star_done">স্টার সম্পন্ন</string>
+<string name="cancel_batch_star_confirmation">তারা পরিচিতি বাতিল করুন?</string>
+<string name="upgrade_group_in_progress">"গ্রুপ তালিকা আপডেট করা হচ্ছে"</string>
+<string name="sim_capacity">"SIM ক্যাপাসিটি"</string>
+<string name="noSimCard">"কোনো লভ্য SIM কার্ড নেই"</string>
+<string name="clear">"সাফ করুন"</string>
+<string name="cancel_select">"সবগুলি নির্বাচন মুক্ত করুন"</string>
+<string name="default_feature_bar_center">"নির্বাচন করুন"</string>
+<string name="softkey_clear">"সাফ করুন"</string>
+<string name="softkey_back">পিছনে</string>
+<string name="softkey_option">"বিকল্পসমূহ"</string>
+<string name="softkey_cancel">বাতিল</string>
+<string name="softkey_dial">ডায়াল</string>
+<string name="softkey_new">নতুন</string>
+<string name="softkey_send">"পাঠান"</string>
+<string name="softkey_search">সন্ধান করুন</string>
+<string name="no_account_to_edit">"যোগাযোগ সেভ করার জন্য সিস্টেমে কোন একাউন্ট নাই,এটি যোগাযোগ সৃষ্টি করতে পারেনা।"</string>
+<string name="only_other_number_type">"একটি মাত্র অন্য নম্বর সেভ করতে পারেনা,অনুগ্রহ করে যাচাই করুন।"</string>
+    <string name="dup_phone_number_type">একই ধরণের নম্বর সেভ্ করতে পারে না, অনুগ্রহ করে পরীক্ষা করুন।</string>
+
+</resources>

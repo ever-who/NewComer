@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cancel_menu_item"
+        android:title="@string/menu_doNotSave"
+    />
+     <item
+        android:id="@+id/save_menu_item"
+         android:title="@string/menu_done"
+    />
+</menu>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"ടെക്സ്റ്റ് പകര്‍ത്തി"</string>
+<string name="call_custom">"വിളിക്കുക <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="call_home">"വീട്ടിലേക്ക് വിളിക്കുക"</string>
+<string name="call_mobile">"മൊബൈലിലേക്ക് വിളിക്കുക"</string>
+<string name="call_work">"ജോലിസ്ഥലത്തേക്ക് വിളിക്കുക"</string>
+<string name="call_fax_work">"ജോലിസ്ഥലത്തെ ഫാക്സിലേക്ക് വിളിക്കുക"</string>
+<string name="call_fax_home">"വീട്ടിലെ ഫാക്സിലേക്ക് വിളിക്കുക"</string>
+<string name="call_pager">"പേജറിലേക്ക് വിളിക്കുക"</string>
+<string name="call_other">"ഫോണ്‍ ചെയ്യുക"</string>
+<string name="call_callback">"തിരികെ വിളിക്കുക"</string>
+<string name="call_car">"കാര്‍ വിളിക്കുക"</string>
+<string name="call_company_main">"കമ്പനിയിലെ മുഖ്യമായതിലേക്ക് വിളിക്കുക"</string>
+<string name="call_isdn">"ISDN വിളിക്കുക"</string>
+<string name="call_main">"മുഖ്യമായതിലേക്ക് വിളിക്കുക"</string>
+<string name="call_other_fax">"ഫാക്സിലേക്ക് വിളിക്കുക"</string>
+<string name="call_radio">"റേഡിയോ വിളിക്കുക"</string>
+<string name="call_telex">"ടെലക്സിലേക്ക് വിളിക്കുക"</string>
+<string name="call_tty_tdd">"TTY/TDD വിളിക്കുക"</string>
+<string name="call_work_mobile">"ഔദ്യോഗിക മൊബൈലിലേക്ക് വിളിക്കുക"</string>
+<string name="call_work_pager">"ഔദ്യോഗിക പേജറിലേക്ക് വിളിക്കുക"</string>
+<string name="call_assistant">"വിളിക്കുക <xliff:g id="assistant">%s</xliff:g>"</string>
+<string name="call_mms">"MMS വിളിക്കുക"</string>
+<string name="sms_custom">"<xliff:g id="custom">%s</xliff:g> ടെക്സ്റ്റ് ചെയ്യുക "</string>
+<string name="sms_home">"ഭവനം ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_mobile">"മൊബൈല്‍ ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_work">"ജോലി ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_fax_work">"ഔദ്യോഗിക ഫാക്സ് ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_fax_home">"ഭവന ഫാക്സ് ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_pager">"പേജര്‍ ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_other">"ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_callback">"കോള്‍ബാക്ക് ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_car">"കാര്‍ ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_company_main">"പ്രധാന കമ്പനി ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_isdn">"ISDN ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_main">"മുഖ്യമായത് ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_other_fax">"ഫാക്സ് ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_radio">"റേഡിയോ ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_telex">"ടെലക്സ് ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_tty_tdd">"TTY/TDD ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_work_mobile">"ഔദ്യോഗിക മൊബൈല്‍ ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_work_pager">"ഔദ്യോഗിക പേജര്‍ ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_assistant">"<xliff:g id="assistant">%s</xliff:g> ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="sms_mms">"MMS ടെക്സ്റ്റ് ചെയ്യുക"</string>
+<string name="clearFrequentsConfirmation_title">"ഇടക്കിടെ ബന്ധപ്പെട്ടത് ഇല്ലാതാക്കണോ?"</string>
+<string name="clearFrequentsConfirmation">"ഇടക്കിടെ ബന്ധപ്പെടുന്ന ആളുകള്‍, ഫോണ്‍ ആപ്പുകള്‍ എന്നിവ താങ്കള്‍‌ നീക്കംചെയ്യുകയും സ്ക്രാച്ചില്‍ നിന്ന് നിങ്ങളുടെ സംബോധനാ സ്വഭാവം മനസിലാക്കാന്‍ ഇമെയില്‍ ആപ്പുകളെ നിര്‍ബന്ധിക്കുകയും ചെയ്യും."</string>
+<string name="clearFrequentsProgress_title">"അടുത്തിടെ ബന്ധപ്പെട്ടവ ഇല്ലാതാക്കുക\u2026"</string>
+<string name="status_available">"ലഭ്യമാണ്"</string>
+<string name="status_away">"അകലെ"</string>
+<string name="status_busy">"തിരക്കിലാണ്"</string>
+<string name="contactsList">"കോണ്‍ടാക്ടുകള്‍"</string>
+<string name="local_invisible_directory">"മറ്റുള്ളവ"</string>
+<string name="directory_search_label">"ഡയറക്ടറി"</string>
+<string name="local_search_label">"കോണ്‍ടാക്ടുകള്‍ മുഴുവന്‍"</string>
+<string name="user_profile_contacts_list_header">"ഞാന്‍"</string>
+<string name="search_results_searching">"തിരയുന്നു\u2026"</string>
+<string name="foundTooManyContacts">"കൂടുതലായി <xliff:g id="count">%d</xliff:g> കണ്ടെത്തി."</string>
+<string name="listFoundAllContactsZero">"കോണ്‍ടാക്ടുകള്‍ ഒന്നും ഇല്ല"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 കിട്ടി"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> കിട്ടി"</item>
+</plurals>
+<string name="description_quick_contact_for">"<xliff:g id="name">%1$s</xliff:g> ന് വേണ്ടിയുള്ള സമ്പര്‍ക്കം"</string>
+<string name="missing_name">"(പേരില്ല)"</string>
+<string name="favoritesFrequentCalled">"ഇടക്കിടെ വിളിച്ചത്"</string>
+<string name="favoritesFrequentContacted">"ഇടക്കിടെ ബന്ധപ്പെട്ടത്"</string>
+<string name="description_view_contact_detail">"കോണ്‍ടാക്ട് കാണുക"</string>
+<string name="list_filter_phones">"എല്ലാ സമ്പര്‍ക്കങ്ങളും ഫോണ്‍ നമ്പറിനൊപ്പം"</string>
+<string name="view_updates_from_group">"പുതുക്കലുകള്‍ കാണുക"</string>
+<string name="account_phone" product="tablet">"ടാബ്ലെറ്റ്-മാത്രം, സമന്വയിപ്പിച്ചിട്ടില്ല"</string>
+<string name="account_phone" product="default">"ഫോണ്‍-മാത്രം, സമന്വയിപ്പിച്ചിട്ടില്ല"</string>
+<string name="nameLabelsGroup">"പേര്"</string>
+<string name="nicknameLabelsGroup">"ഇരട്ടപ്പേര്"</string>
+<string name="full_name">"പേര്"</string>
+<string name="name_given">"വ്യക്തിനാമം"</string>
+<string name="name_family">"കുടുംബപേര്"</string>
+<string name="name_prefix">"പൂര്‍വ്വനാമം"</string>
+<string name="name_middle">"മധ്യ നാമം"</string>
+<string name="name_suffix">"അവസാന നാമം"</string>
+<string name="name_phonetic">"ഉച്ചരിക്കുന്ന പേര്"</string>
+<string name="name_phonetic_given">"ഉച്ചാരണപരമായി നല്കിയ നാമം"</string>
+<string name="name_phonetic_middle">"ഉച്ചാരണപരമായി നല്കിയ മധ്യ നാമം"</string>
+<string name="name_phonetic_family">"ഉച്ചാരണപരമായ കുടുംബ നാമം"</string>
+<string name="phoneLabelsGroup">"ഫോണ്‍"</string>
+<string name="emailLabelsGroup">"ഇമെയില്‍"</string>
+<string name="postalLabelsGroup">"മേല്‍വിലാസം"</string>
+<string name="imLabelsGroup">"IM"</string>
+<string name="organizationLabelsGroup">"സംഘടന"</string>
+<string name="relationLabelsGroup">"ബന്ധം"</string>
+<string name="eventLabelsGroup">"പ്രത്യേക തിയ്യതികള്‍"</string>
+<string name="sms">"പദ സന്ദേശം"</string>
+<string name="postal_address">"മേല്‍വിലാസം"</string>
+<string name="ghostData_company">"കമ്പനി"</string>
+<string name="ghostData_title">"പേര്"</string>
+<string name="label_notes">"കുറിപ്പുകള്‍"</string>
+<string name="label_sip_address">"ഇന്റര്‍നെറ്റ് കോള്‍"</string>
+<string name="websiteLabelsGroup">"വെബ്‍സൈറ്റ്"</string>
+<string name="groupsLabel">"ഗ്രൂപ്പുകള്‍"</string>
+<string name="email_home">"വീട്ടിലെ ഇമെയില്‍"</string>
+<string name="email_mobile">"മൊബൈല്‍ ഇമെയില്‍"</string>
+<string name="email_work">"തൊഴില്‍ ഇമെയില്‍"</string>
+<string name="email_other">"ഇമെയില്‍"</string>
+<string name="email_custom">"ഇമെയില്‍ <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="email">"ഇമെയില്‍"</string>
+<string name="postal_street">"തെരുവ്"</string>
+<string name="postal_pobox">"PO ബോക്സ്"</string>
+<string name="postal_neighborhood">"അയല്‍പക്കം"</string>
+<string name="postal_city">"നഗരം"</string>
+<string name="postal_region">"സംസ്ഥാനം"</string>
+<string name="postal_postcode">"തപാല്‍ കോഡ്"</string>
+<string name="postal_country">ದೇಶ / ಪ್ರದೇಶ</string>
+<string name="map_home">"വീടിന്റെ വിലാസം കാണുക"</string>
+<string name="map_work">"ഔദ്യോഗിക വിലാസം കാണുക"</string>
+<string name="map_other">"വിലാസം കാണുക"</string>
+<string name="map_custom">"കാണുക <xliff:g id="custom">%s</xliff:g> വിലാസം"</string>
+<string name="chat_aim">"AIM ഉപയോഗിച്ച് ചാറ്റ് ചെയ്യുക"</string>
+<string name="chat_msn">"Windows Live ഉപയോഗിച്ച് ചാറ്റ് ചെയ്യുക"</string>
+<string name="chat_yahoo">"Yahoo ഉപയോഗിച്ച് ചാറ്റ് ചെയ്യുക"</string>
+<string name="chat_skype">"Skype ഉപയോഗിച്ച് ചാറ്റ് ചെയ്യുക"</string>
+<string name="chat_qq">"QQ ഉപയോഗിച്ച് ചാറ്റ് ചെയ്യുക"</string>
+<string name="chat_gtalk">"Google Talk ഉപയോഗിച്ച് ചാറ്റ് ചെയ്യുക"</string>
+<string name="chat_icq">"ICQ ഉപയോഗിച്ച് ചാറ്റ് ചെയ്യുക"</string>
+<string name="chat_jabber">"Jabber ഉപയോഗിച്ച് ചാറ്റ് ചെയ്യുക"</string>
+<string name="chat">"ചാറ്റ് ചെയ്യുക"</string>
+<string name="description_minus_button">"നീക്കം ചെയ്യുക"</string>
+<string name="expand_collapse_name_fields_description">"പേര് മേഖലകള്‍ വികസിപ്പിക്കുക അല്ലെങ്കില്‍ ഇല്ലാതാക്കുക"</string>
+<string name="list_filter_all_accounts">"കോണ്‍ടാക്ടുകള്‍ മുഴുവന്‍"</string>
+<string name="list_filter_all_starred">സ്റ്റാർ ചെയ്തവ</string>
+<string name="list_filter_customize">"ക്രമീകരിക്കുക"</string>
+<string name="list_filter_single">"കോണ്‍ടാക്ട്"</string>
+<string name="display_ungrouped">"മറ്റെല്ലാ സമ്പര്‍ക്കങ്ങളും"</string>
+<string name="display_all_contacts">"കോണ്‍ടാക്ടുകള്‍ മുഴുവന്‍"</string>
+<string name="menu_sync_remove">"ഗ്രൂപ്പ് സമന്വയം നീക്കം ചെയ്യുക"</string>
+<string name="dialog_sync_add">"ഗ്രൂപ്പ് സമന്വയം നീക്കം ചേര്‍ക്കുക"</string>
+<string name="display_more_groups">"കൂടുതല്‍ ഗ്രൂപ്പുകള്‍\u2026"</string>
+<string name="display_warn_remove_ungrouped">"നീക്കം ചെയ്യുന്നു \"<xliff:g id="group" example="Starred">%s</xliff:g>\" സമന്വയത്തില്‍ നിന്ന് നീക്കം ചെയ്യുന്നത് സമന്വയത്തിലെ ഏത് ഗ്രൂപ്പ് ചെയ്യാത്ത സമ്പര്‍ക്കങ്ങളെയും നീക്കം ചെയ്യും."</string>
+<string name="savingDisplayGroups">"പ്രദര്‍ശന ഐച്ഛികങ്ങള്‍ സംരക്ഷിക്കുന്നു\u2026"</string>
+<string name="menu_done">ചെയ്തു കഴിഞ്ഞു</string>
+<string name="menu_doNotSave">"റദ്ദാക്കുക"</string>
+<string name="listAllContactsInAccount">"<xliff:g id="name" example="abc@gmail.com">%s</xliff:g> ലെ സമ്പര്‍ക്കങ്ങള്‍"</string>
+<string name="listCustomView">"സാമ്പ്രദായികമായ കാഴ്ചയിലെ സമ്പര്‍ക്കങ്ങള്‍"</string>
+<string name="listSingleContact">"ഏക സമ്പര്‍ക്കം"</string>
+<string name="dialog_new_contact_account">"അക്കൗണ്ടില്‍ സമ്പര്‍ക്കം സൃഷ്ടിക്കുക"</string>
+<string name="import_from_sim">"SIM കാര്‍ഡില്‍ നിന്ന് ഇറക്കുമതി ചെയ്യുക"</string>
+<string name="import_from_sdcard" product="default">"ആഭ്യന്തര ശേഖരത്തില്‍ നിന്ന് ഇറക്കുമതി ചെയ്യുക"</string>
+<string name="cancel_import_confirmation_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g>ന്റെ ഇറക്കുമതി റദ്ദാക്കണോ?"</string>
+<string name="cancel_export_confirmation_message">"<xliff:g id="filename" example="export.vcf">%s</xliff:g>ന്റെ ഇറക്കുമതി റദ്ദാക്കുക?"</string>
+<string name="cancel_vcard_import_or_export_failed">"vCard ഇറക്കുമതി/കയറ്റുമതി റദ്ദാക്കാനാവില്ല"</string>
+<string name="fail_reason_unknown">"അജ്ഞാതമായ പിശക്."</string>
+<string name="fail_reason_could_not_open_file">"\"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g>.തുറക്കാനാവില്ല"</string>
+<string name="fail_reason_could_not_initialize_exporter">"\"<xliff:g id="exact_reason">%s</xliff:g>\". കയറ്റുമതി ആരംഭിക്കാനാവുന്നില്ല"</string>
+<string name="fail_reason_no_exportable_contact">"കയറ്റുമതി ചെയ്യാവുന്ന സമ്പര്‍ക്കങ്ങളില്ല."</string>
+<string name="fail_reason_error_occurred_during_export">"ഇറക്കുമതിക്കിടെ ഒരു പിശക് സംഭവിച്ചു: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_too_long_filename">"ആവശ്യമായ ഫയലിന്റെ പേരിന് ദൈര്‍ഘ്യം കൂടുതലാണ് (\"<xliff:g id="filename">%s</xliff:g>\")."</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"ശേഖരത്തില്‍ നിരവധി vCard ഫയലുകളുണ്ട്."</string>
+<string name="fail_reason_too_many_vcard" product="default">"SD കാര്‍ഡില്‍ നിരവധി ഫയലുകളുണ്ട്."</string>
+<string name="fail_reason_io_error">"I/O പിശക്"</string>
+<string name="fail_reason_low_memory_during_import">"മതിയായ മെമ്മറിയില്ല. ഫയല്‍ വളരെ വലുതായിരിക്കാം."</string>
+<string name="fail_reason_vcard_parse_error">"അപ്രതീക്ഷിതമായ കാരണത്താല്‍ vCard വിശകലനം ചെയ്യാനാവുന്നില്ല."</string>
+<string name="fail_reason_not_supported">"ഫോര്‍മാറ്റ് പിന്തുണയ്ക്കുന്നില്ല."</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">"നല്കിയിരിക്കുന്ന vCard ഫയലിലെ(ഫയലുകളിലെ) മെറ്റ ഡാറ്റ ശേഖരിക്കാനാവുന്നില്ല."</string>
+<string name="fail_reason_failed_to_read_files">"ഒന്നോ അതിലധികമോ ഫയലുകള്‍ ഇറക്കുമതി ചെയ്യാനാവുന്നില്ല (%s)."</string>
+<string name="exporting_vcard_finished_title">"കയറ്റുമതി പൂര്‍ത്തിയായി <xliff:g id="filename" example="export.vcf">%s</xliff:g>."</string>
+<string name="exporting_vcard_canceled_title">"കയറ്റുമതി <xliff:g id="filename" example="export.vcf">%s</xliff:g> റദ്ദാക്കി."</string>
+<string name="exporting_contact_list_title">"സമ്പര്‍ക്ക ഡാറ്റ കയറ്റുമതി ചെയ്യുന്നു"</string>
+<string name="exporting_contact_list_message">"<xliff:g id="file_name">%s</xliff:g> ലേക്ക് നിങ്ങളുടെ സമ്പര്‍ക്ക ഡാറ്റ കയറ്റുമതി ചെയ്യും"</string>
+<string name="composer_failed_to_get_database_infomation">"ഡാറ്റാബേസ് വിവരങ്ങള്‍ നേടാനാവുന്നില്ല."</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"കയറ്റുമതി ചെയ്യാനാവുന്ന സമ്പര്‍ക്കങ്ങളില്ല. നിങ്ങളുടെ ടാബ്ലെറ്റില്‍ സമ്പര്‍ക്കങ്ങളുണ്ടെങ്കില്‍ ചില ഡാറ്റ ദാതാക്കള്‍ ടാബ്ലെറ്റില്‍ നിന്ന് സമ്പര്‍ക്കങ്ങള്‍ കയറ്റുമതി ചെയ്യാനനുവദിക്കും."</string>
+<string name="composer_has_no_exportable_contact" product="default">"കയറ്റുമതി ചെയ്യാനാവുന്ന സമ്പര്‍ക്കങ്ങളില്ല. നിങ്ങളുടെ ഫോണ്ല്‍ സമ്പര്‍ക്കങ്ങളുണ്ടെങ്കില്‍ ചില ഡാറ്റ ദാതാക്കള്‍ ഫോണ്ല്‍ നിന്ന് സമ്പര്‍ക്കങ്ങള്‍ കയറ്റുമതി ചെയ്യാനനുവദിക്കും."</string>
+<string name="composer_not_initialized">"vCard കംപോസര്‍ ശരിയായി ആരംഭിച്ചില്ല."</string>
+<string name="exporting_contact_failed_title">"കയറ്റുമതി ചെയ്യാനാവുന്നില്ല"</string>
+<string name="exporting_contact_failed_message">"സമ്പര്‍ക്ക ഡാറ്റ കയറ്റുമതി ചെയ്യാനാവുന്നില്ല.\nReason: \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+<string name="no_sdcard_message" product="nosdcard">"സ്റ്റോറേജുകളൊന്നും കണ്ടെത്തിയില്ല."</string>
+<string name="no_sdcard_message" product="default">"SD കാര്‍ഡ് ഒന്നും കണ്ടെത്തിയില്ല."</string>
+<string name="confirm_export_message">"നിങ്ങളുടെ സമ്പര്‍ക്ക ലിസ്റ്റ് ഈ ഫയലിലേക്ക് കയറ്റുമതി ചെയ്യാനാവുന്നില്ല: <xliff:g id="vcard_filename">%s</xliff:g>."</string>
+<string name="importing_vcard_description">"ഇറക്കുമതി ചെയ്യുന്നു <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="reading_vcard_failed_title">"vCard ഡാറ്റ വായിക്കാനാവുന്നില്ല"</string>
+<string name="reading_vcard_canceled_title">"vCard ഡാറ്റ വായന റദ്ദാക്കി"</string>
+<string name="importing_vcard_finished_title">"vCard ഇറക്കുമതി പൂര്‍ത്തിയായി <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">"ഇറക്കുമതി <xliff:g id="filename" example="import.vcf">%s</xliff:g> റദ്ദാക്കി"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> വൈകാതെ ഇറക്കുമതി ചെയ്യും."</string>
+<string name="vcard_import_will_start_message_with_default_name">"ഫയല്‍ വൈകാതെ ഇറക്കുമതി ചെയ്യും."</string>
+<string name="vcard_import_request_rejected_message">"vCard ഇറക്കുമതി ആവശ്യം നിരസിക്കപ്പെട്ടു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക."</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> വൈകാതെ കയറ്റുമതി ചെയ്യും."</string>
+<string name="vcard_export_request_rejected_message">"vCard കയറ്റുമതി ആവശ്യം നിരസിക്കപ്പെട്ടു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക."</string>
+<string name="vcard_unknown_filename">"കോണ്‍ടാക്ട്"</string>
+<string name="caching_vcard_message">"vCard(s) താല്കാലിക ലോക്കല്‍ മെമ്മറിയിലേക്ക് നേടുന്നു. യഥാര്‍ത്ഥ ഇറക്കുമതി വൈകാതെ ആരംഭിക്കും."</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"vCard ഇറക്കുമതി ചെയ്യാനാവുന്നില്ല."</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"സംഭരണത്തില്‍ vCard ഫയലുകളൊന്നും കണ്ടെത്തിയില്ല."</string>
+<string name="import_failure_no_vcard_file" product="default">"SD കാര്‍ഡില്‍ vCard ഫയലുകളൊന്നും കണ്ടെത്തിയില്ല."</string>
+<string name="nfc_vcard_file_name">"NFC വഴി സമ്പര്‍ക്കം ലഭ്യമായി"</string>
+<string name="confirm_export_title">"സമ്പര്‍ക്കങ്ങള്‍ കയറ്റുമതി ചെയ്യണോ?"</string>
+<string name="select_vcard_title">"vCard ഫയല്‍ തെരഞ്ഞെടുക്കുക"</string>
+<string name="import_one_vcard_string">"ഒരു vCard ഫയല്‍ ഇറക്കുമതി ചെയ്യുക"</string>
+<string name="import_multiple_vcard_string">"വിവിധ vCard ഫയലുകള്‍ ഇറക്കുമതി ചെയ്യുക"</string>
+<string name="import_all_vcard_string">"എല്ലാ vCard ഫയലുകളും ഇറക്കുമതി ചെയ്യുക"</string>
+<string name="searching_vcard_message" product="nosdcard">"സംഭരണത്തിലെ vCard ഡാറ്റ തിരയുന്നു\u2026"</string>
+<string name="searching_vcard_message" product="default">"സംഭരണത്തിലെ vCard ഡാറ്റ തിരയുന്നു"</string>
+<string name="caching_vcard_title">"സൂക്ഷിക്കുന്നു"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"സംഭരണം സ്കാന്‍ ചെയ്യാനാവില്ല. (കാരണം: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">"SD കാര്‍ഡ് സ്കാന്‍ ചെയ്യാനാവില്ല. (കാരണം: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">"ഇറക്കുമതി ചെയ്യുന്നു <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="export_to_sdcard" product="default">"ബാഹ്യ സംഭരണത്തിലേക്ക് കയറ്റുമതി ചെയ്യുന്നു"</string>
+<string name="share_visible_contacts">"ദൃശ്യമായ സമ്പര്‍ക്കങ്ങള്‍ പങ്കുവെയ്ക്കുക"</string>
+<string name="dialog_import_export">"സമ്പര്‍ക്കം ഇറക്കുമതി/കയറ്റുമതി"</string>
+<string name="dialog_import">"കോണ്‍ടാക്ടുകള്‍ ഇമ്പോര്‍ട്ട് ചെയ്യുക"</string>
+<string name="share_error">"ഈ സമ്പര്‍ക്കം പങ്ക് വെയ്ക്കാനാകില്ല."</string>
+<string name="menu_search">"തെരയുക"</string>
+<string name="menu_contacts_filter">"പ്രദര്‍ശനത്തിനുള്ള സമ്പര്‍ക്കങ്ങള്‍"</string>
+<string name="activity_title_contacts_filter">"പ്രദര്‍ശനത്തിനുള്ള സമ്പര്‍ക്കങ്ങള്‍"</string>
+<string name="custom_list_filter">"ഔപചാരികകമായ കാഴ്ച നിശ്ചയിക്കുക"</string>
+<string name="hint_findContacts">ബന്ധങ്ങള്‍ കണ്ടെത്തുക </string>
+<string name="contactsFavoritesLabel">"ഫേവറിറ്റുകള്‍"</string>
+<string name="listTotalAllContactsZero">"കോണ്‍ടാക്ടുകള്‍ ഒന്നും ഇല്ല."</string>
+<string name="listTotalAllContactsZeroCustom">"കാണാവുന്ന സമ്പര്‍ക്കങ്ങളില്ല"</string>
+<string name="listTotalAllContactsZeroStarred">"പ്രിയപ്പെട്ടവയില്ല."</string>
+<string name="listTotalAllContactsZeroGroup">"<xliff:g id="name" example="Friends">%s</xliff:g>ല്‍ സമ്പര്‍ക്കങ്ങളില്ല"</string>
+<string name="menu_clear_frequents">"ഇടക്കിടെയുള്ളവ നീക്കം ചെയ്യുക"</string>
+<string name="menu_accounts">"അക്കൗണ്ടുകള്‍"</string>
+<string name="menu_import_export">"ഇറക്കുമതി/കയറ്റുമതി"</string>
+<string name="description_send_message">"<xliff:g id="name">%1$s</xliff:g>ലേക്ക് സന്ദേശമയക്കുക"</string>
+<string name="description_dial_phone_number">"ഫോണ്‍ ഡയല്‍ ചെയ്യുക <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">എല്ലാം തെരഞ്ഞെടുക്കുക</string>
+<string name="select_card">"ദയവായി കാര്‍ഡ് തെരഞ്ഞെടുക്കുക"</string>
+<string name="choose_sim_card">"SIM കാര്‍ഡ് തെരഞ്ഞെടുക്കുക"</string>
+<string name="fail_reason_empty">"ശൂന്യമായ സമ്പര്‍ക്ക ഡാറ്റ"</string>
+<string name="import_from_phone">"ആഭ്യന്തര മെമ്മറി ഇറക്കുമതി ചെയ്യുക"</string>
+<string name="label_phone">"ഫോണ്‍"</string>
+<string name="listTotalPhoneContactsZero">"കോണ്‍ടാക്ടുകള്‍ ഒന്നും ഇല്ല"</string>
+<string name="cancel_select_all_contacts">"എല്ലാം റദ്ദാക്കുക"</string>
+<string name="no_match_contact">""കോണ്ടാക്റ്റുകൾ പൊരുത്തപ്പെടുന്നില്ല" "</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 സമ്പര്‍ക്കം യോജിക്കുന്നു"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> സമ്പര്‍ക്കങ്ങള്‍ യോജിക്കുന്നു"</item>
+</plurals>
+<string name="copy_to">"അതിലേക്ക് കോപ്പി ചെയ്യുക"</string>
+<string name="export_to_phone">"ആഭ്യന്തര സംഭരണത്തിലേക്ക് കയറ്റുമതി ചെയ്യുക"</string>
+<string name="contacts_selection_for_mms_limit">"തെരഞ്ഞെടുത്ത നമ്പറുകളുടെ പരിധി എന്നത് <xliff:g id="COUNT">%d</xliff:g>ആണ്"</string>
+<string name="contact_status_update_attribution">"മാര്‍ഗ്ഗം <xliff:g id="source" example="Google Talk">%1$s</xliff:g>"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> മാര്‍ഗ്ഗം <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">"ഫോണ്‍ നമ്പറുള്ള സമ്പര്‍ക്കങ്ങള്‍"</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">"തിരഞ്ഞെടുത്ത(<xliff:g id="COUNT">%d</xliff:g>)"</item>
+<item quantity="other">"തിരഞ്ഞെടുത്ത(<xliff:g id="COUNT">%d</xliff:g>)"</item>
+</plurals>
+<string name="select_cancle">""ഡയൽ റദ്ദാക്കുക" "</string>
+<string name="select_audio_video_call">"ഓഡിയോ കോൾ അല്ലെങ്കിൽ വീഡിയോ കോൾ ദയവായി തിരഞ്ഞെടുക്കുക"</string>
+    <string name="contact_has_no_phonenumber">"ഈ കോണ്‍ടാക്ടില്‍, കോള്‍ ചെയ്യുന്നതിന് ഫോണ്‍ നമ്പര്‍.  ലഭ്യമല്ല"</string>
+
+</resources>

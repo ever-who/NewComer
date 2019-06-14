@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">"පෙළ පිටපත් කරන ලදී"</string>
+<string name="call_custom">"අමතන්න <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="call_home">"නිවස අමතන්න"</string>
+<string name="call_mobile">"ජංගම දුරකථනය අමතන්න"</string>
+<string name="call_work">"සේවා ස්ථානය අමතන්න"</string>
+<string name="call_fax_work">"සේවා ෆැක්ස් අංකය අමතන්න"</string>
+<string name="call_fax_home">"නිවසේ ෆැක්ස් අංකය අමතන්න"</string>
+<string name="call_pager">"පේජරය අමතන්න"</string>
+<string name="call_other">"ඇමතුම"</string>
+<string name="call_callback">"ආපසු ඇමතීම් අමතන්න"</string>
+<string name="call_car">"කාර් රථය අමතන්න"</string>
+<string name="call_company_main">"ආයතන ප්‍රධාන අමතන්න"</string>
+<string name="call_isdn">"ISDN අමතන්න"</string>
+<string name="call_main">"ප්‍රධාන අමතන්න"</string>
+<string name="call_other_fax">"ෆැක්ස් අංකය අමතන්න"</string>
+<string name="call_radio">"රේඩියෝව අමතන්න"</string>
+<string name="call_telex">"ටෙලෙක්ස් අමතන්න"</string>
+<string name="call_tty_tdd">"TTY/TDD අමතන්න"</string>
+<string name="call_work_mobile">"සේවා ස්ථාන ජංගම දුරකථනය අමතන්න"</string>
+<string name="call_work_pager">"සේවා ස්ථාන පේජරය අමතන්න"</string>
+<string name="call_assistant">"අමතන්න <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="call_mms">"MMS අමතන්න"</string>
+<string name="sms_custom">"පණිවුඩ යවන්න <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="sms_home">"නිවසට පණිවුඩයක් යවන්න"</string>
+<string name="sms_mobile">"ජංගම දුරකතනයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_work">"සේවා ස්ථානයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_fax_work">"සේවා ස්ථාන ෆැක්ස් අංකයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_fax_home">"නිවසේ ෆැක්ස් අංකයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_pager">"පෙජරයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_other">"පණිවුඩයක් යවන්න"</string>
+<string name="sms_callback">"ආපසු ඇමතුම් සඳහා පණිවුඩයක් යවන්න"</string>
+<string name="sms_car">"කාර් රථයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_company_main">"ආයතන ප්‍රධාන පණිවුඩයක් යවන්න"</string>
+<string name="sms_isdn">"ISDNට පණිවුඩයක් යවන්න"</string>
+<string name="sms_main">"ප්‍රධාන පණිවුඩයක් යවන්න"</string>
+<string name="sms_other_fax">"ෆැක්ස් අංකයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_radio">"රේඩියෝවට පණිවුඩයක් යවන්න"</string>
+<string name="sms_telex">"ටෙලෙක්ස් අංකයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_tty_tdd">"TTY/TDDට පණිවුඩයක් යවන්න"</string>
+<string name="sms_work_mobile">"සේවා ස්ථාන ජංගම දුරකතනයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_work_pager">"සේවා ස්ථාන පේජරයට පණිවුඩයක් යවන්න"</string>
+<string name="sms_assistant">"පණිවුඩයක් යවන්න <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="sms_mms">"MMS පණිවුඩයක් යවන්න"</string>
+<string name="clearFrequentsConfirmation_title">"නිරන්තර අමතන්නන් හිස් කරන්න?"</string>
+<string name="clearFrequentsConfirmation">"ඔබ නිරන්තරයෙන් අමතන ලැයිස්තුව පුද්ගලයන් සහ දුරකථන යෙදුම් වලින් හිස් කර,ඊමේල් යෙදුම් සඳහා ඔබේ තාර්කික මනාපයන් මුලසිට ඉගෙනීමට බල කරනු ඇත."</string>
+<string name="clearFrequentsProgress_title">"නිරන්තරයෙන් අමතන්නන් හිස් කරන්න..."</string>
+<string name="status_available">"උපයෝජ්‍ය"</string>
+<string name="status_away">"ඉවත"</string>
+<string name="status_busy">"කාර්යබහුලයි"</string>
+<string name="contactsList">"සම්බන්ධතා"</string>
+<string name="local_invisible_directory">"වෙනත්"</string>
+<string name="directory_search_label">"නාමාවලිය"</string>
+<string name="local_search_label">"සියලුම සම්බන්ධතා"</string>
+<string name="user_profile_contacts_list_header">"මම"</string>
+<string name="search_results_searching">"සොයමින්..."</string>
+<string name="foundTooManyContacts">"<xliff:g id="count">%d</xliff:g> ට වඩා සොයාගෙන ඇත."</string>
+<string name="listFoundAllContactsZero">"සබැඳුම් නැත"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 හමුවිය"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> හමුවිය"</item>
+</plurals>
+<string name="description_quick_contact_for">"<xliff:g id="name">%1$s</xliff:g> සඳහා ඉක්මන් ඇමතුමක්"</string>
+<string name="missing_name">"(නමක් නොමැත)"</string>
+<string name="favoritesFrequentCalled">"නිරන්තරයෙන් අමතන්නන්"</string>
+<string name="favoritesFrequentContacted">"නිරන්තරයෙන් සම්බන්ධ කරන්නන්"</string>
+<string name="description_view_contact_detail">"සම්බන්ධතාව පෙන්වන්න"</string>
+<string name="list_filter_phones">"දුරකථන අංක සහිත සියලුම සබැඳුම්"</string>
+<string name="view_updates_from_group">"යාවත්කාලීන කිරීම් දර්ශනය කරන්න"</string>
+<string name="account_phone" product="tablet">"ටැබ්ලට් පරිඝනක පමණයි, සමමුහුර්ත නොකරන ලදී"</string>
+<string name="account_phone" product="default">"දුරකථන පමණයි, සමමුහුර්ත නොකරන ලදී"</string>
+<string name="nameLabelsGroup">"නම‍"</string>
+<string name="nicknameLabelsGroup">"අපනාමය"</string>
+<string name="full_name">"නම‍"</string>
+<string name="name_given">"දී ඇති නාමය"</string>
+<string name="name_family">"පවුල් නාමය"</string>
+<string name="name_prefix">"නාම පෙර ප්‍රත්‍ය"</string>
+<string name="name_middle">"මැද නම"</string>
+<string name="name_suffix">"නාම පසු ප්‍රත්‍ය"</string>
+<string name="name_phonetic">"ශබ්දීම නාමය"</string>
+<string name="name_phonetic_given">"දී ඇති ශබ්දීම නාමය"</string>
+<string name="name_phonetic_middle">"ශබ්දිම මැද නාමය"</string>
+<string name="name_phonetic_family">"ශබ්දිම පවුල් නාමය"</string>
+<string name="phoneLabelsGroup">"දුරකථනය"</string>
+<string name="emailLabelsGroup">"ඊ මේල්"</string>
+<string name="postalLabelsGroup">"ලිපිනය"</string>
+<string name="imLabelsGroup">"IM"</string>
+<string name="organizationLabelsGroup">"සංවිධානය"</string>
+<string name="relationLabelsGroup">"සබැඳියාව"</string>
+<string name="eventLabelsGroup">"විශේෂිත දින"</string>
+<string name="sms">"පෙළ පණිවුඩය"</string>
+<string name="postal_address">"ලිපිනය"</string>
+<string name="ghostData_company">"ආයතනය"</string>
+<string name="ghostData_title">"මාතෘකාව"</string>
+<string name="label_notes">"සටහන්"</string>
+<string name="label_sip_address">"අන්තර්ජාල ඇමතුම"</string>
+<string name="websiteLabelsGroup">"වෙබ්අඩවිය"</string>
+<string name="groupsLabel">"කණ්ඩායම්"</string>
+<string name="email_home">"නිවසේ ඊමේල්"</string>
+<string name="email_mobile">"ජංගම දුරකතනයේ ඊමේල්"</string>
+<string name="email_work">"සේවා ස්ථානයේ ඊමේල්"</string>
+<string name="email_other">"ඊ මේල්"</string>
+<string name="email_custom">""ඊමේල් <xliff:g id="custom">%s</xliff:g>" "</string>
+<string name="email">"ඊ මේල්"</string>
+<string name="postal_street">"පාර"</string>
+<string name="postal_city">"නගරය"</string>
+<string name="postal_region">"ජනපදය"</string>
+<string name="postal_postcode">"ZIP කේතය"</string>
+<string name="postal_country">"රට"</string>
+<string name="map_home">"නිවසේ ලිපිනය පෙන්වන්න"</string>
+<string name="map_work">"සේවා ස්ථානයේ ලිපිනය පෙන්වන්න"</string>
+<string name="map_other">"ලිපිනය පෙන්වන්න"</string>
+<string name="map_custom">"පෙන්වන්න <xliff:g id="custom">%s</xliff:g> ලිපිනය"</string>
+<string name="chat_aim">"AIM භාවිතා කර කතාබස් කරන්න"</string>
+<string name="chat_msn">"වින්ඩෝස් ලයිව් භාවිතා කර කතාබස් කරන්න"</string>
+<string name="chat_yahoo">"යාහු භාවිතා කර කතාබස් කරන්න"</string>
+<string name="chat_skype">"ස්කයිප් භාවිතා කර කතාබස් කරන්න"</string>
+<string name="chat_qq">"QQ භාවිතා කර කතාබස් කරන්න"</string>
+<string name="chat_gtalk">"ගූගල් ටෝක් භාවිතා කර කතාබස් කරන්න"</string>
+<string name="chat_icq">"ICQ භාවිතා කර කතාබස් කරන්න"</string>
+<string name="chat_jabber">"ජැබර් භාවිතා කර කතාබස් කරන්න"</string>
+<string name="chat">"කතාබස් කරන්න"</string>
+<string name="description_minus_button">"මකන්න"</string>
+<string name="expand_collapse_name_fields_description">"නාම පේළි විදහීම හෝ ඇකිලීම"</string>
+<string name="list_filter_all_accounts">"සියලුම සම්බන්ධතා"</string>
+<string name="list_filter_all_starred">"තරු සලකුණු කල"</string>
+<string name="list_filter_customize">"රිසිකරණය"</string>
+<string name="list_filter_single">"සබඳතා"</string>
+<string name="display_ungrouped">"සියලුම අනෙකුත් සබැඳුම්"</string>
+<string name="display_all_contacts">"සියලුම සම්බන්ධතා"</string>
+<string name="menu_sync_remove">"සම්මුහුර්තකරණ කණ්ඩායම ඉවත් කිරීම"</string>
+<string name="dialog_sync_add">"සමමුහුර්ත කණ්ඩායම එකතු කිරීම"</string>
+<string name="display_more_groups">"තවත් කණ්ඩායම්..."</string>
+<string name="display_warn_remove_ungrouped">"ඉවත් කිරීම "<xliff:g id="group" example="Starred">%s</xliff:g>" සමමුහුර්ත කරණයෙන් යම් කිසි කණ්ඩායම් කර නැති සමමුහුර්ත සබැඳුම්ද ඉවත් වේ."</string>
+<string name="savingDisplayGroups">"දර්ශන අභිරුචි සුරැකේ..."</string>
+<string name="menu_done">"හරි"</string>
+<string name="menu_doNotSave">"අවලංගු කරන්න"</string>
+<string name="listAllContactsInAccount">"<xliff:g id="name" example="abc@gmail.com">%s</xliff:g> හි සබැඳුම්"</string>
+<string name="listCustomView">"රිසි දර්ශනයේ ඇති සබැඳුම්"</string>
+<string name="listSingleContact">"සබැඳුම් එකක්"</string>
+<string name="dialog_new_contact_account">"ගිණුමක් යටතේ සබැඳුමක් සැකසීම"</string>
+<string name="import_from_sim">"SIM කඩ්පතෙන් ආයාත කිරීම"</string>
+<string name="import_from_sdcard" product="default">"බාහිර ගබඩාවෙන් ආයාත කිරීම"</string>
+<string name="cancel_import_confirmation_message">"ආයාත කිරීම අවලංගු කිරීම <xliff:g id="filename" example="import.vcf">%s</xliff:g>?"</string>
+<string name="cancel_export_confirmation_message">"නිර්යාත කිරීම අවලංගු කිරීම <xliff:g id="filename" example="export.vcf">%s</xliff:g>?"</string>
+<string name="cancel_vcard_import_or_export_failed">"vCard ආයාත/නිර්යාත කිරීම අවලංගු කිරීමට නොහැකි විය"</string>
+<string name="fail_reason_unknown">"නොදන්නා දෝෂයක්."</string>
+<string name="fail_reason_could_not_open_file">"විවෘත කිරීමට නොහැකි විය "<xliff:g id="file_name">%s</xliff:g>": <xliff:g id="exact_reason">%s</xliff:g>."</string>
+<string name="fail_reason_could_not_initialize_exporter">"නිර්යාත කරණය විවෘත කිරීමට නොහැකි විය: "<xliff:g id="exact_reason">%s</xliff:g>"."</string>
+<string name="fail_reason_no_exportable_contact">"නිර්යාත කල හැකි සබැඳුම් නැත"</string>
+<string name="fail_reason_error_occurred_during_export">"නිර්යාත කිරීමේදී දෝෂයක් ඇති විය: "<xliff:g id="exact_reason">%s</xliff:g>"."</string>
+<string name="fail_reason_too_long_filename">"අවශ්‍ය ගොනු නාමය දිගු වැඩිය ("<xliff:g id="filename">%s</xliff:g>")."</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">"ගබඩාවේ vCard ගොනු ඕනෑවට වඩා ඇත."</string>
+<string name="fail_reason_too_many_vcard" product="default">"SD කාඩ්පතේ vCard ගොනු ඕනෑවට වඩා ඇත."</string>
+<string name="fail_reason_io_error">"I/O දෝෂයක්"</string>
+<string name="fail_reason_low_memory_during_import">"මතකය ප්‍රමාණවත් නොවේ. ගොනුව ඕනෑවට වඩා විශාල විය හැකිය."</string>
+<string name="fail_reason_not_supported">"මෙම හැඩතලයට සහය නොදක්වයි."</string>
+<string name="exporting_vcard_finished_title">"නිර්යාත කිරීම අවසන් <xliff:g id="filename" example="export.vcf">%s</xliff:g>."</string>
+<string name="exporting_vcard_canceled_title">"නිර්යාත කිරීම <xliff:g id="filename" example="export.vcf">%s</xliff:g> අවලංගු විය."</string>
+<string name="exporting_contact_list_title">"සබැඳුම් දත්ත නිර්යාත කෙරේ"</string>
+<string name="exporting_contact_list_message">"ඔබේ සබැඳුම් දත්ත නිර්යාත කෙරේ: <xliff:g id="file_name">%s</xliff:g> වෙත."</string>
+<string name="composer_failed_to_get_database_infomation">"දත්ත සමූහයේ තොරතුරු ලබාගැනීමට නොහැකි විය."</string>
+<string name="composer_has_no_exportable_contact" product="tablet">"නිර්යාත කල හැකි සබැඳුම් නොමැත. ඔබේ ටැබ්ලට් පරිඝනකයේ සබැඳුම් තිබේනම්, සමහර දත්ත සපයන්නන් සබැඳුම් ටැබ්ලට් පරිඝනකයෙන් නිර්යාත කිරීමට අවසර නොදේ."</string>
+<string name="composer_has_no_exportable_contact" product="default">"නිර්යාත කල හැකි සබැඳුම් නොමැත. ඔබේ දුරකතනයේ සබැඳුම් තිබේනම්, සමහර දත්ත සපයන්නන් සබැඳුම් දුරකථනයෙන් නිර්යාත කිරීමට අවසර නොදේ."</string>
+<string name="composer_not_initialized">"vCard රචකයා නිවැරදි ලෙස ආරම්භ නොවීය."</string>
+<string name="exporting_contact_failed_title">"නිර්යාත කිරීමට නොහැකි විය"</string>
+<string name="exporting_contact_failed_message">"සබැඳුම් දත්ත නිර්යාත නොවීය.\n හේතුව: "<xliff:g id="fail_reason">%s</xliff:g>""</string>
+<string name="no_sdcard_message" product="nosdcard">"ගබඩාවක් සොයා නොගන්න ලදී."</string>
+<string name="no_sdcard_message" product="default">"SD කාඩ්පතක් සොයා නොගන්නා ලදී."</string>
+<string name="confirm_export_message">"ඔබේ සබැඳුම් ලැයිස්තුව නිර්යාත කරනු ලැබේ ගොනුවට: <xliff:g id="vcard_filename">%s</xliff:g>."</string>
+<string name="importing_vcard_description">"ආයාත වේ <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="reading_vcard_failed_title">"vCard දත්ත කියවීමට නොහැකි විය"</string>
+<string name="importing_vcard_finished_title">"vCard ආයාත කිරීම අවසානයි <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">"ආයාත කිරීම අවලංගු කිරීම <xliff:g id="filename" example="import.vcf">%s</xliff:g> අවලංගු විය"</string>
+<string name="vcard_import_will_start_message">""<xliff:g id="filename" example="import.vcf">%s</xliff:g> කෙටි වේලාවකින් ආයාත වේ."</string>
+<string name="vcard_import_will_start_message_with_default_name">"ගොනුව කෙටි වෙලාවකින් ආයාත වේ."</string>
+<string name="vcard_import_request_rejected_message">"vCard ආයාත කිරීමේ අයැදුම ප්‍රතික්ෂේප විය. නැවත පසුව උත්සාහ කරන්න."</string>
+<string name="vcard_export_will_start_message">""<xliff:g id="filename" example="import.vcf">%s</xliff:g> කෙටි වෙලාවකින් නිර්යාත වේ."</string>
+<string name="vcard_export_request_rejected_message">""vCard නිර්යාත කිරීමේ අයැදුම ප්‍රතික්ෂේප විය. නැවත පසුව උත්සාහ කරන්න."</string>
+<string name="vcard_unknown_filename">"සබඳතා"</string>
+<string name="caching_vcard_message">""vCard(s) ප්‍රාදේශීය තාවකාලික ගබඩාවට හැඹිලිගත කෙරේ. නියම ආයාත කිරීම ඉක්මනින් ආරම්භ වනු අත."</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">"vCard ආයාත කිරීමට නොහැකි විය."</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">"ගබඩාවේ vCard එකක් සොයාගැනීමට නොහැකි විය."</string>
+<string name="import_failure_no_vcard_file" product="default">"SD කාඩ්පතේ vCard ගොනුවක් සොයාගැනීමට නොහැකි විය."</string>
+<string name="nfc_vcard_file_name">"සබැඳුම NFC හරහා ලැබුණි"</string>
+<string name="confirm_export_title">"සබැඳුම් නිර්යාත කරන්න?"</string>
+<string name="select_vcard_title">"vCard ගොනුවක් තෝරන්න"</string>
+<string name="import_one_vcard_string">"ඒක vCard ගොනුවක් ආයාත කරන්න"</string>
+<string name="import_multiple_vcard_string">"vCard ගොනු කිහිපයක් ආයාත කරන්න"</string>
+<string name="import_all_vcard_string">"සියලුම vCard ගොනු ආයාත කරන්න"</string>
+<string name="searching_vcard_message" product="nosdcard">"ගබඩාවේ vCard දත්ත සඳහා සොයනු ලැබේ..."</string>
+<string name="searching_vcard_message" product="default">"ගබඩාවේ vCard දත්ත සඳහා සොයනු ලැබේ"</string>
+<string name="caching_vcard_title">"හැඹිලිගත කෙරේ"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">"ගබඩාව ස්කෑන් කිරීමට නොහැකි විය. (හේතුව: "<xliff:g id="fail_reason">%s</xliff:g>")"</string>
+<string name="scanning_sdcard_failed_message" product="default">"SD කාඩ්පත ස්කෑන් කිරීමට නොහැකි විය. (හේතුව: "<xliff:g id="fail_reason">%s</xliff:g>")"</string>
+<string name="progress_notifier_message">"ආයාත කෙරේ <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="Joe Due">%s</xliff:g>"</string>
+<string name="export_to_sdcard" product="default">"බාහිර ගබඩාවට නිර්යාත කරන්න"</string>
+<string name="share_visible_contacts">"පෙනෙන සබැඳුම හුවමාරු කිරීම"</string>
+<string name="dialog_import_export">"සබැඳුම් ආයාත/නිර්යාත කිරීම"</string>
+<string name="share_error">"මෙම සබැඳුම හුවමාරු කිරීමට නොහැකිය."</string>
+<string name="menu_search">"සෙවීම"</string>
+<string name="menu_contacts_filter">"දර්ශනය කිරීමට සබැඳුම"</string>
+<string name="activity_title_contacts_filter">"දර්ශනය කිරීමට සබැඳුම"</string>
+<string name="custom_list_filter">"රිසි පෙනීම අර්ථදැක්වීම"</string>
+<string name="hint_findContacts">"සබැඳුම් සොයාගැනීම"</string>
+<string name="contactsFavoritesLabel">"ප්‍රියතමයන්"</string>
+<string name="listTotalAllContactsZero">"ඇමතුම් නොමැත."</string>
+<string name="listTotalAllContactsZeroStarred">"ප්‍රියතමයන් නැත."</string>
+<string name="menu_clear_frequents">"නිරන්තරයන් හිස් කිරීම"</string>
+<string name="menu_accounts">"ගිණුම්"</string>
+<string name="menu_import_export">"ආයාත/නිර්යාත කිරීම"</string>
+<string name="description_send_message">"පණිවුඩය යවන්න <xliff:g id="name">%1$s</xliff:g> ට"</string>
+<string name="description_dial_phone_number">"දුරකථනය ඩයල් කරන්න <xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">"සියල්ල තෝරන්න"</string>
+<string name="select_card">"කරුණාකර කාඩ්පත තෝරන්න"</string>
+<string name="choose_sim_card">"SIM කාඩ්පත තෝරන්න"</string>
+<string name="fail_reason_empty">"සම්බන්ධතා දත්ත හිස් කරන්න"</string>
+<string name="import_from_phone">"අභ්‍යන්තර ගබඩාවෙන් ආයාත කරන්න"</string>
+<string name="label_phone">"දුරකථනය"</string>
+<string name="listTotalPhoneContactsZero">"සබැඳුම් නැත"</string>
+<string name="cancel_select_all_contacts">"සියල්ල අවලංගු කරන්න"</string>
+<string name="no_match_contact">"සබැඳුම් ගැලපීමක් නොමැත"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 සබැඳුම් ගැලපීමක්"</item>
+<item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> සබැඳුම් ගැලපීමක්"</item>
+</plurals>
+<string name="copy_to">"පිටපත් කරන්න"</string>
+<string name="export_to_phone">"අභ්‍යන්තර ගබඩාවට නිර්යාත කරන්න"</string>
+<string name="contacts_selection_for_mms_limit">"තෝරාගත් අන්කයන්හි සීමා අංකය <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="contact_status_update_attribution">"<xliff:g id="source" example="Google Talk">%1$s</xliff:g> මගින්"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> හරහා <xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">"දුරකථන අංක සහිත සම්බන්ධතාව"</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">"තෝරාගන්නා ලදී (1)"</item>
+<item quantity="other">"තෝරන ලද(<xliff:g id="COUNT">%d</xliff:g>)"</item>
+</plurals>
+<string name="select_cancle">"ඩයල් කිරීම අවලංගු කිරීම"</string>
+<string name="select_audio_video_call">"කරුණාකර ශ්‍රව්‍ය ඇමතුම් හෝ වීඩියෝ ඇමතුම් තෝරන්න"</string>
+<string name="contact_has_no_phonenumber">"මෙම සබන්දුමට ඇමතීමට දුරකථන අංකයක් නොමැත."</string>
+</resources>

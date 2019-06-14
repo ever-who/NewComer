@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="toast_text_copied">" متن نقل ٿي ويو"</string>
+<string name="call_custom">" ڪال ڪريو <xliff:g id="custom">%s</xliff:g> "</string>
+<string name="call_home">" گهر ڪال ڪريو"</string>
+<string name="call_mobile">" موبائل تي ڪال ڪريو"</string>
+<string name="call_work">" ڪم واري جاءِ تي ڪال ڪريو"</string>
+<string name="call_fax_work">" ڪم واري جاءِ جي فيڪس تي ڪال ڪريو"</string>
+<string name="call_fax_home">" گهر جي فيڪس تي ڪال ڪريو"</string>
+<string name="call_pager">" پيجر تي ڪال ڪريو"</string>
+<string name="call_other">" ڪال ڪريو"</string>
+<string name="call_callback">" واپس ڪال تي ڪال ڪريو"</string>
+<string name="call_car">" ڪار تي ڪال ڪريو"</string>
+<string name="call_company_main">" مين ڪمپني تي ڪال ڪريو"</string>
+<string name="call_isdn">" ISDN تي ڪال ڪريو"</string>
+<string name="call_main">" مين تي ڪال ڪريو"</string>
+<string name="call_other_fax">" فيڪس تي ڪال ڪريو"</string>
+<string name="call_radio">" ريڊيو تي ڪال ڪريو"</string>
+<string name="call_telex">" ٽيليڪس تي ڪال ڪريو"</string>
+<string name="call_tty_tdd">" TTY/TDD تي ڪال ڪريو"</string>
+<string name="call_work_mobile">" ڪم واري جاءِ جي موبائل تي ڪال ڪريو"</string>
+<string name="call_work_pager">" ڪم واري جاءِ جي پيجر تي ڪال ڪريو"</string>
+<string name="call_assistant">" ڪال ڪريو <xliff:g id="assistant">%s</xliff:g> "</string>
+<string name="call_mms">" ايم ايم ايس تي ڪال ڪريو"</string>
+<string name="sms_custom">" متن لکو  <xliff:g id="custom">%s</xliff:g>،</string>
+<string name="sms_home">" گهر ڏانهن متن لکو"</string>
+<string name="sms_mobile">" موبائل تي متن لکو"</string>
+<string name="sms_work">" ڪم واري جاءِ ڏانهن متن لکو"</string>
+<string name="sms_fax_work">" ڪم واري جاءِ جي فيڪس ڏانهن متن لکو"</string>
+<string name="sms_fax_home">" گهر واري فيڪس ڏانهن متن لکو"</string>
+<string name="sms_pager">" پيجر ڏانهن متن لکو"</string>
+<string name="sms_other">" متن لکو"</string>
+<string name="sms_callback">"واپس ڪال ڪريوڏانهن متن لکو"</string>
+<string name="sms_car">" ڪار ڏانهن متن لکو"</string>
+<string name="sms_company_main">" مين ڪمپني ڏانهن متن لکو"</string>
+<string name="sms_isdn">" ISDN ڏانهن متن لکو"</string>
+<string name="sms_main">" مين ڏانهن متن لکو"</string>
+<string name="sms_other_fax">" فيڪس ڏانهن متن لکو"</string>
+<string name="sms_radio">" ريڊيو ڏانهن متن لکو"</string>
+<string name="sms_telex">"ٽيليڪس ڏانهن متن لکو"</string>
+<string name="sms_tty_tdd">"TTY/TDD ڏانهن متن لکو"</string>
+<string name="sms_work_mobile">" ڪم واري جاءِ جي موبائل ڏانهن متن لکو"</string>
+<string name="sms_work_pager">" ڪم واري جاءِ جي پيجر ڏانهن متن لکو"</string>
+<string name="sms_assistant">" متن لکو  <xliff:g id="assistant">%s</xliff:g>"</string>
+<string name="sms_mms">" ايم ايم ايس متن لکو"</string>
+<string name="clearFrequentsConfirmation_title">" اڪثر ڪيل رابطن کي صاف ڪريو"</string>
+<string name="clearFrequentsConfirmation">" توهان ماڻهن ۽ فون جي اطلاقات مان اڪثر ڪيل رابطن جي فهرست صاف ڪندا ۽ ايميل جي اطلاقات کي باقي رهندڙ نشانين مان ترجيحات مان معلوم ڪرڻ لاءِ زبردستي ڪندا."</string>
+<string name="clearFrequentsProgress_title">" اڪثر ڪيل رابطا صاف ٿي رهيا آهن..."</string>
+<string name="status_available">" ميسر آهي"</string>
+<string name="status_away">" پري آهي"</string>
+<string name="status_busy">"مصروف"</string>
+<string name="contactsList">" رابطا"</string>
+<string name="local_invisible_directory">"ٻيو"</string>
+<string name="directory_search_label">" ڊائريڪٽري"</string>
+<string name="local_search_label">" سمورا رابطا"</string>
+<string name="user_profile_contacts_list_header">"مان"</string>
+<string name="search_results_searching">" ڳولا ٿي رهي آهي..."</string>
+<string name="foundTooManyContacts">" <xliff:g id="count">%d</xliff:g> کان وڌيڪ مليا."</string>
+<string name="listFoundAllContactsZero">" ڪي به رابطا ناهن"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">" 1 مليو"</item>
+<item quantity="other">" <xliff:g id="count">%d</xliff:g> مليا"</item>
+</plurals>
+<string name="description_quick_contact_for">" <xliff:g id="name">%1$s</xliff:g> لاءِ ترت رابطا."</string>
+<string name="missing_name">"(ڪو به نالو ڪونهي)"</string>
+<string name="favoritesFrequentCalled">" اڪثر ڪال ڪيل"</string>
+<string name="favoritesFrequentContacted">" اڪثر رابطو ڪيل"</string>
+<string name="description_view_contact_detail">" رابطي کي ڏسو"</string>
+<string name="list_filter_phones">" فون نمبرن سان سمورا رابطا"</string>
+<string name="view_updates_from_group">" تجديدن کي ڏسو"</string>
+<string name="account_phone" product="tablet">" صرف-ٽيبليٽ تي، بنا سلهاڙيل"</string>
+<string name="account_phone" product="default">" صرف-فون تي، بنا سلهاڙيل"</string>
+<string name="nameLabelsGroup">" نالو"</string>
+<string name="nicknameLabelsGroup">" نڪ نيم"</string>
+<string name="full_name">" نالو"</string>
+<string name="name_given">" پهريون نالو"</string>
+<string name="name_family">" آخري نالو"</string>
+<string name="name_prefix">" نالي جو مهڙ"</string>
+<string name="name_middle">" وچ وارو نالو"</string>
+<string name="name_suffix">" نالي جو پڇڙ"</string>
+<string name="name_phonetic">" آوازي نالو"</string>
+<string name="name_phonetic_given">" آوازي پهريون نالو"</string>
+<string name="name_phonetic_middle">" آوازي وچ وارو نالو"</string>
+<string name="name_phonetic_family">" آوازي آخري نالو"</string>
+<string name="phoneLabelsGroup">" فون"</string>
+<string name="emailLabelsGroup">" ايميل"</string>
+<string name="postalLabelsGroup">" ايڊريس"</string>
+<string name="imLabelsGroup">" آئي ايم"</string>
+<string name="organizationLabelsGroup">" تنظيم"</string>
+<string name="relationLabelsGroup">" رشتو"</string>
+<string name="eventLabelsGroup">" مخصوص تاريخون"</string>
+<string name="sms">" متن وارو پيغام"</string>
+<string name="postal_address">" ايڊريس"</string>
+<string name="ghostData_company">" ڪمپني"</string>
+<string name="ghostData_title">" عنوان"</string>
+<string name="label_notes">" ياد ڪري ٿو"</string>
+<string name="label_sip_address">"انٽرنيٽ ڪال"</string>
+<string name="websiteLabelsGroup">" ويبسائٽ"</string>
+<string name="groupsLabel">" گروپ"</string>
+<string name="email_home">" گهر جي ايميل"</string>
+<string name="email_mobile">" موبائل جي ايميل"</string>
+<string name="email_work">" ڪم جي ايميل"</string>
+<string name="email_other">" ايميل"</string>
+<string name="email_custom">" ايميل <xliff:g id="custom">%s</xliff:g>"</string>
+<string name="email">" ايميل"</string>
+<string name="postal_street">" گلي"</string>
+<string name="postal_pobox">" ٽپال جو نمبر"</string>
+<string name="postal_neighborhood">" پاڙو"</string>
+<string name="postal_city">" شهر"</string>
+<string name="postal_region">" رياست"</string>
+<string name="postal_postcode">" ٽپال جو ڪوڊ"</string>
+<string name="postal_country">" ملڪ"</string>
+<string name="map_home">" گهر جي ايڊريس ڏسو"</string>
+<string name="map_work">" ڪم واري جاءِ جي ايڊريس ڏسو"</string>
+<string name="map_other">" ايڊريس ڏسو"</string>
+<string name="map_custom">" ايڊريس <xliff:g id="custom">%s</xliff:g>ڏسو"</string>
+<string name="chat_aim">" AIM کي استعمال ڪندي ڳالهه ٻولهه ڪريو"</string>
+<string name="chat_msn">" Windows Live کي استعمال ڪندي ڳالهه ٻولهه ڪريو"</string>
+<string name="chat_yahoo">" Yahoo کي استعمال ڪندي ڳالهه ٻولهه ڪريو"</string>
+<string name="chat_skype">" Skype کي استعمال ڪندي ڳالهه ٻولهه ڪريو"</string>
+<string name="chat_qq">" QQ کي استعمال ڪندي ڳالهه ٻولهه ڪريو"</string>
+<string name="chat_gtalk">" Google Talk کي استعمال ڪندي ڳالهه ٻولهه ڪريو"</string>
+<string name="chat_icq">" ICQ کي استعمال ڪندي ڳالهه ٻولهه ڪريو"</string>
+<string name="chat_jabber">" Jabber کي استعمال ڪندي ڳالهه ٻولهه ڪريو"</string>
+<string name="chat">" ڳالهه ٻولهه ڪريو"</string>
+<string name="description_minus_button">" مٽايو"</string>
+<string name="expand_collapse_name_fields_description">"نالي جي فيلڊن کي ڦهلايو يا مد ڏنل ڪريو"</string>
+<string name="list_filter_all_accounts">" سمورا رابطا"</string>
+<string name="list_filter_all_starred">" ستارو ڪيل"</string>
+<string name="list_filter_customize">" ردوبدل ڪريو"</string>
+<string name="list_filter_single">" رابطو"</string>
+<string name="display_ungrouped">" ٻيا سمورا رابطا"</string>
+<string name="display_all_contacts">" سمورا رابطا"</string>
+<string name="menu_sync_remove">"سلهاڙيل گروپ کي هٽايو"</string>
+<string name="dialog_sync_add">" سلهاڙيل گروپ کي شامل ڪريو"</string>
+<string name="display_more_groups">" مزيد گروپ..."</string>
+<string name="display_warn_remove_ungrouped">" \"<xliff:g id="group" example="Starred">%s</xliff:g>\ سلهاڙ مان هٽائڻ جي ڪري بنا گروپ وارن رابطن جي سلهاڙ به هٽائي ڇڏيندو."</string>
+<string name="savingDisplayGroups">" ڏيکارڻ جا اختيارات محفوظ ٿي رهيا آهن..."</string>
+<string name="menu_done">" ٿي ويو"</string>
+<string name="menu_doNotSave">" رد ڪريو"</string>
+<string name="listAllContactsInAccount">" <xliff:g id="name" example="abc@gmail.com">%s</xliff:g> ۾ پيل رابطا"</string>
+<string name="listCustomView">" ردوبدل جي ڏيک ۾ رابطا"</string>
+<string name="listSingleContact">" واحد رابطو"</string>
+<string name="dialog_new_contact_account">" اڪائونٽ هيٺ گروپ ٺاهيو"</string>
+<string name="import_from_sim">" SIM ڪارڊ مان درآمد ڪريو" </string>
+<string name="import_from_sdcard" product="default">" بيروني ذخيرهگاه مان درآمد ڪريو"</string>
+<string name="cancel_import_confirmation_message">" <xliff:g id="filename" example="import.vcf">%s</xliff:g> جي درآمد منسوخ ڪرڻ ٿا چاهيو؟</string>
+<string name="cancel_export_confirmation_message">"<xliff:g id="filename" example="export.vcf">%s</xliff:g>جي برآمد منسوخ ڪرڻ ٿا چاهيو؟</string>
+<string name="cancel_vcard_import_or_export_failed">" vCard جي درآمد/برآمد جي منسوخي نه ٿي سگهي"</string>
+<string name="fail_reason_unknown">" اڻڄاتل خرابي آهي."</string>
+<string name="fail_reason_could_not_open_file">" \"<xliff:g id="file_name">%s</xliff:g>\": <xliff:g id="exact_reason">%s</xliff:g> نه کلي سگهيو."</string>
+<string name="fail_reason_could_not_initialize_exporter">" برآمد ڪار چالو نه ٿي سگهيو: \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_no_exportable_contact">" ڪو به برآمد ڪرڻ جهڙو رابطو ڪونهي"</string>
+<string name="fail_reason_error_occurred_during_export">" برآمدگي جي دوران خرابي ٿي وئي:  \"<xliff:g id="exact_reason">%s</xliff:g>\"."</string>
+<string name="fail_reason_too_long_filename">" گهربل فائل جو نالو تمام ڊگهو آهي (\"<xliff:g id="filename">%s</xliff:g>\")."</string>
+<string name="fail_reason_too_many_vcard" product="nosdcard">" تمام گهڻيون vCard جون فائلون ذخيرهگاه ۾ آهن."</string>
+<string name="fail_reason_too_many_vcard" product="default">" SD ڪارڊ ۾ vCard جون تمام گهڻيون فائلون آهن."</string>
+<string name="fail_reason_io_error">" I/O جي خرابي آهي"</string>
+<string name="fail_reason_low_memory_during_import">" ميموري ڪافي ناهي. فائل لڳي ٿو ته تمام وڏي آهي."</string>
+<string name="fail_reason_vcard_parse_error">" ڪنهن غير متوقع سبب جي ڪري vCard کي ڇيد نه  ڪري سگهيو."</string>
+<string name="fail_reason_not_supported">" هن نموني ۾ سهولت موجود ناهي."</string>
+<string name="fail_reason_failed_to_collect_vcard_meta_info">" ڏنل vCard جي فائل(ن) جي ميٽا معلومات جمع نه ٿي سگهي."</string>
+<string name="fail_reason_failed_to_read_files">" هڪ يا ان کان وڌيڪ فائلون درآمد نه ٿي سگهيون (%s)."</string>
+<string name="exporting_vcard_finished_title">"<xliff:g id="filename" example="export.vcf">%s</xliff:g> برآمدگي ختم ٿي وئي."</string>
+<string name="exporting_vcard_canceled_title">" برآمدگي  <xliff:g id="filename" example="export.vcf">%s</xliff:g> منسوخ ٿي وئي."</string>
+<string name="exporting_contact_list_title">" رابطي جي ڊيٽا برآمد ٿي رهي آهي"</string>
+<string name="exporting_contact_list_message">" توهان جر رابطي جي ڊيٽا <xliff:g id="file_name">%s</xliff:g> ڏانهن برآمد ٿي رهي آهي:"</string>
+<string name="composer_failed_to_get_database_infomation">" ڊيٽابيس جي معلومات حاصل نه ٿي سگهي."</string>
+<string name="composer_has_no_exportable_contact" product="tablet">" ڪي به برآمد ڪرڻ جهڙا رابطا ناهن. جيڪڏهن توهان وٽ پنهنجي ٽيبليٽ تي ڪي رابطا آهن ته ڪجهه مهيا ڪندڙ ٿي سگهي ٿو ٽيبليٽ مان رابطن جي برآمد ڪرڻ جي اجازت نه ڏيندا هوندا."</string>
+<string name="composer_has_no_exportable_contact" product="default">" ڪي به برآمد ڪرڻ جهڙا رابطا ناهن. جيڪڏهن توهان وٽ پنهنجي فون تي ڪي رابطا آهن ته ڪجهه مهيا ڪندڙ ٿي سگهي ٿو فون مان رابطن جي برآمد ڪرڻ جي اجازت نه ڏيندا هوندا."</string>
+<string name="composer_not_initialized">" vCard جو تصنيفڪار مناسب نموني چالو نه ٿي سگهيو"</string>
+<string name="exporting_contact_failed_title">" برآمد نه ٿي سگهيو"</string>
+<string name="exporting_contact_failed_message">" رابطن جي ڊيٽا برآمد نه ٿي سگهي. \n سبب: \"<xliff:g id="fail_reason">%s</xliff:g>\""</string>
+<string name="no_sdcard_message" product="nosdcard">" ڪو به ذخيرهگاه نه مليو"</string>
+<string name="no_sdcard_message" product="default">" ڪوبه SD ڪارڊ نه مليو"</string>
+<string name="confirm_export_message">" توهان جي رابطن جي فهرست: <xliff:g id="vcard_filename">%s</xliff:g> فائل تي برآمد ٿيندي."</string>
+<string name="importing_vcard_description">"  <xliff:g id="name" example="Joe Due">%s</xliff:g> کي درآمد ڪري رهيو آهي."</string>
+<string name="reading_vcard_failed_title">vCard کي پڙهي نه سگهيو"</string>
+<string name="reading_vcard_canceled_title">" vCard جي پڙهائي منسوخ ٿي وئي"</string>
+<string name="importing_vcard_finished_title">"vCard جي درآمد ختم ٿي وئي <xliff:g id="filename" example="import.vcf">%s</xliff:g>"</string>
+<string name="importing_vcard_canceled_title">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> جي درآمد منسوخ ٿي وئي"</string>
+<string name="vcard_import_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ٿوري دير ۾ درآمد ٿي ويندو."</string>
+<string name="vcard_import_will_start_message_with_default_name">"فائل ٿوري دير ۾ درآمد ٿي ويندو."</string>
+<string name="vcard_import_request_rejected_message">" vCard جي درآمد جي درخواست منسوخ ڪئي وئي. بعد ۾ ٻيهر ڪوشش ڪندا."</string>
+<string name="vcard_export_will_start_message">"<xliff:g id="filename" example="import.vcf">%s</xliff:g> ٿوري دير ۾ برآمد ٿي ويندو."</string>
+<string name="vcard_export_request_rejected_message">" vCard جي برآمد جي درخواست منسوخ ڪئي وئي. بعد ۾ ٻيهر ڪوشش ڪندا."</string>
+<string name="vcard_unknown_filename">" رابطو"</string>
+<string name="caching_vcard_message">" مڪاني عارضي ذخيرهگاه تي vCard کي جهٽي رهيو آهي."</string>
+<string name="percentage">"<xliff:g id="percentage" example="50">%s</xliff:g><xliff:g id="percentsign" example="%">%%</xliff:g>"</string>
+<string name="vcard_import_failed">" vCard جي درآمد نه ٿي سگهي."</string>
+<string name="import_failure_no_vcard_file" product="nosdcard">" ذخيرهگاه ۾ڪو به vCard نه مليو."</string>
+<string name="import_failure_no_vcard_file" product="default">" SD ڪارڊ ۾ ڪو به vCard نه مليو."</string>
+<string name="nfc_vcard_file_name">" رابطو NFC تي موصول ٿيو"</string>
+<string name="confirm_export_title">" رابطن کي برآمد ٿا ڪرڻ چاهيو؟"</string>
+<string name="select_vcard_title">" vCard فائل کي چونڊيو"</string>
+<string name="import_one_vcard_string">" ڪنهن هڪ vCard فائل کي درآمد ڪريو"</string>
+<string name="import_multiple_vcard_string">" ڪثير vCard فائلون درآمد ڪريو"</string>
+<string name="import_all_vcard_string">"سموريون vCard فائلون درآمد ڪريو"</string>
+<string name="searching_vcard_message" product="nosdcard">" ذخيرهگاه ۾ vCard جي ڊيٽا جي ڳولا ٿي رهي..."</string>
+<string name="searching_vcard_message" product="default">" ذخيرهگاه ۾ vCard جي ڊيٽا جي ڳولا ٿي رهي..."</string>
+<string name="caching_vcard_title">" پڪڙي رهيو آهي"</string>
+<string name="scanning_sdcard_failed_message" product="nosdcard">" ذخيرهگاه اسڪين نه ٿي سگهي.(سبب: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="scanning_sdcard_failed_message" product="default">" SD ڪارڊ اسڪين نه ٿي سگهيو.(سبب: \"<xliff:g id="fail_reason">%s</xliff:g>\")"</string>
+<string name="progress_notifier_message">" درآمد ٿي رهي آهي <xliff:g id="current_number">%s</xliff:g>/<xliff:g id="total_number">%s</xliff:g>: <xliff:g id="name" example="جو ڊيو">%s</xliff:g> </string>
+<string name="export_to_sdcard" product="default">" بيروني ذخيرهگاه ڏانهن برآمد ڪريو"</string>
+<string name="share_visible_contacts">" نظر اچڻ جوڳن رابطن جي شراڪت ڪريو"</string>
+<string name="dialog_import_export">" رابطا درآمد/برآمد ڪريو"</string>
+<string name="dialog_import">" رابطا درآمد ڪريو"</string>
+<string name="share_error">" هن رابطي جي شراڪت نه ٿي سگهي."</string>
+<string name="menu_search">" ڳوليو"</string>
+<string name="menu_contacts_filter">" کي ظاهر نه ٿو ڪري سگهي"</string>
+<string name="activity_title_contacts_filter">" کي ظاهر نه ٿو ڪري سگهي"</string>
+<string name="custom_list_filter">" ردوبدل جي ڏيک کي معين ڪريو"</string>
+<string name="hint_findContacts">" رابطا لهو"</string>
+<string name="contactsFavoritesLabel">"پسنديده"</string>
+<string name="listTotalAllContactsZero">" رابطا ڪونه آهن"</string>
+<string name="listTotalAllContactsZeroCustom">" ڪي به رابطا نظر اچڻ جوڳا ناهن"</string>
+<string name="listTotalAllContactsZeroStarred">" پسنديده ڪو به ڪونهي."</string>
+<string name="listTotalAllContactsZeroGroup">" <xliff:g id="name" example="Friends">%s</xliff:g> ۾ ڪي به رابطا ڪونه آهن"</string>
+<string name="menu_clear_frequents">" اڪثريتي کي صاف ڪريو"</string>
+<string name="menu_accounts">" اڪائونٽ"</string>
+<string name="menu_import_export">" درآمد/برآمد ڪريو"</string>
+<string name="description_send_message">"<xliff:g id="name">%1$s</xliff:g> کي پيغام موڪليو"</string>
+<string name="description_dial_phone_number">" فون ڊائل ڪريو<xliff:g id="name">%1$s</xliff:g>"</string>
+<string name="select_all_contacts">" سمورا چونڊيو"</string>
+<string name="select_card">" مهرباني ڪري ڪارڊ چونڊيو"</string>
+<string name="choose_sim_card">" SIM ڪارڊ چونڊيو"</string>
+<string name="fail_reason_empty">" رابطن جي ڊيٽا کي خالي ڪريو"</string>
+<string name="import_from_phone">" اندروني ذخيرهگاه مان درآمد ڪريو"</string>
+<string name="label_phone">" فون"</string>
+<string name="listTotalPhoneContactsZero">" ڪي به رابطا ناهن"</string>
+<string name="cancel_select_all_contacts">" سڀ منسوخ ڪريو"</string>
+<string name="no_match_contact">" ڪو به رابطو ميل نه ٿو رکي"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">" 1 رابطو ميل رکي ٿو"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> رابطا ميل رکن ٿا"</item>
+</plurals>
+<string name="copy_to">" تي نقل ڪريو"</string>
+<string name="export_to_phone">" اندروني ذخيرهگاه تي برآمد ڪريو"</string>
+<string name="contacts_selection_for_mms_limit">"چونڊيل نمبر جي حد<xliff:g id="COUNT">%d</xliff:g> آهي"</string>
+<string name="contact_status_update_attribution">" <xliff:g id="source" example="Google Talk">%1$s</xliff:g> جي ذريعي"</string>
+<string name="contact_status_update_attribution_with_date">"<xliff:g id="date" example="3 hours ago">%1$s</xliff:g> جي ذريعي<xliff:g id="source" example="Google Talk">%2$s</xliff:g>"</string>
+<string name="list_contact_phone">" فون نمبرن سان رابطو ڪريو"</string>
+<plurals name="listSelectedContacts">
+<item quantity="one">" چونڊيو"</item>
+<item quantity="other">" (<xliff:g id="COUNT">%d</xliff:g>) ڀيرا چونڊيل"</item>
+</plurals>
+<string name="select_cancle">" رد ڪريو"</string>
+<string name="select_audio_video_call">"مهرباني ڪري آڊيو يا ويڊيو ڪال جي چونڊ ڪريو"</string>
+<string name="contact_has_no_phonenumber">"ڪال ڪرڻ لاءِ هن رابطي جو ڪو به فون نمبر ڪونهي."</string>
+</resources>

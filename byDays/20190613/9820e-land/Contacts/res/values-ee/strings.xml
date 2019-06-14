@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">"কন্টেক্তশীং"</string>
+<string name="contactsList">"কন্টেক্তশীং"</string>
+<string name="shortcutContact">"কন্টেক্ত"</string>
+<string name="shortcutDialContact">"হকথেংনবা দাইল"</string>
+<string name="shortcutMessageContact">"হকথেংনবা মেসেজ"</string>
+<string name="shortcutActivityTitle">"কন্টেক্ত সোর্তকত অমা খল্লু"</string>
+<string name="callShortcutActivityTitle">"কোল তৌনবা নম্বর অমা খল্লু"</string>
+<string name="messageShortcutActivityTitle">"মেসেজ তৌনবা নম্বর অমা খল্লু"</string>
+<string name="contactPickerActivityTitle">"কন্টেক্ত অমা খল্লু"</string>
+<string name="starredList">"স্টার ওইরে"</string>
+<string name="frequentList">"তোয়না"</string>
+<string name="strequentList">"ফেবরাইটশীং"</string>
+<string name="viewContactTitle">"কন্টেক্ট তৌনবা অকুপ্পা ৱারোল"</string>
+<string name="viewContactDesription">"কন্টেক্ট য়েংঙু"</string>
+<string name="editContactDescription">"কন্টেক্ট এদিত তৌ"</string>
+<string name="insertContactDescription">"কন্টেক্ট শেম্মু"</string>
+<string name="editGroupDescription">"গ্রুপ এদিত তৌ"</string>
+<string name="insertGroupDescription">"গ্রুপ শেম্মু"</string>
+<string name="contactDetailAbout">"মরমদা"</string>
+<string name="contactDetailUpdates">"অপদেতশীং"</string>
+<string name="searchHint">"কন্টেক্টশীং থিয়ু"</string>
+<string name="menu_viewContact">"কন্টেক্ট য়েংঙু"</string>
+<string name="menu_addStar">"ফেবরাইটশীংদা হাপচিল্লু"</string>
+<string name="menu_removeStar">"ফেবরাইটশীংদগী লৌথোকউ"</string>
+<string name="menu_editContact">"এদিট"</string>
+<string name="menu_deleteContact">"মুথৎলু"</string>
+<string name="menu_create_contact_shortcut">"হোম স্ক্রীন মথক্তা থম্মু"</string>
+<string name="menu_call">"কন্টেক্ট কোল তৌ"</string>
+<string name="menu_sendSMS">"কন্টেক্টতা টেকস্ট তৌ"</string>
+<string name="menu_splitAggregate">"তোঙানবা"</string>
+<string name="menu_editGroup">"এদিট"</string>
+<string name="menu_deleteGroup">"মুথৎলু"</string>
+<string name="menu_new_contact_action_bar">"কন্টেক্ত হাপচিল্লু"</string>
+<string name="menu_new_group_action_bar">"গ্রুপ হাপচিল্লু"</string>
+<string name="splitConfirmation_title">"তোঙানবা কন্টেক্ট?"</string>
+<string name="splitConfirmation">"কন্টেক্ট অসি কন্টেক্টশীং ময়াম থোক্না তোঙান্না খায়দোক্কনি."</string>
+<string name="menu_joinAggregate">"য়াওশিল্লু"</string>
+<string name="titleJoinContactDataWith">"কন্টেক্টশীংদা য়াওশিল্লু"</string>
+<string name="blurbJoinContactDataWith">"নহাক্না য়াওশিনবা পাম্বা কন্টেক্ট অদু খল্লু <xliff:g id="name">%s</xliff:g>:"</string>
+<string name="showAllContactsJoinItem">"কন্টেক্টশীং লোইনমক উৎলু"</string>
+<string name="separatorJoinAggregateSuggestions">"সজেস্ট তৌবা কন্টেক্টশীং"</string>
+<string name="separatorJoinAggregateAll">"কন্টেক্টশীং লোইনমক"</string>
+<string name="contactsJoinedMessage">"কন্টেক্টশীং য়াওশিল্লে"</string>
+<string name="menu_set_ring_tone">"রিংতোন সেট তৌ"</string>
+<string name="menu_redirect_calls_to_vm">"কোলশীং লোইনমক ভোইসমেলদা"</string>
+<string name="readOnlyContactWarning">"নহাক রীদ-ওনলি একাওন্টশীংদগী কন্টেক্টশীং মুথৎপা য়ারোই, তৌইগুম্বশুং নহাক মখোয়শীংদুবু নহাক্কি কন্টেক্টশীংগী লিস্টশীংদা লোৎপা য়াগনি."</string>
+<string name="label_phone">"ফোন"</string>
+<string name="readOnlyContactDeleteConfirmation">"কন্টেক্ট অসি একাওন্টশীং ময়ামদগী পাও য়াওই. রীদ-ওনলি একাওন্টশীংদগী ফংবা পাও নহাক্কি কন্টেক্টশীংগী লিস্টশীংদা লোত্তুনা থমগনি, মুথৎলোই."</string>
+<string name="multipleContactDeleteConfirmation">"কন্টেক্ট অসি মুথৎপনা একাওন্টশীং ময়ামদগী ফংবা পাও মুথৎকনি."</string>
+<string name="deleteConfirmation">"কন্টেক্ত অসি মুথৎকদ্রা?"</string>
+<string name="menu_discard">"লংথোকউ"</string>
+<string name="invalidContactMessage">"কন্টেক্ট অদু লৈতে."</string>
+<string name="createContactShortcutSuccessful">"হোম স্ক্রীন্দা হাপ্পা ৱিদজেত কন্টেক্ট তৌ."</string>
+<string name="pickerNewContactHeader">"অনৌবা কন্টেক্ত শেম্মু"</string>
+<string name="pickerNewContactText">"অনৌবা কন্টেক্ত শেম্মু"</string>
+<string-array name="otherLabels">
+<item>"সংস্থান"</item>
+<item>"খঙজিনগদবা"</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">"টেব্লেত অদুদা পিকচরশীং অমত্তা ফংদে."</string>
+<string name="photoPickerNotFoundText" product="default">"ফোন অদুদা পিকচরশীং অমত্তা ফংদে."</string>
+<string name="attach_photo_dialog_title">"ফোটো কন্টেক্ত তৌ"</string>
+<string name="customLabelPickerTitle">"কস্টম লেবেল মমিং"</string>
+<string name="send_to_voicemail_checkbox">"কোলশীং হকথেংননা ভোইসমেলদা থাই"</string>
+<string name="removePhoto">"ফোটো লৌথোকউ"</string>
+<string name="noContacts">"কন্টেক্টশীং লৈতে."</string>
+<string name="noGroups">"গ্রুপশীং লৈতে."</string>
+<string name="noAccounts">"গ্রুপশীং শেম্নবা নহাক একাওন্ট অমা দরকার ওই."</string>
+<string name="emptyGroup">"গ্রুপ অসিদা মী অমত্তা লৈতে."</string>
+<string name="addPeopleToGroup">"খরা হাপচিন্নবা, গ্রুপ অদু এদিত তৌ."</string>
+<string name="savingContact">"কন্টেক্ট সেব তৌরি..."</string>
+<string name="contactSavedToast">"কন্টেক্ট সেব তৌরে."</string>
+<string name="contactSavedErrorToast">"কন্টেক্টকি অহোংবশীং সেব তৌবা ঙমদে."</string>
+<string name="groupSavedToast">"গ্রুপ সেব তৌরে."</string>
+<string name="groupSavedErrorToast">"গ্রুপকি অহোংবশীং সেব তৌবা ঙমদে."</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">"1 ফোন নম্বরদা পাও ফাওনৌ"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ফোন নম্বরশীংগা লোয়নবা কন্টেক্টশীং"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">"ফোন নম্বরশীংগা লোয়নবা কন্টেক্ট অমত্তা লৈতে"</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">"1 কন্টেক্ট"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> কন্টেক্টশীং"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">"1 ফংলে"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ফংই"</item>
+</plurals>
+<string name="listFoundAllContactsZero">"কন্টেক্টশীং লৈতে"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">"1 ফংলে"</item>
+<item quantity="other">"<xliff:g id="count">%d</xliff:g> ফংই"</item>
+</plurals>
+<string name="contactsAllLabel">"কন্টেক্টশীং লোইনমক"</string>
+<string name="contactsGroupsLabel">"গ্রুপশীং"</string>
+<string name="callBack">"কোল হনবা"</string>
+<string name="callAgain">"হন্না কোল তৌ"</string>
+<string name="returnCall">"হল্লকপা কোল"</string>
+<string name="add_contact_dlg_message_fmt">"হাপচিল্লু \"<xliff:g id="email">%s</xliff:g>\" কন্টেক্ট শীংদা?"</string>
+<string name="description_contact_photo">"ফোটো কন্টেক্ত তৌ"</string>
+<string name="description_plus_button">"তিনশিনবা"</string>
+<string name="exporting_contact_list_progress">"<xliff:g id="current_number">%s</xliff:g> গী <xliff:g id="total_number">%s</xliff:g> কন্টেক্টশীং"</string>
+<string name="search_settings_description">"নহাক্কি কন্টেক্টশীংগী মমিংশীং"</string>
+<string name="quickcontact_missing_app">"এক্সন অসি হেন্দল তৌনবা এপ অমত্তা ফংদে."</string>
+<string name="missing_app">"এক্সন অসি হেন্দল তৌনবা এপ অমত্তা ফংদে."</string>
+<string name="menu_share">"শরুক য়ামিন্নৌ"</string>
+<string name="share_via">"কন্টেক্ট শরুক য়ামিন্নৌ ফাওনা"</string>
+<string name="dialog_new_group_account">"একাওন্টকি মখাদা গ্রুপ শেম্মু"</string>
+<string name="audio_chat">"ভোইস চাট"</string>
+<string name="video_chat">"ভিদিও চাট"</string>
+<string name="connections">"শম্নবশীং"</string>
+<string name="add_connection_button">"শম্নবা হাপচিল্লু"</string>
+<string name="recent">"হন্দক্তা থোকপা"</string>
+<string name="recent_updates">"হন্দক্তা তৌবা অপদেতশীং"</string>
+<string name="account_type_format">"<xliff:g id="source" example="Gmail">%1$s</xliff:g>  কন্টেক্ট"</string>
+<string name="from_account_format">"<xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">"ফোটো অসি শীজিন্নৌ"</string>
+<string name="contact_read_only">"এপ অসিদগী এদিত তৌবা য়াদে."</string>
+<string name="no_contact_details">"কন্টেক্ট অসিগী অহেনবা পাও লৈতে."</string>
+<string name="group_read_only">"দিভাইস অসিদা এদিত তৌবা য়াদে."</string>
+<string name="display_options_sort_list_by">"লিস্ট অদু শীন্দোকউ না"</string>
+<string name="display_options_sort_by_given_name">"অহানবা মমিং"</string>
+<string name="display_options_sort_by_family_name">"অরোইবা মমিং"</string>
+<string name="display_options_view_names_as">"কন্টেক্ত মমীংশীং য়েংঙু গুম্না"</string>
+<string name="display_options_view_given_name_first">"অহানবা মমিং অহানবদা"</string>
+<string name="display_options_view_family_name_first">"অরোইবা মমিং অহানবদা"</string>
+<string name="take_photo">"ফোটো লৌ"</string>
+<string name="take_new_photo">"অনৌবা ফোটো লৌ"</string>
+<string name="pick_photo">"গেল্লরিদগী ফোটো খল্লু"</string>
+<string name="pick_new_photo">"গেল্লরিদগী অনৌবা ফোটো খল্লু"</string>
+<string name="locale_change_in_progress">"লোন হোংবা অদু উৎনবা কন্টেক্ট লিস্ট অপদেত তৌরি."</string>
+<string name="upgrade_in_progress">"কন্টেক্ট লিস্ট অপদেত তৌরি."</string>
+<string name="upgrade_out_of_memory">"কন্টেক্টশীং অদু অপগ্রেদ তৌবগী প্রোসেসতা লৈ. \n\nঅপগ্রেদ প্রোসেস অদু চাওরাক্না দরকার ওই <xliff:g id="size_in_megabytes">%s</xliff:g> MB মনুংগী স্টোরেজগী.\n\nমখাগী ওপসনশীংগী মরক্তা অমা খল্লু:"</string>
+<string name="upgrade_out_of_memory_uninstall">"এপ্লিকেশনশীং খরা ইনস্টোল তৌবা লৌথোকউ"</string>
+<string name="upgrade_out_of_memory_retry">"অপগ্রেদ হন্না তৌ"</string>
+<string name="search_results_searching">"থিরি..."</string>
+<string name="menu_display_selected">"শো খল্লে"</string>
+<string name="menu_display_all">"লোইনমক উৎলু"</string>
+<string name="menu_select_all">"লোইনা খল্লু"</string>
+<string name="menu_select_none">"লোইনমক খনগনু"</string>
+<string name="add_field">"অতোপ্পা ফিল্দ অমা হাপচিল্লু"</string>
+<string name="add_new_entry_for_section">"অনৌবা হাপচিল্লু"</string>
+<string name="add_organization">"সংস্থান হাপচিল্লু"</string>
+<string name="event_edit_field_hint_text">"তারিখ"</string>
+<string name="group_edit_field_hint_text">"গ্রুপ মমিং"</string>
+<string name="description_star">"ফেবরাইট"</string>
+<string name="edit_contact">"কন্টেক্ট এদিত তৌ"</string>
+<plurals name="merge_info">
+<item quantity="one">"পুনশিন্নদে"</item>
+<item quantity="other">"দগী পুনশিন্নৈ <xliff:g id="count">%0$d</xliff:g> হৌরকফমশীং"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">"হৌজিক্কি কন্টেক্ট অদু খল্লবা কন্টেক্ট অদুগা পুনশিন্নৌ?"</string>
+<string name="aggregation_suggestion_edit_dialog_message">"খল্লবা কন্টেক্ট অদু এদিত তৌবদা ওনগদ্রা? নহাক্না হৌজিক ফাওবা মেনশিনবা পাও কোপি তৌগনি."</string>
+<string name="menu_copyContact">"মাই কন্টেক্টস দা কোপি তৌ"</string>
+<string name="add_to_my_contacts">"মাই কন্টেক্টস তা হাপচিল্লু"</string>
+<string name="contact_directory_description">"দাইরেক্তরি <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g>"</string>
+<string name="toast_making_personal_copy">"মশাগী কোপি অমা শেম্লি..."</string>
+<string name="list_filter_custom">"কস্টম"</string>
+<string name="activity_title_settings">"সেটিংশীং"</string>
+<string name="menu_settings">"সেটিংশীং"</string>
+<string name="menu_help">"মতেং"</string>
+<string name="preference_displayOptions">"ওপসনশীং উৎলু"</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">"ফোন নম্বর"</string>
+<string name="non_phone_add_to_contacts">"কন্টেক্টশীংদা হাপচিল্লু"</string>
+<string name="activity_title_confirm_add_detail">"কন্টেক্ত তা হাপচিল্লু"</string>
+<string name="non_phone_close">"খুমজিল্লু"</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">"চহী অমা পীয়ু"</string>
+<string name="social_widget_label">"কন্টেক্ত"</string>
+<string name="social_widget_loading">"লোদ তৌরি..."</string>
+<string name="contacts_unavailable_create_contact">"অনৌবা কন্টেক্ট অমা শেম্মু"</string>
+<string name="contacts_unavailable_add_account">"একাওন্ট অমদা সাইন ইন তৌ"</string>
+<string name="contacts_unavailable_import_contacts">"কন্টেক্টশীং পুশিল্লকউ"</string>
+<string name="create_group_dialog_title">"অনৌবা গ্রুপ শেম্মু"</string>
+<string name="create_group_item_label">"অনৌবা গ্রুপ শেম্মু"</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">"1 গ্রুপ"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> গ্রুপশীং"</item>
+</plurals>
+<string name="delete_group_dialog_message">"গ্রুপ অদু মুথৎলু \"<xliff:g id="group_label" example="Friends">%1$s</xliff:g>\"? (কন্টেক্টশীং মখোয় মশা মুথৎলোই.)"</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> মীওই তগী <xliff:g id="account_type">%2$s</xliff:g>"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> মীয়াম দগী <xliff:g id="account_type">%2$s</xliff:g>"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> মীওই"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> মীয়াম"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">"অতোপ্পা অমদা য়াওদ্রিঙৈ মমাংদা কন্টেক্ট মমিং টাইপ তৌ."</string>
+<string name="copy_text">"ক্লিপবোর্দতা কোপি তৌ"</string>
+<string name="set_default">"দিফাওল্ট সেট তৌ"</string>
+<string name="clear_default">"দিফাওল্ট ক্লিয়র তৌ"</string>
+<string name="toast_text_copied">"টেকস্ট কোপি তৌরে"</string>
+<string name="cancel_confirmation_dialog_message">"নহাক্কি হোংবশীং লংথোক্কদ্রা?"</string>
+<string name="call_type_and_date">"<xliff:g id="call_type" example="Friends">%1$s</xliff:g><xliff:g id="call_short_date" example="Friends">%2$s</xliff:g>"</string>
+<string name="profile_display_name">"ঐগী প্রোফাইল সেট অপ তৌ"</string>
+<string name="enter_contact_name">"মীওই অদুগী মমিং টাইপ তৌ"</string>
+<string name="group_name_hint">"গ্রুপকি মমিং"</string>
+<string name="local_profile_title">"ঐগী লোকেল প্রোফাইল"</string>
+<string name="external_profile_title">"<xliff:g id="external_source">%1$s</xliff:g> কন্টেক্ত"</string>
+<string name="toast_displaying_all_contacts">"কন্টেক্টশীং লোইনমক উৎলি"</string>
+<string name="no_account_prompt">"মীশীংনা Google একাওন্ট অমগা লোয়ননা হেন্না ফজনা থবক তৌই.\n\n\u2022 ৱেব ব্রাওজর অমদগী হেক্তা এক্সেস তৌ.\n\u2022 নহাক্কি কন্টেক্তশীং তেক্ত-কায়দনা বেক অপ তৌ."</string>
+<string name="generic_no_account_prompt">"নহাক্কি ফোন মাংলবা ফাওবা নহাক্কি কন্টেক্টশীং মাংদনা থম্মু: ওফলাইন সার্ভিস অমগা সিনক্রোনাইজ তৌ."</string>
+<string name="generic_no_account_prompt_title">"একাওন্ট অমা হাপচিল্লু"</string>
+<string name="contact_editor_prompt_zero_accounts">"নহাক্কি অনৌবা কন্টেক্ট বেকঅপ তৌরোই. কন্টেক্টশীং ওনলাইন দা বেকঅপ তৌবা একাওন্ট অমা হাপচিনগদ্রা?"</string>
+<string name="contact_editor_prompt_one_account">"নহাক্কি অনৌবা কন্টেক্ট সিনক্রোনাইজ তৌরগনি গা লোয়ননা <xliff:g id="account_name">%1$s</xliff:g>."</string>
+<string name="contact_editor_prompt_multiple_accounts">"নহাক্কি অনৌবা কন্টেক্ট অদু মখাগী একাওন্টশীং অসিগী মরক্তা অমগা নহাক সিনক্রোনাইজ তৌবা য়াগনি. নহাক করম্বা শীজিন্নবা পাম্মি?"</string>
+<string name="keep_local">"লোকেল থম্মু"</string>
+<string name="add_account">"একাওন্ট হাপচিল্লু"</string>
+<string name="add_new_account">"অনৌবা একাওন্ট হাপচিল্লু"</string>
+<string name="menu_export_database">"দাতাবেজ ফাইলশীং পুথোকখো"</string>
+<string name="contact_detail_picture_description">"পিকচর. হোংনবা খল্লু"</string>
+<string name="no_fast_dial">"থুনা কোল তৌনবা ফোন নম্বর সেট তৌদে"</string>
+<string name="fast_dial_choose">"থুনা কোল তৌনবা মখল খনবিয়ু"</string>
+<string name="fast_call">"ভোইস কোল"</string>
+<string name="fast_vt_call">"ভিদিও কোল"</string>
+<string name="wait">"ঙাইবিয়ু..."</string>
+<string name="working">"থবক তৌরি"</string>
+<string name="working_batch_delete">"বেটচ মুথৎলি"</string>
+<string name="working_batch_import">"বেটচ পুশিল্লক্লি"</string>
+<string name="choose_sim_card">"SIM কার্দ খল্লু"</string>
+<string name="violate_capacity">"SIM কেপাসিতি থুগাই"</string>
+<string name="import_failed">"কন্টেক্ট পুশিল্লকপা/পুথোকপা মায় পাক্ত্রে"</string>
+<string name="import_failed_tmp">"<xliff:g id="count">%d</xliff:g> মায় পাকপা, <xliff:g id="count">%d</xliff:g> মায় পাক্তবা"</string>
+<string name="import_done">"পুশিল্লকপা তৌরে"</string>
+<string name="delete_done">"মুথৎপা তৌরে"</string>
+<string name="toast_no_contact_selected">"কন্টেক্টশীং অমত্তা খন্দে"</string>
+<string name="contactSavedErrorToastNameLength">"কন্টেক্ট মমিং সেব তৌবদা কা হেন্না শাংমল্লি"</string>
+<string name="contactSavedErrorToastEmailLength">"ইমেল মমিং সেব তৌবদা কা হেন্না শাংমল্লি"</string>
+<string name="contactSavedErrorToastEmailFull">"ইমেল পিক থল্লি"</string>
+<string name="contactSavedErrorToastSimEmailFull">"SIM কার্দ ইমেল পিক থল্লি"</string>
+<string name="contactSavedErrorToastUsimEmailFull">"USIM কার্দ ইমেল পিক থল্লি"</string>
+<string name="sim_is_full">"SIM পিক থল্লি"</string>
+<string name="beyond_sim_card_capacity">"SIM কার্দ কেপাসিতি ৱাংমদা, কন্টেক্টশীং খরা সেব তৌবা মায় পাক্তে"</string>
+<string name="menu_addToBlacklist">"ব্লেকলিস্টতা হাপচিল্লু"</string>
+<string name="menu_view_calls">"ময়েং"</string>
+<string name="item_all_calls">"কোল লোগ লোইনমক"</string>
+<string name="item_sim1_calls">"Sim1 কোল লোগ"</string>
+<string name="item_sim2_calls">"Sim2 কোল লোগ"</string>
+<string name="res_name">"মমিং"</string>
+<string name="res_phone">"ফোন"</string>
+<string name="res_email">"ইমেল"</string>
+<string name="res_field">"ফিল্দ"</string>
+<string name="alert_maybe_lost_info">"পাও খরা পুশিল্লকপা নত্ত্রগা থাদোকখিবা মনুংদা মাংখিবা য়াই"</string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> কা হেন্না শাংমল্লি"</string>
+<string name="select_group_member">"গ্রুপ মেম্বরশীং খল্লু"</string>
+<string name="email_format_fail">"অচুম্বা ইমেল এদ্রেশ ইনপুত তৌবিয়ু!"</string>
+<string name="working_editing_group">"গ্রুপ হোংলি"</string>
+<string name="editing_group_done">"গ্রুপ শেমদোকপা তৌরে"</string>
+<string name="editing_group_failed">"গ্রুপ শেমদোকপা মায় পাক্ত্রে"</string>
+<string name="contacts_group_name_exist">"হৌজিক লৈবা গ্রুপ মমিং"</string>
+<string name="menu_sendmms">"sms ময়াম"</string>
+<string name="alert_delete_contact">"নহাক খল্লবা কন্টেক্টশীং মুথৎপা পাম্মি হায়বা শোয়দ্রব্রা?"</string>
+<string name="select_all">"লোইনা খল্লু"</string>
+<string name="label_sim">"SIM কার্দ"</string>
+<string name="label_usim">"SIM কার্দ"</string>
+<string name="menu_batch_delete">"বেটচ মুথৎলি"</string>
+<string name="group_selection">"গ্রুপ খনবা কন্টেক্ট তৌ"</string>
+<string name="cancel_batch_import_confirmation">"কন্টেক্ট পুশিল্লকপা ককথৎকদ্রা?"</string>
+<string name="cancel_batch_delete_confirmation">"কন্টেক্ট মুথৎপা ককথৎকদ্রা?"</string>
+<string name="copy">"কোপি তৌ"</string>
+<string name="copy_to">"কোপি তৌ দা"</string>
+<string name="contactDeletedToast">"কন্টেক্ট মুথৎখ্রে."</string>
+<string name="list_filter_all_in_one">"কন্টেক্টশীং লোইনমক দাতাগা লোয়ননা"</string>
+<string name="listTotalEmailContactsZero">"কন্টেক্টশীং অমত্তা ইমেল এদ্রেশকা লোয়নদে "</string>
+<string name="list_filter_emails">"কন্টেক্টশীং লোইনমক ইমেল এদ্রেশকা লোয়নৈ"</string>
+<string name="listMaxContactsInAccount">"অহাংবা: <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="reading_vcard_exception_title">"vCard দাতা এক্সেপসনশীং পারি/ইরি"</string>
+<string name="sqlite_full">"দাতাবেজ কন্টেক্ট তৌ নত্ত্রগা দিস্ক পিক থল্লি"</string>
+<string name="groupSavingToast">"গ্রুপকি ই-পাও কোন্না পানগনি."</string>
+<string name="batch_operation_canceled">"ওপরেসন ককথৎলে"</string>
+<string name="no_sdcard_title">"SD কার্দ লৈতে"</string>
+<string name="cancel_export_confirmation_title">"ভিকার্দ পুথোকপা ককথৎলি"</string>
+<string name="video_callNumber_by_sim2">"ভিদিও কোল <xliff:g id="NAME">%s</xliff:g>（SIM2）"</string>
+<string name="delete_calls_list">"খল্লবা কোলশীং মুথৎলু"</string>
+<string name="video_menu_callNumber">"ভিদিও কোল <xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="searching_vcard_title">"vCard থিরি"</string>
+<string name="menu_copyToPhone">"ফোন্দা কোপি তৌ"</string>
+<string name="cancel_import_confirmation_title">"vCard পুশিল্লকপা ককথৎলি"</string>
+<string name="dialog_voicemail_not_ready_title">"ভোইসমেল নম্বর ফংদে"</string>
+<string name="select_one">"য়ামদ্রবদা আইটেম অমা খল্লু!"</string>
+<string name="delete_all_calls_confirm">"নহাক কোলশীং লোইনমক মুথৎপা পাম্ব্রা?"</string>
+<string name="export_to_sim">"SIM কার্দতা এক্সপোর্ট তৌ"</string>
+<string name="scanning_sdcard_failed_title">"SD কার্দ স্কেন তৌবা ঙমদে"</string>
+<string name="aggregation_suggestion_join_dialog_title">"কন্টেক্টশীংদা য়াওশিল্লু"</string>
+<string name="aggregation_suggestion_edit_dialog_title">"খল্লবা কন্টেক্টশীং এদিত তৌ"</string>
+<string name="delete_group_dialog_title">"গ্রুপ মুথৎলু"</string>
+<string name="delete_all_calls">"কোলশীং লোইনমক মুথৎলু"</string>
+<string name="video_callNumber_by_sim1">"ভিদিও কোল <xliff:g id="NAME">%s</xliff:g>（SIM1）"</string>
+<string name="call_log_callNumber_by_sim">"কোল <xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+<string name="dialog_phone_call_prohibited_title">"কোল থাখিদে"</string>
+<string name="search_bar_hint">"কন্টেক্টশীং থিয়ু"</string>
+<string name="delete_success">"মুথৎপা মায় পাকপা!"</string>
+<string name="deleteConfirmation_title">"কন্টেক্ট মুথৎকদ্রা?"</string>
+<string name="delete_selected_calls">"নহাক খল্লবা কোলশীং অদু মুথৎপা পাম্ব্রা?"</string>
+<string name="delete_contact_all_calls">"নহাক কন্টেক্টকি কোল লোগশীং মুথৎপা শোয়দনা য়ারব্রা?"</string>
+<string name="menu_copyToSim">"SIM দা কোপি তৌ"</string>
+<string name="menu_all_contacts">"কন্টেক্টশীং লোইনমক"</string>
+<string name="please_input_group_name">"গ্রুপ মমিং ইনপুত তৌবিয়ু"</string>
+<string name="cancel_confirmation_dialog_title">"অহোংবশীং লংথোকখো"</string>
+<string name="delete_calls">"মুথৎলু"</string>
+<string name="add_contact_dlg_title">"কন্টেক্ত হাপচিল্লু"</string>
+<string name="app_name">"কোল লোগ"</string>
+<string name="search_description">"কোল লোগ থিয়ু"</string>
+<string name="search_hint">"কোল লোগ থিয়ু"</string>
+<string name="lable_search">"থিবা"</string>
+<string name="menu_deleteFromBlacklist">"ব্লেকলিস্টতগী মুথৎলু"</string>
+<string name="success_addToBlacklist">"মায় পাকপা হাপচিল্লু"</string>
+<string name="failed_addToBlacklist">"মায় পাক্তবা হাপচিল্লু"</string>
+<string name="success_removeFromBlacklist">"মায় পাকপা মুথৎলু"</string>
+<string name="failed_removeFromBlacklist">"মায় পাক্তবা মুথৎলু"</string>
+<string name="menu_mmsGroup">"মেসেজ ময়াম"</string>
+<string name="menu_emailGroup">"ইমেল ময়াম"</string>
+<string name="noContactsInGroup">"গ্রুপ অসিদা কন্টেক্টশীং লৈতে"</string>
+<string name="please_wait">"ঙাইবিয়ু..."</string>
+<string name="noContactswithEmail">"গ্রুপ অসিদা কন্টেক্টশীং অমত্তা ইমেল য়াওদে"</string>
+<string name="noContactwithEmail">"কন্টেক্টশীং অমত্তা ইমেল য়াওদে"</string>
+<string name="noContactwithPhoneAndEmail">"কন্টেক্টশীং অমত্তা ফোন অমসুং ইমেল য়াওদে."</string>
+<string name="select_card">"কার্দ খনবিয়ু"</string>
+<string name="sim_absent">"অসি লাক্তে"</string>
+<string name="sdn_list">"SDN লিস্ট"</string>
+<string name="lnd_list">"LND লিস্ট"</string>
+<string name="sim_no_ready">"Sim কার্দ শেম শাদ্রি."</string>
+<string name="sdn_please_insert_sim">"SIM কার্দ অদু থিংজিনবিয়ু."</string>
+<string name="sdn_sim_notready">"SIM গী পাও হৌরি, কোন্না ওপরেত তৌবিয়ু."</string>
+<string name="ip_dialer">"IP দাইলিং সেটিং"</string>
+<string name="call_ip">"IP কোল"</string>
+<string name="no_group">"গ্রুপ অমগী মেম্বর ওইদে"</string>
+<string name="select_group">"গ্রুপ খল্লু"</string>
+<string name="edit_photo">"ফোটো এদিত তৌ"</string>
+<string name="select_all_contacts">"লোইনা খল্লু"</string>
+<string name="menu_save">"সেব তৌ"</string>
+<string name="group_name_hint_overlay">"গ্রুপ মমিং ইনপুত তৌবিয়ু"</string>
+<string name="select_group_member_overlay">"মেম্বরশীং হাপচিন্নবা ক্লিক তৌ"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">"1 কন্টেক্ট চানবা"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> কন্টেক্টশীং মপা চানবা"</item>
+</plurals>
+<string name="no_match_contact">"কন্টেক্ট মপা চানদে"</string>
+<string name="menu_newGroup">"অনৌবা গ্রুপ"</string>
+<string name="editGroup">"গ্রুপ এদিত তৌ"</string>
+<string name="menu_delete_group">"গ্রুপ মুথৎলু"</string>
+<string name="contactsFavoritesLimit">"কন্টেক্ত 12 খোমজিনবা, খোমজিনবগী ঙমখৈগী ৱাংমদা"</string>
+<string name="menu_add_favorite">"ফেবরাইটশীংদা কন্টেক্টশীং হাপচিল্লু"</string>
+<string name="create_new_contact">"অনৌবা কন্টেক্ত শেম্মু"</string>
+<string name="send_mms">"মেসেজ থাও"</string>
+<string name="tab_more">"ওপসনশীং হেন্না"</string>
+<string name="show_contacts">"কন্টেক্টশীং উৎলু"</string>
+<string name="fast_dial">"থুনা দাইল তৌবা"</string>
+<string name="account">"একাওন্ট"</string>
+<string name="import_export_contacts">"কন্টেক্টশীং পুশিল্লকপা/পুথোকপা"</string>
+<string name="export_contacts">"কন্টেক্তশীং এক্সপোর্ট তৌ"</string>
+<string name="duplicate_phone_book">"দুপ্লিকেত ফোন বুক"</string>
+<string name="dump_phone_book">"ফোন বুক দম্প তৌবা"</string>
+<string name="call_log_contacts_not_save">"মশক খঙদবা"</string>
+<string name="call_log_callNumber_by_sim_ex">"কোল তৌ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">"ভিদিও কোল তৌ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">"IP কোল তৌ<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="removeStarred">"স্টার ওইবা লৌথোকউ"</string>
+<string name="lookUpInfo">"য়েংখৎনবা পাও"</string>
+<string name="cancel">"ককথৎলু"</string>
+<string name="favorite_contacts">"ফেবরাইট কন্টেক্টশীং"</string>
+<string name="no_available_number">"নম্বরশীং ফংদে"</string>
+<string name="confirmCoverPhoneNumber">"নহাক হৌজিক লৈবা কন্টেক্ট মহুৎ শিনবা পাম্মি হায়বা শোয়দ্রব্রা?"</string>
+<string name="replaceSelected">"করম্বা মহুৎ শিনগনি হায়বা খনবিয়ু"</string>
+<string name="over_phone_length_limit">"নম্বর কা হেন্না শাংমনখ্রে"</string>
+<string name="invalid_number">"চৎনদবা নম্বরশীং."</string>
+<string name="no_vcard_found_in_internal_stor">"মনুংগী স্টোরেজদা ভিকার্দ অমত্তা য়াওদে."</string>
+<string name="item_sim_calls_ex">"SIM<xliff:g id="SIM">%s</xliff:g> কোল লোগ"</string>
+<string name="menu_moveGroupMember">"গ্রুপ মেম্বরশীং লেংঙু"</string>
+<string name="moveGroupMemberDialogTitle">"কন্টেক্টশীং লেংঙু দা"</string>
+<string name="menu_deleteGroupMember">"গ্রুপ মেম্বরশীং মুথৎলু"</string>
+<string name="overGroupNameLength">"গ্রুপ মমিং কা হেন্না শাংমল্লি"</string>
+<string name="overGroupCountLimit">"গ্রুপ মশীং থীবা ঙমখৈগী মথক্তা"</string>
+<string name="menu_share_by_sms">"কন্টেক্টশীং sms/mms না থাও"</string>
+<string name="toast_batchoperation_is_running">"বেটচ ওপরেসন রন তৌরি, কোন্না হন্না হোৎনবিয়ু."</string>
+<string name="sdcard_storage_not_enough">"স্টোরেজ মতিক চাদে!"</string>
+<string name="noJoinContactDataWith">"কনাগুম্বা অমত্তা কন্টেক্টশীং পুনশিনবা ঙমদে"</string>
+<string name="not_select_vCard">"vCard অমত্তা খন্দে"</string>
+<string name="selected_is_not_image">"খল্লবা ফাইল অদু মমি অমা নত্তে"</string>
+<string name="batch_delete_confim_title">"কন্টেক্ট (শীং) মুথৎলু"</string>
+<string name="batch_delete_confim_message">"নহাক খল্লবা কন্টেক্ট(শীং) মুথৎকনি হায়বা শোয়দ্রব্রা?"</string>
+<string name="transaction_too_large">"খল্লবা কন্টেক্টশীং অদু ঙমখৈগী মথক্তগী হেল্লি, কন্টেক্টশীং মশীং হন্থনা খনবিয়ু"</string>
+<string name="contacts_selection_too_more">"খল্লবা কন্টেক্টশীংগী খ্বাইদগী য়াম্বা মশীং অদু <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="recentCalls_empty">"কোল লোগ ইহাং হাংই."</string>
+<string name="menu_newContact">"অনৌবা কন্টেক্ট"</string>
+<string name="contact_list_loading">"লোদ তৌরি..."</string>
+<string name="recentCallsIconLabel">"কোল লোগ"</string>
+<string name="launcherDialer">"দাইল তৌ"</string>
+<string name="delete_group_dialog_commit">"নহাক খল্লবা গ্রুপ (শীং) অদু মুথৎপা পাম্ব্রা?"</string>
+<string name="noContactsWithPhoneNumbers">"ফোন নম্বরশীংগা লোয়নবা কন্টেক্ট অমত্তা লৈতে"</string>
+<string name="listTotalAllContactsZeroStarred">"ফেবরাইটশীং লৈতে."</string>
+<string name="contact_editor_prompt_multiple_accounts_short">"কন্টেক্ট অদু স্টোর তৌ দা"</string>
+<string name="working_batch_starred">"বেটচ স্টার ওইরি"</string>
+<string name="star_done">"স্টার্ট তৌখ্রে"</string>
+<string name="cancel_batch_star_confirmation">"স্টার কন্টেক্ট ককথৎকদ্রা?"</string>
+<string name="upgrade_group_in_progress">"গ্রুপ লিস্ট অপদেত তৌরি"</string>
+<string name="sim_capacity">"SIM কেপাসিতি"</string>
+<string name="noSimCard">"অফংবা SIM কার্দশীং লৈতে"</string>
+<string name="clear">"ক্লিয়র তৌ"</string>
+<string name="cancel_select">"খনবা তোকউ"</string>
+<string name="default_feature_bar_center">"খল্লু"</string>
+<string name="softkey_clear">"ক্লিয়র তৌ"</string>
+<string name="softkey_back">"মনিং হল্লু"</string>
+<string name="softkey_option">"ওপসনশীং"</string>
+<string name="softkey_cancel">"ককথৎলু"</string>
+<string name="softkey_dial">"দাইল তৌ"</string>
+<string name="softkey_new">"অনৌবা"</string>
+<string name="softkey_send">"থাও"</string>
+<string name="softkey_search">"থিবা"</string>
+<string name="no_account_to_edit">"সিস্টেমগী কন্টেক্ত সেব তৌনবা একাওন্ট লৈতে, অমসুং মসিনা কন্টেক্তশীং শেম্বা ঙমদে."</string>
+<string name="only_other_number_type">"অতোপ্পা নম্বর অমখক্তং সেব তৌবা ঙমদে, মদু চেক তৌবিয়ু."</string>
+<string name="dup_phone_number_type">"চপ মান্নবা মখলগী মশীংশীং সেব তৌবা ঙমদে, মদু চেক তৌবিয়ু."</string>
+</resources>

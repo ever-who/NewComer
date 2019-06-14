@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">" رابطا"</string>
+<string name="contactsList">" رابطا"</string>
+<string name="shortcutContact">" رابطو"</string>
+<string name="shortcutDialContact">" سڌوسنئون ڊائل ڪريو"</string>
+<string name="shortcutMessageContact">" سڌوسنئون پيغام"</string>
+<string name="shortcutActivityTitle">" ڪنهن رابطي جو شارٽ ڪٽ چونڊيو"</string>
+<string name="callShortcutActivityTitle">" ڪال ڪرڻ لاءِ ڪنهن نمبر جي چونڊ ڪريو"</string>
+<string name="messageShortcutActivityTitle">" ڪنهن پيغام لاءِ نمبر جي چونڊ ڪريو"</string>
+<string name="contactPickerActivityTitle">" ڪنهن رابطي جي چونڊ ڪريو"</string>
+<string name="starredList">" ستارو ڪيل"</string>
+<string name="frequentList">" اڪثر"</string>
+<string name="strequentList">"پسنديده"</string>
+<string name="viewContactTitle">" رابطي جا تفصيلات"</string>
+<string name="viewContactDesription">" رابطي کي ڏسو"</string>
+<string name="editContactDescription">" رابطي جي تدوين ڪريو"</string>
+<string name="insertContactDescription">" رابطو ٺاهيو"</string>
+<string name="editGroupDescription">" گروپ جي تدوين ڪريو"</string>
+<string name="insertGroupDescription">" گروپ ٺاهيو"</string>
+<string name="contactDetailAbout">" بابت"</string>
+<string name="contactDetailUpdates">" تجديدون"</string>
+<string name="searchHint">" رابطا ڳوليو"</string>
+<string name="menu_viewContact">" رابطي کي ڏسو"</string>
+<string name="menu_addStar">" پسنديده ۾ شامل ڪريو"</string>
+<string name="menu_removeStar">" پسنديده مان هٽايو"</string>
+<string name="menu_editContact">" تدوين ڪريو"</string>
+<string name="menu_deleteContact">" مٽايو"</string>
+<string name="menu_create_contact_shortcut">" هوم اسڪرين تي رکو"</string>
+<string name="menu_call">" رابطي تي ڪال ڪريو"</string>
+<string name="menu_sendSMS">" رابطي کي متن لکو"</string>
+<string name="menu_splitAggregate">" الڳ ڪريو"</string>
+<string name="menu_editGroup">" تدوين ڪريو"</string>
+<string name="menu_deleteGroup">" مٽايو"</string>
+<string name="menu_new_contact_action_bar">" رابطو شامل ڪريو"</string>
+<string name="menu_new_group_action_bar">" گروپ شامل ڪريو"</string>
+<string name="splitConfirmation_title">" ڇا رابطي کي الڳ ڪرڻ چاهيندا؟</string>
+<string name="splitConfirmation">" هي رابطو هڪ کان وڌيڪ رابطن ۾ الڳ ٿي ويندو"</string>
+<string name="menu_joinAggregate">" ملايو"</string>
+<string name="titleJoinContactDataWith">" رابطا ملايو"</string>
+<string name="blurbJoinContactDataWith">" رابطي جي چونڊ ڪريو:  جيڪو توهان <xliff:g id="name">%s</xliff:g> سان ملائڻ چاهيو ٿا."‏ </string>
+<string name="showAllContactsJoinItem">" سمورا رابطا ڏيکاريو"</string>
+<string name="separatorJoinAggregateSuggestions">" تجويز ڪيل رابطا"</string>
+<string name="separatorJoinAggregateAll">" سمورا رابطا"</string>
+<string name="contactsJoinedMessage">" ملايل رابطا"</string>
+<string name="menu_set_ring_tone">" سريلي گهنٽي مرتب ڪريو"</string>
+<string name="menu_redirect_calls_to_vm">" سموريو ڪالون آوازي ميل ڏانهن"</string>
+<string name="readOnlyContactWarning">" صرف پڙهي سگهجندڙ اڪائونٽن مان توهان رابطن کي مٽئي نه ٿا سگهو، پر توهان کين رابطا جي فهرستن مان لڪائي سگهو ٿا." </string>
+<string name="label_phone">" فون"</string>
+<string name="readOnlyContactDeleteConfirmation">" اهو رابطو ڪثير اڪائونٽن جي معلومات تي مشتمل آهي. صرف پڙهي سگهجندڙ اڪائونٽن مان معلومات توهان جي رابطن جي فهرستن ۾ لڪل رهندي نه ئي وري مٽجي ويندي.</string>
+<string name="multipleContactDeleteConfirmation">" هن رابطي کي مٽائڻ سان ڪثير اڪائونٽن جي معلومات مٽجي ويندي."</string>
+<string name="deleteConfirmation">"هن رابطي کي مٽائڻ ٿا چاهيو؟"</string>
+<string name="menu_discard">" رد ڪريو"</string>
+<string name="invalidContactMessage">" رابطو موجود ناهي."</string>
+<string name="createContactShortcutSuccessful">" رابطي جو تصويري اطلاق هوم اسڪرين تي شامل ٿي چڪو آهي."</string>
+<string name="pickerNewContactHeader">" نئون رابطو ٺاهيو"</string>
+<string name="pickerNewContactText">" نئون رابطو ٺاهيو"</string>
+<string-array name="otherLabels">
+<item>" تنظيم"</item>
+<item>" ياد رکو"</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">" ٽيبليٽ تي ڪي به تصويرون ميسر ناهن."</string>
+<string name="photoPickerNotFoundText" product="default">" فون تي ڪي به تصويرون ميسر ناهن."</string>
+<string name="attach_photo_dialog_title">" رابطي جو فوٽو"</string>
+<string name="customLabelPickerTitle">" ليبل جي نالي ۾ ردوبدل ڪريو"</string>
+<string name="send_to_voicemail_checkbox">" ڪالن کي سڌوسنئون آوازي ميل ۾ موڪليو"</string>
+<string name="removePhoto">" فوٽو هٽايو"</string>
+<string name="noContacts">" رابطا ڪونه آهن"</string>
+<string name="noGroups">" گروپ ڪونه آهن"</string>
+<string name="noAccounts">گروپ ٺاهڻ لاءِ توهان کي هڪ اڪائونٽ جي ضرورت پوندي."</string>
+<string name="emptyGroup">" هن گروپ ۾ ڪو به ماڻهو ڪونهي."</string>
+<string name="addPeopleToGroup">" ڪي شامل ڪرڻ لاءِ، گروپ جي تدوين ڪريو."</string>
+<string name="savingContact">" رابطو محفوظ ٿي رهيو آهي..."</string>
+<string name="contactSavedToast">. رابطو محفوظ ٿي ويو"</string>
+<string name="contactSavedErrorToast">" رابطي ۾ تبديليون محفوظ نه ٿي سگهيون."</string>
+<string name="groupSavedToast">" گروپ محفوظ ٿي ويو."</string>
+<string name="groupSavedErrorToast">" گروپ جون تبديليون محفوظ نه ٿي سگهيون."</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">" فون نمبر سان 1 رابطو آهي"</item>
+<item quantity="other">"  فون نمبر سان <xliff:g id="count">%d</xliff:g> رابطا آهن"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">" فون نمبر سان ڪي به رابطا ناهن"</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">" 1 رابطو"</item>
+<item quantity="other">" <xliff:g id="count">%d</xliff:g> رابطا"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">" 1 مليو"</item>
+<item quantity="other">" <xliff:g id="count">%d</xliff:g> مليا"</item>
+</plurals>
+<string name="listFoundAllContactsZero">" ڪي به رابطا ناهن"</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">" 1 مليو"</item>
+<item quantity="other">" <xliff:g id="count">%d</xliff:g> مليا"</item>
+</plurals>
+<string name="contactsAllLabel">" سمورا رابطا"</string>
+<string name="contactsGroupsLabel">" گروپ"</string>
+<string name="callBack">" واپسي ڪال ڪريو"</string>
+<string name="callAgain">" ٻيهر ڪال ڪريو"</string>
+<string name="returnCall">" ڪال موٽايو"</string>
+<string name="add_contact_dlg_message_fmt">"ڇا \"<xliff:g id="email">%s</xliff:g>\"" رابطن سان شامل ڪرڻ چاهيندا؟</string>
+<string name="description_contact_photo">" رابطي جو فوٽو"</string>
+<string name="description_plus_button">" واڌو"</string>
+<string name="exporting_contact_list_progress">" رابطن جي <xliff:g id="total_number">%s</xliff:g> مان<xliff:g id="current_number">%s</xliff:g> آهي"</string>
+<string name="search_settings_description">" توهان جي رابطن جا نالا"</string>
+<string name="quickcontact_missing_app">" هن عمل کي منهن ڏيڻ لاءِ ڪو به اطلاق نه مليو"</string>
+<string name="missing_app">" هن عمل کي منهن ڏيڻ لاءِ ڪو به اطلاق نه مليو"</string>
+<string name="menu_share">" شريڪ ڪريو"</string>
+<string name="share_via">" جي ذريعي رابطي جي شراڪت ڪريو"</string>
+<string name="dialog_new_group_account">" اڪائونٽ هيٺ گروپ ٺاهيو"</string>
+<string name="audio_chat">" آوازي ڳالهه ٻول"</string>
+<string name="video_chat">" ويڊيو تي ڳالهه ٻولهه"</string>
+<string name="connections">" سلسلا"</string>
+<string name="add_connection_button">" سلسلو شامل ڪريو"</string>
+<string name="recent">"هاڻوڪا"</string>
+<string name="recent_updates">" تازيون تجديدون"</string>
+<string name="account_type_format">" <xliff:g id="source" example="Gmail">%1$s</xliff:g> رابطو"</string>
+<string name="from_account_format">"<xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">"هن ڦوٽو کي استعمال ڪريو"</string>
+<string name="contact_read_only">" هن اطلاق مان قابلِ تدوين نه آهي"</string>
+<string name="no_contact_details">" هن رابطي جي لاءِ ڪا به وڌيڪ معلومات ڪانهي."</string>
+<string name="group_read_only">" هن ڊوائس تي تدوين جي قابل ناهي."</string>
+<string name="display_options_sort_list_by">"سان فهرست کي ڇانٽي ڪريو"</string>
+<string name="display_options_sort_by_given_name">" پهريون نالو"</string>
+<string name="display_options_sort_by_family_name">" آخري نالو"</string>
+<string name="display_options_view_names_as">"رابطن جي نالي کي طور ڏسو"</string>
+<string name="display_options_view_given_name_first">" پهريو نالو پهرين"</string>
+<string name="display_options_view_family_name_first">"آخري نالو پهرين"</string>
+<string name="take_photo">" فوٽو وٺو"</string>
+<string name="take_new_photo">" نئون فوٽو وٺو"</string>
+<string name="pick_photo">"گئلري مان فوٽن جي چونڊ ڪريو"</string>
+<string name="pick_new_photo">"نوان ڦوٽو گئلري مان چونڊيو"</string>
+<string name="locale_change_in_progress">" ٻولي جي تبديلي جي عڪاسي ڪرڻ لاءِ رابطن جي فهرست جي تجديد ٿي رهي آهي."</string>
+<string name="upgrade_in_progress">" رابطن جي فهرست جي تجديد ٿي رهي آهي."</string>
+<string name="upgrade_out_of_memory">" رابطن اعليٰ درجي ۾ وڃڻ لاءِ زيرِ عمل آهن. \n\n  اعليٰ درجي جو عمل اندازي موجب <xliff:g id="size_in_megabytes">%s</xliff:g> MB اندروني ذخيره گاه گهربل هوندي. \n\n هيٺين مان ڪنهن هڪ اختيار جي چونڊ ڪريو:"</string>
+<string name="upgrade_out_of_memory_uninstall">" ڪجهه اطلاقات مٽايو"</string>
+<string name="upgrade_out_of_memory_retry">" اپگريڊ لاءِ ٻيهر ڪوشش ڪريو"</string>
+<string name="search_results_searching">" ڳولا ٿي رهي آهي..."</string>
+<string name="menu_display_selected">" چونڊيل کي ڏيکاريو"</string>
+<string name="menu_display_all">" سمورا ڏيکاريو"</string>
+<string name="menu_select_all">" سمورا چونڊيو"</string>
+<string name="menu_select_none">" ڪال جي چونڊ کي منسوخ ڪريو"</string>
+<string name="add_field">"ڪا ٻي خالي جاءِ شامل ڪريو"</string>
+<string name="add_new_entry_for_section">" نئون شامل ڪريو"</string>
+<string name="add_organization">" تنظيم شامل ڪريو"</string>
+<string name="event_edit_field_hint_text">" تاريخ"</string>
+<string name="group_edit_field_hint_text">" گروپ جو نالو"</string>
+<string name="description_star">" پسنديده"</string>
+<string name="edit_contact">" رابطي جي تدوين ڪريو"</string>
+<plurals name="merge_info">
+<item quantity="one">" غير ضم شده"</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> وسيلن مان ضم شده"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">" هلندڙ رابطي کي چونڊيل رابطي سان ملاڻ ٿا چاهيو؟"</string>
+<string name="aggregation_suggestion_edit_dialog_message">" چونڊيل رابطي جي تدوين کي سوئچ ڪرڻ ٿا چاهيو؟ جيڪا معلومات هيستائين توهان داخل ڪئي آهي سا نقل ٿي ويندي."</string>
+<string name="menu_copyContact">" منهنجا رابطا تي نقل ڪريو"</string>
+<string name="add_to_my_contacts">" منهنجا رابطا ۾ شامل ڪريو"</string>
+<string name="contact_directory_description">"<xliff:g id="type" example="Corporate Directory">%1$s</xliff:g> ڊائريڪٽري"</string>
+<string name="toast_making_personal_copy">"ذاتي نقل تيار ٿي رهي آهي....."</string>
+<string name="list_filter_custom">" تبديل ڪريو"</string>
+<string name="activity_title_settings">" ترتيبون"</string>
+<string name="menu_settings">" ترتيبون"</string>
+<string name="menu_help">" مدد"</string>
+<string name="preference_displayOptions">" ظاهر ڪريو جا اختيارات"</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">" فون نمبر"</string>
+<string name="non_phone_add_to_contacts">" رابطن سان شامل ڪريو"</string>
+<string name="activity_title_confirm_add_detail">" رابطي ۾ شامل ڪريو"</string>
+<string name="non_phone_close">" بند ڪريو"</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">" سال ميسر ڪريو"</string>
+<string name="social_widget_label">" رابطو"</string>
+<string name="social_widget_loading">" لوڊ ٿي رهيو آهي..."</string>
+<string name="contacts_unavailable_create_contact">" نئون رابطو ٺاهيو"</string>
+<string name="contacts_unavailable_add_account">" ڪنهن اڪائونٽ ۾ سائن ان ٿيو"</string>
+<string name="contacts_unavailable_import_contacts">" رابطا درآمد ڪريو"</string>
+<string name="create_group_dialog_title">" نئون گروپ ٺاهيو"</string>
+<string name="create_group_item_label">" نئون گروپ ٺاهيو"</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">" 1 گروپ"</item>
+<item quantity="other">" <xliff:g id="count">%0$d</xliff:g> گروپ"</item>
+</plurals>
+<string name="delete_group_dialog_message">" "<xliff:g id="group_label" example="Friends">%1$s</xliff:g>"گروپ کي مٽائڻ ٿا چاهيو؟ ( رابطا پاڻمرادو ڪونه مٽبا.)"</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"<xliff:g id="account_type">%2$s</xliff:g>مان<xliff:g id="count">%1$d</xliff:g>فرد"</item>
+<item quantity="other">"<xliff:g id="account_type">%2$s</xliff:g>مان<xliff:g id="count">%1$d</xliff:g>ماڻهون"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">" <xliff:g id="count">%1$d</xliff:g> فرد"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> ماڻهون"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">" ڪنهن ٻئي سان ملائڻ کان پهرين رابطي جو نمبر ٽائپ ڪريو."</string>
+<string name="copy_text">" ڪلپ بورڊ تي نقل ڪريو"</string>
+<string name="set_default">" طئي شده ۾ مرتب ڪريو"</string>
+<string name="clear_default">" طئي شده ۾ مرتب صاف ڪريو"</string>
+<string name="toast_text_copied">" متن نقل ٿي ويو"</string>
+<string name="cancel_confirmation_dialog_message">"ڇا پنهنجن تبديلين رد ڪرڻ چاهيندا؟</string>
+<string name="call_type_and_date">"<xliff:g id="call_type" example="Friends">%1$s</xliff:g><xliff:g id="call_short_date" example="Friends">%2$s</xliff:g>"</string>
+<string name="profile_display_name">" منهنجو پروفائل مرتب ڪريو"</string>
+<string name="enter_contact_name">" فرد جو نالو ٽائپ ڪريو"</string>
+<string name="group_name_hint">" گروپ جو نالو"</string>
+<string name="local_profile_title">" منهنجو مڪاني پروفائل"</string>
+<string name="external_profile_title">"رابطو <xliff:g id="external_source">%1$s</xliff:g>"</string>
+<string name="toast_displaying_all_contacts">" سمورا رابطا نظر اچي رهيا آهن"</string>
+<string name="no_account_prompt">""Google اڪائونٽ سان ماڻهو بهتر ڪم ڪري ٿو. \n\n\u2022 ڪنهن به ويب برائوزر تان رسائي ڪريو.  \n\n\u2022  پنهنجا رابطا سلامتي سان بئڪ اپ ڪريو." "</string>
+<string name="generic_no_account_prompt">" چاهي توهان جو فون وڃائجي وڃي ته به پنهنجا رابطا سلامت رکو: ڪنهن آنلائين سروس سان سلهاڙيو."</string>
+<string name="generic_no_account_prompt_title">" ڪنهن اڪائونٽ کي شامل ڪريو"</string>
+<string name="contact_editor_prompt_zero_accounts">" توهان جو نئون رابطو بئڪ اپ نه ٿيندو. ڪو اڪائونٽ شامل ڪندئوجيڪو توهان جي رابطن کي بئڪ اپ ڪري؟"</string>
+<string name="contact_editor_prompt_one_account">" توهان جو نئون رابطو<xliff:g id="account_name">%1$s</xliff:g> سان سلهاڙجي ويندو."</string>
+<string name="contact_editor_prompt_multiple_accounts">" توهان پنهنجو نئون رابطو هيٺين مان ڪنهن به هڪ سان سلهاڙي سگهو ٿا. توهان ڪهڙو استعمال ڪرڻ گهرو ٿا؟"</string>
+<string name="keep_local">" مڪاني قائم رکو"</string>
+<string name="add_account">" اڪائونٽ شامل ڪريو"</string>
+<string name="add_new_account">" نئون اڪائونٽ شامل ڪريو"</string>
+<string name="menu_export_database">" ڊيٽابيس جي فائلن کي برآمد ڪريو"</string>
+<string name="contact_detail_picture_description">"ڦوٽو. تبديل ڪرڻ لاءِ چونڊ ڪريو"</string>
+<string name="no_fast_dial">"تڪڙي ڪال جو فون نمبر مرتب ڪونهي"</string>
+<string name="fast_dial_choose">"مهرباني ڪري تڪڙي ڪال جي قسم جي چونڊ ڪريو"</string>
+<string name="fast_call">" آوزي ڪال"</string>
+<string name="fast_vt_call">" ويڊيو ڪال،</string>
+<string name="wait">" مهرباني ڪري انتظار فرمائيندا..."</string>
+<string name="working">" ڪم ڪري رهيو آهي"</string>
+<string name="working_batch_delete">" بئچ مٽجي رهيو آهي"</string>
+<string name="working_batch_import">" بئچ درآمد ٿي رهيو آهي"</string>
+<string name="choose_sim_card">" SIM ڪارڊ چونڊيو"</string>
+<string name="violate_capacity">" SIM جي گنجائش جي انحرافي ڪريو"</string>
+<string name="import_failed">" رابطي درآمد/برآمد ڪرڻ ۾ ناڪامي ٿي وئي"</string>
+<string name="import_failed_tmp">" <xliff:g id="count">%d</xliff:g> ڪامياب ٿي وئي، <xliff:g id="count">%d</xliff:g> ناڪامي ٿي وئي"</string>
+<string name="import_done">" درآمد مڪمل ٿي وئي"</string>
+<string name="delete_done">" مٽائڻ مڪمل ٿي ويو"</string>
+<string name="toast_no_contact_selected">" ڪي رابطا نه چونڊيا ويا"</string>
+<string name="contactSavedErrorToastNameLength">" رابطي جو نالو محفوظ ڪرڻ لاءِ تمام ڊگهو آهي"</string>
+<string name="contactSavedErrorToastEmailLength">" ايميل جو نالو محفوظ ڪرڻ لاءِ تمام ڊگهو آهي"</string>
+<string name="contactSavedErrorToastEmailFull">" ايميل مڪمل ڀريل آهي"</string>
+<string name="contactSavedErrorToastSimEmailFull">" SIM ڪارڊ جي ايميل مڪمل ڀريل آهي"</string>
+<string name="contactSavedErrorToastUsimEmailFull">"USIM ڪارڊ جي ايميل مڪمل ڀريل آهي"</string>
+<string name="sim_is_full">" SIM مڪمل ڀريل آهي"</string>
+<string name="beyond_sim_card_capacity">" SIM ڪارڊ جي گنجائش کان مٿي ڪجهه رابطن جو محفوظ ٿيڻ ناڪام ٿي ويو"</string>
+<string name="menu_addToBlacklist">" بليڪ لسٽ ۾ شامل ڪريو"</string>
+<string name="menu_view_calls">" ڏسو"</string>
+<string name="item_all_calls">" سڄو ڪال لاگ"</string>
+<string name="item_sim1_calls">" SIM 1 ڪال لاگ"</string>
+<string name="item_sim2_calls">" SIM 2 ڪال لاگ"</string>
+<string name="res_name">" نالو"</string>
+<string name="res_phone">" فون"</string>
+<string name="res_email">" ايميل"</string>
+<string name="res_field">" فيلڊ"</string>
+<string name="alert_maybe_lost_info">" درآمدي يا برآمدي دوران ڪجهه معلومات وڃائجي سگهجي ٿي"</string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> تمام ڊگهو آهي"</string>
+<string name="select_group_member">"گروپ جي رڪنن جي چونڊ ڪريو"</string>
+<string name="email_format_fail">" مهرباني ڪري درست ايميل ايڊريس ان پٽ ڪندا!"</string>
+<string name="working_editing_group">" گروپ ۾ تبديلي ٿي رهي آهي"</string>
+<string name="editing_group_done">" گروپ جي ترميم مڪمل ٿي وئي"</string>
+<string name="editing_group_failed">" گروپ جي ترميم ناڪام ٿي وئي"</string>
+<string name="contacts_group_name_exist">" موجوده گروپ جو نالو"</string>
+<string name="menu_sendmms">" بلڪ ايس ايم ايس"</string>
+<string name="alert_delete_contact">" ڇا توهان کي خاطري آهي ته توهان چونڊيل رابطا مٽائڻ چاهيو ٿا؟"</string>
+<string name="select_all">" سمورا چونڊيو"</string>
+<string name="label_sim">" SIM ڪارڊ"</string>
+<string name="label_usim">" SIM ڪارڊ"</string>
+<string name="menu_batch_delete">" بئيچ کي مٽايو"</string>
+<string name="group_selection">" رابطي جي گروپ جي چونڊ"</string>
+<string name="cancel_batch_import_confirmation">" رابطي جي درآمد کي منسوخ ڪرڻ ٿا چاهيو؟"</string>
+<string name="cancel_batch_delete_confirmation">" رابطي جي مٽائڻ کي منسوخ ڪرڻ ٿا چاهيو؟</string>
+<string name="copy">"نقل ڪريو"</string>
+<string name="copy_to">" تي نقل ڪريو"</string>
+<string name="contactDeletedToast">" رابطو مٽجي ويو."</string>
+<string name="list_filter_all_in_one">" ڊيٽا جا سمورا رابطا"</string>
+<string name="listTotalEmailContactsZero">" ايميل ايڊريس سان ڪي به رابطا نه آهن"</string>
+<string name="list_filter_emails">" ايميل ايڊريس سان سمورا رابطا آهن"</string>
+<string name="listMaxContactsInAccount">"جاءِ: <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="reading_vcard_exception_title">" Vcard کي پڙهڻ/لکڻ جي ڊيٽا </string>
+<string name="sqlite_full">" رابطي جو ڊيٽابيس يا ڊسڪ مڪمل ڀريل آهي"</string>
+<string name="groupSavingToast">"گروپ جي معلومات بعد ۾ لاڳو ٿيندي."</string>
+<string name="batch_operation_canceled">" عمل منسوخ ٿي ويو"</string>
+<string name="no_sdcard_title">" SD ڪارڊ ڪونهي"</string>
+<string name="cancel_export_confirmation_title">" vCard برآمد منسوخ ٿي رهي آهي"</string>
+<string name="video_callNumber_by_sim2">" (SIM2) ويڊيو ڪال <xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="delete_calls_list">" چونڊيل ڪالن کي مٽايو"</string>
+<string name="video_menu_callNumber">" ويڊيو ڪال<xliff:g id="NAME">%s</xliff:g> "</string>
+<string name="searching_vcard_title">" vCard جي ڳولا ٿي رهي آهي"</string>
+<string name="menu_copyToPhone">" فون تي نقل ڪريو"</string>
+<string name="cancel_import_confirmation_title">" vCard درآمد منسوخ ٿي رهي آهي"</string>
+<string name="dialog_voicemail_not_ready_title">" آوازي ميل جو نمبر ميسر ناهي"</string>
+<string name="select_one">" گهٽ ۾ گهٽ هڪ آئٽم چونڊيو!"</string>
+<string name="delete_all_calls_confirm">" ڇا توهان سمورين ڪالن کي مٽائڻ ٿا چاهيو؟"</string>
+<string name="export_to_sim">"SIM ڪارڊ تي برآمد ڪريو"</string>
+<string name="scanning_sdcard_failed_title">" SD ڪارڊ کي اسڪين نه ڪري سگهيو"</string>
+<string name="aggregation_suggestion_join_dialog_title">" رابطا ملايو"</string>
+<string name="aggregation_suggestion_edit_dialog_title">" چونڊيل رابطن جي تدوين ڪريو"</string>
+<string name="delete_group_dialog_title">" گروپ کي مٽايو"</string>
+<string name="delete_all_calls">" سمورين ڪالن کي مٽايو"</string>
+<string name="video_callNumber_by_sim1">" (SIM1) ويڊيو ڪال <xliff:g id="NAME">%s</xliff:g>"</string>
+<string name="call_log_callNumber_by_sim">"ڪال ڪريو<xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>"</string>
+<string name="dialog_phone_call_prohibited_title">" ڪال ڪونه وئي"</string>
+<string name="search_bar_hint">" رابطا ڳوليو"</string>
+<string name="delete_success">" مٽائڻ ڪامياب ٿي ويو!"</string>
+<string name="deleteConfirmation_title">" رابطي کي مٽائيندئو؟"</string>
+<string name="delete_selected_calls">" ڇا توهان چونڊيل ڪالن کي مٽائڻ ٿا چاهيو؟"</string>
+<string name="delete_contact_all_calls">" ڇا توهان کي خاطري آهي ته توهان چونڊيل رابطن جي ڪال لاگ کي مٽائڻ چاهيو ٿا؟"</string>
+<string name="menu_copyToSim">" SIM تي نقل ڪريو"</string>
+<string name="menu_all_contacts">" سمورا رابطا"</string>
+<string name="please_input_group_name">" مهرباني ڪري گروپ جي نالي کي ان پٽ ڪريو"</string>
+<string name="cancel_confirmation_dialog_title">" تبديلين کي رد ڪريو"</string>
+<string name="delete_calls">" مٽايو"</string>
+<string name="add_contact_dlg_title">" رابطو شامل ڪريو"</string>
+<string name="app_name">" ڪال لاگ"</string>
+<string name="search_description">" ڪال لاگ ڳوليو"</string>
+<string name="search_hint">" ڪال لاگ ڳوليو"</string>
+<string name="lable_search">" ڳوليو"</string>
+<string name="menu_deleteFromBlacklist">" بليڪ لسٽ مان مٽايو"</string>
+<string name="success_addToBlacklist">" شامل ڪرڻ ڪامياب ٿي ويو"</string>
+<string name="failed_addToBlacklist">" شامل ڪرڻ ناڪام ٿي ويو"</string>
+<string name="success_removeFromBlacklist">" مٽائڻ ڪامياب ٿي ويو"</string>
+<string name="failed_removeFromBlacklist">" مٽائڻ ناڪام ٿي ويو"</string>
+<string name="menu_mmsGroup">" بلڪ ايس ايم ايس"</string>
+<string name="menu_emailGroup">" بلڪ ايميل"</string>
+<string name="noContactsInGroup">" هن گروپ ۾ ڪي به رابطا ڪونه آهن"</string>
+<string name="please_wait">" مهرباني ڪري انتظار فرمائيندا..."</string>
+<string name="noContactswithEmail">" هن گروپ ۾ ڪنهن به رابطي جي ايميل ناهي"</string>
+<string name="noContactwithEmail">" ڪنهن رابطي جي ايميل ناهي"</string>
+<string name="noContactwithPhoneAndEmail">" ڪنهن به رابطي جو فون يا ايميل ناهي"</string>
+<string name="select_card">" مهرباني ڪري ڪارڊ چونڊيو"</string>
+<string name="sim_absent">" غير حاضر آهي"</string>
+<string name="sdn_list">" SDN جي فهرست"</string>
+<string name="lnd_list">"LND جي فهرست"</string>
+<string name="sim_no_ready">" SIM ڪارڊ تيار ناهي"</string>
+<string name="sdn_please_insert_sim">"مهرباني ڪري SIM ڪارڊ داخل ڪندا."</string>
+<string name="sdn_sim_notready">" SIM جي معلومات جي شروعات ٿي رهي آهي، مهرباني ڪري بعد ۾ عمل ڪندا."</string>
+<string name="ip_dialer">" IP تي ڊائلنگ جي ترتيب"</string>
+<string name="call_ip">" IP ڪال"</string>
+<string name="no_group">" ڪنهن به گروپ جو رڪن ناهي"</string>
+<string name="select_group">" گروپ چونڊيو"</string>
+<string name="edit_photo">" فوٽو جي تدوين ڪريو"</string>
+<string name="select_all_contacts">" سمورا چونڊيو"</string>
+<string name="menu_save">" محفوظ ڪريو"</string>
+<string name="group_name_hint_overlay">" مهرباني ڪري گروپ جي نالي کي ان پٽ ڪريو"</string>
+<string name="select_group_member_overlay">" نمبر شامل ڪرڻ لاءِ ڪلڪ ڪريو"</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">" 1 رابطو ميل رکي ٿو"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> رابطا ميل رکن ٿا"</item>
+</plurals>
+<string name="no_match_contact">" ڪو به رابطو ميل نه ٿو رکي"</string>
+<string name="menu_newGroup">" نئون گروپ"</string>
+<string name="editGroup">" گروپ جي تدوين ڪريو"</string>
+<string name="menu_delete_group">" گروپ کي مٽايو"</string>
+<string name="contactsFavoritesLimit">"12 رابطن جي جمع بندي، جمعبندي جي حد کان مٿي آهي"</string>
+<string name="menu_add_favorite">" رابطن کي پسنديده ۾ شامل ڪريو"</string>
+<string name="create_new_contact">" نئون رابطو ٺاهيو"</string>
+<string name="send_mms">" پيغام موڪليو"</string>
+<string name="tab_more">"وڌيڪ اختيارات"</string>
+<string name="show_contacts">" رابطا ڏيکاريو"</string>
+<string name="fast_dial">" تڪڙو ڊائل ڪريو"</string>
+<string name="account">" اڪائونٽ"</string>
+<string name="import_export_contacts">" رابطا درآمد/برآمد ڪريو"</string>
+<string name="export_contacts">"رابطا برآمد ڪريو"</string>
+<string name="duplicate_phone_book">" نعم البدل فون بڪ"</string>
+<string name="dump_phone_book">" فون بڪ کي ڦِٽو ڪريو"</string>
+<string name="call_log_contacts_not_save">"اڻڄاتل"</string>
+<string name="call_log_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>) کي ڪال ڪريو"</string>
+<string name="video_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>) کي ويڊيو ڪال ڪريو"</string>
+<string name="ip_callNumber_by_sim_ex">"<xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>) کي IP ڪال ڪريو"</string>
+<string name="removeStarred">" ستارو بنيل کي مٽايو"</string>
+<string name="lookUpInfo">" معلومات کي ڏسو"</string>
+<string name="cancel">" رد ڪريو"</string>
+<string name="favorite_contacts">" پسنديده رابطا"</string>
+<string name="no_available_number">" ڪي به نمبر ميسر ناهن"</string>
+<string name="confirmCoverPhoneNumber">" ڇا توهان کي خاطري آهي ته توهان موجوده رابطي کي بدلي ڪرڻ ٿا چاهيو؟"</string>
+<string name="replaceSelected">" مهرباني ڪري جنهن کي بدلي ڪرڻو آهي جي چونڊ ڪريو"</string>
+<string name="over_phone_length_limit">" نمبر تمام ڊگهو آهي"</string>
+<string name="invalid_number">" غير موزون نمبر آهن."</string>
+<string name="no_vcard_found_in_internal_stor">" اندورني ذخيري ۾ ڪو به vCard ڪونهي."</string>
+<string name="item_sim_calls_ex">" SIM ڪال لاگ <xliff:g id="SIM">%s</xliff:g>"</string>
+<string name="menu_moveGroupMember">" گروپ جي رڪنن کي منتقل ڪريو"</string>
+<string name="moveGroupMemberDialogTitle">" ڏانهن رابطن کي منتقل ڪريو"</string>
+<string name="menu_deleteGroupMember">" گروپ جي رڪنن کي مٽايو"</string>
+<string name="overGroupNameLength">" گروپ جو نالو تمام ڊگهو آهي"</string>
+<string name="overGroupCountLimit">" گروپ جي ڳڻپ جي حد کان مٿي آهي"</string>
+<string name="menu_share_by_sms">" ايس ايم ايس/ايم ايم ايس جي ذريعي رابطا موڪليو"</string>
+<string name="toast_batchoperation_is_running">" بئچ جو عمل هلي رهيو آهي، مهرباني ڪري بعد ۾ ڪوشش ڪندا."</string>
+<string name="sdcard_storage_not_enough">" ذخيرو ڪافي ڪونهي"</string>
+<string name="noJoinContactDataWith">" رابطن کي ڪو به ضم نه ٿو ڪري سگهي"</string>
+<string name="not_select_vCard">"ڪنهن به vCard کي چونڊيو"</string>
+<string name="selected_is_not_image">" چونڊيل فائل تصوير نه آهي"</string>
+<string name="batch_delete_confim_title">" رابطو/رابطا مٽايو"</string>
+<string name="batch_delete_confim_message">" ڇا توهان کي خاطري آهي ته توهان چونڊيل رابطو/رابطا مٽائڻ ٿا چاهيو؟"</string>
+<string name="transaction_too_large">" چونڊيل رابطا جي سائز حد کان مٿي آهي، مهرباني ڪري ٿورا رابطا چونڊيندا"</string>
+<string name="contacts_selection_too_more">"چونڊيل رابطي وڌک ان وڌ  حد<xliff:g id="COUNT">%d</xliff:g> آهي"</string>
+<string name="recentCalls_empty">" ڪال لاگ خالي آهي."</string>
+<string name="menu_newContact">" نئون رابطو"</string>
+<string name="contact_list_loading">" لوڊ ٿي رهيو آهي..."</string>
+<string name="recentCallsIconLabel">" ڪال لاگ"</string>
+<string name="launcherDialer">" ڊائل ڪريو"</string>
+<string name="delete_group_dialog_commit">ڇا توهان چونڊيل گروپ مٽائڻ ٿا چاهيو؟"</string>
+<string name="noContactsWithPhoneNumbers">" فون نمبر سان ڪي به رابطا ناهن"</string>
+<string name="listTotalAllContactsZeroStarred">" پسنديده ڪو به ڪونهي."</string>
+<string name="contact_editor_prompt_multiple_accounts_short">رابطن کي تي محفوظ ڪريو"</string>
+<string name="working_batch_starred">" بئچ تي ستارو ٺهي رهيو آهي"</string>
+<string name="star_done">" ستارو بنجڻ مڪمل ٿي ويو"</string>
+<string name="cancel_batch_star_confirmation">" ستارو بنيل رابطي کي منسوخ ڪرڻ ٿا چاهيو؟"</string>
+<string name="upgrade_group_in_progress">" گروپ جي فهرست جي تجديد ٿي رهي آهي"</string>
+<string name="sim_capacity">" SIM جي گنجائش "</string>
+<string name="noSimCard">" ڪو به SIM ڪارڊ موجود ناهي"</string>
+<string name="clear">" صاف ڪريو"</string>
+<string name="cancel_select">"چونڊيل موقوف ڪريو"</string>
+<string name="default_feature_bar_center">" چونڊيو"</string>
+<string name="softkey_clear">" صاف ڪريو"</string>
+<string name="softkey_back">" واپس"</string>
+<string name="softkey_option">" اختيارات"</string>
+<string name="softkey_cancel">" رد ڪريو"</string>
+<string name="softkey_dial">" ڊائل ڪريو"</string>
+<string name="softkey_new">" نئون"</string>
+<string name="softkey_send">" موڪليو"</string>
+<string name="softkey_search">" ڳوليو"</string>
+<string name="no_account_to_edit">""سسٽم ۾ محفوظ ڪرڻ لاءِ ڪو به اڪائونٽ ڪونهي، ۽ اهو رابطن کي تيار نه ٿو ڪري سگهي.،"</string>
+<string name="only_other_number_type">"ڪنهن اڪيلي ٻئي نمبر کي محفوظ نه ٿو ڪري سگهي، مهرباني ڪيري کيس چڪاس ڪريو."</string>
+<string name="dup_phone_number_type">"ساڳي قسم جي نمبرن کي محفوظ نه ٿو ڪري سگهجي، مهرباني ڪري سندس چڪاس ڪريو."</string>
+</resources>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="people">"رابتءہ"</string>
+<string name="contactsList">"رابتءہ"</string>
+<string name="shortcutContact">رابتء</string>
+<string name="shortcutDialContact">ڈائریکٹ ڈائل</string>
+<string name="shortcutMessageContact">ڈائریکٹ میسیج</string>
+<string name="shortcutActivityTitle">چنو اكھ رابتء شٹكٹ</string>
+<string name="callShortcutActivityTitle">چنو اكھ نمبر کال کھتر</string>
+<string name="messageShortcutActivityTitle">چنو اكھ نمبر میسیج کھتر</string>
+<string name="contactPickerActivityTitle">چنو اكھ رابتء</string>
+<string name="starredList">تارک دینء آمت</string>
+<string name="frequentList">مسلسل</string>
+<string name="strequentList">پسنديد</string>
+<string name="viewContactTitle">رابتء تفصیل</string>
+<string name="viewContactDesription">وچھیو رابتء</string>
+<string name="editContactDescription">درستت کرییو رابتء</string>
+<string name="insertContactDescription">بنايو رابتء</string>
+<string name="editGroupDescription">درستت كريو گروپ</string>
+<string name="insertGroupDescription">بنايو گروپ</string>
+<string name="contactDetailAbout">متعلق</string>
+<string name="contactDetailUpdates">اپڈیٹس</string>
+<string name="searchHint">ژانڈن رابتء</string>
+<string name="menu_viewContact">وچھیو رابتء</string>
+<string name="menu_addStar">جوڈو پسنديدن منز</string>
+<string name="menu_removeStar">كڑيو نیبر پسنديدو منز</string>
+<string name="menu_editContact">درستت كرن</string>
+<string name="menu_deleteContact">"رد"</string>
+<string name="menu_create_contact_shortcut">تھاویو ہوم سكرينس پیٹھ</string>
+<string name="menu_call">کال رابتء</string>
+<string name="menu_sendSMS">ٹیکسٹ رابتء</string>
+<string name="menu_splitAggregate">الگ</string>
+<string name="menu_editGroup">درستت كرن</string>
+<string name="menu_deleteGroup">"رد"</string>
+<string name="menu_new_contact_action_bar">هرريو رابتء</string>
+<string name="menu_new_group_action_bar">جوڈو گروپ</string>
+<string name="splitConfirmation_title">الگ رابتء؟</string>
+<string name="splitConfirmation">یء رابتء يیيه الگ كرن مختلف رابتء منز.</string>
+<string name="menu_joinAggregate">رلو</string>
+<string name="titleJoinContactDataWith">رابتن سیتھ رالیو</string>
+<string name="blurbJoinContactDataWith">چنو رابتء يس توہی  يسان رلاوین <xliff:g id="name">%s</xliff:g>:"</string>
+<string name="showAllContactsJoinItem">هايو ساری رابتء</string>
+<string name="separatorJoinAggregateSuggestions">مشورہ ول رابتء</string>
+<string name="separatorJoinAggregateAll">ساری رابتء</string>
+<string name="contactsJoinedMessage">"رابتء رالايو"</string>
+<string name="menu_set_ring_tone">سیٹ كريو رنگ ٹونز</string>
+<string name="menu_redirect_calls_to_vm">ساری كلک آواز میل منز</string>
+<string name="readOnlyContactWarning">توہی ہیکیو نء خائریج كریتھ رابتء خالی پارئن والن اکاؤنٹن پیٹھ، مگر توہی ہیکیو تم چھوپئوتھ پننس فہرستس منز.</string>
+<string name="label_phone">"فون"</string>
+<string name="readOnlyContactDeleteConfirmation">یتھ ربتس منز چھ ذانكاري مختلف اکاونٹن ہنز. ذانكاري خالی پارئن ولی اکاونٹن يیي چھپاون تہندس رابتء فہرستس منز، خائریج گسنء  ن.</string>
+<string name="multipleContactDeleteConfirmation">یء اکاؤنٹ خائریج كرن سیتھ گاسء خائریج ذانكاري مختلف اکاونٹس ہنز.</string>
+<string name="deleteConfirmation">" ختم کریو یء رابطء؟"</string>
+<string name="menu_discard">واپس كر</string>
+<string name="invalidContactMessage">رابتء چھن لبن يوان.</string>
+<string name="createContactShortcutSuccessful">رابتء وڈجیٹ آو جوڈن ہوم سكرينس سیتھ.</string>
+<string name="pickerNewContactHeader">بنايو نوو رابتء</string>
+<string name="pickerNewContactText">بنايو نوو رابتء</string>
+<string-array name="otherLabels">
+<item>تنظیم</item>
+<item>نوٹ</item>
+</string-array>
+<string name="photoPickerNotFoundText" product="tablet">کہان تصویر چھنء دستياب ٹیبلیٹس منز.</string>
+<string name="photoPickerNotFoundText" product="default">کہان تصویر چھنء دستياب فونس منز.</string>
+<string name="attach_photo_dialog_title">رابتء تصویر</string>
+<string name="customLabelPickerTitle">پننء مرضیک لیبل ناو</string>
+<string name="send_to_voicemail_checkbox">سوزیو كالء سوديوی آواز میل منز</string>
+<string name="removePhoto">موكلايو تصویر</string>
+<string name="noContacts">رابتء چھنء.</string>
+<string name="noGroups">گروپ چھنء.</string>
+<string name="noAccounts">گروپ بناون کھتر چھ توہی اکاونٹک ضرورت.</string>
+<string name="emptyGroup">لوكھ چھنء یتھ گروپس منز.</string>
+<string name="addPeopleToGroup">کنہہ جوڑن کھتر، درست كريو گروپ.</string>
+<string name="savingContact">محفوظ کران رابتء ...</string>
+<string name="contactSavedToast">رابتء آو محفوظ كرن.</string>
+<string name="contactSavedErrorToast">ہکنء محفوظ كریتھ رابتء تبدیلی.</string>
+<string name="groupSavedToast">گروپ گو محفوظ</string>
+<string name="groupSavedErrorToast">گروپک بدلاو جھنء محفوظ سپدان</string>
+<plurals name="listTotalPhoneContacts">
+<item quantity="one">اکھ رابطء فون نمبرن سیتھ</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> رابتء کران فون نمبرس سیتھ"</item>
+</plurals>
+<string name="listTotalPhoneContactsZero">"کہان رابتء چھنء کی فون نمبرس سان"</string>
+<plurals name="listTotalAllContacts">
+<item quantity="one">1 رابتء</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> رابتء"</item>
+</plurals>
+<plurals name="listFoundAllContacts">
+<item quantity="one">1 لوب</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> لوب"</item>
+</plurals>
+<string name="listFoundAllContactsZero">کہان رابتء چھنء</string>
+<plurals name="searchFoundContacts">
+<item quantity="one">1 لوب</item>
+<item quantity="other"><xliff:g id="count">%d</xliff:g> لوب"</item>
+</plurals>
+<string name="contactsAllLabel">ساری رابتء</string>
+<string name="contactsGroupsLabel">گروپس</string>
+<string name="callBack">کال واپس</string>
+<string name="callAgain">کال دوباره</string>
+<string name="returnCall">واپس کیرن کال</string>
+<string name="add_contact_dlg_message_fmt">جوڈو \"<xliff:g id="email">%s</xliff:g>\"رابتء منز؟"</string>
+<string name="description_contact_photo">رابتء تصویر</string>
+<string name="description_plus_button">پلس</string>
+<string name="exporting_contact_list_progress">"<xliff:g id="current_number">%s</xliff:g> یمك  <xliff:g id="total_number">%s</xliff:g> رابتء"</string>
+<string name="search_settings_description">توہندء رابطن ہند ناو</string>
+<string name="quickcontact_missing_app">کہان اپلیکیشن آونء لبنء یء حرکت سمبھالنہ کھتر. "</string>
+<string name="missing_app">کہان اپلیکیشن آونء لبنء یء حرکت سمبھالنہ کھتر. "</string>
+<string name="menu_share">"پھلاییو"</string>
+<string name="share_via">پھلاییو رابتء یمء سیتھ</string>
+<string name="dialog_new_group_account">بنايو گروپ اکاؤنٹ کس ديرس منز</string>
+<string name="audio_chat">آواز ہند چیٹ</string>
+<string name="video_chat">شکلء ہند چیٹ</string>
+<string name="connections">کنکشن</string>
+<string name="add_connection_button">جوڈو کنکشن</string>
+<string name="recent">"تازء"</string>
+<string name="recent_updates">تازء اپڈیٹس</string>
+<string name="account_type_format">"<xliff:g id="source" example="Gmail">%1$s</xliff:g> رابتء"</string>
+<string name="from_account_format">"<xliff:g id="source" example="user@gmail.com">%1$s</xliff:g>"</string>
+<string name="use_photo_as_primary">" استعمال کریو یء فوٹو"</string>
+<string name="contact_read_only">یمء اپلیکیشن پیٹھ گاسنء درست.</string>
+<string name="no_contact_details">ك الاؤ ذانكاري چھنء یتھ ربتس کھتر.</string>
+<string name="group_read_only">یمء ال پیٹھ گاسنء درست.</string>
+<string name="display_options_sort_list_by">" سمبھالیو فہرست یم کن"</string>
+<string name="display_options_sort_by_given_name">"گوڈنک ناو"</string>
+<string name="display_options_sort_by_family_name">"آخری ناو"</string>
+<string name="display_options_view_names_as">" وچھیو رابطء ناو یتھ پایٹھ"</string>
+<string name="display_options_view_given_name_first">"گوڈنيك ناو گوڈ"</string>
+<string name="display_options_view_family_name_first">"آخری ناو گوڈ"</string>
+<string name="take_photo">تلیو تصویر</string>
+<string name="take_new_photo">تلیو نئی تصویر</string>
+<string name="pick_photo">گیلری، نگارخانہ دخول چنو تصویر</string>
+<string name="pick_new_photo">" چنیو نو فوٹو گیلری کن"</string>
+<string name="locale_change_in_progress">" رابطن ہند فہرست آو اپ ڈیٹ کرنء زبان منز بدلاو اننء کھتر۔"</string>
+<string name="upgrade_in_progress">رابتء فہرست چھ آپ ڈیٹ كرن يوان."</string>
+<string name="upgrade_out_of_memory">" رابطء ہند کام چھء اپ گریڈ گژھان۔ \n\nیء اپ گریڈچ کارواي چھء لگ بگ <xliff:g id="size_in_megabytes">%s</xliff:g>  MB اندیم جمع جاۓ ضرورت۔ \n\n چنیو یمو منز اکھ راۓ:"</string>
+<string name="upgrade_out_of_memory_uninstall">" ان انسٹال کریو کہنء اپلیکیشن"</string>
+<string name="upgrade_out_of_memory_retry">" دوبارء کوشش اپ گریڈ"</string>
+<string name="search_results_searching">ژانڈان۔۔۔</string>
+<string name="menu_display_selected">هايو چنمت</string>
+<string name="menu_display_all">هايو ساری</string>
+<string name="menu_select_all">"چنو ساری"</string>
+<string name="menu_select_none">ماء چنو تمام</string>
+<string name="add_field">" ہرایو بیاکھ فیلڈ"</string>
+<string name="add_new_entry_for_section">جوڈو نويو</string>
+<string name="add_organization">جوڈو تنظیم</string>
+<string name="event_edit_field_hint_text">تاریخ</string>
+<string name="group_edit_field_hint_text">گروپ ناو</string>
+<string name="description_star">پسنديد</string>
+<string name="edit_contact">درستت کرییو رابتء</string>
+<plurals name="merge_info">
+<item quantity="one">رلاون اینی</item>
+<item quantity="other">رلاون کیمء پیٹھ <xliff:g id="count">%0$d</xliff:g> اگر"</item>
+</plurals>
+<string name="aggregation_suggestion_join_dialog_message">جوڈیو موجود ربتس سیتھ چنمت رابتء سان؟</string>
+<string name="aggregation_suggestion_edit_dialog_message">ییل ترايو درست كرن چنمت رابتء؟ ذانكاري یس توہی ونيك تيان داخل کرییو يیي نقل كرنء.</string>
+<string name="menu_copyContact">نقل كريو مياین رایطء</string>
+<string name="add_to_my_contacts">جوڈیو ميانین رايبطن سیتھ</string>
+<string name="contact_directory_description">ڈائریکٹری <xliff:g id="type" example="Corporate Directory">%1$s</xliff:g>"</string>
+<string name="toast_making_personal_copy">" بناوان چھء مخصوص نقل۔۔۔"</string>
+<string name="list_filter_custom">"ریواج"</string>
+<string name="activity_title_settings">"ترتیبات"</string>
+<string name="menu_settings">"ترتیبات"</string>
+<string name="menu_help">مدد</string>
+<string name="preference_displayOptions">ڈسپلی متبادل</string>
+<string name="organization_company_and_title">"<xliff:g id="company" example="Technical Program Manager">%2$s</xliff:g>, <xliff:g id="company" example="Google Inc.">%1$s</xliff:g>"</string>
+<string name="non_phone_caption">فون نمبر</string>
+<string name="non_phone_add_to_contacts">جوڈو رايبطن منز</string>
+<string name="activity_title_confirm_add_detail">جوڈو اكھ رابتء</string>
+<string name="non_phone_close">بند</string>
+<string name="widget_name_and_phonetic">"<xliff:g id="display_name" example="John Huber">%1$s</xliff:g> (<xliff:g id="phonetic_name">%2$s</xliff:g>)"</string>
+<string name="date_year_toggle">دییو اكھ وہری</string>
+<string name="social_widget_label">رابتء</string>
+<string name="social_widget_loading">"لوڈ گسان"</string>
+<string name="contacts_unavailable_create_contact">بنايو اكھ نوو رابتء</string>
+<string name="contacts_unavailable_add_account">سائن ان اكس اكانٹس منز</string>
+<string name="contacts_unavailable_import_contacts">سوزیو رابتء</string>
+<string name="create_group_dialog_title">بنايو نوو گروپ</string>
+<string name="create_group_item_label">بنايو نوو گروپ</string>
+<plurals name="num_groups_in_account">
+<item quantity="one">1 گروپ</item>
+<item quantity="other">"<xliff:g id="count">%0$d</xliff:g> گروپس"</item>
+</plurals>
+<string name="delete_group_dialog_message">خائریج كريو یہ گروپ \"<xliff:g id="group_label" example="Friends">%1$s</xliff:g>\"؟ (رابتء ین پانۓ خائریج كرنء."</string>
+<plurals name="num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> نفر پیٹھ <xliff:g id="account_type">%2$s</xliff:g>"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> لوكھ پیٹھ <xliff:g id="account_type">%2$s</xliff:g>"</item>
+</plurals>
+<plurals name="group_list_num_contacts_in_group">
+<item quantity="one">"<xliff:g id="count">%1$d</xliff:g> نفر"</item>
+<item quantity="other">"<xliff:g id="count">%1$d</xliff:g> لوكھ"</item>
+</plurals>
+<string name="toast_join_with_empty_contact">لیکھیو رابتء ناو بییس سیتھ جڈن برونٹھ.</string>
+<string name="copy_text">کلپ بورڈ پیٹھ كريو نقل</string>
+<string name="set_default">سیٹ كريو ڈیفالٹ</string>
+<string name="clear_default">صاف ڈیفالٹ</string>
+<string name="toast_text_copied">ٹیکسٹ آو نقل كرن</string>
+<string name="cancel_confirmation_dialog_message">واپس كريو پنن تبدیلی؟</string>
+<string name="call_type_and_date">" <xliff:g id="call_type" example="Friends">%1$s</xliff:g> <xliff:g id="call_short_date" example="Friends">%2$s</xliff:g> "</string>
+<string name="profile_display_name">سیٹ كريو ميین پروفایل</string>
+<string name="enter_contact_name">لیکھیو نپھرهسند ناو</string>
+<string name="group_name_hint">گروپ ناو</string>
+<string name="local_profile_title">ميین عام پروفایل</string>
+<string name="external_profile_title">"<xliff:g id="external_source">%1$s</xliff:g> رابطء"</string>
+<string name="toast_displaying_all_contacts">هوان ساری رابتء</string>
+<string name="no_account_prompt">" لوکھ چھء بہتر پاٹھ کاءم کران Google خاطن پیٹھ۔ \n\n\u2022 چلایو کنتء ویب براوزر پیٹھ۔ \n\u2022 رابطء انیو واپس حفاظتء سان۔"</string>
+<string name="generic_no_account_prompt">تھاوو پانین رابتء محفوظ اگر توہی موبائل رايوه ت: سنکرونایزیشن کریو لائن كھادماتن سیتھ.</string>
+<string name="generic_no_account_prompt_title">"هرريو اكھ اکاؤنٹ"</string>
+<string name="contact_editor_prompt_zero_accounts">تہند نوو رابتء اون واپس اننه. جوڈو اكھ اکاؤنٹ يس واپس انني رابتء آن لائن؟</string>
+<string name="contact_editor_prompt_one_account">تہند بنیاد رابتء گسنء  سنکرونایزیشن یمء سیتھ <xliff:g id="account_name">%1$s</xliff:g>."</string>
+<string name="contact_editor_prompt_multiple_accounts">توہی ہیکءو سنکرونایزیشن كریتھ پانین نوو رابتء بنمي كنت اکاونٹس منز. كس اكھ چھو توہی استعمال يچھان كر؟</string>
+<string name="keep_local">تھاویو عام</string>
+<string name="add_account">"هرريو اکاؤنٹ"</string>
+<string name="add_new_account">جوڈو نوو اکاؤنٹ</string>
+<string name="menu_export_database">سوذیو ڈیٹا بیس فائلیں</string>
+<string name="contact_detail_picture_description">" شکلء۔ چنیو بدلاو کھتر"</string>
+<string name="no_fast_dial">" تیز کال کرنک فون نمبر آونء تھاونء"</string>
+<string name="fast_dial_choose">" مہربانی کریتھ چنیو تیز کال قسم"</string>
+<string name="fast_call">"آواز کال"</string>
+<string name="fast_vt_call">"ویڈیو کال"</string>
+<string name="wait">مهرباني كریتھ کرییو انتظار ...</string>
+<string name="working">کاءم کران تھی</string>
+<string name="working_batch_delete">بیچ خائریج گسان</string>
+<string name="working_batch_import">بیچ سوذان</string>
+<string name="choose_sim_card">چنو SIM کارڈ</string>
+<string name="violate_capacity">كھلاپھورذي SIM مايكدارس سیتھ</string>
+<string name="import_failed">سوزءین ت اننین رابتء گئی ناکاءم</string>
+<string name="import_failed_tmp"><xliff:g id="count">%d</xliff:g> کاءمیاب گو، <xliff:g id="count">%d</xliff:g> ناکاءم"</string>
+<string name="import_done">سوزءین مكمل</string>
+<string name="delete_done">خائریج مكمل</string>
+<string name="toast_no_contact_selected">ك رابتء چھن چنتھ</string>
+<string name="contactSavedErrorToastNameLength">رابتء ناو چھ واريه بورڈ آف ڈائریکٹرز محفوظ كرن کھتر</string>
+<string name="contactSavedErrorToastEmailLength">ای میل ناو چھ واريه بورڈ آف ڈائریکٹرز محفوظ كرن کھتر</string>
+<string name="contactSavedErrorToastEmailFull">ای میل چھی برتھ</string>
+<string name="contactSavedErrorToastSimEmailFull">SIM کارڈ میل چھی برتھ</string>
+<string name="contactSavedErrorToastUsimEmailFull">USIM کارڈ میل چھی برتھ</string>
+<string name="sim_is_full">SIM چھ برتھ</string>
+<string name="beyond_sim_card_capacity">"SMS کارڈ كوت نیبر، کنہہ رابتء ین ن محفوظ كرن"</string>
+<string name="menu_addToBlacklist">جوڈو بلیک لسٹ منز</string>
+<string name="menu_view_calls">"وچھیو"</string>
+<string name="item_all_calls">ساری کال لاگ</string>
+<string name="item_sim1_calls">Sim1 کال لاگ</string>
+<string name="item_sim2_calls">Sim2 کال لوگ</string>
+<string name="res_name">ناو</string>
+<string name="res_phone">"فون"</string>
+<string name="res_email">ای میل</string>
+<string name="res_field">فیلڈ</string>
+<string name="alert_maybe_lost_info">کنہہ ذانكاري موكليیي انناونس ت سوذنهس دوران</string>
+<string name="field_too_long">"<xliff:g id="field">%s</xliff:g> وارياه ذيوٹھ"</string>
+<string name="select_group_member">" چنیو گروپ نفری"</string>
+<string name="email_format_fail">مهرباني كریتھ لیکھیو درستت ای میل پتہ!</string>
+<string name="working_editing_group">بدلوان گروپ</string>
+<string name="editing_group_done">گروپ صحیح كرن گو مكمل</string>
+<string name="editing_group_failed">گروپ صحیح كرن گو ناکاءم</string>
+<string name="contacts_group_name_exist">موجود گروپ ناو</string>
+<string name="menu_sendmms">بلک SMS</string>
+<string name="alert_delete_contact">کیا توہی چھوا یقین ذ توہی کرییو خائریج چنمت رابتء؟</string>
+<string name="select_all">"چنو ساری"</string>
+<string name="label_sim">SIM کارڈ</string>
+<string name="label_usim">SIM کارڈ</string>
+<string name="menu_batch_delete">بیچ هٹاو</string>
+<string name="group_selection">رابتء گروپ پسند کیرن</string>
+<string name="cancel_batch_import_confirmation">خائریج رابتء سوزءی؟</string>
+<string name="cancel_batch_delete_confirmation">رد كريو رابتء خائریج کیرن؟</string>
+<string name="copy">"نقل"</string>
+<string name="copy_to">نقل یتھ</string>
+<string name="contactDeletedToast">رابتء گو خائریج.</string>
+<string name="list_filter_all_in_one">ساری رابتء ڈیٹا سیتھ</string>
+<string name="listTotalEmailContactsZero">ك رابتء چھن ای میل ایڈریس بغیر</string>
+<string name="list_filter_emails">ساری رابتء ای میل ایڈریس سان</string>
+<string name="listMaxContactsInAccount">جائی: <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="reading_vcard_exception_title">پرران / لیكھان وی کارڈ ڈیٹا بغیر</string>
+<string name="sqlite_full">رابتء ڈیٹا بیس یا ڈسک چھ برتھ</string>
+<string name="groupSavingToast">"گروپ ذانكاري يیي پت لاگو كرن."</string>
+<string name="batch_operation_canceled">آپریشن گو رد</string>
+<string name="no_sdcard_title">كه SD چھنء</string>
+<string name="cancel_export_confirmation_title">رد کران وی کارڈ ایکسپورٹ</string>
+<string name="video_callNumber_by_sim2">ویڈیو کال <xliff:g id="name">%s</xliff:g> (SIM2)"</string>
+<string name="delete_calls_list">خائریج كريو چنمچ کالس</string>
+<string name="video_menu_callNumber">ویڈیو کال <xliff:g id="name">%s</xliff:g>"</string>
+<string name="searching_vcard_title">چھڈان وی کارڈ کھتر</string>
+<string name="menu_copyToPhone">نقل كريو فونس منز</string>
+<string name="cancel_import_confirmation_title">رد کران وی کارڈ اننن</string>
+<string name="dialog_voicemail_not_ready_title">آواز میل نمبر چھنء دستياب</string>
+<string name="select_one">کم از کم اكھ ای چنو!</string>
+<string name="delete_all_calls_confirm">کیا توہی چھوا يسان خائریج كرن ساری كله؟</string>
+<string name="export_to_sim">" ترایو SIM کارڈن منز"</string>
+<string name="scanning_sdcard_failed_title">كرن اسکین SD کارڈ</string>
+<string name="aggregation_suggestion_join_dialog_title">رابتن سیتھ رالیو</string>
+<string name="aggregation_suggestion_edit_dialog_title">درستت كريو چنمت رابتء</string>
+<string name="delete_group_dialog_title">خائریج گروپ</string>
+<string name="delete_all_calls">ساری كله كريو خائریج</string>
+<string name="video_callNumber_by_sim1">ویڈیو کال <xliff:g id="name">%s</xliff:g> (SIM1)"</string>
+<string name="call_log_callNumber_by_sim">کال <xliff:g id="NAME">%s</xliff:g>（SIM<xliff:g id="PHONE_ID">%s</xliff:g>）"</string>
+<string name="dialog_phone_call_prohibited_title">کال يینه سوزنء</string>
+<string name="search_bar_hint">ژانڈن رابتء</string>
+<string name="delete_success">خائریج کاءمیاب!</string>
+<string name="deleteConfirmation_title">خائریج رابتء؟</string>
+<string name="delete_selected_calls">کیا توہی چھوا يسان چنمچ کال خائریج كرنیه؟</string>
+<string name="delete_contact_all_calls">کیا توہی چھوا یقین ذ رابتء کال لاگ خائریج كرنیه؟</string>
+<string name="menu_copyToSim">نقل کریو SIM منز</string>
+<string name="menu_all_contacts">ساری رابتء</string>
+<string name="please_input_group_name">مهرباني كریتھ لاگو گروپ ناو</string>
+<string name="cancel_confirmation_dialog_title">واپس كريو بدلاون</string>
+<string name="delete_calls">"رد"</string>
+<string name="add_contact_dlg_title">هرريو رابتء</string>
+<string name="app_name">کال لاگ</string>
+<string name="search_description">ژانڈیو کال لاگ</string>
+<string name="search_hint">ژانڈیو کال لاگ</string>
+<string name="lable_search">"ژانڈن"</string>
+<string name="menu_deleteFromBlacklist">بلیک لسٹ مذ هٹاون</string>
+<string name="success_addToBlacklist">"هرراون کامیاب"</string>
+<string name="failed_addToBlacklist">"بلیک فہرستس سیتھ جوڈن ناکاءم."</string>
+<string name="success_removeFromBlacklist">" ختم گو کامیابی سان"</string>
+<string name="failed_removeFromBlacklist">"هٹاون ناکام"</string>
+<string name="menu_mmsGroup">تھوک میسیج</string>
+<string name="menu_emailGroup">بلک ای میل</string>
+<string name="noContactsInGroup">ك رابتء چھن یتھ گروپس منز</string>
+<string name="please_wait">مهرباني كریتھ کرییو انتظار ...</string>
+<string name="noContactswithEmail">ك رابتءس چھنء ای میل یتھ گروپس منز</string>
+<string name="noContactwithEmail">ك رابتءس چھنء ای میل</string>
+<string name="noContactwithPhoneAndEmail">ك ربتس چھنء فون ت ای میل.</string>
+<string name="select_card">مهرباني كریتھ چنو کارڈ</string>
+<string name="sim_absent">چھ غیرهاذر</string>
+<string name="sdn_list">SDN فہرست</string>
+<string name="lnd_list">LND فہرست</string>
+<string name="sim_no_ready">SIM کارڈ چھن تيار.</string>
+<string name="sdn_please_insert_sim">مهرباني كریتھ لاگو SIM کارڈ.</string>
+<string name="sdn_sim_notready">انسٹال کران SIM ذانكاري، مهرباني كریتھ چلايو پت.</string>
+<string name="ip_dialer">IP ڈیلنگ ترتیبات</string>
+<string name="call_ip">IP کال</string>
+<string name="no_group">چھن ممبر كن گرپپك</string>
+<string name="select_group">چنو گروپ</string>
+<string name="edit_photo">درستت كريو تصویر</string>
+<string name="select_all_contacts">"چنو ساری"</string>
+<string name="menu_save">"محفوظ تھايو"</string>
+<string name="group_name_hint_overlay">مهرباني كریتھ لاگو گروپ ناو</string>
+<string name="select_group_member_overlay">زیر میمبیرس جوڈن کھتر</string>
+<plurals name="searchMatchContacts">
+<item quantity="one">" 1 رابطء رلیاو"</item>
+<item quantity="other">" <xliff:g id="COUNT">%d</xliff:g> رابطء رالیاۓ"</item>
+</plurals>
+<string name="no_match_contact">"رابتء چھنء رلان"</string>
+<string name="menu_newGroup">نوو گروپ</string>
+<string name="editGroup">درستت كريو گروپ</string>
+<string name="menu_delete_group">خائریج گروپ</string>
+<string name="contactsFavoritesLimit">" جمع گۓ 12 رابطء، جمع کرنکس حدس ذیادء"</string>
+<string name="menu_add_favorite">جوڈو رابتء پسديدن منز</string>
+<string name="create_new_contact">بنايو نوو رابتء</string>
+<string name="send_mms">سوزیو میسیج</string>
+<string name="tab_more">"واريه متبادل"</string>
+<string name="show_contacts">هايو رابتء</string>
+<string name="fast_dial">جلدی دل</string>
+<string name="account">اکاؤنٹ</string>
+<string name="import_export_contacts">اننین / نيین رابتء</string>
+<string name="export_contacts">" سوزیو رابطء"</string>
+<string name="duplicate_phone_book">جعلی فون كتان</string>
+<string name="dump_phone_book">ڈمپ كريو فون کتاب</string>
+<string name="call_log_contacts_not_save">"نامعلوم"</string>
+<string name="call_log_callNumber_by_sim_ex">" کال <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="video_callNumber_by_sim_ex">" ویڈیو کال <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="ip_callNumber_by_sim_ex">" IP کال <xliff:g id="NAME">%s</xliff:g> (<xliff:g id="SIM">%s</xliff:g>)"</string>
+<string name="removeStarred">موكلايو شروع كرن</string>
+<string name="lookUpInfo">وچھیو ذانكاري</string>
+<string name="cancel">"خائریج"</string>
+<string name="favorite_contacts">پسديد رابتء</string>
+<string name="no_available_number">ك نمبر چھن دستياب</string>
+<string name="confirmCoverPhoneNumber">کیا توہی چھوا یقین ذ توہی بدلايو موجود رابتء؟</string>
+<string name="replaceSelected">مهرباني كریتھ چنو ذ كس چھ بدلاون</string>
+<string name="over_phone_length_limit">نمبر چھ واريه بورڈ آف ڈائریکٹرز</string>
+<string name="invalid_number">غلط نمبرس.</string>
+<string name="no_vcard_found_in_internal_stor">ك vCard چھن اندریم اسٹوریج منز.</string>
+<string name="item_sim_calls_ex">SIM <xliff:g id="SIM">%s</xliff:g> کال لاگ"</string>
+<string name="menu_moveGroupMember">پكنايو گروپ میمبیرس</string>
+<string name="moveGroupMemberDialogTitle">پكنايو رابتء یتھ</string>
+<string name="menu_deleteGroupMember">خائریج کرییو گروپ میمبیرس</string>
+<string name="overGroupNameLength">گروپ ناو واريه بورڈ آف ڈائریکٹرز</string>
+<string name="overGroupCountLimit">گروپ گجری حد كھت ذیادء</string>
+<string name="menu_share_by_sms">" سوزیو رابطء ایس ایم ایس/ایم ایم ایس کن"</string>
+<string name="toast_batchoperation_is_running">بیچ آپریشن چھ چلان، مهرباني كریتھ کرییو پت دباره کوشش کریو.</string>
+<string name="sdcard_storage_not_enough">اسٹوریج چھنء وارياه!</string>
+<string name="noJoinContactDataWith">کہانء ہکنء رابتء رالاوتھ</string>
+<string name="not_select_vCard">چھن چنتھ ك vCard</string>
+<string name="selected_is_not_image">چنمچ فائل چھنء اكھ تصویر</string>
+<string name="batch_delete_confim_title">خائریج رابتء</string>
+<string name="batch_delete_confim_message">کیا توہی چھوا یقین ذ توہی کرییو خائریج پسديد رابتء؟</string>
+<string name="transaction_too_large">چنمتین رايبطن ہند سائیز چھ حد كھوت ذیادء، مهرباني كریتھ چنو کم كیسا</string>
+<string name="contacts_selection_too_more">چنٹیکسٹ رايبطن ہند نمبر چھ ذیادء كھوت ذیادء <xliff:g id="COUNT">%d</xliff:g>"</string>
+<string name="recentCalls_empty">کال لوگ چھ خالی.</string>
+<string name="menu_newContact">نوو رابتء</string>
+<string name="contact_list_loading">"لوڈ گسان"</string>
+<string name="recentCallsIconLabel">کال لاگ</string>
+<string name="launcherDialer">ڈائل</string>
+<string name="delete_group_dialog_commit">کیا توہی چھوا يسان خائریج كر پسديد گروپ؟</string>
+<string name="noContactsWithPhoneNumbers">کہان رابتء چھنء کی فون نمبرس سان</string>
+<string name="listTotalAllContactsZeroStarred">پسديد چھن.</string>
+<string name="contact_editor_prompt_multiple_accounts_short">جمع گسان رابتء کھتر</string>
+<string name="working_batch_starred">بیچ شروع گسان</string>
+<string name="star_done">سٹار مكمل</string>
+<string name="cancel_batch_star_confirmation">رد اسٹار رابتء؟</string>
+<string name="upgrade_group_in_progress">گروپ فہرست آو کوئی بھی اپ كرنء</string>
+<string name="sim_capacity">SIM كیپیسٹي</string>
+<string name="noSimCard">ك SIM کارڈ چھن دستياب</string>
+<string name="clear">"صاف"</string>
+<string name="cancel_select">"ماں چنو"</string>
+<string name="default_feature_bar_center">"چنو"</string>
+<string name="softkey_clear">"صاف"</string>
+<string name="softkey_back">"راہ"</string>
+<string name="softkey_option">متابدل</string>
+<string name="softkey_cancel">"خائریج"</string>
+<string name="softkey_dial">ڈائل</string>
+<string name="softkey_new">نوو</string>
+<string name="softkey_send">"سوذو"</string>
+<string name="softkey_search">"ژانڈن"</string>
+<string name="no_account_to_edit">" سسٹم چھنء کہان خاطء رابطء محفوظ تھاونء کھتر، تء یء ہکنء بناویتھ رابطء۔"</string>
+<string name="only_other_number_type">" ہیکنء محفوظ تھاویتھ صرف اکھ بدل نمبر، مہربانی کریتھ وچھیو یء۔"</string>
+<string name="dup_phone_number_type">اك كسمك نمبر كر ن محفوظ، مهرباني كریتھ وچھیو یء.</string>
+</resources>

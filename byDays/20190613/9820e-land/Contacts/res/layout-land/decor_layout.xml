@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:id="@+id/feature_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/feature_bar_height"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@android:color/white">
+        <!-- agenew:BUG #47555 modify by lizhenye 74px->78px 20190509 -->
+        <TextView
+            android:id="@+id/feature_bar_options"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:singleLine="true"
+            android:ellipsize="none"
+            android:maxWidth="78px"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:text="@string/default_feature_bar_options"
+            android:textSize="@dimen/feature_bar_size"
+            android:textColor="@android:color/black" />
+
+        <!-- agenew:BUG #47555 modify by lizhenye 74px->78px 20190509 -->
+        <TextView
+            android:id="@+id/feature_bar_back"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:singleLine="true"
+            android:ellipsize="none"
+            android:maxWidth="78px"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:text="@string/default_feature_bar_back"
+            android:textSize="@dimen/feature_bar_size"
+            android:textColor="@android:color/black" />
+
+        <!-- agenew:BUG #47555 modify by lizhenye 74px->78px 20190509 -->
+        <TextView
+            android:id="@+id/feature_bar_center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:singleLine="true"
+            android:ellipsize="none"
+            android:maxWidth="78px"
+            android:text="@string/default_feature_bar_center"
+            android:textSize="@dimen/feature_bar_size"
+            android:visibility="@integer/feature_bar_center_visible"
+            android:textColor="@android:color/black" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/feature_bar"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
