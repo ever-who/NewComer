@@ -1,0 +1,145 @@
+diff --git a/core/java/android/inputmethodservice/InputMethodService.java b/core/java/android/inputmethodservice/InputMethodService.java
+index 17fd2c1..f43dd75 100644
+--- a/core/java/android/inputmethodservice/InputMethodService.java
++++ b/core/java/android/inputmethodservice/InputMethodService.java
+@@ -220,7 +220,7 @@ import java.io.PrintWriter;
+  */
+ public class InputMethodService extends AbstractInputMethodService {
+     static final String TAG = "InputMethodService";
+-    static final boolean DEBUG = false;
++    static final boolean DEBUG = true;
+ 
+     /**
+      * The back button will close the input window.
+@@ -885,7 +885,8 @@ public class InputMethodService extends AbstractInputMethodService {
+      * is currently running in fullscreen mode.
+      */
+     public void updateFullscreenMode() {
+-        boolean isFullscreen = mShowInputRequested && onEvaluateFullscreenMode();
++        Log.d(TAG, "updateFullscreenMode: mShowInputRequested="+mShowInputRequested+",onEvaluateFullscreenMode()="+onEvaluateFullscreenMode()+"");
++        boolean isFullscreen = true;//mShowInputRequested && onEvaluateFullscreenMode();
+         boolean changed = mLastShowInputRequested != mShowInputRequested;
+         if (mIsFullscreen != isFullscreen || !mFullscreenApplied) {
+             changed = true;
+@@ -972,16 +973,19 @@ public class InputMethodService extends AbstractInputMethodService {
+      */
+     public boolean onEvaluateFullscreenMode() {
+         Configuration config = getResources().getConfiguration();
+-        if (config.orientation != Configuration.ORIENTATION_LANDSCAPE) {
+-            return false;
+-        }
+-        if (mInputEditorInfo != null
+-                && ((mInputEditorInfo.imeOptions & EditorInfo.IME_FLAG_NO_FULLSCREEN) != 0
+-                    /* SPRD: On NoExtractUi we still want mFullscreenArea visible to show candidate view*/
+-                    || (mInputEditorInfo.imeOptions & EditorInfo.IME_FLAG_NO_EXTRACT_UI) != 0)) {
+-            return false;
+-        }
++        Log.d(TAG, "onEvaluateFullscreenMode: config.orientation="+config.orientation);//mark
+         return true;
++//        if (config.orientation != Configuration.ORIENTATION_LANDSCAPE) {
++//            return false;
++//        }
++//        if (mInputEditorInfo != null
++//                && ((mInputEditorInfo.imeOptions & EditorInfo.IME_FLAG_NO_FULLSCREEN) != 0
++//                    /* SPRD: On NoExtractUi we still want mFullscreenArea visible to show candidate view*/
++//                    || (mInputEditorInfo.imeOptions & EditorInfo.IME_FLAG_NO_EXTRACT_UI) != 0)) {
++//            return false;
++//        }
++
++        //return true;
+     }
+ 
+     /**
+@@ -2299,7 +2303,7 @@ public class InputMethodService extends AbstractInputMethodService {
+                     }
+                 }
+                 eet.setInputType(inputType);
+-                eet.setHint(ei.hintText);
++                //eet.setHint(ei.hintText);//mark
+                 if (mExtractedText != null) {
+                     eet.setEnabled(true);
+                     eet.setExtractedText(mExtractedText);
+diff --git a/core/res/res/layout/input_method.xml b/core/res/res/layout/input_method.xml
+index 79f1ce8..a275a0e 100644
+--- a/core/res/res/layout/input_method.xml
++++ b/core/res/res/layout/input_method.xml
+@@ -34,8 +34,7 @@
+ 
+         <FrameLayout android:id="@android:id/extractArea"
+             android:layout_width="match_parent"
+-            android:layout_height="0px"
+-            android:layout_weight="1"
++            android:layout_height="150dp"
+             android:visibility="gone">
+         </FrameLayout>
+         
+diff --git a/core/res/res/layout/input_method_extract_view.xml b/core/res/res/layout/input_method_extract_view.xml
+index 269ff85..247c413 100644
+--- a/core/res/res/layout/input_method_extract_view.xml
++++ b/core/res/res/layout/input_method_extract_view.xml
+@@ -20,41 +20,42 @@
+ 
+ <android.inputmethodservice.ExtractEditLayout
+         xmlns:android="http://schemas.android.com/apk/res/android"
+-        android:orientation="horizontal">
+-        
+-    <android.inputmethodservice.ExtractEditText
+-            android:id="@+id/inputExtractEditText"
+-            android:layout_width="0px"
+-            android:layout_height="match_parent"
+-            android:layout_weight="1"
+-            android:scrollbars="vertical"
+-            android:gravity="top"
+-            android:minLines="1"
+-            android:inputType="text"
+-        >
+-    </android.inputmethodservice.ExtractEditText>
++        android:orientation="vertical">
+ 
+     <FrameLayout
+-            android:id="@+id/inputExtractAccessories"
+-            android:layout_width="wrap_content"
+-            android:layout_height="match_parent"
+-            android:paddingStart="8dip"
+-            android:paddingEnd="8dip"
+-        >
+-        
++        android:id="@+id/inputExtractAccessories"
++        android:layout_width="match_parent"
++        android:layout_height="wrap_content"
++        android:orientation="horizontal"
++        android:paddingStart="8dip"
++        android:paddingEnd="8dip"
++    >
++
+         <android.inputmethodservice.ExtractButton android:id="@+id/inputExtractAction"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+-            />
++        />
+         <android.inputmethodservice.ExtractButton android:id="@+id/inputExtractEditButton"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:text="@string/extract_edit_menu_button"
+             android:visibility="invisible"
+-            />
+-            
++        />
++
+     </FrameLayout>
++        
++    <android.inputmethodservice.ExtractEditText
++            android:id="@+id/inputExtractEditText"
++            android:layout_width="match_parent"
++            android:layout_height="match_parent"
++            android:scrollbars="vertical"
++            android:gravity="top"
++            android:inputType="text"
++        >
++    </android.inputmethodservice.ExtractEditText>
++
++
+     
+ </android.inputmethodservice.ExtractEditLayout>
