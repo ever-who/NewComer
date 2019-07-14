@@ -1,0 +1,2 @@
+1. 计算机管理 - 服务 - 打开VMware-DHCP service 和VMware-NAT service
+2. 虚拟机设置中 - 选择自定义 - 自定义VMware net 8

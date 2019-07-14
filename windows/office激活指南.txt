@@ -1,0 +1,6 @@
+目前已安装,路径:C:\Program Files\KMSpico\KMSELDI.exe，180天后选择红色按钮激活。
+
+[目前360开机启动中已取消两条KMS任务：1.KMS激活任务 2.KMS激活工具KMSpico。若届时无法完成激活，应尝试开启此两项服务。]
+
+(解压D:\小软件\【绿色版】图吧工具箱2.1.4.7z\图吧工具箱2.1.4\Tools\JIHUO\KMSpico 
+安装即可。)
