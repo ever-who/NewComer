@@ -1,0 +1,1 @@
+调出powershell	shift+右键
