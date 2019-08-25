@@ -1,1 +1,4 @@
 调出powershell	shift+右键
+
+.ssh 位置--- C:/user/.ssh 
+
