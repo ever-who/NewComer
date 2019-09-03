@@ -1,0 +1,64 @@
+
+如何将编译得到的内容同步到手机中
+    
+沈智旺 2019-06-27 创建,  访问量: 58
+关键词:
+
+我们编译出apk 之后，通过adb push 命令把apk，odex 等文件push 进去。但是有时候会发现，我们push 进去了，但是修改的内容没有起效，有部分的原因是因为我们没有push 对正确的文件。
+
+为了避免这样的情况发生，同时为了操作方便（不用一个一个push），我们可以利用adb sync 指令来操作。
+
+
+操作步骤：
+
+1,我们需要将手机解锁，这部分操作可以参考[FAQ21421] fastboot unlock 解锁注意事项
+
+a,打开“开发者选项”中的“OEM 解锁”
+
+b,通过指令adb reboot bootloader，进入fastboot 的方式，
+
+c,在fastboot 模式下输入fastboot flashing unlock
+
+d,根据提示按键（一般是音量上键）
+
+e,解锁成功后可以通过fastboot reboot 重启手机
+
+这时候我们就可以做disable-verity了，不然adb disable-verity 是会失败的。
+
+2,手机解锁之后我们需要将手机disable-verity
+
+adb root
+adb disable-verity
+adb reboot
+
+3,完成以上操作以后，我们就可以使用adb sync 了。
+
+首先指定环境变量，把ANDROID_PRODUCT_OUT 指定到你自己工程的目录
+
+export ANDROID_PRODUCT_OUT=./out/target/product/bird6739tv1_bsp_512/
+
+然后可以选择需要sync 哪部分内容，一般情况下sync system 和vendor 就可以满足我们了。
+
+我们可以把以下内容写成脚本，这样在模块编译完成后，就可以快速的把修改的内容同步到手机中
+adb root
+adb remount
+adb sync system
+adb sync vendor
+adb reboot
+
+adb sync 的好处是快速且不会遗漏。比如我们编译了framework 模块，如果用adb push，我们需要将文件一个一个push 进去，工作量大而且可能遗漏某些文件。
+
+adb sync 是差分同步，也就是只会同步工程和手机中有差异的文件，保证修改的文件肯定会被同步到手机中，同时也减轻了很多工作量。
+
+
+备注：某些项目，比如键盘机Q2801在第一步进入fastboot 的时候，会卡死。实际上这个项目不需要做unlock，直接可以remount 成功，成功之后就可以sync 了。
+
+这三步操作，前一步都是为了后一步准备。
+
+做第一步的原因是，disable-verity 失败，如果disable-verity 可以成功，那么不需要做第一步。
+
+同样，做第二步的原因是，remount 失败，如果remount 可以成功，那么也不需要第二部。
+
+所以各位同学在做的时候，可以先尝试下是否可以直接sync，不行的情况下，再回退步骤。
+
+
