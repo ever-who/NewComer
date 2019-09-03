@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="proximity_title">"近距离传感器校准"</string>
+    <string name="proximity_dlg_message">"请注意感应器20公分距离内不应有遮挡物，且避免阳光照射！"</string>
+    <string name="proximity_dlg_title">"校准提示"</string>   
+    <string name="proximity_success">校准成功.</string>    
+    <string name="proximity_fail">校准失败.</string>   
+    <string name="proximity_fail_busy">校准失败.设备忙</string>          
+    <string name="proximity_dlg_yes">"是"</string>
+    <string name="proximity_dlg_no">"否"</string>
+    <string name="gsensor_ok">确定</string>
+    <string name="gsensor_title">G-Sensor 校准</string>   
+    <string name="gsensor_calibration">校准</string>      
+    <string name="gsensor_hint1">请将电话放置在</string>
+    <string name="gsensor_hint2">平直表面上</string>
+    <string name="gsensor_hint3">正在校准...</string>
+    <string name="gsensor_hint4">请勿移动电话</string>    
+    <string name="gsensor_hint5">校准完成</string>
+    <!-- BIRD_TP_SMART_WAKE:wangfei 20131227 begin -->
+    <string name="smart_wake">"智能唤醒"</string>
+    <!-- BIRD_TP_SMART_WAKE:wangfei 20131227 end -->
+    <!-- show direct menu in accessibility,chengting,@20140918,modify by wangye 20161206 begin-->
+    <string name="smart_sensor">手势体感</string>
+    <!-- show direct menu in accessibility,chengting,@20140918,modify by wangye 20161206 end-->
+    <!-- add by kelinxi begin 20150320 -->
+    <string name="battery_percent">电量百分比</string>
+    <!-- add by kelinxi end 20150320 -->
+
+    <string name="memory_system">系统数据</string>
+    <string name="cooee_nf_str">本应用免费,是否试用?</string>
+
+    <string name="phone_total_memory_title">机身内存总量</string>
+    <string name="phone_system_memory_title">运行内存总量</string>
+    <string name="zzz_bird_cpu_model_title">CPU 型号</string>
+    <string name="zzz_bird_cpu_frequency_title">CPU 主频</string>
+    <string name="zzz_bird_cpu_core_title">CPU 核心</string>
+    <string name="zzz_bird_cpu_model_summary">MT6739</string>
+    <string name="zzz_bird_cpu_frequency_summary">四核__1.3GHz</string>
+    <string name="zzz_bird_cpu_model_Quad">四核</string>
+    <string name="zzz_bird_cpu_model_Octuple">八核</string>
+
+    <string name="bird_hardware_title">硬件参数</string>
+    <string name="bird_hardware_model_title">平台硬件芯片</string>
+    <string name="bird_hardware_model_summary">MT6739，8核</string>
+    <string name="bird_front_camera_title">前摄像头</string>
+    <string name="bird_back_camera_title">后摄像头</string>
+    <string name="bird_screen_resolution_title">分辨率</string>
+    <string name="bird_battery_capability_title">电池容量</string>
+
+    <string name="ali_phone_memory_used_summary"><xliff:g id="VALUE">%s</xliff:g> 已使用</string>
+    <!--update by liuzhiling 20160707 begin-->
+    <string name="zzz_common_settings">常用设置</string>
+    <string name="zzz_complete_settings">全部设置</string>
+    <string name="zzz_speech_settings">语音播报设置</string>
+    <!--update by liuzhilng 20160707 end -->
+    <string name="memory_used_size">已使用容量</string>
+
+    <string name="total_storage_title">手机总容量</string>
+    <string name="system_storage_title">系统空间</string>
+
+<!-- BIRD_MULTI_TOUCH, add start by shenzhiwang, 20151009 -->
+    <string name="bird_3p_touch_screenshot_title">三指截屏</string>
+    <string name="bird_3p_touch_screenshot_summary">三指同时上滑或者下滑，截取屏幕</string>
+<!-- BIRD_MULTI_TOUCH, add end by shenzhiwang, 20151009 -->
+
+    <!--BIRD_RENAME_ALI_EXPERIENCE add by qinzhifeng 20151225 begin-->
+    <string name="bird_aboutphone_user_experience_program">同意用户体验改进计划</string>
+    <!--BIRD_RENAME_ALI_EXPERIENCE add by qinzhifeng 20151225 end-->
+	<!-- add by caizhaohui for BIRD_SHARE_SDCARD_SHOW_INTERNAL_STORAGE 20160301 -->
+	<string name="bird_memory_internal_sdcard_usage">内部存储</string>
+	<!-- add by caizhaohui for BIRD_SHARE_SDCARD_SHOW_INTERNAL_STORAGE 20160301 -->
+	<!--add by lichengfeng for fix TASK #7676 Silent model call remainder @20160321 begin -->
+	<string name="silent_model_call_remainder_enable_title">"静音模式来电提醒"</string>
+	<string name="silent_model_call_remainder_enable_summary">"三分钟内同一号码第二次来电不会被静音"</string>
+	<!--add by lichengfeng for fix TASK #7676 Silent model call remainder @20160321 end -->
+
+    <!--BIRD_DOOV_BREATHLED task 7688 add by qinzhifeng 20160425 begin-->
+    <string name="bird_breath_led_time_title">呼吸灯仅提示15分钟</string>
+    <string name="bird_breath_led_time_summary">低电量/充电状态呼吸灯，不受该开关影响</string>
+    <!--BIRD_DOOV_BREATHLED task 7688 add by qinzhifeng 20160425 end-->
+    
+    <!--[BIRD] [BIRD_PRESS_FP_SUPPORT] lichengfeng @20160425 for fps1196 begin-->
+    <string name="bird_goodx_finger_title">指纹识别</string>
+    <!--[BIRD] [BIRD_PRESS_FP_SUPPORT] lichengfeng @20160425 for fps1196 end-->    
+	
+	<!--add by lichengfeng add microarray fingerprint sensor calibration @20160503 begin-->
+	<string name="bird_fingerprint_calibration_titile">指纹校准</string>
+	<string name="bird_fingerprint_reset_titile">重置指纹</string>
+	<string name="bird_fingerprint_reset_dialog_content">确定重置指纹？</string>
+	<string name="bird_fingerprint_calibration_dialog_attention">指纹校准中...\n请勿触摸指纹器!</string>
+	<string name="bird_fingerprint_reset_dialog_attention">重置指纹中...\n请勿触摸指纹器!</string>
+	
+	<string name="fingerprint_reset_succeeded">重置指纹成功!</string>
+	<string name="fingerprint_reset_failed">重置指纹失败!</string>
+	<!--add by lichengfeng add microarray fingerprint sensor calibration @20160503 end-->
+	<!--BIRD_POWER_SAVING add by ludaxu 20160618 begin-->
+    <string name="powersaving_settings">省电</string>
+    <string name="keywords_powersaving">"省电 电量"</string>
+
+    <string name="powersaving_wifi_title">Wifi</string>
+    <string name="powersaving_wifi_summary">省电时关闭Wifi</string>
+    <string name="powersaving_autobrightness_title">自动亮度</string>
+    <string name="powersaving_autobrightness_summary">省电时关闭自动亮度</string>
+    <string name="powersaving_bluetooth_title">蓝牙</string>
+    <string name="powersaving_bluetooth_summary">省电时关闭蓝牙</string>
+    <string name="powersaving_data_connection_title">数据连接</string>
+    <string name="powersaving_data_connection_summary">省电时关闭数据连接</string>
+    <string name="powersaving_gps_title">位置信息</string>
+    <string name="powersaving_gps_summary">省电时关闭位置信息</string>
+    <string name="powersaving_battery_saver_title">节电助手</string>
+    <string name="powersaving_battery_saver_summary">省电时打开节电助手，否则关闭</string>
+    <string name="power_saving_category">设置</string>
+    <!--BIRD_POWER_SAVING add by ludaxu 20160618 end-->
+    
+    <!-- BIRD_A200_CUSTOM add by qinzhifeng 20160415 begin -->
+    <string name="arrange_show_settings">查看方式</string>
+    <string name="arrange_show_grid">网格视图</string>
+    <string name="arrange_show_list">列表视图</string>
+    <!-- BIRD_A200_CUSTOM add by qinzhifeng 20160415 end -->
+	 <!--add by liuzhiling for Smartstay-->
+	     <string name="ic_settings_smart_stay">视频眼球控制</string>
+<!-- @{ BIRD_SYSTEM_SPACE, add by shenzhiwang, @20160707 -->
+    <string name="storage_detail_systemspace" >"系统空间"</string>
+<!-- @} -->
+    <!--sim toolkit add by meifangting 20150417 begin -->
+    <string name="sim_toolkit">SIM卡应用</string>
+    <!--sim toolkit add by meifangting 20150417 end -->
+    
+    <!-- bird add by liuzhenting 20160815 begin -->
+    <string name="phone_total_title">总容量</string>
+    <string name="new_storage_settings">存储</string>
+    <!-- bird add by liuzhenting 20160815 end -->
+    <string name="three_finger_printscreen_title">三指截屏</string>
+    <string name="three_finger_printscreen_summary">启动此功能后,您可以通过三个手指同时在屏幕划动获取当前屏幕截图</string>
+    <!-- bird:add for mistake touch mode feature,liuchaofei @20160928{ -->
+    <string name="mistake_touch_mode_setting">防误触屏幕</string>
+    <string name="mistake_touch_mode_setting_summary">防止手机在口袋中由于摩擦导致来电话等情况下误操作</string>
+    <!-- @} -->
+    <!-- bird:add for hardware version,xiongjian @20170106{ -->
+    <string name="hardware_vresion_title">硬件版本</string>
+    <!-- @} -->
+    <!-- BirdA:guoliangliang add for ctcc reg 20170509 begin -->
+    <string name="bird_ctcc_reg_show_hard">硬件版本号</string>
+    <!-- BirdA:guoliangliang add for ctcc reg 20170509 end -->
+
+    <!-- bird:BUG #29737,BUG #29676,battery reminder,gaolei @20170830 { -->
+    <string name="bird_quick_charge_reminder">您已进入快充模式，手机可能会有一些发热</string>
+    <string name="bird_charge_reminder_title">充电提醒</string>
+    <string name="bird_charge_notify_content">您已进入快充模式</string>
+    <string name="bird_reminder_ok">确定</string>
+    <string name="bird_battery_level_reminder">电量提醒</string>
+    <string name="bird_battery_level_low" msgid="6113121714019000244">"电量不足，仅剩<xliff:g id="percentage">%s</xliff:g>，请及时充电"</string>
+    <!-- @} -->
+    <!--@{ bird: For Fix Bug #31386, add by ShiCuiliang 20171026. -->
+    <string name="bird_battery_low_shutdown">电量不足，设备即将关机，请及时充电</string>
+	<!--@} -->
+    <!-- bird:BIRD_INNER_SW_VERSION,chengting,@20170904 { -->
+    <string name="bird_inner_version_title">内部版本</string>
+    <!-- @} -->
+<!-- BIRD_CUSTOM_ROAM_NEW, add by shenzhiwang, @20170703 { -->
+    <string name="roam_reboot">请重启手机!</string>
+    <string name="roam_select_error">请选择RAM和ROM!</string>
+    <string name="roam_model_error">请输入正确的产品型号!</string>
+    <string name="roam_model_chinese_error">不支持中文!</string>
+    <string name="roam_recovery">还原</string>
+    <string name="roam_item">存储:<xliff:g id="ROM">%1$s</xliff:g>,内存:<xliff:g id="RAM">%2$s</xliff:g></string>
+    <string name="roam_ok">确定</string>
+<!-- @} -->
+    <!-- bird: TASK #8278,chengting,@20180208 { -->
+    <string name="bird_brand_label">产品品牌</string>
+    <string name="bird_model_label">产品型号</string>
+    <!-- @} -->
+
+    <!--@ {bird: For fix bug #31546, add by ShiCuiliang 20171031. -->
+    <string name="bird_phone_brand_title">品牌</string>
+    <!--@ } -->
+    <!--@ {bird: For fix bug #33113, add by meifangting 20171221 begin. -->
+    <string name="bird_setcustom_model_note">产品机型已设置成 <xliff:g id="model">%s</xliff:g>.</string>
+    <!--@ } -->	
+    <!-- cmcc software version, bird add for CMCC, sunqi-->
+    <string name="cmcc_software_version">软件版本</string>
+    <!-- bird: TASK #8312,chengting @20190330,begin{ -->
+    <string name="bird_sos_title">紧急求助</string>
+    <!-- @} -->
+    <string name="bird_device_name">产品名称</string>
+    <!-- {bird: For fix bug#35922, add by shicuiliang@szba-mobile.com 18-4-4 . -->
+    <string name="bird_version_title">版本信息</string>
+    <string name="bird_version_extral_model">外部型号</string>
+    <string name="bird_version_soft_version">软件版本号</string>
+    <string name="bird_version_model">机型</string>
+    <!-- //@ } -->
+    <!-- keyboard: feature  support mouse controls in Settings.BEG-->
+    <string name="select_all">全选</string>
+    <string name="mouse_control_applications">鼠标模式控制</string>
+    <string name="mouse_control_exit">确保需要保存数据么？</string>
+    <string name="mouse_control_title">请选中需要打开鼠标手的应用</string>
+    <string name="cancle_select_all">"取消全选"</string>
+    <!-- keyboard: feature support mouse controls in Settings.END-->
+	
+	<string name="allow_user_installing">允许应用安装</string>
+	<string name="allow_user_installing_summary">允许用户安装应用APP</string>
+	
+	<string name="long_press_to_switch_lable">长按<xliff:g id="menu">%s</xliff:g>选项进行开关</string>
+
+    <!--@ {bird:add by fanglongxiang 20180912-->
+    <string name="key_light_close_time_title">关闭键盘灯</string>
+    <string name="key_light_close_time_summary">7:00-17:00</string>
+
+    <string name="key_light_fg_title">关闭键盘灯</string>
+    <string name="key_light_close_start_time">开始时间</string>
+    <string name="key_light_close_end_time">结束时间</string>
+    <!--@ }-->
+
+    <string name="voice_assistant_title">语音助手</string>
+    <string name="long_press_to_unmount_sd_lable">长按弹出或者装载SD卡</string>
+    <string name="ttstospeech_play_note">试听前请先关闭后台音乐</string>
+    <!--bug40813 add by wucheng 20170527 begin-->
+    <string name="ali_phone_identify_1">产品型号</string>
+    <!--bug40813 add by wucheng 20170527 end-->
+
+    <!-- add by BIRD@hujingcheng 20190830 custom boot logo and animation by secret code -->
+    <string name ="boot_logo">开机Logo</string>
+    <string name ="boot_switch">动画与Logo设置</string>
+    <string name ="boot_animation">开机动画</string>
+    <string name ="boot_animation_summary">动画 </string>
+    <string name ="boot_logo_summary">logo </string>
+    <string name ="saving">保存中 ... </string>
+    <string name ="save_success">保存成功</string>
+    <string name ="save_fail">保存失败</string>
+    <!-- add by BIRD@hujingcheng 20190830 custom boot logo and animation by secret code end -->
+</resources>

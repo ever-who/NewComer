@@ -1,0 +1,94 @@
+客制化动画，logo资源部分需要你补充完成。方法如下： 
+
+1.首先开宏： 
+   xxx.lk.mak :        BIRD_BOOT_SWITCH=yes
+   xxx.mak :           BIRD_BOOT_SWITCH=yes
+
+2. 开机logo资源：
+a. 请把需要使用的logo图片放到 vendor/mediatek/proprietary/bootable/bootloader/lk/dev/logo/$BOOT_LOGO 下面
+
+b. 请在vendor/mediatek/proprietary/bootable/bootloader/lk/dev/logo/update 添加以下语句用于把bmp转成raw
+diff --git a/dev/logo/update b/dev/logo/update
+index 039c243..1dc131d 100644
+--- a/dev/logo/update
++++ b/dev/logo/update
+@@ -44,6 +44,8 @@ p=$1
+ ./tool/bmp_to_raw ./temp36.raw ./$p/"${p}_bat_img".bmp
+ ./tool/bmp_to_raw ./temp37.raw ./$p/"${p}_bat_100".bmp
+ ./tool/bmp_to_raw ./boot_logo ./$p/"${p}_kernel".bmp
++./tool/bmp_to_raw ./boot_logo ./$p/"${p}_uboot2".bmp
++./tool/bmp_to_raw ./boot_logo ./$p/"${p}_kernel2".bmp
+ ./tool/zpipe -l 9 ./"${p}.raw" temp0.raw temp1.raw temp2.raw temp3.raw temp4.raw temp5.raw temp6.raw temp7.raw temp8.raw 
+
+c. 请在vendor/mediatek/proprietary/bootable/bootloader/lk/dev/logo/rules.mk 添加以下语句用于把raw资源编译进去
+   diff --git a/dev/logo/rules.mk b/dev/logo/rules.mk
+index 65feb4b..b1e71cd 100644
+--- a/dev/logo/rules.mk
++++ b/dev/logo/rules.mk
+@@ -217,6 +218,11 @@ endif
+ endif
+ 
++RESOURCE_OBJ_LIST += $(BOOT_LOGO_DIR)/$(BOOT_LOGO)/$(BOOT_LOGO)_kernel2.raw \
++       $(BOOT_LOGO_DIR)/$(BOOT_LOGO)/$(BOOT_LOGO)_uboot2.raw
++
++$(warning lk--logo RESOURCE_OBJ_LIST=$(RESOURCE_OBJ_LIST))
+
+请注意这里的资源编译加入的顺序就是之后我们将调用图片logo的 -  index顺序. 
+rules.mk 中原第一张图片为uboot_logo (index =0 ) (开机第一张logo) ， 最后一张为kernel_logo (index = 38) (开机第二张logo)
+例如我在这儿加的图片： 
+$(BOOT_LOGO_DIR)/$(BOOT_LOGO)/$(BOOT_LOGO)_kernel2.raw   ----  /dev/logo/cu_lte_qvga/cu_lte_qvga_kernel2.bmp （index =39）
+$(BOOT_LOGO_DIR)/$(BOOT_LOGO)/$(BOOT_LOGO)_uboot2.raw   ----  dev/logo/cu_lte_qvga/cu_lte_qvga_uboot2.bmp  (index = 40 )
+
+按照目前的代码写法，加入资源时请按照以下顺序：
+ RESOURCE_OBJ_LIST += \
+kernel2.raw \
+uboot2.raw \
+kernel3.raw \
+uboot3.raw \
+.....
+
+有需要修改按index获取方式的，请自行修改： 
+vendor/mediatek/proprietary/bootable/bootloader/lk/platform/mt6739/mt_logo.c           --  uboot_logo 
+vendor/mediatek/proprietary/external/libshowlogo/charging_animation.cpp                     --  kernel_logo  
+
+3. 开机动画
+请把额外的开机动画也copy到 system/media 下，方式及格式如下
++  PRODUCT_COPY_FILES += \
++    bird/logo/boot_animation/$(BIRD_BOOT_ANIMATION).zip:system/media/bootanimation_1.zip \
++    bird/logo/boot_animation/AD_prototype_QVGA_BOOT_ANI.zip:system/media/bootanimation_2.zip
+
+4. 增加选项列表
+在 vendor/mediatek/proprietary/packages/apps/MtkSettings/bird/res/values/arrays.xml 中按需添加
+    <string-array name="logo_name">
+       <item>logo-1</item>             ------   logo 1 :代表原开机logo, uboot-logo index= 0; kernel-logo index = 38
+        <item>logo-2</item>            ------   logo 2 :                          uboot-logo index= 40; kernel-logo index = 39
+        <item>logo-3</item>            ------   logo 3 :                          uboot-logo index= 42; kernel-logo index = 41
+   </string-array>
+    <string-array name="logo_value">      ---- value 请从0开始 顺序增加，步进1 。
+        <item>0</item>
+       <item>1</item>
+       <item>2</item>
+    </string-array>
+
+开机动画的配置也是一样， animation-1 是原动画。
+
+另 ： 添加了一个暗码方便呼出   *#5555#
+完成以上修改后，请合入以下修改点后测试验证。
+==================================================
+提交记录：   8121TO_Q2801_MV88Y_V05_QVGA_DEV分支
+
+vendor/mediatek/proprietary/packages/apps/MtkSettings
+commit 5c4f8210c60eae8b4c5200f23e2b8c50cf7f11de
+
+vendor/mediatek/proprietary/operator/frameworks/bootanimation
+commit af2bdca5b7c428ec5467b6f307aa602ad8736e45
+
+vendor/mediatek/proprietary/external/libshowlogo
+commit c08e813560d9a1aa6d0e213ce3a13380ed857f6e
+commit d02535d37094a6af7e649fca0c01230bda3c7b2e
+
+vendor/mediatek/proprietary/bootable/bootloader/lk
+commit 61488c2e91e4d64c106dcca318070a1d53412d63
+
+bird
+commit f78d2046875af0df3a784999925a2003bc7ace38

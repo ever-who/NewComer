@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="proximity_title">Proximity Sensor Calibration</string>
+    <string name="proximity_dlg_message">Please note that the sensor can not be blocked within 20 CM,and avoid direct sunlight!</string>
+    <string name="proximity_dlg_title">Calibration Tips</string>    
+    <string name="proximity_success">Calibration Succeed.</string>    
+    <string name="proximity_fail">Calibration Failed.</string>    
+    <string name="proximity_fail_busy">Calibration Failed.Proximity Sensor is busy.</string>  
+    <string name="proximity_dlg_yes">Yes</string>
+    <string name="proximity_dlg_no">No</string>
+    <string name="gsensor_ok">Ok</string>
+    <string name="gsensor_title">G-Sensor calibration</string>
+    <string name="gsensor_calibration">Calibration</string>
+    <string name="gsensor_hint1">Please place the phone</string>
+    <string name="gsensor_hint2">on a level surface</string>
+    <string name="gsensor_hint3">Calibrating...</string>
+    <string name="gsensor_hint4">Do not move the phone</string> 
+    <string name="gsensor_hint5">Calibration complete</string>
+    <string name="cooee_nf_str">Free software, use it?</string>
+    <string name="installing">Install...</string>
+    <string name="install_complete">App installed.</string>
+    <string name="install_open">Open</string>
+    <string name="done">Done</string>
+    <!-- BIRD_TP_SMART_WAKE:wangfei 20131227 begin -->
+    <string name="smart_wake">Smart wake</string>
+    <!-- BIRD_TP_SMART_WAKE:wangfei 20131227 end -->
+	<string name="smart_sensor">Direct</string>
+<!-- [103061], add start by shenzhiwang, 20140603 -->
+    <string name="phone_total_memory_title">Phone Total Memory</string>
+    <string name="phone_system_memory_title">Phone System Memory</string>
+    <string name="phone_system_memory_summary">2GB</string>
+
+    <string name="zzz_bird_cpu_model_title">CPU Model</string>
+    <string name="zzz_bird_cpu_frequency_title">CPU Frequency</string>
+    <string name="zzz_bird_cpu_core_title">CPU Core</string>
+    <string name="zzz_bird_cpu_model_summary">MT6739</string>
+    <string name="zzz_bird_cpu_frequency_summary">"Quad core__1.3GHz"</string>
+    <string name="zzz_bird_cpu_model_Quad">Quad Core</string>
+    <string name="zzz_bird_cpu_model_Octuple">Octuple Core</string>
+    <string name="filter_GB">GB</string>
+    <string name="filter_GHz">GHz</string>
+<!-- [103061], add end by shenzhiwang, 20140603 -->
+<!--bird BIRD_HARDWARE-->
+    <string name="bird_hardware_title">Hardware</string>
+    <string name="bird_rom_summary">16G</string>
+    <string name="bird_ram_summary">2G</string>
+    <string name="bird_cpu_frequency_summary">2.0GHZ</string>
+    <string name="bird_hardware_model_title">Hardware Model</string>
+    <string name="bird_hardware_model_summary">MT6739,Octuple Core</string>
+    <string name="bird_front_camera_title">Front Camera</string>
+    <string name="bird_front_camera_summary">500W</string>
+    <string name="bird_back_camera_title">Back Camera</string>
+    <string name="bird_back_camera_summary">1300W</string>
+    <string name="bird_screen_resolution_title">Screen Resolution</string>
+    <string name="bird_screen_resolution_summary">720*1280</string>
+    <string name="bird_battery_capability_title">Battery Capability</string>
+    <string name="bird_battery_capability_summary">2700mAh</string>
+<!--bird BIRD_HARDWARE-->
+    
+     <!--BIRD_POWER_SAVING add by ludaxu 20160618 begin-->
+    <string name="powersaving_settings">Power Saving</string>
+    <string name="keywords_powersaving">power saving battery</string>
+
+    <string name="powersaving_wifi_title">Wifi</string>
+    <string name="powersaving_wifi_summary">Close Wifi When Power Saving</string>
+    <string name="powersaving_autobrightness_title">Auto Brightness</string>
+    <string name="powersaving_autobrightness_summary">Close Auto Brightness When Power Saving</string>
+    <string name="powersaving_bluetooth_title">Bluetooth</string>
+    <string name="powersaving_bluetooth_summary">Close Bluetooth When Power Saving</string>
+    <string name="powersaving_data_connection_title">Data Connection</string>
+    <string name="powersaving_data_connection_summary">Close Data Connection When Power Saving</string>
+    <string name="powersaving_gps_title">Location</string>
+    <string name="powersaving_gps_summary">Close Location When Power Saving</string>
+    <string name="powersaving_battery_saver_title">Battery Saver</string>
+    <string name="powersaving_battery_saver_summary">Open Battery Saver When Power Saving,otherwise close</string>
+    <string name="power_saving_category">Setting</string>
+    <!--BIRD_POWER_SAVING add by ludaxu 20160618 end-->
+    
+    <!-- BIRD_A200_CUSTOM add by qinzhifeng 20160415 begin -->
+    <string name="arrange_show_settings">Arrange show</string>
+	<!-- add by liuzhiling 20160707 begin -->
+    <string name="zzz_common_settings">Quick setting</string>
+    <string name="zzz_complete_settings">General setting</string>
+    <string name="zzz_speech_settings">Speech Settings</string>
+    <string name="gemini_sim_management_title">SIM management</string>
+    <!-- add by liuzhiling 20160707 end -->
+    <string name="arrange_show_grid">Grid view</string>
+    <string name="arrange_show_list">List view</string>
+    <!-- BIRD_A200_CUSTOM add by qinzhifeng 20160415 end -->
+    
+<!-- @ { bird, imei by adb, add by shenzhiwang @20160705 -->
+    <string name="imei_invalid">Invalid</string>
+<!-- @ } -->
+
+<!-- @{ BIRD_SYSTEM_SPACE, add by shenzhiwang, @20160707 -->
+    <string name="storage_detail_systemspace">System Space</string>
+    <string name="storage_detail_total_size">0 GB</string>
+    <string name="storage_detail_system_size">2.00 GB</string>
+        <!--add by liuzhiling for Smartstay-->
+	<string name="ic_settings_smart_stay">Smart Stay</string>
+<!-- @} -->
+    <!--sim toolkit add by meifangting 20150417 begin -->
+    <string name="sim_toolkit">SIM Toolkit</string>
+    <!--sim toolkit add by meifangting 20150417 end -->
+    
+    <!-- bird add by liuzhenting 20160815 begin -->
+    <string name="phone_total_title">Phone</string>
+    <string name="phone_total_memory_summary">16GB</string>
+    <string name="new_storage_settings">Storage</string>
+    <!-- bird add by liuzhenting 20160815 end -->
+    
+    <string name="three_finger_printscreen_title">Three fingers Screenshot</string>
+    <string name="three_finger_printscreen_summary">When this feature is turned on,you can slide three fingers on the screen at the same time to capture the current screen picture.</string>
+    <!--bird:add for mistake touch mode feature,liuchaofei @20160928{ -->
+    <string name="mistake_touch_mode_setting">Mistake touch mode setting</string>
+    <string name="mistake_touch_mode_setting_summary">Prevent faulty operation when phone is in pocket</string>
+    <!--@} -->
+
+    <!--bird:TASK #7770,Emergency Resuce,gaolei,@20161122{ -->
+    <string name="emergency_rescue">Emergency rescue</string>
+   
+   <string name = "emergecy_title">When you are in an Emergency,emergency rescue helps you by sending your emergency contacts a message along with your location.</string>
+    <string name = "emergecy_summary">To use emergency rescue during an emergency ,pls press and hold the volume up and down keys for 3 seconds</string>     
+
+    <string name = "emergency_rescue_summary">Open/Close emergency rescue</string>     
+    <string-array name="emergency_list_preference"> 
+        <item>On</item> 
+        <item>Off</item> 
+    </string-array>   
+    <string-array name="emergency_list_values"> 
+        <item>1</item> 
+        <item>0</item> 
+    </string-array>     
+
+    <string name = "edit_emergency_messsage">Edit emergency message</string>  
+
+    <string name = "emergecy_interval">Message interval</string>
+    <string-array name="emergecy_interval_list"> 
+        <item>Once</item> 
+        <item>Every 10 minutes</item>
+        <item>Every 20 minutes</item> 
+    </string-array> 
+    <string-array name = "emergecy_interval_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string name = "interval_note">Select how often you want your emergency message to be sent. Sending these messages may result in additional charges.</string>
+
+    <string name = "emergecy_contacts">Emergency contacts</string>
+
+    <string name = "edit_message_sure">Sure</string>
+    <string name = "edit_message_cancel">Cancel</string>
+    <string name = "add_contact">add contact</string>
+    <string name = "from_contacts">add from contacts</string>
+    <string name = "input_directry">input directly</string>	
+
+    <string name = "input_sure">Sure</string>
+    <string name = "input_quit">Quit</string>
+    <string name ="unkown_contact">unkown contact</string>
+
+    <string name = "contact_size">(%1$d/4)</string>
+    <string name = "defautl_message">I am in an emergency,please contact with me.</string>
+    <string name = "saved_success">Saved Success!</string>
+    <string name = "message_for_gps">GPS is not turned on</string>
+    <!-- @} -->
+    <!--bird:regulary clean memory,liuchaofei,@20161205{-->
+    <string name="clean_memory_regulary_title">Auto Reboot</string>
+    <string name="clean_memory_regulary_summary">"To improve your device performance, it will reboot in 15 seconds. This will happen every day between 2 A.M. ~ 5 A.M.."</string>
+    <!--@}-->
+    <!-- bird:add for hardware version,xiongjian @20170106{ -->
+    <string name="hardware_vresion_title">Hardware version</string>
+    <!--@} -->
+    <!-- BirdA:guoliangliang add for ctcc reg 20170509 begin -->
+    <string name="bird_ctcc_reg_show_hard">Hardware version</string>
+    <!-- BirdA:guoliangliang add for ctcc reg 20170509 end -->
+
+    <!-- bird:BUG #29737,BUG #29676,battery reminder,gaolei @20170830 { -->
+    <string name="bird_quick_charge_reminder">You have entered the fast charging mode, and the phone may have some fever.</string>
+    <string name="bird_charge_reminder_title">Charge reminder</string>
+    <string name="bird_charge_notify_content">You have entered the fast charging mode</string>
+    <string name="bird_reminder_ok">OK</string>
+    <string name="bird_battery_level_reminder">Battery reminder</string>
+    <string name="bird_battery_level_low" msgid="6113121714019000244">"Insufficient power, only left<xliff:g id="percentage">%s</xliff:g>, please charge in time"</string>
+    <!-- @} -->
+    <!--@{ bird: For Fix Bug #31386, add by ShiCuiliang 20171026. -->
+    <string name="bird_battery_low_shutdown">Lack of electricity, the device is about to shut down, please charge in time</string>
+    <!--@} -->
+    <!-- bird:BIRD_INNER_SW_VERSION,chengting,@20170904 { -->
+    <string name="bird_inner_version_title">Inner version</string>
+    <!-- @} -->
+<!-- BIRD_CUSTOM_ROAM_NEW, add by shenzhiwang, @20170703 { -->
+    <string name="roam_reboot">Please reboot it!</string>
+    <string name="roam_model_error">Please input correct model!</string>
+    <string name="roam_model_chinese_error">No chinese allowed!</string>
+    <string name="roam_select_error">Please select rom and ram!</string>
+    <string name="roam_recovery">Recovery</string>
+    <string name="roam_item">ROM:<xliff:g id="ROM">%1$s</xliff:g>,RAM:<xliff:g id="RAM">%2$s</xliff:g></string>
+    <string name="roam_ok">OK</string>
+<!-- @} -->
+    <!-- bird: TASK #8278,chengting,@20180208 { -->
+    <string name="bird_brand_label">brand</string>
+    <string name="bird_model_label">model</string>
+    <!-- @} -->
+
+    <!--@ {bird: For fix bug #31546, add by ShiCuiliang 20171031. -->
+    <string name="bird_phone_brand_title">Brand</string>
+    <!--@ } -->
+    <!--@ {bird: For fix bug #33113, add by meifangting 20171221 begin. -->
+    <string name="bird_setcustom_model_note">The model has been changed to <xliff:g id="percentage">%s</xliff:g></string>
+    <!--@ } -->
+   <!-- bird: SIM lock, peibaosheng @20170313 begin -->
+    <string name="sim_confirm">确定</string>
+    <string name="sim_hint">请输入卡%1$d号码</string>
+    <string name="sim_info">用户须知：\n本手机为享受%1$s移动优惠补贴的专属手机，仅限%1$s移动用户使用。</string>
+    <string name="sim_ok">已检测到卡%1$d</string>
+    <string name="sim_start">正在验证卡%1$d...</string>
+    <string name="sim_lack">您输入的卡%1$d号码不全，\n请补全号码</string>
+    <string name="sim_failed_1">您输入的号码非%1$s移动号码，\n无法使用卡%2$d</string>
+    <string name="sim_failed_2">您输入的号码与卡%1$d号码不符，\n无法使用卡%1$d</string>
+    <string name="sim_successful">卡%1$d验证成功</string>
+    <string name="sim_retry">卡%1$d验证失败，请重试</string>
+    <string name="sim_failed_title">验证失败</string>
+    <string name="sim_failed_message">10秒钟后将自动关机，请换卡</string>
+    <string name="sim_failed_positive_button">立即关机</string>
+    <string name="binzhou">滨州</string>
+    <string name="dongying">东营</string>
+    <string name="linyi">临沂</string>
+    <string name="weifang">潍坊</string>
+    <string name="weihai">威海</string>
+    <string name="yantai">烟台</string>
+    <string name="zibo">淄博</string>
+    <string name="neimenggu">内蒙古</string>
+    <string name="hunan">湖南</string>
+    <string name="nanchong">南充</string>
+    <string name="luzhou">泸州</string>
+    <string name="guangyuan">广元</string>
+    <string name="imsi_confirm">解锁SIM卡</string>
+    <string name="imsi_title">解锁成功</string>
+    <string name="imsi_message">10秒钟后将自动重启，请稍候</string>
+    <string name="imsi_positive_button">立即重启</string>
+    <string name="notification_title">无法使用卡%1$d</string>
+    <string name="notification_message">卡%1$d不是%2$s移动号码</string>
+    <!-- bird: end -->
+    <!-- {bird: For fix bug#35399, add by shicuiliang@szba-mobile.com 2018/3/27 . -->
+    <string name="select_sim_for_primary">Select default sim card</string>
+    <!-- //@ } -->
+    <string name="bird_device_name">Device name</string>
+    <string name="sure">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    
+    <!-- keyboard: feature  support mouse controls in Settings.BEG-->
+	<string name="select_all">Select all</string>
+    <string name="mouse_control_applications">Mouse Control</string>
+    <string name="mouse_control_exit">Are you sure to sava all the data?</string>
+    <string name="mouse_control_title">Please select the apps to enable mouse control.</string>
+    <string name="cancle_select_all">"Cancel select all"</string>
+    <!-- keyboard: feature support mouse controls in Settings.END-->
+	
+	<string name="allow_user_installing">Allow Installation</string>
+	<string name="allow_user_installing_summary">Allows users to install application APP</string>
+	
+	<string name="long_press_to_switch_lable">long press <xliff:g id="menu">%s</xliff:g>to switch</string>
+
+    <!--@ {bird:add by fanglongxiang 20180912-->
+    <string name="key_light_close_time_title">Turn off the keyboard light</string>
+    <string name="key_light_close_time_summary">7:00-17:00</string>
+
+    <string name="key_light_fg_title">Turn off the keyboard light</string>
+    <string name="key_light_close_start_time">Starting time</string>
+    <string name="key_light_close_end_time">End time</string>
+    <!--@ }-->
+
+    <string name="voice_assistant_title">Voice assistant </string>
+    <string name="long_press_to_unmount_sd_lable">long press to unmount or mount sdcard</string>
+    <string name="ttstospeech_play_note">Please turn off background music before listening</string>
+    <!--bug40813 add by wucheng 20170527 begin-->
+    <string name="ali_phone_identify_1">Model number</string>
+    <string name ="uoogou">X1</string>
+    <string name ="uoogout6">mini 1</string>
+    <string name ="uoogout9">小朵S1</string>
+    <!--bug40813 add by wucheng 20170527 end-->
+
+    <!-- add by BIRD@hujingcheng 20190830 custom boot logo and animation by secret code -->
+    <string name ="boot_logo">Boot Logo</string>
+    <string name ="boot_switch">Logo and Animation Settings</string>
+    <string name ="boot_animation">Boot Animation</string>
+    <string name ="boot_animation_summary">animation </string>
+    <string name ="boot_logo_summary">logo </string>
+    <string name ="saving">saving ... </string>
+    <string name ="save_success">save success</string>
+    <string name ="save_fail"> save failed</string>
+    <!-- add by BIRD@hujingcheng 20190830 custom boot logo and animation by secret code end -->
+</resources>

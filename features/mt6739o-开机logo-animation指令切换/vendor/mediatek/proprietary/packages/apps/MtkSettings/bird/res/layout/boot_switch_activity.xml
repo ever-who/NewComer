@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+ android:title="@string/boot_switch">
+
+    <ListPreference
+        android:entries="@array/logo_name"
+        android:entryValues="@array/logo_value"
+        android:key="boot_logo"
+        android:summary="@string/boot_logo"
+        android:title="@string/boot_logo" />
+
+    <ListPreference
+        android:entries="@array/animation_name"
+        android:entryValues="@array/animation_value"
+        android:key="boot_animation"
+        android:summary="@string/boot_animation"
+        android:title="@string/boot_animation" />
+
+    <Preference
+        android:key="saver"
+        android:title="@string/menu_save" />
+
+
+</PreferenceScreen>
