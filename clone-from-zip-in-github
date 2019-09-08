@@ -1,0 +1,23 @@
+从github clone速度过慢的问题
+
+思路：从下载的zip文件去关联remote仓库
+
+1.从github下载zip文件 ，ex: test.zip
+
+2.clone bare 仓库
+mkdir test;
+git clone --bare [url.git] test;
+
+3.创建.git
+mkdir .git;
+mv test/* .git;
+mv .git test;
+
+4.解压
+unzip test.zip;
+rm -f test.zip;
+
+5.初始化git
+git init;
+git pull;
+git reset --hard HEAD;
