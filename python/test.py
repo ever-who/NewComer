@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 import sys
 print('================Python import mode==========================');
 print ('命令行参数为:')
