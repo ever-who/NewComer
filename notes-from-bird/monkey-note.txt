@@ -1,8 +1,136 @@
-物料测试monkey分析的一般流程
+物料monkey测试log分析的一般流程
 
 更换内存物料之后，我们一般会跑一个monkey作为压力测试确认其稳定性。
-monkey测试是对物料情况的一个初步检验，通过不一定代表这个物料一定没有问题。
-就我遇到的情况而言，monkey测试中碰到可以直接判定物料问题的情形相当少，一般来说
+monkey测试是对物料情况的一个初步检验，通过测试不代表这个物料一定没有问题。
+就目前已知的情况而言，monkey测试中碰到可以直接判定物料有问题的情形相当少,更多的是怀疑物料有问题。
+一般而言，碰到monkey测试不通过的情况，以软件原因居多。如果是软件原因，我们应该尽量修改软件或是测试方法让其不受此问题因素影响，使其完成monkey测试。
+
+一. monkey测试基本信息整理说明：
+这些信息一般可以通过 monkey.log获取
+1. 测试是否完成预定测试次数
+   若未完成，需要说明未完成原因。
+如完成，则有如下显示： 
+:Monkey: seed=1572287771100 count=1000000                 ----- 预定测试次数 1000000
+.....
+  Events injected: 1000000                                                    --------  event -1000000 个都跑完了     
+// Monkey finished
+   
+2. 测试时间
+测试时间一般可以通过以下log得知：
+    //[calendar_time:2019-01-01 07:46:29.684  system_uptime:2905245]
+        
+   注意：时间可能受monkey点击时钟，联网等因素影响而显示成不连续的状态；时间戳(单位：ms)是一般是稳定的，不受这些因素影响
+
+3. 测试次数
+一般到monkey.log 文件末尾查看以下log即可
+    //[calendar_time:2019-10-25 20:59:06.491  system_uptime:143268413]
+    // Sending event #1794100                                                                       --------  测试次数
 
 
-1.
+二. monkey中物料相关的报错分析
+一般来说，拿到问题log之后，我们可以使用E-Consulter这个软件过滤一下，找到需要确认问题的点。(这个软件不能帮我们找到所有问题，但有助于加快问题搜索)
+1. 先说一下目前碰到过可以怀疑是物料问题的几种现象： 
+a.  log中大段打出乱码
+
+
+
+不是所有的乱码都需要怀疑物料，例如以下几种情况：
+1. 异常断电，这时log末尾出现乱码是正常现象
+2. socket或其他加密包的log 中有乱码是正常现象
+
+b. 大量应用短时间内无规律报错
+应用的报错一般是有规律的，在monkey测试中可能重复出现多次相同的报错，这个是正常现象。
+而如果出现大量应用短时间内报出一些之前没有出现的错误，且无关联性无规律性，这时我们应怀疑物料是否有问题。
+
+c. 下面贴的这个log不是 monkey 测试中出现的内存问题，是物料不兼容导致概率性不开机的问题
+之所以贴这个, 是因为一般物料报错问题，更可能出现在刷机或是开机阶段，monkey更多测试的是其性能和稳定性，是一种侧面的反馈。
+以上两个描述的情况都是怀疑的情形，没有判定 。 但是我们也需要了解，真实的内存报错是什么样。monkey测试中我目前没有发现这种情况。
+kernel_log / 串口log：
+[    4.129851] c0 mmc0: switch to high-speed failed, err:-84
+[    4.129862] c0 mmc0: error -84 whilst initialising MMC card
+[    4.129872] c0 mmc0: clock 0Hz busmode 2 powermode 0 cs 0 Vdd 0 width 1 timing 0
+
+2. 软件或外部原因导致monkey停止
+a. 断电
+电池没电导致monkey停止是测试中最常见的停止原因。
+可以查看 kernel_log:
+<12>[50322.506356]  (3)[210:healthd]healthd: battery l=0 v=3175 t=47.0 h=2 st=2 chg=u
+<12>[50322.506400]  (3)[210:healthd]healthd: battery l=0 v=3175 t=47.0 h=2 st=2 chg=u
+
+另外，可以查看 agenewlog中 ScreenShot 中 截图印证。
+
+出现此问题： 请测试人员提前充好电，如测试前电量充足电池状态良好，仍出现此问题，可直接接电源测试 ；或分析具体耗电行为在哪个apk，屏蔽掉再测。
+
+b. 温度过高重启
+温度过高117.200 导致重启
+kernel_log: 
+[ 1926.325867]  (0)[189:krtatm][Thermal/TZ/CPU]krtatm_thread c 117200 p 116700 cl 1000 gl 240 s 1
+
+出现此问题：请安排硬件看下散热是否良好，或把发热量大的应用屏蔽，或修改软件温升
+
+c. monkey启动关机流程
+monkey.log:
+    // Allowing start of Intent { act=com.android.internal.intent.action.REQUEST_SHUTDOWN cmp=android/com.android.internal.app.ShutdownActivity } in package android 
+    //[calendar_time:2019-01-01 23:36:25.452  system_uptime:40971637]
+
+出现此问题：请在monkey测试指令加上 -p 按包名跑测
+
+d. tee问题导致重启
+此问题主要出现在  p 平台上豆荚tee - 带指纹或人脸的项目 - 在tee未激活的情况下，出现teei_switch_thr线程持续工作，CPU持续工作的问题
+kernel_log :
+有大量 teei_switch 相关log
+属性：
+[vendor.soter.teei.thh.init]	--- tee激活状态 不是ACTIVE 或者 没有这个属性
+
+出现此问题：请激活tee后测试
+
+e. 个别 apk 导致系统崩溃
+如 80Ｏ平台，monkey测试时，音乐会大量报错 ;
+我们可以把这个问题apk加入 monkey测试的黑名单，方法如下：
+
+编辑黑名单blacklist.txt加入下面一行：
+com.android.music
+然后push手机里
+adb push blacklist.txt /data/local/tmp/blacklist.txt
+跑monkey时 追加如下参数：
+--pkg-blacklist-file /data/local/tmp/blacklist.txt
+
+如果这个问题apk，必然会用到，则需要修改软件。
+(如：9820e平台带讯飞输入法时，monkey必然崩溃，这时需要更换软件输入法来测试)
+
+f. watchdog 重启
+04ECE5 01-02 13:02:55.657  1813  2072 W Watchdog: *** WATCHDOG KILLING SYSTEM PROCESS: Blocked in handler on PackageManager (PackageManager)
+04ECE6 01-02 13:02:55.657  1813  2072 W Watchdog: PackageManager stack trace:
+04ECE7 01-02 13:02:55.658  1813  2072 W Watchdog:     at android.os.BinderProxy.transactNative(Native Method)
+04ECE8 01-02 13:02:55.658  1813  2072 W Watchdog:     at android.os.BinderProxy.transact(Binder.java:790)
+
+出现此问题：结合aee_db 文件，具体问题具体分析。
+
+g. kernel 重启
+kernel_log / last_kmsg :
+[29125.251579] -(2)[95:hps_main]---[ end trace f42e54c6cd9c9843 ]---
+[29125.809523] -(2)[95:hps_main]Kernel panic - not syncing: Fatal exception
+[29128.972461] -(2)[95:hps_main]SMP: failed to stop secondary CPUs
+
+出现此问题：请安排驱动一起处理，定位报错位置
+
+
+三. 其他问题和注意事项
+1.  360平台测试
+360平台测试monkey 前需要设置 persist.qiku.adb.input 为1 ；否则 monkey插入的所有 event都会 injection fail ，这种测试是无效的。
+具体可咨询测试部
+
+2. apk权限问题导致测试无效
+monkey.log 中大段报以下log时，测试前未授予apk必要权限，测试无效
+    // Rejecting start of Intent { act=android.content.pm.action.REQUEST_PERMISSIONS pkg=com.google.android.packageinstaller cmp=com.google.android.packageinstaller/com.android.packageinstaller.permission.ui.GrantPermissionsActivity } in package com.google.android.packageinstaller
+
+3. log缺失的问题
+a. 查看 agenewlog中 df.txt , 看下空间是否不足
+b. 请测试人员确认log开启步骤是否有问题，是否对log大小有限制
+
+4. monkey后手动测试问题分析
+a. 请测试人员确认手动测试的问题 在monkey跑测前是否存在
+b. 功能性缺失(没有声音，打不了电话等)，请测试人员确认硬件是否ok , 参数是否ok
+c. 请确认内存及其他硬件情况(如内存只有512m, 那测试一些重型第三方apk出现anr是正常现象)
+
+
