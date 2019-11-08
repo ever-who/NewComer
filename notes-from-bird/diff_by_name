@@ -1,0 +1,13 @@
+#!/bin/bash
+
+git log --pretty=format:"%H,%ce,%s" | grep hujingcheng | while read line 
+do
+	#git show $line
+	#echo $line
+	array=(${line//,/ }) 
+	commit_id=${array[0]}
+	commit_title=${array[2]}
+	#echo commit_id = $commit_id  commit_title = $commit_title
+	
+done
+echo "end..."

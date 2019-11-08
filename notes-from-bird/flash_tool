@@ -1,0 +1,3 @@
+#!/bin/bash
+FLASH_TOOL_PATH=/home/hjc/tools/tools/SP_Flash_Tool_v5.1848/SP_Flash_Tool_exe_Linux_v5.1848.01.101/SP_Flash_Tool_exe_Linux_v5.1848.01.101
+sudo $FLASH_TOOL_PATH/flash_tool.sh

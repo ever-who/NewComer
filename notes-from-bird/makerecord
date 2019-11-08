@@ -1,0 +1,19 @@
+#!/bin/bash
+DATA_FILE=$1
+TARGET_FILE=$2
+CURRENT_DATE=`date +%Y%m%d`
+if [ ! -f "$DATA_FILE" ]
+then
+	echo "file DATA_FILE=$DATA_FILE ,there is no source data, exit"
+	exit 0
+fi
+echo today = $CURRENT_DATE
+cat $DATA_FILE | while read line
+do
+	echo ================= commit $line ===================
+	echo -e "胡竟成	hujingcheng@agenewtech.com		$CURRENT_DATE\n功能描述:\n开宏:\n上传记录:" >> $TARGET_FILE
+	repo forall -p -c "git ll | grep '$line'" >> $TARGET_FILE
+	echo --------------------------------------------------------------------------------------------------------- >> $TARGET_FILE
+done
+echo
+echo "mission accomplished"
