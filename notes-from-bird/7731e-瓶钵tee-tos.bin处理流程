@@ -1,0 +1,11 @@
+把该项目的tos.bin 拿出来，用vendor/sprd/proprietories-source/trustkernel/source/tools/下的mktosimg 工具把我们的ta给打到镜像中 
+
+我们ta是vendor/sprd/proprietories-source/trustkernel/source/tools/trusty-sprd-ta-rpmbmac.elf 
+
+执行命令  ./mktosimg  --tos tos.bin --ta trusty-sprd-ta-rpmbmac.elf  --o tos.tk.
+
+然后执行strings tos.tk.bin | grep trustkernel 
+
+如果有结果，就说明成功了，然后重命名为tos.bin之后放到压缩包中，压缩，放到原来的位置就好了 
+
+执行strings tos.tk.bin | grep trustkernel 正确的结果是   com.trustkernel.storage.rpmbmac

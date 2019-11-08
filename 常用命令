@@ -10,7 +10,7 @@
 
 git clone命令：git clone $75别名:shenzhen_mirror/MOCOR5_SFPHONE_17F_RLS1_W18.19.6_P2.git
 
-adb命令获取当前活动:adb shell dumpsys activity | grep "mFocusedActivity"
+adb命令获取当前活动:adb shell dumpsys activity | grep "mResumedActivity"
 
 adb命令获取安装的全部包名:adb shell pm list packages
 
@@ -25,6 +25,7 @@ adb命令获取安装的全部包名:adb shell pm list packages
 MTK
 *#685564#*	--MTK_log
 *#*#3646633#*#*
+*#*#36951#*#*   -- mmitest
 
 adb shell am start com.sprd.validationtools/com.sprd.validationtools.ValidationToolsMainActivity
 
@@ -41,7 +42,6 @@ git查看某commit : git show commit-id
 跳过google开机向导：adb shell am start -a com.android.setupwizard.FOUR_CORNER_EXIT
 
 挂载：sshfs zss@192.168.1.203:/home/zss/work/workblink/5_MTK/6_BIRD_P0MP1_K39TV1_BSP/project/2_7130TF_N5501L_AM2_MV168_user_1108 $本地想要挂载到的文件夹路径
-TARGET_BOARD_FRONT_CAMERA_FLASH_LED_0 := true
 
 39p：repo init -u 176别名:bird_p0mp1_k39tv1_bsp/manifests.git -b master
 
@@ -53,4 +53,45 @@ TARGET_BOARD_FRONT_CAMERA_FLASH_LED_0 := true
 
 挂载：sudo mount.cifs -o username="builder",passwd="qwert" //192.168.1.66/builder/
 
-7130D_S8020K_E_DS842
+设置mtkcam-loglevel-v  adb shell setprop vendor.debug.mtkcam.loglevel 4
+
+屏幕录制：adb shell screenrecord --bugreport $PATH
+
+可翻墙fingerprint
+BIRD_PRODUCT_NAME=i240
+BIRD_PRODUCT_BRAND=E-tel
+BIRD_PRODUCT_DEVICE=i240
+
+查看可以dumpsys的service:  adb shell dumpsys | grep "DUMP OF SERVICE"
+
+将git diff的文件制成差分 git diff --name-only HEAD~ HEAD | xargs zip update.zip
+
+monkey添加黑名单：
+adb shell "monkey   --throttle 200 --ignore-crashes --ignore-timeouts --ignore-security-exceptions --pkg-blacklist-file /data/local/tmp/blacklist.txt --kill-process-after-error -v 1000000000> /sdcard/monkey.log"
+
+adb sync的使用：
+export ANDROID_PRODUCT_OUT=./out/target/product/bird6739tv1_bsp_512/
+
+查看 ssh密钥，smb保存的密码：seahorse
+
+解压时排除某个目录: unzip MtkSettings.zip -x MtkSettings/.git/*
+
+dump 某个package: adb shell dumpsys package com.google.android.packageinstaller
+
+android-9.0 mtk平台单编某个image之后签名： ./vendor/mediatek/proprietary/scripts/sign-image/sign_image.sh（所有image重签） 
+
+mtk查看当前gpu频率：
+adb shell "while(true) ; do head -n 1 /proc/gpufreq/gpufreq_var_dump;sleep 0.4 ;done"
+mtk查看当前cpu频率:
+adb shell "while(true) ; do cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_cur_freq ;sleep 0.2; done"
+
+user打开串口log
+Step 1：vendor\mediatek\proprietary\bootable\bootloader\lk\app\mt_boot\mt_boot.c
+printk.disable_uart=1 改成 =0
+Step 2：kernel-3.18\kernel\printk\printk.c
+printk_disable_uart = 1; 改成 =0
+Step 3：编译lk和bootimage，重新下载lk和bootimage
+
+MTK_ENCRYPTION_TYPE_FILE = yes  ----- [ro.crypto.type]: [file]    ---  fbe 文件加密 file base encryption
+MTK_ENCRYPTION_TYPE_FILE = no  ----- [ro.crypto.type]: [block]  ---  fde 磁盘加密 full disk encryption
+
