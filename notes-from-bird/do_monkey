@@ -1,0 +1,5 @@
+#!/bin/bash
+PACK_NAME=$1
+CURRENT_TIME=`date +%Y%m%d%H%M`
+adb devices
+adb shell "monkey -p $PACK_NAME --throttle 200 -v 2000000 > sdcard/monkey_$CURRENT_TIME.log"
