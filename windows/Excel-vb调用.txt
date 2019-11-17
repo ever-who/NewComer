@@ -1,0 +1,11 @@
+1. Alt + F11 进入vba
+2. 插入 -- 模块
+3. 写入代码
+例 ： 获取所有sheet的名字
+
+Sub m()
+For Each sh In Sheets
+k = k + 1
+Cells(k, 1) = sh.Name
+Next
+End Sub
