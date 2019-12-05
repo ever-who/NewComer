@@ -1,5 +1,3 @@
-package com.everwho.works.test;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -79,7 +77,7 @@ public class TranslationFilter {
 		
 	}
 
-	private static final String ROOT_PATH = "/home/hjc/code/aosp/";
+	private static final String ROOT_PATH = "/media/ubuntu/disk/code/P_ZAL1670-hmd/";
 	
 	private static final String LOCALE_FILE_PATH="G:\\test.csv";
 	
@@ -96,19 +94,20 @@ public class TranslationFilter {
 		
 		boolean linuxOS = getIfLinuxOs();
 		System.out.println("linuxOS :" + linuxOS);
-		List<String> localeList = readTargetLocales(LOCALE_FILE_PATH);
+		/*List<String> localeList = readTargetLocales(LOCALE_FILE_PATH);
 		if(localeList==null) {
 			System.out.println("localeList==null exit");
 			return;
-		}
-		System.out.println(localeList);//locale list
+		}*/
+		//System.out.println(localeList);//locale list
 		List<Translation> sourceList= readSourceMaps(SOURCE_FILE_PATH);
 		if(sourceList==null) {
 			System.out.println("sourceList==null exit");
 			return;
 		}
-		for(int i=0;i<localeList.size();i++) {
-			String locale=localeList.get(i);
+		System.out.println(sourceList);
+		/*for(int i=0;i<localeList.size();i++) {
+			String locale="af";
 			System.out.println("locale = "+locale);
 			for(int j=0;j<sourceList.size();j++) {
 				Translation t=sourceList.get(j);
@@ -119,7 +118,7 @@ public class TranslationFilter {
 				System.out.println(cmdLog);
 				getTargetWords(cmdLog);
 			}
-		}
+		}*/
 		
 		
 //		String cmdLog=execCmd("grep -rn all_apps_loading_message /home/hjc/code/aosp/packages/apps/Launcher3/res/values-gl",linuxOS);
@@ -167,7 +166,7 @@ public class TranslationFilter {
 				list = new ArrayList<Translation>();
 				String line="";
 				while((line=br.readLine())!=null) {
-					String[] str=line.split(",");
+					String[] str=line.split(" ");
 					if(str==null || str.length!=2) {
 						System.out.println("SourceMap not formatted");
 						return null;
@@ -215,7 +214,15 @@ public class TranslationFilter {
 		case "Launcher":
 			return "packages/apps/Launcher3";
 		case "MtkSettings":
-			return "";
+			return "vendor/mediatek/proprietary/packages/apps/MtkSettings";
+		case "SettingsIntelligence":
+			return "packages/apps/SettingsIntelligence";
+		case "Telephony":
+			return "packages/services/Telephony";
+		case "Launcher3":
+			return "vendor/mediatek/proprietary/packages/apps/Launcher3";
+		case "Telephony":
+			return "packages/services/Telephony";
 		default:
 			return null;
 		}
