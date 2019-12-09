@@ -18,6 +18,9 @@ def taobao_coin_repeat(num,order):
 		elif order ==1:
 			print(str(i+1)+" hall start")
 			os.system('adb shell input tap 891 1456')# hall
+		elif order ==2:
+			print(str(i+1)+" hall--second start")
+			os.system('adb shell input tap 897 1666')# hall-2
 		time.sleep(random.randint(6,9))
 		count=0
 		for j in range(1,random.randint(3,4)):
@@ -58,7 +61,7 @@ if __name__ == '__main__':
 	devices = get_devices_serials()
 	print(devices)
 	taobao_coin_repeat(shop_num,0)
-	taobao_coin_repeat(hall_num,1)
+	taobao_coin_repeat(hall_num,2)
 
 ###################################################
 # End of File
