@@ -16,11 +16,11 @@ def paper_money(num):
 		if i%2==0 :
 			for j in range(0,20):
 				time.sleep(random.randint(1,2))
-				os.system('adb shell input roll 0 3')
+				os.system('adb shell input swipe 20 700 20 600')
 		else :
 			for j in range(0,20):
 				time.sleep(random.randint(1,2))
-				os.system('adb shell input roll 0 -3')
+				os.system('adb shell input swipe 20 700 20 800')
 		time.sleep(random.randint(2,4))
 		os.system('adb shell input tap 550 1515')
 		
