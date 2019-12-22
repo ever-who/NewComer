@@ -78,6 +78,10 @@ export ANDROID_PRODUCT_OUT=./out/target/product/bird6739tv1_bsp_512/
 
 dump 某个package: adb shell dumpsys package com.google.android.packageinstaller
 
+获取某手机的屏幕size: adb shell wm size
+
+通过wifi连接调试adb:  1. usb连手机 adb tcpip 5555;   2.断开usb,pc和手机在同一wifi局域网,查看手机ip;  3.adb connect $ip 
+
 android-9.0 mtk平台单编某个image之后签名： ./vendor/mediatek/proprietary/scripts/sign-image/sign_image.sh（所有image重签） 
 
 mtk查看当前gpu频率：
@@ -85,13 +89,14 @@ adb shell "while(true) ; do head -n 1 /proc/gpufreq/gpufreq_var_dump;sleep 0.4 ;
 mtk查看当前cpu频率:
 adb shell "while(true) ; do cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_cur_freq ;sleep 0.2; done"
 
-user打开串口log
+mtk user打开串口log
 Step 1：vendor\mediatek\proprietary\bootable\bootloader\lk\app\mt_boot\mt_boot.c
 printk.disable_uart=1 改成 =0
 Step 2：kernel-3.18\kernel\printk\printk.c
 printk_disable_uart = 1; 改成 =0
 Step 3：编译lk和bootimage，重新下载lk和bootimage
 
+mtk加密方式：
 MTK_ENCRYPTION_TYPE_FILE = yes  ----- [ro.crypto.type]: [file]    ---  fbe 文件加密 file base encryption
 MTK_ENCRYPTION_TYPE_FILE = no  ----- [ro.crypto.type]: [block]  ---  fde 磁盘加密 full disk encryption
 
