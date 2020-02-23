@@ -1,0 +1,43 @@
+1. 在android studio 创建Android Studio 包含一个名为 Vector Asset Studio 的工具，可帮助您添加素材图标并将可缩放矢量图形 (SVG) 和 Adobe Photoshop Document (PSD) 文件作为矢量可绘制资源导入您的项目。使用矢量可绘制对象代替位图可以减小 APK 的大小，因为可以针对不同的屏幕密度调整同一文件的大小，而不会降低图片质量。对于不支持矢量可绘制对象的较低版本的 Android 系统，Vector Asset Studio 可以在编译时针对每种屏幕密度将矢量可绘制对象转换为不同大小的位图。
+
+2. Android 4.4（API 级别 20）及更低版本不支持矢量可绘制对象。
+   使用方法同一般图片，可以R.drawable.xxx调用
+
+3. 要启动 Vector Asset Studio，请执行以下操作：
+在 Android Studio 中，打开一个 Android 应用项目。
+在“Project”窗口中，选择 Android/Project 视图。
+右键点击 res 文件夹，然后依次选择 New > Vector Asset。
+可以使用一些自带的矢量图，也可以从svg或psd导入。
+
+4. 矢量图示例
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp" 			------ 实际宽度
+        android:height="24dp"			------ 实际宽度
+        android:viewportWidth="24.0"	------ 画布宽度(画布大小与下面path所使用的坐标位置相关)
+        android:viewportHeight="24.0">	------ 画布高度
+    <path
+        android:fillColor="#FF000000"	------ 填充色
+        android:pathData="M4,16c0,0.88 0.39,1.67 1,2.22L5,20c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-1h8v1c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-1.78c0.61,-0.55 1,-1.34 1,-2.22L20,6c0,-3.5 -3.58,-4 -8,-4s-8,0.5 -8,4v10zM7.5,17c-0.83,0 -1.5,-0.67 -1.5,-1.5S6.67,14 7.5,14s1.5,0.67 1.5,1.5S8.33,17 7.5,17zM16.5,17c-0.83,0 -1.5,-0.67 -1.5,-1.5s0.67,-1.5 1.5,-1.5 1.5,0.67 1.5,1.5 -0.67,1.5 -1.5,1.5zM18,11L6,11L6,6h12v5z"/>
+</vector>
+
+pathData的值即是具体矢量图的内容信息。
+
+5. 矢量图调试方法
+可以把以上 pathData的值，放入svg文件中调试
+a. 创建文件 car.svg
+b. 编辑car.svg，<path>标签的内容，替换为以上 pathData的值
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="100" height="100" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<path d="M4,16c0,0.88 0.39,1.67 1,2.22L5,20c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-1h8v1c0,0.55 0.45,1 1,1h1c0.55,0 1,-0.45 1,-1v-1.78c0.61,-0.55 1,-1.34 1,-2.22L20,6c0,-3.5 -3.58,-4 -8,-4s-8,0.5 -8,4v10zM7.5,17c-0.83,0 -1.5,-0.67 -1.5,-1.5S6.67,14 7.5,14s1.5,0.67 1.5,1.5S8.33,17 7.5,17zM16.5,17c-0.83,0 -1.5,-0.67 -1.5,-1.5s0.67,-1.5 1.5,-1.5 1.5,0.67 1.5,1.5 -0.67,1.5 -1.5,1.5zM18,11L6,11L6,6h12v5z"/>
+</svg>
+
+c.使用浏览器打开，查看图形
+
+6. 从图片格式转化为svg
+使用一些在线svg网站，转化，或调试
+https://c.runoob.com/more/svgeditor/
