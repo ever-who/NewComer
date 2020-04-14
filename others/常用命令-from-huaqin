@@ -1,0 +1,45 @@
+git上传gerrit
+git push origin HEAD:refs/for/hmd_mt6761_q_za1670_dev_v3_201910191800
+
+反编译apk
+1. apktool反编译res,androidmanifest.xml ------ java -jar apktool_2.4.0.jar d -f $apk路径 -o $输出文件夹路径
+2. dex2jar反编译class.dex  ----- 重命名apk为 xxx.zip,解压出classes.dex; ./d2j-dex2jar.sh classes.dex  ; 生成 classes-dex2jar.jar
+3. jd-gui 双击classes-dex2jar.jar
+
+split-apk安装:
+前提条件：把base.apk,split.apk..等push到手机/data/local/tmp/下
+1. adb shell pm install-create
+Success：created install session [1237281889]
+2. adb shell pm install-write  1237281889 base.apk /data/local/tmp/FeatureSplitBase.apk
+3. adb shell pm install-write  1237281889 base1.apk /data/local/tmp/FeatureSplit1.apk
+4. adb shell pm install-write  1237281889 base2.apk /data/local/tmp/FeatureSplit2.apk
+5. adb shell pm install-commit 1237281889
+
+systrace命令
+
+查看md5: md5sum $path
+
+查看apk版本信息等：aapt dump badging $apk_path
+
+在res文件下替换有字符串style_suggestion_title的行中Pixel为Nokia2.2 ： sed -i '/style_suggestion_title/ {s/Pixel/Nokia2.2/g;}' `grep -rl style_suggestion_title res`
+
+opengrok tomcat关闭和启动 ： tomcat8/bin/  startup.sh ; shutdown.sh
+
+单编 frameworks.jar : 
+1. make framework ;
+2. push $out/system/framework/framework.jar ;
+3. push $out/system/framework/arm ;
+4. push $out/system/framework/arm64 ;
+
+修改 selinux 权限之后单编：
+1. mmma system/sepolicy ;
+2. push $out/system/etc/sepolicy ;
+3. push $out/vendor/etc/sepolicy ;
+
+mmm frameworks/base 单编后remake: 
+删除：
+1. /system/priv-app # rm -rf PackageInstaller
+2. /system/priv-app # rm -rf StatsdDogfood
+3. /system/priv-app # rm -rf UsbHostExternalManagementTestApp/
+4. /system/priv-app # rm -rf StatsdLoadtest/
+5. /system/priv-app # rm -rf SoundTriggerTestApp/

@@ -1,0 +1,32 @@
+#!/bin/bash
+APKTOOL_PATH=/home/ubuntu/tool/apk-decompile/apktool_2.4.0.jar
+DEX2JAR_PATH=/home/ubuntu/tool/apk-decompile/dex2jar-2.0/d2j-dex2jar.sh
+CURRENT_TIME=`date +%Y%m%d%H%M`
+TARGET_ROOT_DIR=/home/ubuntu/tool/apk-decompile
+TARGET_APK_PATH=$1
+TARGET_APK_NAME=`echo ${TARGET_APK_PATH##*/}`
+var=`echo ${TARGET_APK_PATH##*/} | sed 's/.apk//g'`_"$CURRENT_TIME"
+
+echo -e "\033[32m $var \033[0m"
+
+# decompile by APKTOOL start
+echo "------ $1 decompile resource by $APKTOOL_PATH to dir $TARGET_ROOT_DIR/$var"
+java -jar $APKTOOL_PATH d -f $TARGET_APK_PATH -o $TARGET_ROOT_DIR/$var
+echo
+echo -e "\033[32m decompile resource end ------ !! \033[0m"
+echo
+# decompile by APKTOOL end
+
+# decompile by apk DEX2JAR start
+#cp -rf $TARGET_APK_PATH $TARGET_ROOT_DIR/$var/$TARGET_APK_NAME
+echo -e "\033[32m --- dex2jar decompile start  \033[0m"
+unzip $TARGET_APK_PATH "classes.dex" -d $TARGET_ROOT_DIR/$var
+$DEX2JAR_PATH $TARGET_ROOT_DIR/$var/classes.dex
+mv -f ./classes-dex2jar.jar $TARGET_ROOT_DIR/$var
+mv -f ./classes-error.zip $TARGET_ROOT_DIR/$var
+echo -e "\033[32m --- dex2jar decompile end  \033[0m"
+# decompile by apk DEX2JAR end
+
+echo
+echo " decompile finished !! "
+
