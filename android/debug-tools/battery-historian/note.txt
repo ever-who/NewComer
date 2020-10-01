@@ -1,0 +1,44 @@
+battery-historian v2.0 环境搭建 --- 2020/10/01
+
+虚拟机环境：ubuntu 16.04 / Vmware Workstation 15
+
+1.docker安装 
+使用aliyun 下载安装 (官方推荐的安装方式因不可描述原因无法实现)
+curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+
+2.docker镜像下载
+github上文档上写的镜像无法下载，使用其他的源
+(docker search battery)
+docker run –p 9999:9999 bhaavan/battery-historian
+
+3.虚拟机网络环境配置
+桥接模式--复制网络状态
+
+4.打开battery historian 界面
+浏览器中打开 http://localhost:9999 ,翻墙后就可以使用了
+
+--------------------------------------------------------------------
+附:docker调试命令
+1.docker命令行(交互式)
+进入docker命令行
+docker run -it bhaavan/battery-historian /bin/bash
+退出docker命令行
+exit
+
+2.查看docker容器
+docker ps -a
+
+3.开始/停止docker使用
+docker start e95f6e9ea089 (容器id--可由docker ps -a查看)
+docker stop e95f6e9ea089 (容器id--可由docker ps -a查看)
+
+4.退出后重新进入docker交互模式
+docker exec -it 679493de5ae8 /bin/bash
+
+5.搜索镜像
+docker search battery
+-------------------------------------------------------------------
+附:安装网络工具
+ping : apt-get install inetutils-ping 
+ifconfig ：apt-get install net-tools
+
