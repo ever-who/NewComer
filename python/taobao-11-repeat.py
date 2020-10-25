@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import sys, os, time, random
 
 
@@ -14,7 +15,8 @@ def taobao_coin_repeat(num,order):
 		time.sleep(random.randint(2,4))
 		if order == 0:
 			print(str(i+1)+" shop start")
-			os.system('adb shell input tap 906 2018')# shop
+			#os.system('adb shell input tap 906 2018')# shop 2019
+			os.system('adb shell input tap 906 1100')# shop 2020
 		elif order ==1:
 			print(str(i+1)+" hall start")
 			os.system('adb shell input tap 891 1456')# hall
@@ -57,11 +59,11 @@ def get_devices_serials():
 ###################################################
 if __name__ == '__main__':
 	shop_num=int(sys.argv[1])
-	hall_num= int(sys.argv[2])
+	#hall_num= int(sys.argv[2])
 	devices = get_devices_serials()
 	print(devices)
 	taobao_coin_repeat(shop_num,0)
-	taobao_coin_repeat(hall_num,2)
+	#taobao_coin_repeat(hall_num,2)
 
 ###################################################
 # End of File
