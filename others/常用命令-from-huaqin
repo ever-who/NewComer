@@ -1,3 +1,54 @@
+linux用户限制查看
+quota -suv 用户名
+
+adb reboot -p 关机
+
+联想
+####6020# 国家码
+
+停用miui圆角feature (RoundCorner layer)
+adb shell setprop sys.miui.show_round_corner false ;adb shell ps -A | grep systemui ;adb shell kill xxx
+
+du -h --max-depth=1 统计下一层目录的大小
+du -sh $dir 统计dir目录的大小
+
+获取kernel宏的配置
+存在位置 /proc/config.gz
+
+mtk循环打印gpu/cpu频率
+adb shell "while(true) ;date +%Y-%m-%d_%H:%M:%S;do cat /sys/devices/system/cpu/cpu*/cpufreq/scaling_cur_freq ;head -n 1 /proc/gpufreq/gpufreq_var_dump;echo;sleep 1 ;done"
+
+Q版本之后单刷system/vendor... image
+1.打开oem unlock
+2.adb reboot fastboot 进入fastbootd模式
+3.fastboot flash $partition_name $partition_path
+
+ag查找命令
+ag -s $string $path 区分大小写
+ag $string $path 不区分大小写
+
+beyond compare到期
+rm -f ~/.config/bcompare/registry.dat
+
+压缩virtualbox虚拟机占用虚拟存储大小(虚拟机windows,外部linux)
+在虚拟机内 .\sdelete64.exe -z D:\
+在虚拟机外 VBoxManage modifyhd diskD.vdi --compact
+
+查看oom adj/procstate相关
+adb shell dumpsys activity oom
+
+Q版本修改/apex下目录：
+替换apex下文件，需要替换/system/apex/下的相应文件;
+先修改/system/apex/相应文件，重启后将在/apex中挂载
+
+
+axel多线程下载
+axel -n 10 -o ~/tools/ "http://dyiyang.jb51.net:81/201510/tools/UltraEdit-64(jb51.net).rar"
+axel -n $Thread_Num -o $OUTPUT $URL
+
+addr2line解析ne/ke堆栈
+./aarch64-linux-android-addr2line -Cf -e '/home/ubuntu/bak/log/symbols-lib/libart-compiler.so'  -a 000000000012d2ec 0000000000127ce8 0000000000276ea4
+
 git上传gerrit
 git push origin HEAD:refs/for/hmd_mt6761_q_za1670_dev_v3_201910191800
 
@@ -36,10 +87,14 @@ opengrok tomcat关闭和启动 ： tomcat8/bin/  startup.sh ; shutdown.sh
 2. push $out/system/etc/sepolicy ;
 3. push $out/vendor/etc/sepolicy ;
 
-mmm frameworks/base 单编后remake: 
-删除：
-1. /system/priv-app # rm -rf PackageInstaller
-2. /system/priv-app # rm -rf StatsdDogfood
-3. /system/priv-app # rm -rf UsbHostExternalManagementTestApp/
-4. /system/priv-app # rm -rf StatsdLoadtest/
-5. /system/priv-app # rm -rf SoundTriggerTestApp/
+webmail无法加载图片的原因是chrome浏览器 80.0 以上版本加入了新特性，可按照以下的方式进行调整，
+在浏览器打开如下url
+chrome://flags/#same-site-by-default-cookies​
+找到SameSite by default cookies，将其设置成disable
+即可
+
+1.ps | grep 包名  //查看当前app的进程号
+2.cat /proc/进程号/oom_adj  //查看当前进程的adj值(早期android和linux使用，现已废弃，但仍然有效)
+3.cat /proc/进程号/oom_score_adj    //这个是新版本的查看adj的命令，adj有效值为-1000~1000
+
+
