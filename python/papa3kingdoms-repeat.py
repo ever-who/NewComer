@@ -81,11 +81,15 @@ def papa_3_rich_merchant(num):
 		print(str(i)+" start")
 		time.sleep(random.randint(2,4))
 		os.system('adb shell input tap 1116 874')#征战
-		time.sleep(random.randint(3,5))
+		time.sleep(random.randint(4,5))
 		os.system('adb shell input tap 2045 916')#开战
 		time.sleep(random.randint(35,40))
 		os.system('adb shell input tap 1562 950')#跳过
 		time.sleep(random.randint(5,10))
+		os.system('adb shell input tap 1100 529')#天降鸿福抽奖
+		time.sleep(random.randint(3,5))
+		os.system('adb shell input tap 1100 529')#天降鸿福退出
+		time.sleep(random.randint(2,4))
 		os.system('adb shell input tap 2078 62')#关闭
 		time.sleep(random.randint(2,4))
 
