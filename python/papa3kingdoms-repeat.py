@@ -46,7 +46,7 @@ def papa_3_gold_card(num):
 		
 		
 ###################################################
-# repeat operation 2 武将擂台
+# repeat operation 3 新年擂台
 #      ---  coordination for xiaomi MIX2S
 ###################################################
 def papa_3_new_year(num):
@@ -70,6 +70,25 @@ def papa_3_new_year(num):
 		time.sleep(random.randint(5,8))
 		os.system('adb shell input tap 1100 940')#继续
 		time.sleep(random.randint(5,8))
+
+###################################################
+# repeat operation 4 富商快跑
+#      ---  coordination for xiaomi MIX2S
+###################################################
+def papa_3_rich_merchant(num):
+	os.system('adb devices')
+	for i in range(1,num):
+		print(str(i)+" start")
+		time.sleep(random.randint(2,4))
+		os.system('adb shell input tap 1116 874')#征战
+		time.sleep(random.randint(3,5))
+		os.system('adb shell input tap 2045 916')#开战
+		time.sleep(random.randint(35,40))
+		os.system('adb shell input tap 1562 950')#跳过
+		time.sleep(random.randint(5,10))
+		os.system('adb shell input tap 2078 62')#关闭
+		time.sleep(random.randint(2,4))
+
 # Main Script
 ###################################################
 if __name__ == '__main__':
@@ -80,6 +99,8 @@ if __name__ == '__main__':
 		papa_3_workshop(num)
 	elif sys.argv[1]=="-y":
 		papa_3_new_year(num)
+	elif sys.argv[1]=="-r":
+	    papa_3_rich_merchant(num)
 
 ###################################################
 # End of File
